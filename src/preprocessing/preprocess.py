@@ -54,15 +54,15 @@ def format_body(body_text):
     texts_di = {di['section']: "" for di in body_text}
 
     for section, text in texts:
-        texts_di[section] += text
+        texts_di[section] += (text + "\r\n")
 
     body = ""
 
     for section, text in texts_di.items():
         body += section
-        body += "\n\n"
+        body += "\r\n\r\n"
         body += text
-        body += "\n\n"
+        body += "\r\n\r\n"
 
     return body
 
@@ -119,7 +119,7 @@ def load_files(dirname):
     return raw_files
 
 
-def generate_clean_df(all_files):
+def generate_clean_df(all_files: List[dict], sha_to_properties: dict):
     cleaned_files = []
 
     for file in tqdm(all_files):
@@ -128,6 +128,9 @@ def generate_clean_df(all_files):
         body_text = format_body(file['body_text'])
         features = [
             file['paper_id'],
+            sha_to_properties[file['paper_id']]['cord_uid'],
+            sha_to_properties[file['paper_id']]['source'],
+            sha_to_properties[file['paper_id']]['publish_time'],
             title,
             format_authors(file['metadata']['authors']),
             format_authors(file['metadata']['authors'],
@@ -139,7 +142,7 @@ def generate_clean_df(all_files):
 
         cleaned_files.append(features)
 
-    col_names = ['paper_id', 'title', 'authors',
+    col_names = ['paper_id', 'cord_uid', 'source', 'publish_time', 'title', 'authors',
                  'affiliations', 'abstract', 'text', 'tag']
 
     clean_df = pd.DataFrame(cleaned_files, columns=col_names)
@@ -150,16 +153,34 @@ def generate_clean_df(all_files):
     return clean_df
 
 
-def build_csv(dirs: List[str], output: str):
+def _build_metadata_dict(metadata):
+    metadata_df = pd.read_csv(metadata)
+    metadata_df['sha'] = metadata_df['sha'].astype(str)
+    sha_to_properties = {}
+    for _, row in metadata_df.iterrows():
+        for sha in row['sha'].split('; '):
+            if sha not in sha_to_properties:
+                sha_to_properties[sha] = {'cord_uid': row['cord_uid'],
+                                          'source': row['source_x'],
+                                          'publish_time': row['publish_time']}
+    return sha_to_properties
+
+
+def build_csv(metadata: str, dirs: List[str], output: str):
+    print(f'Building metadata dictionary from file: {metadata} ...')
+    sha_to_properties = _build_metadata_dict(metadata)
+    print(f'Finished building metadata dictionary from file: {metadata}')
+
     all_df = None
     for dir_name in dirs:
         print(f'Loading files from directory: {dir_name} ...')
         dir_files = load_files(dir_name)
         print(f'Finished loading files from directory: {dir_name}')
+        clean_df = generate_clean_df(dir_files, sha_to_properties)
         if all_df is None:
-            all_df = generate_clean_df(dir_files)
+            all_df = clean_df
         else:
-            all_df.append(generate_clean_df(dir_files))
+            all_df = all_df.append(clean_df)
 
     print(f'All files DataFrame shape: {all_df.shape}')
 
@@ -170,10 +191,11 @@ def build_csv(dirs: List[str], output: str):
 
 def main():
     argument_parser = argparse.ArgumentParser()
+    argument_parser.add_argument('-m', '--metadata', type=str, help='Metadata CSV file', required=True)
     argument_parser.add_argument('-d', '--dirs', nargs='+', help='File directories', required=True)
     argument_parser.add_argument('-o', '--output', type=str, help='Output CSV file', required=True)
     args = argument_parser.parse_args()
-    build_csv(args.dirs, args.output)
+    build_csv(args.metadata, args.dirs, args.output)
     print('Done.')
 
 
