@@ -12,6 +12,7 @@ def _save_df(df_articles: pd.DataFrame, output_file: str):
 
 def create_sa_csv(input_file: str, output_file: str, sample: int):
     files_df = pd.read_csv(input_file)
+    files_df.fillna("", inplace=True)
     files_df['title'] = files_df['title'].astype(str)
     files_df['abstract'] = files_df['abstract'].astype(str)
     files_df['text'] = files_df['text'].astype(str)
@@ -23,7 +24,7 @@ def create_sa_csv(input_file: str, output_file: str, sample: int):
                    row['paper_id'],
                    row['source'],
                    row['publish_time'],
-                   row['title'],
+                   row['title'] if row['title'] else row['paper_id'],
                    row['abstract'] + row['text']]
         articles.append(article)
     df_articles = pd.DataFrame(data=articles, columns=CSV_HEADERS)

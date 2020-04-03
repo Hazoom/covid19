@@ -182,6 +182,8 @@ def build_csv(metadata: str, dirs: List[str], output: str):
         else:
             all_df = all_df.append(clean_df)
 
+    all_df.fillna("", inplace=True)
+
     print(f'All files DataFrame shape: {all_df.shape}')
 
     print(f'Writing CSV file to: {output}')
