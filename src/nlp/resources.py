@@ -1,6 +1,4 @@
 import re
-import sys
-import unicodedata
 
 CURRENCIES = {'$': 'USD', 'zł': 'PLN', '£': 'GBP', '¥': 'JPY', '฿': 'THB',
               '₡': 'CRC', '₦': 'NGN', '₩': 'KRW', '₪': 'ILS', '₫': 'VND',
@@ -15,4 +13,7 @@ RE_URL = re.compile(
     r'((http://www\.|https://www\.|http://|https://)?' +
     r'[a-z0-9]+([\-.][a-z0-9]+)*\.[a-z]{2,5}(:[0-9]{1,5})?(/.*)?)')
 
-PUNKT = dict.fromkeys((i for i in range(sys.maxunicode) if unicodedata.category(chr(i)).startswith("P")), " ")
+# English Stop Word List (Standard stop words used by Apache Lucene)
+STOP_WORDS = {"a", "an", "and", "are", "as", "at", "be", "but", "by", "for", "if", "in", "into", "is", "it",
+              "no", "not", "of", "on", "or", "such", "that", "the", "their", "then", "there", "these",
+              "they", "this", "to", "was", "will", "with"}

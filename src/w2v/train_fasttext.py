@@ -1,7 +1,12 @@
 import argparse
 import errno
 import os
-import fasttext
+
+try:
+    import fasttext
+except ImportError:
+    raise ImportError("""``fasttext`` is not installed. please follow the installation guide -> 
+                      https://github.com/facebookresearch/fastText#building-fasttext-for-python.""")
 
 
 def bin_to_vec(model, fname):
@@ -94,12 +99,12 @@ def main():
                                  help="minimal number of word occurrences")
 
     argument_parser.add_argument('--minn',
-                                 default=0,
+                                 default=3,
                                  type=int,
                                  help="min length of char ngram")
 
     argument_parser.add_argument('--maxn',
-                                 default=0,
+                                 default=6,
                                  type=int,
                                  help="max length of char ngram")
 
@@ -114,7 +119,7 @@ def main():
                                  help="size of word vectors")
 
     argument_parser.add_argument('--lr',
-                                 default=0.1,
+                                 default=0.05,
                                  type=float,
                                  help="learning rate")
 

@@ -21,6 +21,7 @@ def get_nlp_parser():
         nlp.add_pipe(blingfire_sentence_splitter.mark_sentence_boundaries,
                      name='mark-sentence-boundaries',
                      before="parser")
+        nlp.max_length = 2000000
         __CACHE['nlp'] = nlp
     return __CACHE['nlp']
 

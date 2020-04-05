@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e794816e5386a928b554b15f83b57334926921339989eb0a62c979609d7ece9a"
+            "sha256": "734dc476f105a0d891fbdd2d9f97f2dce39e886964cefcf36c543d0c87d7312f"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -144,14 +144,6 @@
         },
         "en-core-sci-sm": {
             "file": "https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.2.4/en_core_sci_sm-0.2.4.tar.gz"
-        },
-        "fasttext": {
-            "hashes": [
-                "sha256:6ead9c6aafe985472066e27c43e33f581b192befd136a84c3c2e8197e7e05be6",
-                "sha256:f79b3447b1612b9b1ad791d4be97db3fecb97762dba01e6fbec389d0d0874772"
-            ],
-            "index": "pypi",
-            "version": "==0.9.1"
         },
         "ftfy": {
             "hashes": [
