@@ -99,12 +99,12 @@ def main():
                                  help="minimal number of word occurrences")
 
     argument_parser.add_argument('--minn',
-                                 default=3,
+                                 default=0,
                                  type=int,
                                  help="min length of char ngram")
 
     argument_parser.add_argument('--maxn',
-                                 default=6,
+                                 default=0,
                                  type=int,
                                  help="max length of char ngram")
 
