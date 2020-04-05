@@ -8,17 +8,20 @@ from utils.text_utils import tokenize, clean_sentence
 
 
 class WordFreq:
-    """A dict-like object to hold word frequencies.
+    """
+    Thanks to @talmago
+
+    A dict-like object to hold word frequencies.
 
     Usage example:
 
-    >>> freqs = WordFreq.from_counts('/path/to/word_freq.txt')
-    >>> freqs['the']
-    >>> 0.0505408583229405
+    freqs = WordFreq.from_counts('/path/to/word_freq.txt')
+    freqs['the']
+    0.0505408583229405
 
     Once created you can use it for weighted average sentence encoding:
 
-    >>> encoder = SentenceEncoder(..., word_freq=freqs.__getitem__)
+    encoder = SentenceEncoder(..., word_freq=freqs.__getitem__)
     """
 
     def __init__(self, word_freq):
@@ -50,7 +53,10 @@ class SimpleEncoder:
                  word_freq: callable = lambda w: 0.0,
                  weighted: bool = True,
                  alpha: float = 1e-3):
-        """Basic sentence encoder as an average of word vectors.
+        """
+        Thanks to @talmago
+
+        Basic sentence encoder as an average of word vectors.
 
         Args:
             word_embeddings (dict): map words to their vector representation.
@@ -63,27 +69,27 @@ class SimpleEncoder:
 
         Usage example (1 - bag-of-words average):
         -----------------
-            >>> w2v_path = '/path/to/vectors.txt'
-            >>> encoder = SimpleEncoder.from_w2v(w2v_path)
-            >>> encoder.encode('a sentence is here')
+            w2v_path = '/path/to/vectors.txt'
+            encoder = SimpleEncoder.from_w2v(w2v_path)
+            encoder.encode('a sentence is here')
 
         Usage example (2 - Smooth Inverse Frequency average):
         -----------------
-            >>> w2v_path = '/path/to/vectors.txt'
-            >>> word_freq = WordFreq.from_counts('/path/to/word_freq.txt')
-            >>> encoder = SimpleEncoder.from_w2v(w2v_path, weighted=True, word_freq=word_freq.__getitem__)
-            >>> encoder.encode('a sentence is here')
+            w2v_path = '/path/to/vectors.txt'
+            word_freq = WordFreq.from_counts('/path/to/word_freq.txt')
+            encoder = SimpleEncoder.from_w2v(w2v_path, weighted=True, word_freq=word_freq.__getitem__)
+            encoder.encode('a sentence is here')
 
         Usage example (3 - Smooth Inverse Frequency average + removing 1st component):
         -----------------
-            >>> w2v_path = '/path/to/vectors.txt'
-            >>> word_freq = WordFreq.from_counts('/path/to/word_freq.txt')
-            >>> encoder = SimpleEncoder.from_w2v(w2v_path, weighted=True, word_freq=word_freq.__getitem__)
-            >>> corpus = ['sentence a', 'sentence b']
-            >>> emb = encoder.encode(corpus)
-            >>> encoder.components_ = svd_components(emb, n_components=1)
-            >>> emb = encoder.encode(corpus)  # re-calculate embeddings
-            >>> encoder.encode('a sentence is here')
+            w2v_path = '/path/to/vectors.txt'
+            word_freq = WordFreq.from_counts('/path/to/word_freq.txt')
+            encoder = SimpleEncoder.from_w2v(w2v_path, weighted=True, word_freq=word_freq.__getitem__)
+            corpus = ['sentence a', 'sentence b']
+            emb = encoder.encode(corpus)
+            encoder.components_ = svd_components(emb, n_components=1)
+            emb = encoder.encode(corpus)  # re-calculate embeddings
+            encoder.encode('a sentence is here')
 
         """
         # word embeddings (filename)
