@@ -7,6 +7,7 @@ from tqdm import tqdm
 
 from nlp import text_tokenizer
 from nlp.cleaning import clean_tokenized_sentence
+from preprocessing.filtering import get_tags
 
 
 def _format_body(body_text: List[dict]) -> str:
@@ -39,30 +40,40 @@ def _load_files(dirname: str) -> List[dict]:
     return raw_files
 
 
-def _generate_sentences(all_files: List[dict]):
+def _generate_sentences(all_files: List[dict], filter_covid19: bool):
     sentences = []
 
     print('Extracting sentences...')
     for file in tqdm(all_files):
-        title_sentences = _extract_sentences_from_text(file['metadata']['title'])
-        abstract_sentences = _extract_sentences_from_text(_format_body(file['abstract']))
-        body_sentences = _extract_sentences_from_text(_format_body(file['body_text']))
+        title_text = file['metadata']['title']
+        abstract_text = _format_body(file['abstract'])
+        body_text = _format_body(file['body_text'])
 
-        sentences.extend(title_sentences)
-        sentences.extend(abstract_sentences)
-        sentences.extend(body_sentences)
+        covid19_doc = True
+        if filter_covid19:
+            if not get_tags([title_text, abstract_text, body_text]):
+                covid19_doc = False
+
+        if covid19_doc:
+            title_sentences = _extract_sentences_from_text(title_text)
+            abstract_sentences = _extract_sentences_from_text(abstract_text)
+            body_sentences = _extract_sentences_from_text(body_text)
+
+            sentences.extend(title_sentences)
+            sentences.extend(abstract_sentences)
+            sentences.extend(body_sentences)
     print('Finished extracting sentences')
 
     return sentences
 
 
-def build_corpus(dirs: List[str], output: str):
+def build_corpus(dirs: List[str], output: str, filter_covid19: bool):
     all_sentences = []
     for dir_name in dirs:
         print(f'Loading files from directory: {dir_name} ...')
         dir_files = _load_files(dir_name)
         print(f'Finished loading files from directory: {dir_name}')
-        all_sentences.extend(_generate_sentences(dir_files))
+        all_sentences.extend(_generate_sentences(dir_files, filter_covid19))
 
     print(f'No, of lines: {len(all_sentences)}')
 
@@ -75,8 +86,9 @@ def main():
     argument_parser = argparse.ArgumentParser()
     argument_parser.add_argument('-d', '--dirs', nargs='+', help='File directories', required=True)
     argument_parser.add_argument('-o', '--output', type=str, help='Output txt file', required=True)
+    argument_parser.add_argument('-f', '--filter', help='Filter out non COVID-19 articles', action="store_true")
     args = argument_parser.parse_args()
-    build_corpus(args.dirs, args.output)
+    build_corpus(args.dirs, args.output, args.filter)
     print('Done.')
 
 

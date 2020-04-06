@@ -7,6 +7,7 @@ from copy import deepcopy
 import pandas as pd
 from tqdm import tqdm
 
+from preprocessing.filtering import get_tags
 
 # Helper Functions by https://www.kaggle.com/xhlulu/cord-19-eda-parse-json-and-generate-clean-csv
 
@@ -82,29 +83,6 @@ def format_bib(bibs):
         formatted.append(", ".join(formatted_ls))
 
     return "; ".join(formatted)
-
-
-def get_tags(sections):
-    """
-    Credit: https://www.kaggle.com/davidmezzetti/cord-19-analysis-with-sentence-embeddings
-
-    Searches input sections for matching keywords. If found, returns the keyword tag.
-    Args:
-        sections: list of text sections
-    Returns:
-        tags
-    """
-
-    keywords = ["2019-ncov", "2019 novel coronavirus", "coronavirus 2019", "coronavirus disease 19", "covid-19",
-                "covid 19", "ncov-2019",
-                "sars-cov-2", "wuhan coronavirus", "wuhan pneumonia", "wuhan virus"]
-
-    tags = None
-    for text in sections:
-        if any(x in text.lower() for x in keywords):
-            tags = "COVID-19"
-
-    return tags
 
 
 def load_files(dirname):
