@@ -7,9 +7,7 @@ class TestBertSummarizer(unittest.TestCase):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.bert_summarizer = BertSummarizer()
-
-    def test_bert_summarizer(self):
-        sentences = [
+        self.sentences = [
             "The virus is transmitted through droplets, close contact, and other means , and patients in the "
             "incubation period could potentially transmit the virus to other persons.",
             "Disease spread through both direct (droplet and person-to-person) as well as indirect contact ("
@@ -43,7 +41,23 @@ class TestBertSummarizer(unittest.TestCase):
             "There is a new public health crises threatening the world with the emergence and spread of 2019 novel "
             "coronavirus (2019-ncov)",
         ]
-        text = ' '.join(sentences)
+
+    def test_bert_summarizer(self):
+        text = ' '.join(self.sentences)
         summary = self.bert_summarizer.create_summary(text)
-        assert summary
         print(summary)
+        assert summary == "There is a new public health crises threatening the world with the emergence and " \
+                          "spread of 2019 novel coronavirus (2019-ncov) The new coronavirus was reported to spread " \
+                          "via droplets, contact and natural aerosols from human-to-human. The virus is transmitted " \
+                          "through droplets, close contact, and other means. Patients in the incubation period " \
+                          "could potentially transmit the virus to other persons."
+
+    def test_bert_summarizer_with_repetition_penalty(self):
+        text = ' '.join(self.sentences)
+        summary = self.bert_summarizer.create_summary(text, repetition_penalty=10.0)
+        print(summary)
+        assert summary == "There is a new public health crises threatening the world with the emergence and " \
+                          "spread of 2019 novel coronavirus (2019-ncov) The new coronavirus was reported to spread " \
+                          "via droplets, contact and natural aerosols from human-to-human. The virus is transmitted " \
+                          "through droplets, close contact, and other means. Patients in the incubation period " \
+                          "could potentially transmit the virus to other persons."
