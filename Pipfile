@@ -13,6 +13,7 @@ contractions = "*"
 ftfy = "*"
 torch = "*"
 transformers = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.6"
