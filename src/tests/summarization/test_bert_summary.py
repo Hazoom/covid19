@@ -51,13 +51,3 @@ class TestBertSummarizer(unittest.TestCase):
                           "via droplets, contact and natural aerosols from human-to-human. The virus is transmitted " \
                           "through droplets, close contact, and other means. Patients in the incubation period " \
                           "could potentially transmit the virus to other persons."
-
-    def test_bert_summarizer_with_repetition_penalty(self):
-        text = ' '.join(self.sentences)
-        summary = self.bert_summarizer.create_summary(text, repetition_penalty=10.0)
-        print(summary)
-        assert summary == "There is a new public health crises threatening the world with the emergence and " \
-                          "spread of 2019 novel coronavirus (2019-ncov) The new coronavirus was reported to spread " \
-                          "via droplets, contact and natural aerosols from human-to-human. The virus is transmitted " \
-                          "through droplets, close contact, and other means. Patients in the incubation period " \
-                          "could potentially transmit the virus to other persons."
