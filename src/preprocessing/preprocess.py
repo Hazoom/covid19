@@ -3,6 +3,7 @@ import os
 from typing import List
 import argparse
 from copy import deepcopy
+from gensim.models.phrases import Phraser
 
 import pandas as pd
 from tqdm import tqdm
@@ -120,9 +121,20 @@ def load_files(dirname):
     return raw_files
 
 
-def _add_line_for_sentence_level(section_type, text, sentences_lines, file, sha_to_properties, title_text):
+def _add_line_for_sentence_level(section_type,
+                                 text,
+                                 sentences_lines,
+                                 file,
+                                 sha_to_properties,
+                                 title_text,
+                                 bigram_model,
+                                 trigram_model) -> None:
     sentences = _extract_sentences_from_text(text)
     cleaned_sentences = _clean_sentences(sentences)
+    tokenzied_sentences = [sentence.split(' ') for sentence in cleaned_sentences]
+    sentences_with_bigrams = bigram_model[tokenzied_sentences]
+    sentences_with_trigrams = trigram_model[sentences_with_bigrams]
+    cleaned_sentences = [' '.join(sentence) for sentence in sentences_with_trigrams]
     features = [
         file['paper_id'],
         sha_to_properties[file['paper_id']]['cord_uid'],
@@ -137,7 +149,11 @@ def _add_line_for_sentence_level(section_type, text, sentences_lines, file, sha_
     sentences_lines.append(features)
 
 
-def generate_df_sentence_level(all_files: List[dict], sha_to_properties: dict, filter_covid19: bool):
+def generate_df_sentence_level(all_files: List[dict],
+                               sha_to_properties: dict,
+                               filter_covid19: bool,
+                               bigram_model: str,
+                               trigram_model: str) -> pd.DataFrame:
     sentences_lines = []
 
     for file in tqdm(all_files):
@@ -152,10 +168,12 @@ def generate_df_sentence_level(all_files: List[dict], sha_to_properties: dict, f
 
         if covid19_doc:
             _add_line_for_sentence_level(
-                'abstract', abstract_text, sentences_lines, file, sha_to_properties, title_text
+                'abstract', abstract_text, sentences_lines, file, sha_to_properties, title_text, bigram_model,
+                trigram_model
             )
             _add_line_for_sentence_level(
-                'body', body_text, sentences_lines, file, sha_to_properties, title_text
+                'body', body_text, sentences_lines, file, sha_to_properties, title_text, bigram_model,
+                trigram_model
             )
 
     print(f'No. of lines before breaking to sentences: {len(sentences_lines)}')
@@ -228,12 +246,21 @@ def _build_metadata_dict(metadata):
     return sha_to_properties
 
 
-def build_csv(metadata: str, dirs: List[str], output: str, filter_covid_19: bool, sentences: bool):
+def build_csv(metadata: str,
+              dirs: List[str],
+              output: str,
+              bigram_model_path: str,
+              trigram_model_path: str,
+              filter_covid_19: bool,
+              sentences: bool):
     print(f'Building metadata dictionary from file: {metadata} ...')
     sha_to_properties = _build_metadata_dict(metadata)
     print(f'Finished building metadata dictionary from file: {metadata}')
 
     print(f'Filtering only COVID-19 articles: {filter_covid_19}')
+
+    bigram_model = Phraser.load(bigram_model_path)
+    trigram_model = Phraser.load(trigram_model_path)
 
     all_df = None
     for dir_name in dirs:
@@ -241,7 +268,9 @@ def build_csv(metadata: str, dirs: List[str], output: str, filter_covid_19: bool
         dir_files = load_files(dir_name)
         print(f'Finished loading files from directory: {dir_name}')
         if sentences:
-            clean_df = generate_df_sentence_level(dir_files, sha_to_properties, filter_covid_19)
+            clean_df = generate_df_sentence_level(
+                dir_files, sha_to_properties, filter_covid_19, bigram_model, trigram_model
+            )
         else:
             clean_df = generate_df(dir_files, sha_to_properties, filter_covid_19)
 
@@ -264,10 +293,20 @@ def main():
     argument_parser.add_argument('-m', '--metadata', type=str, help='Metadata CSV file', required=True)
     argument_parser.add_argument('-d', '--dirs', nargs='+', help='File directories', required=True)
     argument_parser.add_argument('-o', '--output', type=str, help='Output CSV file', required=True)
+    argument_parser.add_argument('--bigram-model', type=str, help='bi-gram phrases Model', required=True)
+    argument_parser.add_argument('--trigram-model', type=str, help='tri-gram phrases Model', required=True)
     argument_parser.add_argument('--no-filter-covid-19', help='No filter COVID-19 docs', action="store_true")
     argument_parser.add_argument('--sentences', help='Each line is a sentence in text', action="store_true")
     args = argument_parser.parse_args()
-    build_csv(args.metadata, args.dirs, args.output, not args.no_filter_covid_19, args.sentences)
+    build_csv(
+        args.metadata,
+        args.dirs,
+        args.output,
+        args.bigram_model,
+        args.trigram_model,
+        not args.no_filter_covid_19,
+        args.sentences
+    )
     print('Done.')
 
 
