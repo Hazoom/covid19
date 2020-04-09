@@ -41,7 +41,10 @@ class SearchEngine:
 
         self.synonyms_model = Synonyms(fasttext_model_path)
 
-    def search(self, keywords: List[str], top_n: int = 10, synonyms_threshold=0.68) -> List[dict]:
+    def search(self,
+               keywords: List[str],
+               top_n: int = 10,
+               synonyms_threshold=0.7) -> List[dict]:
 
         # clean tokens
         cleaned_terms = [clean_tokenized_sentence(keyword.split(' ')) for keyword in keywords]
