@@ -8,7 +8,10 @@ class Synonyms:
         print(f'Finished loading fasttext model: {fasttext_model_path}')
 
     def get_synonyms(self, cleaned_token: str):
-        return self.model.most_similar(cleaned_token)
+        try:
+            return self.model.most_similar(cleaned_token)
+        except KeyError:
+            return []
 
 
 if __name__ == "__main__":

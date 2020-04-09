@@ -50,7 +50,7 @@ class SearchEngine:
         cleaned_terms = [term for term in cleaned_terms if term]
 
         # create bi-grams
-        terms_with_bigrams = self.bigram_model[cleaned_terms]
+        terms_with_bigrams = self.bigram_model[' '.join(cleaned_terms).split(' ')]
 
         # create tri-grams
         terms_with_trigrams = self.trigram_model[terms_with_bigrams]
@@ -61,6 +61,8 @@ class SearchEngine:
         # filter synonyms above threshold (and flatten the list of lists)
         search_terms = [synonym[0] for synonyms in search_terms for synonym in synonyms
                         if synonym[1] >= synonyms_threshold]
+
+        print(f'Search terms after cleaning, bigrams, trigrams and synonym expansion: {search_terms}')
 
         index_to_match = {}
         for sentence_index, sentence in enumerate(self.cleaned_sentences):
