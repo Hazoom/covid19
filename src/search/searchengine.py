@@ -55,6 +55,8 @@ class SearchEngine:
         # filter synonyms above threshold (and flatten the list of lists)
         search_terms = [synonym[0] for synonyms in search_terms for synonym in synonyms
                         if synonym[1] >= synonyms_threshold]
+        # expand keywords with synonyms
+        search_terms = list(terms_with_trigrams) + search_terms
         return search_terms
 
     def search(self,

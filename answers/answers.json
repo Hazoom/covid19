@@ -1,0 +1,86 @@
+[
+  {
+    "taskName": "What is known about transmission, incubation, and environmental stability?",
+    "subTasks": [
+      {
+        "description": "Range of incubation periods for the disease in humans (and how this varies across age and health status)",
+        "searchKeywords": [
+          "incubation_time",
+          "incubation",
+          "age"
+        ],
+        "optionalKeywords": [
+          "new_coronavirus",
+          "coronavirus",
+          "covid19"
+        ],
+        "bestSentences": [
+          "Consistent to previous reports, the incubation period of our cases was in a range of 2-10 days, with a median of 6.5 days.",
+          "Specifically, the 483 confirmed patients were with average estimated incubation period D = 7.4 days, the mode was 4 days (50 out of the 483 cases) and the median was 7 days (48 out of the 483 cases).",
+          "The mean incubation was 8.42 (95% confidence interval [CI], 6.55-10.29) days.",
+          "The mean incubation was 9.06 (95% CI, 6.11-12.00) days for patients without pneumonia and 7.54 (95% CI, 5.29-9.79) days for patients with pneumonia.",
+          "SARS-CoV-2 might be present in patients for around 18 days by adding the mean incubation of 8.42 days.",
+          "It suggests that age 40 can be a key age cutoff for the incubation of COVID-19 along with previous statistical analysis.",
+          "The following findings are obtained: 1) COVID-19 patients in Henan show gender (55% vs 45%) and age (81% aged between 21 and 60) preferences, possible causes were explored; 2) Statistical analysis on 483 patients reveals that the estimated average, mode and median incubation periods are 7.4, Incubation periods of 92% patients were no more than 14 days;",
+          "In absence of data on the 2019-nCoV incubation period, the WHO has worked with a broad range of 0 to 14 days, the CDC has taken a range of 2 to 14 days, and several studies have assumed incubation periods of SARS or MERS coronaviruses.",
+          "Based on ME, OLS and MLE approaches, we modeled the incubation period as logarithmic normal distributions, and we found the ME method can well mimic the long right tails of the PDF for the incubation periods.",
+          "This increase in severity with age is clearly reflected in case-reports in which the mean age tends to be in the range 50-60 years."
+        ]
+      },
+      {
+        "description": "How long individuals are contagious, even after recovery.",
+        "searchKeywords": [
+          "contagious after recovery"
+        ],
+        "optionalKeywords": [
+          "new_coronavirus",
+          "coronavirus",
+          "covid19"
+        ],
+        "bestSentences": [
+          "Using the best-fitting model ( To highlight further this impact of contagious, undocumented COVID-19 infections on overall transmission and reported case counts, we generated a set of hypothetical outbreaks using the best-fitting parameter estimates but with = 0, i.e. the undocumented infections are no longer contagious (Figure 2)",
+          "This finding indicates that contagious, undocumented infections facilitated the geographic spread of COVID-19 within China.",
+          "This number is rapidly increasing and most probably is a vast underestimation of the real number of patients worldwide, as infected individuals are contagious even when minimally symptomatic or asymptomatic 2 .",
+          "This leaves a highly restrictive condition for endemic equilibrium to 473 exist: the emergent strain must be able to survive by itself and the original strain must 474 be contagious enough to infect enough people, which is given by Eq 44.",
+          "In this study, infectious period is defined as the time difference between date of infection and date of diagnosis as there is strong evidence showing that a diseased individual remains contagious even during the incubation period, and would be immediately isolated upon positive diagnosis hence losing the transmissibility."
+        ]
+      },
+      {
+        "description": "Prevalence of asymptomatic shedding and transmission (e.g., particularly children).",
+        "searchKeywords": [
+          "contagious after recovery"
+        ],
+        "optionalKeywords": [
+          "new_coronavirus",
+          "coronavirus",
+          "covid19"
+        ],
+        "bestSentences": [
+          "5 The prevalence of colonisation in children, which appears to be higher than that in adults, is considered clinically relevant since colonised children are postulated to be a reservoir for Pneumocystis.",
+          "52 CAP of mixed etiology has been characterized less in adults than in children, and prevalence is estimated at less than 5%.",
+          "Variation in transmission and migration rates can result in substantial variation in prevalence between regions.",
+          "2 Bayham et al. show that schools are likely places for transmission among US children.",
+          "While schools may be a hub of contact and virus transmission, school closings may inadvertently bring grandparents and children into closer contact if they become the default carers."
+        ]
+      },
+      {
+        "description": "seasonality of transition",
+        "searchKeywords": [
+          "seasonality", "transmission", "humidity", "heat", "summer"
+        ],
+        "optionalKeywords": [
+          "new_coronavirus",
+          "coronavirus",
+          "covid19"
+        ],
+        "bestSentences": [
+          "A 50% reduction in transmission results in a smaller epidemic before the summer, followed by a resurgence in cases in the following winter.",
+          "This variation in transmission strength may be driven by a variety of factors, including increased indoor crowding in the winter, the onset of the school term in the autumn, and climate factors (5) .",
+          "Even though there are many uncertainties relating to seasonality and this novel coronavirus [33] , it seems prudent to assume some seasonal fluctuation so we increased the average by 25% in winter and reduced it by 25% in summer (with a sinusoidal variation throughout the simulated year), using a mid-winter peak for Europe of 15 January (i.e., day 334 of the simulation).",
+          "1 They estimated that a 50% reduction in transmission during summer months would result in a smaller epidemic before the summer, followed by a resurgence in cases in the following winter.",
+          "As the southern hemisphere moves from summer to autumn and swiftly into winter, the transmission of all respiratory viruses will increase, including SARS-CoV-2 if introduced into that country."
+        ]
+      }
+    ]
+  }
+]
