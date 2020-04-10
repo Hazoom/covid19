@@ -66,7 +66,11 @@
       {
         "description": "seasonality of transition",
         "searchKeywords": [
-          "seasonality", "transmission", "humidity", "heat", "summer"
+          "seasonality",
+          "transmission",
+          "humidity",
+          "heat",
+          "summer"
         ],
         "optionalKeywords": [
           "new_coronavirus",
@@ -79,6 +83,114 @@
           "Even though there are many uncertainties relating to seasonality and this novel coronavirus [33] , it seems prudent to assume some seasonal fluctuation so we increased the average by 25% in winter and reduced it by 25% in summer (with a sinusoidal variation throughout the simulated year), using a mid-winter peak for Europe of 15 January (i.e., day 334 of the simulation).",
           "1 They estimated that a 50% reduction in transmission during summer months would result in a smaller epidemic before the summer, followed by a resurgence in cases in the following winter.",
           "As the southern hemisphere moves from summer to autumn and swiftly into winter, the transmission of all respiratory viruses will increase, including SARS-CoV-2 if introduced into that country."
+        ]
+      },
+      {
+        "description": "Physical science of the coronavirus (e.g., charge distribution, adhesion to hydrophilic/phobic surfaces, environmental survival to inform decontamination efforts for affected areas and provide information about viral shedding).",
+        "searchKeywords": [
+          [
+            "adhesion",
+            "hydrophilic",
+            "hydrophobic",
+            "surfaces",
+            "decontamination"
+          ]
+        ],
+        "optionalKeywords": [
+          "new_coronavirus",
+          "coronavirus",
+          "covid19"
+        ],
+        "bestSentences": [
+          "Although the viral load of coronaviruses on inanimate surfaces is not known during an outbreak situation it seems plausible to reduce the viral load on surfaces by disinfection, especially on frequent touch surfaces in the immediate patient surrounding where the highest viral load can be expected.",
+          "For the disinfection of small surfaces ethanol (62%e71%; carrier tests) revealed a similar efficacy against coronavirus [7] .",
+          "Although the viral load of coronaviruses on inanimate surfaces is not known during an outbreak situation it seems plausible to reduce the viral load on surfaces by disinfection, especially on frequent touch surfaces in the immediate patient surrounding where the highest viral load can be expected.",
+          "b. Because prion infectivity is retained after drying and the dried material is harder to clean from surfaces, reusable instruments should be kept wet between time of use and disinfection.",
+          "The process of decontamination of the virus-contaminated surfaces by the appropriate disinfectants or virucidal agents was successful in case of other respiratory viruses such as SARS-CoV and avian influenza [59] "
+        ]
+      },
+      {
+        "description": "Persistence and stability on a multitude of substrates and sources (e.g., nasal discharge, sputum, urine, fecal matter, blood).",
+        "searchKeywords": [
+          [
+            "Persistence",
+            "stability",
+            "nasal discharge",
+            "sputum",
+            "urine",
+            "fecal matter",
+            "blood"
+          ]
+        ],
+        "optionalKeywords": [
+          "new_coronavirus",
+          "coronavirus",
+          "covid19"
+        ],
+        "bestSentences": [
+          "Currently, the standard of reference for the COVID-19 pneumonia diagnosis is a positive result in nucleic acid detection assay for the upper and lower respiratory tract specimens and blood, respiratory tract specimens were including nasal and pharyngeal swab specimens, sputum, and bronchoalveolar lavage fluid."
+        ]
+      },
+      {
+        "description": "Persistence of virus on surfaces of different materials (e,g., copper, stainless steel, plastic).",
+        "searchKeywords": [
+          [
+            "Persistence",
+            "materials",
+            "copper",
+            "stainless steel",
+            "plastic"
+          ]
+        ],
+        "optionalKeywords": [
+          "new_coronavirus",
+          "coronavirus",
+          "covid19"
+        ],
+        "bestSentences": [
+          "HCoV-19 was most stable on plastic and stainless steel and viable virus could be detected up to 33 72 hours post application ( Figure 1A ), though the virus titer was greatly reduced (plastic from 10 3.7 to 34 10 0.6 TCID 50 /mL after 72 hours, stainless steel from 10 3.7 to 10 0.6 TCID 50 /mL after 48 hours)."
+        ]
+      },
+      {
+        "description": "Natural history of the virus and shedding of it from an infected person",
+        "searchKeywords": [
+          [
+            "natural",
+            "history",
+            "virus",
+            "infected"
+          ]
+        ],
+        "optionalKeywords": [
+          "new_coronavirus",
+          "coronavirus",
+          "covid19"
+        ],
+        "bestSentences": [
+          "Although the direct association with the disease is yet to be confirmed with more experimental data, our results provide several lines of evidence that the virus is most likely associated with this disease: (i) the viral titre is very high, with the abundance level reaching 1.5% and 0.62% of total reads sequenced, surpassing the highest expressed host genes to be one of the most dominant RNA molecules in the host transcriptome, an important sign that the virus is then under active replication [9] ; (ii) since our RNA mNGS approach targets the total infectome (except for prion) [10] , the fact that no other pathogens were identified from the infected sample underlines the unique role played by 2019-nCoV; (iii) the virus is grouped within the notorious CoV clade (i.e. SARSlike) with history of cross-virus transmission to humans [11] and has been demonstrated to have strong zoonotic potential [12] ; and while this manuscript was under preparation, we noticed another case report from Wuhan which identified a same virus as the one found in this study [13] .",
+          "The initial symptoms of recently infected patients seem more insidious, indicating that the new coronavirus may gradually evolve into a virus similar to influenza and latent in asymptomatic carriers for a long time."
+        ]
+      },
+      {
+        "description": "Implementation of diagnostics and products to improve clinical processes",
+        "searchKeywords": [
+          [
+            "implementation",
+            "diagnostics",
+            "product",
+            "clinical",
+            "process"
+          ]
+        ],
+        "optionalKeywords": [
+          "new_coronavirus",
+          "coronavirus",
+          "covid19"
+        ],
+        "bestSentences": [
+          "To simulate the process of applying the proposed DeCoVNet for clinical computeraided diagnosis (i.e., prospective clinical trials), we used the 499 CT scans collected from Dec 13, 2019 to Jan 23, 2020 for training and used the rest 131 CT volumes collected from Jan 24, 2020 to Feb. 06, 6 .",
+          "Effective teamwork can increase the efficiency of the work, in the process of care, while buy and use the new improved care products, not only more convenient and effective; the current hospital has been promoted to the implementation of the respiratory care ward, To share the unit to promote the implementation of experience, in order to achieve the purpose of maintaining patient safety and improve the quality of medical services.",
+          "Mobile phone apps implementing algorithmic contact tracing can speed up the process of tracing newly diagnosed individuals, spreading information instantaneously back through a past contact network to inform them that they are at risk of being infected, and thus allow them to take appropriate social distancing and testing measures."
         ]
       }
     ]
