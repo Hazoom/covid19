@@ -192,6 +192,138 @@
           "Effective teamwork can increase the efficiency of the work, in the process of care, while buy and use the new improved care products, not only more convenient and effective; the current hospital has been promoted to the implementation of the respiratory care ward, To share the unit to promote the implementation of experience, in order to achieve the purpose of maintaining patient safety and improve the quality of medical services.",
           "Mobile phone apps implementing algorithmic contact tracing can speed up the process of tracing newly diagnosed individuals, spreading information instantaneously back through a past contact network to inform them that they are at risk of being infected, and thus allow them to take appropriate social distancing and testing measures."
         ]
+      },
+      {
+        "description": "Disease models, including animal models for infection, disease and transmission",
+        "searchKeywords": [
+          [
+            "implementation",
+            "diagnostics",
+            "product",
+            "clinical",
+            "process"
+          ]
+        ],
+        "optionalKeywords": [
+          "new_coronavirus",
+          "coronavirus",
+          "covid19"
+        ],
+        "bestSentences": [
+          "Based on those findings, we develop a mathematical transmission model to disentangle how transmission is affected by age differences in the biology of COVID-19 infection and disease, and altered mixing patterns due to social distancing.",
+          "The model generates an ensemble of possible epidemic scenarios described by the number of newly generated infections, times of disease arrival in each subpopulation, and the number of traveling infection carriers.",
+          "In our model formulation, the transmission probability is denoted by β and the contact rate is denoted by c. By enforcing contact tracing, a proportion, , of individuals exposed is quarantined, and can either move to the compartment or with rate of (or -), depending on whether they are effectively infected or not 18, 19 , while the other proportion, 1q, consists of individuals exposed to the virus who are missed from contact tracing and move to the exposed  The effective reproduction number is given by In epidemiology, the basic reproduction number (R 0 ), used to measure the transmission potential of a disease, is the average number of secondary infections produced by a typical case of an infection in a population where everyone is susceptible."
+        ]
+      },
+      {
+        "description": "Tools and studies to monitor phenotypic change and potential adaptation of the virus",
+        "searchKeywords": [
+          [
+            "Tools",
+            "studies",
+            "monitor",
+            "phenotypic change",
+            "potential adaptation",
+            "virus"
+          ]
+        ],
+        "optionalKeywords": [
+          "new_coronavirus",
+          "coronavirus",
+          "covid19"
+        ],
+        "bestSentences": [
+          "Here, we analyzed the potential mutations that may have evolved after the virus became epidemic among humans and also the mutations resulting in the human adaptation.",
+          "Based on the evidence gained from studies of SARS-CoV, and from the genetic identity of SARS-CoV-2, it could be postulated that the virus responsible for the recent outbreak is transmit ted from bats to humans either directly or indirectly through adaptation in an unidentified host [34, 35] .",
+          "We commenced by translating the reference sequence of SARS-CoV-2 ( ACCESSION MN908947, VERSION MN908947.3) to protein-coding sequence and predicted potential epitopes in a sliding window of 9 using netMHC tools (netMHC/II and \"-pan\" versions, when allotype was not available)."
+        ]
+      },
+      {
+        "description": "Immune response and immunity",
+        "searchKeywords": [
+          [
+            "Immune",
+            "Immunity",
+            "Immune response"
+          ]
+        ],
+        "optionalKeywords": [
+          "new_coronavirus",
+          "coronavirus",
+          "covid19"
+        ],
+        "bestSentences": [
+          "It is currently considered that the lung injury is not only associated with direct virus-induced injury, but also COVID-19 invasion triggers the immune responses that lead to the activation of immune cells(monocyte, macrophage, T and B-lymphocyte) to release a large number of pro-and anti-inflammatory cytokines including TNF, IL-1β, IL-6 and so on.",
+          "Here, vaccination-induced inflammation, although necessary for effective immunity, also generated strong counter-regulatory immune responses that were mediated primarily by inflammatory monocytes through suppression of T cell responses.",
+          "16 It is unlikely that sufficient mite allergen can be absorbed and cross the placenta when the quantity inhaled per day is only 10 to 100 ng, and it is not conceivable that the fetus makes an immune response when the mother is exposed to a quantity of antigen that is not associated with immune responses in children."
+        ]
+      },
+      {
+        "description": "Effectiveness of movement control strategies to prevent secondary transmission in health care and community settings",
+        "searchKeywords": [
+          [
+            "Effectiveness",
+            "movement control",
+            "restrictions",
+            "strategy",
+            "prevent secondary transmission"
+          ]
+        ],
+        "optionalKeywords": [
+          "new_coronavirus",
+          "coronavirus",
+          "covid19"
+        ],
+        "bestSentences": [
+          "Our findings show that NPIs, inter-city travel restrictions, social distancing and contact reductions, as well as early case detection and isolations, have substantially reduced COVID-19 transmission across China, with the effectiveness of different interventions varying.",
+          "Since COVID-19 emerged in early December, 2019 in Wuhan and swept across China Mainland, a series of large-scale public health interventions, especially Wuhan lock-down combined with nationwide traffic restrictions and Stay At Home Movement, have been taken by the government to control the epidemic.",
+          "In particular, we provided an alternative explanation for the result of Eaton and Hallett (2014) who used detailed mathematical modeling of HIV transmission to show that the amount of early transmission does not affect the effectiveness of the ART: we can control an outbreak if we can identify infected individuals and enroll them on ART faster than the observed rate at which new cases are generated, which does not depend on the estimates of the amount of early transmission.",
+          "doi: medRxiv preprint -7 -substantial proportion of secondary transmission occurring before illness onset 1 indicates that many transmissions cannot be prevented solely through isolation of 2 symptomatic cases, as by the time contacts are traced they may have already 3 become infectious themselves and generated secondary cases [7] ."
+        ]
+      },
+      {
+        "description": "Effectiveness of personal protective equipment (PPE) and its usefulness to reduce risk of transmission in health care and community settings",
+        "searchKeywords": [
+          [
+            "Effectiveness",
+            "personal protective equipment",
+            "PPE",
+            "strategy",
+            "prevent transmission"
+          ]
+        ],
+        "optionalKeywords": [
+          "new_coronavirus",
+          "coronavirus",
+          "covid19"
+        ],
+        "bestSentences": [
+          "Since COVID19 would not be suspected in these patients, healthcare workers interacting with them typically would not use the level of personal protective equipment (PPE) or precautions necessary to prevent COVID19 transmission, especially if there were also restrictions due to PPE shortages within the clinical institution."
+        ]
+      },
+      {
+        "description": "Role of the environment in transmission",
+        "searchKeywords": [
+          [
+            "seasonality",
+            "transmission",
+            "humidity",
+            "heat",
+            "summer"
+          ]
+        ],
+        "optionalKeywords": [
+          "new_coronavirus",
+          "coronavirus",
+          "covid19"
+        ],
+        "bestSentences": [
+          "A 50% reduction in transmission results in a smaller epidemic before the summer, followed by a resurgence in cases in the following winter.",
+          "Even though there are many uncertainties relating to seasonality and this novel coronavirus [33] , it seems prudent to assume some seasonal fluctuation so we increased the average by 25% in winter and reduced it by 25% in summer (with a sinusoidal variation throughout the simulated year), using a mid-winter peak for Europe of 15 January (i.e., day 334 of the simulation).",
+          "21 They estimated that a 50% reduction in transmission during summer months would result in a smaller epidemic before the summer, followed by a resurgence in cases in the following winter.",
+          "If SARS-CoV-2 demonstrates seasonality like influenza and other respiratory tract viruses, a decline in cases during summer would provide time to prepare for the following transmission season.",
+          "We captured seasonal transmission by replacing the constant transmission rate with a time-varying transmission rate given by: is the magnitude of the seasonal difference in transmission, ranging from (maximum seasonality with no transmission at the peak of the summer)."
+        ]
       }
     ]
   }
