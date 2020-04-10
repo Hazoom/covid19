@@ -41,40 +41,64 @@ class SearchEngine:
 
         self.synonyms_model = Synonyms(fasttext_model_path)
 
-    def search(self,
-               keywords: List[str],
-               top_n: int = 10,
-               synonyms_threshold=0.7) -> List[dict]:
-
+    def _get_search_terms(self, keywords, synonyms_threshold):
         # clean tokens
         cleaned_terms = [clean_tokenized_sentence(keyword.split(' ')) for keyword in keywords]
-
         # remove empty terms
         cleaned_terms = [term for term in cleaned_terms if term]
-
         # create bi-grams
         terms_with_bigrams = self.bigram_model[' '.join(cleaned_terms).split(' ')]
-
         # create tri-grams
         terms_with_trigrams = self.trigram_model[terms_with_bigrams]
-
         # expand query with synonyms
         search_terms = [self.synonyms_model.get_synonyms(token) for token in terms_with_trigrams]
-
         # filter synonyms above threshold (and flatten the list of lists)
         search_terms = [synonym[0] for synonyms in search_terms for synonym in synonyms
                         if synonym[1] >= synonyms_threshold]
+        return search_terms
+
+    def search(self,
+               keywords: List[str],
+               optional_keywords=None,
+               top_n: int = 10,
+               synonyms_threshold=0.7,
+               keyword_weight: float = 3.0,
+               optional_keyword_weight: float = 0.5) -> List[dict]:
+        if optional_keywords is None:
+            optional_keywords = []
+
+        search_terms = self._get_search_terms(keywords, synonyms_threshold)
+
+        optional_search_terms = self._get_search_terms(optional_keywords, synonyms_threshold) \
+            if optional_keywords else []
 
         print(f'Search terms after cleaning, bigrams, trigrams and synonym expansion: {search_terms}')
+        print(f'Optional search terms after cleaning, bigrams, trigrams and synonym expansion: {optional_search_terms}')
 
-        index_to_match = {}
+        # calculate score for each sentence. Take only sentence with at least one match from the must-have keywords
+        index_to_score = {}
         for sentence_index, sentence in enumerate(self.cleaned_sentences):
-            match_count = sum([1 if keyword in sentence else 0 for keyword in search_terms])
+            sentence_tokens = sentence.split(' ')
+            sentence_tokens_set = set(sentence_tokens)
+            match_count = sum([keyword_weight if keyword in sentence_tokens_set else 0
+                               for keyword in search_terms])
             if match_count > 0:
-                index_to_match[sentence_index] = match_count
-        sorted_indexes = sorted(index_to_match.items(), key=operator.itemgetter(1), reverse=True)
+                index_to_score[sentence_index] = match_count
+                if optional_search_terms:
+                    match_count = sum([optional_keyword_weight if keyword in sentence_tokens_set else 0
+                                       for keyword in optional_search_terms])
+                    index_to_score[sentence_index] += match_count
+
+        # sort by score descending
+        sorted_indexes = sorted(index_to_score.items(), key=operator.itemgetter(1), reverse=True)
+
+        # take only the sentence IDs
         sorted_indexes = [item[0] for item in sorted_indexes]
+
+        # limit results
         sorted_indexes = sorted_indexes[0: min(top_n, len(sorted_indexes))]
+
+        # get metadata for each sentence
         results = []
         for index in sorted_indexes:
             results.append(self.sentence_id_to_metadata[index])
