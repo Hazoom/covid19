@@ -1,0 +1,160 @@
+{
+  "taskName": "What do we know about virus genetics, origin, and evolution?",
+  "subTasks": [
+    {
+      "description": "Real-time tracking of whole genomes and a mechanism for coordinating the rapid dissemination of that information to inform the development of diagnostics and therapeutics and to track variations of the virus over time.",
+      "searchKeywords": [
+        "tracking",
+        "genomes",
+        "diagnostics",
+        "therapeutics",
+        "variations"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Their data showed that the 2019-nCoV viral genomes have about 79% homology to the genome of severe acute respiratory syndrome (SARS) coronavirus (SARS-CoV), about 52% homology to that of Middle East respiratory syndrome coronavirus (MERS-CoV), and about 87% homology to the genomes of two strains of batderived SARS-like coronavirus identified in Zhoushan in 2015.",
+        "To discover the evolutionary history of the viruses, we analyzed the genomes of 2019-nCoVs, compared their variations in both nucleotide and amino acid sequence levels, and determined their molecular clock related characteristics such as the nucleotide substitution rate and the most recent common ancestor.",
+        "Further tracking the genome mutations with additional strains of 2019-nCoV isolated from patients in 20 different locations at different time points will provide insights to understand the molecular evolution of this rapid spreading viruses.",
+        "In this work, we developed a Prophylactic Antiviral CRISPR in huMAN cells (PAC-MAN) strategy as a form of genetic intervention to target SARS-CoV-2, IAV, and potentially all sequenced coronaviruses."
+      ]
+    },
+    {
+      "description": "Access to geographic and temporal diverse sample sets to understand geographic distribution and genomic differences, and determine whether there is more than one strain in circulation. Multi-lateral agreements such as the Nagoya Protocol could be leveraged.",
+      "searchKeywords": [
+        "circulation",
+        "geographic",
+        "genome",
+        "sample sets",
+        "Nagoya Protocol"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Their data showed that the 2019-nCoV viral genomes have about 79% homology to the genome of severe acute respiratory syndrome (SARS) coronavirus (SARS-CoV), about 52% homology to that of Middle East respiratory syndrome coronavirus (MERS-CoV), and about 87% homology to the genomes of two strains of batderived SARS-like coronavirus identified in Zhoushan in 2015."
+      ]
+    },
+    {
+      "description": "Evidence that livestock could be infected (e.g., field surveillance, genetic sequencing, receptor binding) and serve as a reservoir after the epidemic appears to be over. 1. Evidence of whether farmers are infected, and whether farmers could have played a role in the origin",
+      "searchKeywords": [
+        "livestock",
+        "farmer",
+        "animals",
+        "infected",
+        "farm",
+        "farm lands",
+        "origin"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "2 The new type of coronavirus infection was believed to have been transmitted from animals, and by January 2020 it was suspected that the initially doi: 10 .1136/bmj.m606 | BMJ 2020;368:m606 | the bmj affected patients had been infected with the virus through human to human transmission.",
+        "Their earliest sampling time was 8 December, 2019, and 91-214 days before that day, the viruses infected human or host animals and began to diverge in the evolution process.",
+        "This market, termed a \"wet\" market, sells a variety of seafood, cuts of meat, and both live and dead animals in over one thousand stalls in constant close contact; however, whether this market was the origin of the outbreak remains unknown [9] .",
+        "As animal markets had been implicated in the SARS-CoV outbreak of 2002-2003, and initial 2019-nCoV infections are also related to the seafood market with wildlife trading, it was soon assumed that wild animals were also involved in the emergence of 2019-nCoV. Yet, from [42, 43] .",
+        "Although the origin of SARS-CoV-2 is still being investigated, current evidence suggests it was transmitted to humans through the spread of wild animals illegally sold in Huanan Seafood Wholesale Market [7] ."
+      ]
+    },
+    {
+      "description": "Evidence that livestock could be infected (e.g., field surveillance, genetic sequencing, receptor binding) and serve as a reservoir after the epidemic appears to be over. 2. Surveillance of mixed wildlife- livestock farms for SARS-CoV-2 and other coronaviruses in Southeast Asia.",
+      "searchKeywords": [
+        "livestock",
+        "wildlife",
+        "exotic animals",
+        "virus"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Although the drivers of any convergent evolution are 117 unknown, its possible occurrence, as well as that of recombination, would further highlight Coronaviruses, including those related to 2019-nCoV, are clearly present in many wild 135 mammals in Asia 5,6,7,11 .",
+        "Most of the patients infected with novel 2019-nCoV had a history to the seafood and live animal markets, and the vendor used to sale wild animal species, including marmot, snake, leopard cat, bamboo rat, badger, and hedgehog in Huanan seafood wholesale market (Supplementary Figure S4 ), all of which were susceptible to the novel CoV in nature, indicating that it remains likely there was intermediate hosts in the transmission cascade from bats to humans ( Fig. 2 ) .",
+        "In this paper, results of seroepidemiological studies in horses and other animal species are presented, with the aim of showing the distribution and possible significance of this virus in the domestic and wild animal population."
+      ]
+    },
+    {
+      "description": "Evidence that livestock could be infected (e.g., field surveillance, genetic sequencing, receptor binding) and serve as a reservoir after the epidemic appears to be over. 3. Experimental infections to test host range for this pathogen.",
+      "searchKeywords": [
+        "wildlife",
+        "animals",
+        "infections",
+        "host range"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Thus, positive pathogen results (especially virus and atypical pathogens, which is a type of common pathogens detection in unexplained pneumonia) cannot be the exclusive criteria to COVID-2019 during unexplained pneumonia diagnosis.",
+        "To prevent the next epidemic and pandemic related to these interfaces, we call for research and investment in three areas: 1) surveillance among wildlife to identify the high-risk pathogens they carry; 2) surveillance among people who have contact with wildlife to identify early spillover events; and 3) improvement of market biosecurity regarding the wildlife trade.",
+        "Coronavirus host range is 36 determined by its spike glycoprotein (S).",
+        "The specificity of the interaction between virus and receptor determines the host tropism and host range."
+      ]
+    },
+    {
+      "description": "Animal host(s) and any evidence of continued spill-over to humans",
+      "searchKeywords": [
+        "Animal host",
+        "wildlife",
+        "spill-over",
+        "animal to human"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "SARS-CoV-2 is likely a batorigin coronavirus that was transmitted to humans through a spillover from bats or through yet undetermined intermediate animal host (avian, swine, phocine, bovine, canine, other species) or wild animals.",
+        "At the time of writing, the host from which the SARS-CoV-2 entered the human population is unknown although the suspicion is that food markets are likely sources for the original spillover.",
+        "The virus is likely of bat origin, with a possible intermediate animal host, and most of the first documented cases were linked to environmental exposure in the Huanan Seafood Wholesale Market in early December 2019."
+      ]
+    },
+    {
+      "description": "Socioeconomic and behavioral risk factors for this spill-over",
+      "searchKeywords": [
+        "spill-over",
+        "Socioeconomic"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "The present outbreak of lower respiratory tract infections, including respiratory distress syndrome, is the third spillover, in only two decades, of an animal coronavirus to humans resulting in a major epidemic.",
+        "The reversion of the avian 306 conformation containing the glutamic acid residue, to the mammalian conformation containing 307 offers another angle for interpretation, especially in regards to identifying possible spill-over or 353 re-assortment events and is depicted in Figure 6 ."
+      ]
+    },
+    {
+      "description": "Sustainable risk reduction strategies",
+      "searchKeywords": [
+        "Sustainable",
+        "risk reduction",
+        "strategies"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Interpretation As strong social distancing intervention strategies had the most effect in reducing the epidemic peak, this strategy may be considered when weaker strategies are first tried and found to be less effective.",
+        "The lockdown resulted in a downward trend in national and provincial epidemic curves, however, these measures are not sustainable and eventually there will be a strategy to return to normality.",
+        "Strategies include airport screening, health communication to passengers at risk, reduction or prevention of travel (such as the lock down of Wuhan which occurred on January 23 rd 2020)."
+      ]
+    }
+  ]
+}
