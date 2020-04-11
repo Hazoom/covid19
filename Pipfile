@@ -14,11 +14,7 @@ ftfy = "*"
 torch = "*"
 transformers = "*"
 pytest = "*"
-boto3 = "*"
-s3fs = "*"
-sqlalchemy = "*"
-argcomplete = "*"
-falcon = "*"
+gensim = "*"
 
 [requires]
 python_version = "3.6"
