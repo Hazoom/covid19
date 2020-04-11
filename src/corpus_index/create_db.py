@@ -1,7 +1,6 @@
 import argparse
 import os
 
-import argcomplete
 import pandas as pd
 from sqlalchemy import create_engine
 
@@ -41,7 +40,6 @@ def parse_arguments():
                         default=data_dir,
                         help="Path to a directory where model will be saved.")
 
-    argcomplete.autocomplete(parser)
     options = parser.parse_args()
 
     if not os.path.isfile(options.input):

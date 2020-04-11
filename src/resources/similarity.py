@@ -148,7 +148,7 @@ class CovidSimilarityResource(CovidResource):
 
         if method == 'textrank':
             from nlp.textrank import calc_textrank  # pylint: disable=import-outside-toplevel
-            _, _, _, phrase_list = calc_textrank(input_sentences, num_phrases=5, preprocess=True)
+            _, _, _, phrase_list = calc_textrank(input_sentences, num_phrases=5)
             input_sentences = [' '.join(phrase[0] for phrase in phrase_list)]
             method = Aggregation.UNION
 
