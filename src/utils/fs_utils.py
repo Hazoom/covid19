@@ -1,12 +1,11 @@
 import contextlib
 import io
+import logging
 import os
 import tempfile
-import logging
-import boto3
 
+import boto3
 from s3fs import S3FileSystem
-from s3fs.core import split_path
 
 LOG = logging.getLogger('fs')
 
@@ -28,6 +27,10 @@ def _open(fname, mode="rb", **kwargs):
         return S3FileSystem().open(fname, mode=mode, **kwargs)
     else:
         return io.open(fname, mode=mode, **kwargs)
+
+
+def split_path(fname):
+    return fname.split('s3://')[1].split('/', 1)
 
 
 def get_tempf(fname, tempdir=tempfile.gettempdir()):

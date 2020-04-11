@@ -1,10 +1,10 @@
 import os
+
 import numpy as np
 import six
 
 from config import data_dir
 from utils.fs_utils import fs_open, _open
-from utils.text_utils import tokenize, clean_sentence
 
 
 class WordFreq:
@@ -47,7 +47,7 @@ class WordFreq:
 class SimpleEncoder:
     def __init__(self,
                  word_embeddings: dict,
-                 word_embedding_dim: int = 200,
+                 word_embedding_dim: int = 100,
                  preprocessor: callable = lambda s: s,
                  tokenizer: callable = lambda s: s.split(),
                  word_freq: callable = lambda w: 0.0,
@@ -134,12 +134,10 @@ class SimpleEncoder:
         Returns:
             SimpleEncoder
         """
-        w2v_path = os.getenv('W2V_PATH', os.path.join(data_dir, 'word-vectors-200d.txt'))
+        w2v_path = os.getenv('W2V_PATH', os.path.join(data_dir, 'word-vectors-100d.txt'))
         encoder = cls.from_w2v(w2v_path,
-                               tokenizer=tokenize,
-                               preprocessor=lambda sent: clean_sentence(sent,
-                                                                        remove_punct=False,
-                                                                        remove_numbers=False))
+                               tokenizer=lambda s: s.split(),
+                               preprocessor=lambda s: s)
 
         word_count_path = os.getenv('WC_PATH')
         if word_count_path is not None:

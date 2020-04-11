@@ -16,6 +16,9 @@ transformers = "*"
 pytest = "*"
 boto3 = "*"
 s3fs = "*"
+sqlalchemy = "*"
+argcomplete = "*"
+falcon = "*"
 
 [requires]
 python_version = "3.6"

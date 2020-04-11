@@ -3,7 +3,7 @@ import nmslib
 import numpy as np
 
 from config import data_dir
-from corpus.base_index import CorpusIndexBase
+from corpus_index.base_index import CorpusIndexBase
 from utils.data_utils import nn_iter
 from utils.fs_utils import get_tempf
 
