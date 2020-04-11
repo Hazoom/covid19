@@ -152,8 +152,8 @@ def _add_line_for_sentence_level(section_type,
 def generate_df_sentence_level(all_files: List[dict],
                                sha_to_properties: dict,
                                filter_covid19: bool,
-                               bigram_model: str,
-                               trigram_model: str) -> pd.DataFrame:
+                               bigram_model,
+                               trigram_model) -> pd.DataFrame:
     sentences_lines = []
 
     for file in tqdm(all_files):
