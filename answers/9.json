@@ -1,0 +1,149 @@
+{
+  "taskName": "What has been published about ethical and social science considerations?",
+  "subTasks": [
+    {
+      "description": "Efforts to articulate and translate existing ethical principles and standards to salient issues in COVID-2019",
+      "searchKeywords": [
+        "ethical principles",
+        "articulate",
+        "translate"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "The standards address patient care issues within a quality framework that defines the programme.",
+        "First, we summarize the research articles presented in this Special Issue and then issue a call for renewed action to end discrimination and marginalization in our societies, and to strengthen wider efforts to support the health of the most marginalized people.",
+        "ChEMBL [14] , an open database that brings chemical, bioactivity, and genomic data together to translate genomic information into effective new drugs, is employed to construct our 2019-nCoV training set.",
+        "These findings can help the government and health departments better communicate with the public on health and translate public health needs into practice to create targeted measures to prevent and control the spread of COVID-19."
+      ]
+    },
+    {
+      "description": "Efforts to embed ethics across all thematic areas, engage with novel ethical issues that arise and coordinate to minimize duplication of oversight",
+      "searchKeywords": [
+        "ethics",
+        "ethical issues",
+        "thematic",
+        "oversight"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "The vital ethical issue is whether administration of chloroquine in the setting of COVID-19 is experimental, and therefore requires ethical trial approval, or off-label (i.e. ethically justifiable as the best available treatment).",
+        "This study was approved by the ethics commissions of hospital, with a waiver of informed consent due to a public health outbreak investigation.",
+        "Here, we address epidemiological issues that affect the feasibility of an algorithmic approach to instantaneous contact tracing; ethical and implementation issues are addressed separately.",
+        "The involvement of social workers and ethics committee members might help to alleviate some of the ethical hurdles encountered during the management of a patient receiving ECMO in such highpressure settings."
+      ]
+    },
+    {
+      "description": "Efforts to support sustained education, access, and capacity building in the area of ethics",
+      "searchKeywords": [
+        "methods",
+        "ethics",
+        "access",
+        "information"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Medical ethics review should strictly abide by the review work content of the \"Ethical Review Methods for Biomedical Research Involving Humans\" [17] , and here are two suggestions: (1) undertake experimental projects that match actual capabilities; (2) design of experimental schemes An appropriate research method must be selected based on the nature of the problem to be solved"
+      ]
+    },
+    {
+      "description": "Efforts to establish a team at WHO that will be integrated within multidisciplinary research and operational platforms and that will connect with existing and expanded global networks of social sciences.",
+      "searchKeywords": [
+        "WHO",
+        "research",
+        "platform",
+        "connect",
+        "global"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Organisations such as the Global Outbreak Alert and Response Network, the Coalition for Epidemic Preparedness Innovations, and the Global Research Collaboration For Infectious Disease Preparedness, supported by the WHO Research Blueprint and its Global Coordinating Mechanism, were able to accelerate the outbreak response and rapidly initiate technical platforms for the development of vaccines and therapeutics.",
+        "Organisations such as the Global Outbreak Alert and Response Network (GOARN), the Coalition for Epidemic Preparedness Innovations (CEPI), the Global Research Collaboration For Infectious Disease Preparedness (GloPID-R) and the Global Initiative on Sharing All Influenza Data (GISAID) have been supported by the WHO Research Blueprint and its Global Coordinating Mechanism to provide a forum where those with the expertise and capacity to contribute to managing new threats can come together both between and during outbreaks to develop innovative solutions to emerging problems.",
+        "This study adds to the existing report of the WHO and literature by systematically evaluating the global changing .",
+        "Based on the 147 unified geographical framework, this research quickly absorbed and in-148 tegrated geographical big data, including the WHO data released inter-149 nationally, daily domestic health and disease control data, professional 150 population health platform data, Tencent location request data, Baidu 151 migration data, microblog text data, patient spatiotemporal trajectory 152 data, international airline data, census data, education enrollment data, 153 land cover data, remote sensing imagery and other multisource data 154 graduated symbols, heat maps, and three-dimensional maps."
+      ]
+    },
+    {
+      "description": "Efforts to develop qualitative assessment frameworks to systematically collect information related to local barriers and enablers for the uptake and adherence to public health measures for prevention and control. This includes the rapid identification of the secondary impacts of these measures. (e.g. use of surgical masks, modification of health seeking behaviors for SRH, school closures)",
+      "searchKeywords": [
+        "efforts",
+        "public health",
+        "measures",
+        "surgical masks",
+        "SRH",
+        "school closures",
+        "effective"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "The containment strategy of integrated nonpharmaceutical interventions (NPIs) including travel bans and restrictions, contact reductions and social distancing, early case identification and isolation have been rapidly deloyed across China to contain the outbreak, and the combination of these interventions appears to be effective.",
+        "A 15% decline in the healthcare labor force, combined with reasonable parameters for COVID-19 such as a 15% case reduction from school closings and 2% baseline mortality rate implies that a 15% loss in the healthcare labor force must decrease the survival probability per percent healthcare worker lost by 17.6% for a school closure to increase cumulative mortality.",
+        "It is useful to know the critical value of where school closure stops saving lives and starts increasing mortality, which is defined by the condition Imposing condition (2) as a strict equality and rearranging yields , when exceeds this value, then more lives are lost from school closures than saved.",
+        "Here we present a simple yet effective model based on Baidu Migration data and the confirmed cases data to quantify the consequences and importance of Wuhan lock-down combined with nationwide traffic restrictions and Stay At Home Movement on the ongoing spread of COVID-19 across China Mainland, and preliminarily assess the efforts of 29 Provinces and 44 prefecture-level cities during the epidemic. ."
+      ]
+    },
+    {
+      "description": "Efforts to identify how the burden of responding to the outbreak and implementing public health measures affects the physical and psychological health of those providing care for Covid-19 patients and identify the immediate needs that must be addressed.",
+      "searchKeywords": [
+        "public health",
+        "psychological",
+        "health",
+        "nurse",
+        "doctor",
+        "pressure",
+        "stress"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Consistent with the results of previous studies in SARS-affected and H1N1 influenza-affected hospitals, our study showed that nurses and medical technicians presented higher rates of psychological stress than doctors, probably because they have more and closer contact with patients.",
+        "Specifically, what we can do to deal with an outbreak like COVID-19 would be to (1) collect information as early as possible, (2) monitor the epidemic as close as possible just like we do for an earthquake and make preparations for a hurricane and (3) communicate with the society and use confirmed data appropriately reframed not causing or exacerbating fear and panic in the public, stress and distress among medical and public health professionals, as well as administrators to make right decisions and take the right strategies at the right time in the right places for the right people.",
+        "Psychological stress, especially vicarious traumatization (VT) caused by the COVID-19 pandemic, should not be ignored.",
+        "Therefore, early intervention of VT and psychological stress for the GP and medical staff, as well as the transparent announcement of epidemic information can facilitate the psychological treatment and control of COVID-19."
+      ]
+    },
+    {
+      "description": "Efforts to identify the underlying drivers of fear, anxiety and stigma that fuel misinformation and rumor, particularly through social media.",
+      "searchKeywords": [
+        "fear",
+        "anxiety",
+        "stigma",
+        "misinformation",
+        "fake news",
+        "social media"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Similarly, the current COVID-19 outbreak and response have been accompanied by a massive \"infodemic\"-an overabundance of information-some accurate and many not-that makes it hard for people to find trustworthy sources and reliable guidance [10] , as most turn to social media, it is vital to track and respond to myths and rumors, an up-to-date reference should be maintained.",
+        "Reassuringly, DXY.cn maintains a special section dedicated to debunking fake news, myths, and rumours about the COVID-19 outbreak.",
+        "The unpredictable future of this epidemic has been exacerbated by myths and misinformation, often driven by erroneous news reports and the public's misunderstanding of health messages, thus causing worry in the population."
+      ]
+    }
+  ]
+}
