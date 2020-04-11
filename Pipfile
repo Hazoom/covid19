@@ -15,6 +15,8 @@ torch = "*"
 transformers = "*"
 pytest = "*"
 gensim = "*"
+install = "*"
+bert-tensorflow = "*"
 
 [requires]
 python_version = "3.6"

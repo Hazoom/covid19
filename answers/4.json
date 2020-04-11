@@ -1,0 +1,199 @@
+{
+  "taskName": "What do we know about vaccines and therapeutics?",
+  "subTasks": [
+    {
+      "description": "Effectiveness of drugs being developed and tried to treat COVID-19 patients.",
+      "searchKeywords": [
+        "SARS-CoV-2",
+        "drugs",
+        "effective",
+        "clinical_trial",
+        "bench_trial",
+        "viral_inhibitors",
+        "naproxen",
+        "clarithromycin",
+        "minocyclinethat",
+        "viral_replication"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "In the present study, our systematic results of cure rate of  drug for MERS-COV infection indicated that ribavirin and interferon, oseltamivir, antivirals and intravenous immunoglobulin all had been effective for MERS-COV infection, with the cure rate of those drugs was 74.2%, 69.2%, 67.1% and 62.5% respectively.",
+        "We calculated a GSEA score (see Methods) for each drug and used this score as an indication of bioinformatics validation of the 135 drugs.",
+        "However, our ability to identify and validate effective combinations is limited by a combinatorial explosion, driven by both the large number of drug pairs and dosage combinations.",
+        "Prior to our evaluation of 49 drugs against SARS-CoV-2 infection, we also tested antiviral activity of several other drugs based on the cytopathic effect of the virus in the presence of each drug.",
+        "The current standard treatment including oxygen therapy, antiviral treatment, fluid management, and antimicrobial therapy for secondary bacterial infections",
+        "Although several drugs, such as remdesivir and chloroquine phosphate, have been registered in ongoing clinical trials for COVID-19, no specific antiviral drugs against this novel coronavirus are approved so far.",
+        "The drug effective curve of S416 to H3N2 and  H9N2  is shown",
+        "Azithromycin has been shown to be active in vitro against Zika  and Ebola viruses  and to prevent severe respiratory  tract infections when administrated to patients suffering viral  infection",
+        "Antibiotics, including levofloxacin, moxifloxacin, sulbactam and cefoperazone, piperacillin and meropenem were used.",
+        "Similarly, antibiotics like azithromycin have also been mooted  as treatments for COVID-19."
+      ]
+    },
+    {
+      "description": "Methods evaluating potential complication of Antibody-Dependent Enhancement (ADE) in vaccine recipients.",
+      "searchKeywords": [
+        "ade",
+        "antibody_dependent"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "In addition to potent neutralizing antibody elicitation upon  immunization, potential 315 antibody-dependent disease enhancement (ADE) is the major concern",
+        "First, SARS-Cov-2 infects patients by binding human ACE2, which is widely expressed in multiple organs throughout the  body",
+        "SARS-CoV-2 might lead to multi-system inflammation  through ACE/Ang II/AT1R pathway and ACE2/Ang (1-7)/Mas receptor pathway",
+        "Second, it was reported that antibody dependent enhancement (ADE) of SARS-CoV-2 due to prior exposure to other coronaviruses might also be involved in COVID-19.",
+        "ADE can elicit sustained inflammation, lymphopenia, and/o cytokine storm, which makes it a possible explanation for the  geographic limitation of severe cases. Third, combined infections may lead to a more severe systemic inflammatory response.",
+        "antibody-dependent enhancement  (ADE) effects of S protein antibodies are found in MERS coronavirus",
+        "Another rare risk worth mentioning during CP therapy is antibody-dependent infection enhancement, occurring at sub-neutralizing concentrations, which could suppress innate antiviral systems and thus could allow logarithmic intracellular growth of the virus",
+        "Protection is antibody-dependent as shown in a study of vaccinated macaques depleted of CD4 cells before immunization  which abrogated protection whereas depletion of CD8+ T cells"
+      ]
+    },
+    {
+      "description": "Exploration of use of best animal models and their predictive value for a human vaccine.",
+      "searchKeywords": [
+        "animal_model",
+        "animal_based",
+        "animal_disease"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Animal-based diseased models have also been developed to identify systemic mechanisms of acute exacerbation",
+        "But there is a need for rapid human and animal-based trails as\n            these vaccines still require 3 to 10 months for \n            commercialization."
+      ]
+    },
+    {
+      "description": "Capabilities to discover a therapeutic (not vaccine) for the disease, and clinical effectiveness studies to discover therapeutics, to include antiviral agents.",
+      "searchKeywords": [
+        [
+          "therapeutic",
+          "antiviral_approach",
+          "clinical_study"
+        ]
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Current antiviral drugs developed to treat coronavirus  infections primarily target S protein, the 3C-like and  papain-like  proteases",
+        "the alternative antiviral 'approach we propose here relies on a CRISPR-based system for recognizing and degrading the intracellular viral genome and its resulting viral mRNAs",
+        "This has implications for the rapid development of a first-line therapeutic by repurposing heparin and for next-generation, tailor-made, GAG-based antivirals.",
+        "Here, we describe preliminary tests for the ability of the SARS-CoV-2 S1 RBD to bind heparin, an important prerequisite for the underpinning research related to the development of SARS-CoV-2 heparin-based therapeutic.",
+        "This implies a therapeutic challenge is attributed to the enhanced rigidity of the COVID-19 RBD relative to that of the  SARS-2002.",
+        "For these reasons the development of antibodies that target the spike RBD of coronaviruses and block their interaction with ACE2, disrupting a fundamental infection mechanism, represent attractive therapeutic solutions."
+      ]
+    },
+    {
+      "description": "Alternative models to aid decision makers in determining how to prioritize and distribute scarce, newly proven therapeutics as production ramps up. This could include identifying approaches for expanding production capacity to ensure equitable and timely distribution to populations in need.",
+      "searchKeywords": [
+        "scarce_therapeutics",
+        "production_capacity",
+        "prioritization"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "For example, identification of those at greater risk may help to guide the prioritization of resources to reduce infection risks in susceptible groups.",
+        "More severe cases were seen in elderly with coexisting condition, which warrants clear triage management and high-risk approach in healthcare access prioritization.",
+        "And this risk stratification tool will enable better centralized management and early treatment of severe patients, and optimal use of medical resources via patient prioritization and thus significantly reduce mortality rates",
+        "Therefore, early identification of patients at high risk for progression to severe COVID-19 will facilitate appropriate supportive care and reduce the mortality rate, unnecessary or inappropriate healthcare utilization via patient ' prioritization."
+      ]
+    },
+    {
+      "description": "Efforts targeted at a universal coronavirus vaccine.",
+      "searchKeywords": [
+        [
+          "coronavirus_vaccine",
+          "universal epitope"
+        ]
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "These immunodominant epitopes can be incorporated in universal subunit CoV vaccine.",
+        "The present study provided a detailed  genetic analysis of 2019-nCoV genome evolution and potential  universal epitopes for subunit vaccine development",
+        "This creates a challenge for vaccine development efforts, especially for the design of epitope vaccines, where only a limited number of epitopes may be included",
+        "We found that the B cell epitope profiles seem to be more consistent among the three viruses, while the T cell epitope profiles are more distinct."
+      ]
+    },
+    {
+      "description": "Efforts to develop animal models and standardize challenge studies",
+      "searchKeywords": [
+        [
+          "animal model",
+          "animal model development"
+        ]
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "However, given the therapeutic effect of AS on CLP animal models, we firmly believe that AS will improve the function of T and B cells.",
+        "While some animal models for such studies are under 33 development, most of the research is carried out in the Vero E6 cells.",
+        "In addition, these findings could have key implications for  animal model development 22 as well as further research into how SARS-CoV-2 modulates the type I IFN response early 23 during infection.",
+        "Having an understanding of the animal models and model development previously utilized for the other coronaviruses of interest will aid in the development of a model for 2019-nCoV.",
+        "Moving forward, these data 232 could provide important insights for both the treatment of SARS-CoV-2 as well as developing  novel animal models of disease."
+      ]
+    },
+    {
+      "description": "Efforts to develop prophylaxis clinical studies and prioritize in healthcare workers",
+      "searchKeywords": [
+        [
+          "prophylaxis",
+          "healthcare worker"
+        ]
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "To investigate  the number of preventable infections of healthcare workers from asymptomatic infected patients, we used a simple logistic model of transmission",
+        "In the trial  examining the effectiveness of ribavirin/lopinavir/ritonavir compared to no treatment as a prophylactic measure for healthcare workers, treatment-related adverse events were widely reported in the prophylaxis arm",
+        "Further works are also warranted to determine if these compounds could be useful as chemoprophylaxis to prevent the  transmission of the virus, especially for healthcare workers.",
+        "There have been 21 cases of healthcare personnel becoming infected with HIV despite postexposure prophylaxis"
+      ]
+    },
+    {
+      "description": "Assays to evaluate vaccine immune response and process development for vaccines, alongside suitable animal models [in conjunction with therapeutics",
+      "searchKeywords": [
+        [
+          "immune response",
+          "vaccine process"
+        ]
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "We then propose that an \"Sp/Nsp cocktail vaccine\" containing a structural 35 protein(s) (Sp) and a non-structural protein(s)  would stimulate effective complementary 36 immune responses",
+        "Since all the three vaccines were found to be antigenic, they should be able to induce good immune response.",
+        "we revealed the immune response process of SARS-CoV-2 entering the blood circulation system using immune profiling analysis with single-cell resolution.",
+        "we  demonstrate that the glycans of coronavirus spikes are not able to form an efficacious high-density global shield to thwart the  humoral immune response"
+      ]
+    }
+  ]
+}
