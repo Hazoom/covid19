@@ -1,0 +1,164 @@
+{
+  "taskName": "What do we know about diagnostics and surveillance?",
+  "subTasks": [
+    {
+      "description": "How widespread current exposure is to be able to make immediate policy recommendations on mitigation measures.",
+      "searchKeywords": [
+        "exposure",
+        "policy recommendations",
+        "mitigation"
+      ],
+      "optionalKeywords": [
+        "exposure",
+        "policy",
+        "mitigation"
+      ]
+      ],
+      "bestSentences": [
+        "As the virus spreads globally it is likely that government strategies will shift from containment and delay towards mitigation (4) ",
+        "4 As a result, some of the public health precautionary strategies are selfinitiated by the community in attempts to influence the government's policies; for instance, health-care staff held a strike to press for a total border closure, which the government was reluctant to endorse.",
+        "hese strategies include the direct government acquisition of stockpiles of vaccines, the use of prizes, priority review vouchers, and the establishment of advance market commitments, each of which is described in more detail in Supplemental Materials."
+      ]
+    },
+    {
+      "description": "Denominators for testing and a mechanism for rapidly sharing that information, including demographics, to the extent possible.",
+      "searchKeywords": [
+        "mitigation",
+        "government",
+        "strategies"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "We described the demographic characteristics and exposures of the cases, and defined the incubation period as the exposure to the transmission source to the onset of symptoms.",
+        "The diagnosis of COVID-19 relies on the following criteria: clinical symptoms, epidemiological history and positive CT images, as well as positive pathogenic testing."
+      ]
+    },
+    {
+      "description": "Sampling methods to determine asymptomatic disease (e.g., use of serosurveys (such as convalescent samples) and early detection of disease (e.g., use of screening of neutralizing antibodies such as ELISAs).",
+      "searchKeywords": [
+        "demographic",
+        "Sampling methods",
+        "asymptomatic",
+        "serosurveys",
+        "convalescent samples",
+        "screening",
+        "ELISAs"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "In other words, if someone is symptomatic and confirmed to be COVID19+ on any of the days between t+1 to t+14, then s/he was infected but asymptomatic on day t. Using publicly available data for the state of Washington for dates Feb. 28-March 16, 2020, our math shows that on Feb. 28, 2020, there were at least 567 asymptomatic infected cases, despite there being only 1 officially confirmed case reported for that day.",
+        "2 [ Figure 1 ] 3 [ Table 2 ] 4 Preliminary ELISA evaluation of recombinant proteins 5 Indirect ELISAs were used to preliminarily evaluate the six recombinant proteins.",
+        "Our model incorporates the following essential ingredients of COVID-19 epidemics: (1) the number of asymptomatic infectious individuals (with very mild or no symptoms), (2) the number of symptomatic reported infectious individuals (with severe symptoms) and (3) the number of symptomatic unreported infectious individuals (with mild symptoms).",
+        "The rate asymptomatic infectious become reported symptomatic is ν 1 = f ν, the rate asymptomatic infectious become unreported symptomatic is The cumulative number of reported cases at time t is given by the formula and the cumulative number of unreported",
+        "Ratio from aggregate case data Assuming homogeneous attack rates across the different age groups, the demographic distribution of cases by age across each location should broadly match the demography of the populations in Wuhan and across the rest of China."
+      ]
+    },
+    {
+      "description": "Efforts to increase capacity on existing diagnostic platforms and tap into existing surveillance platforms.",
+      "searchKeywords": [
+        "diagnostic platforms",
+        "capacity",
+        "surveillance platforms"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Singapore's systematic enhancement in capacity and capabilities for pandemic preparednessfrom establishing a purpose-build National Centre for Infectious Diseases to stockpiling personal protective equipment (PPE) at the national level -seeks to limit the mortality and morbidity from the next communicable disease outbreak, such as COVID-19, while safeguarding the occupational health of its frontline healthcare workers.",
+        "Shenzhen city has established a preexisting Infectious Disease Epidemic Plan (IDEP), which has facilitated managing and containing local outbreak of the 2019-nCoV. In case the patient load exceeds the hospital capability of the IDH, new IDHs should be considered either by building a temporary new IDH or reconstructing an existing hospital.",
+        "The aftermath of recent epidemics and pandemics (eg, severe acute respiratory syndrome, H1N1 pandemic, Middle East respiratory syndrome, and Ebola) have highlighted the need to reinforce national public health capabilities and infrastructures, including diseasesurveillance systems and laboratory networks, as well as human capacity (eg, training in surveillance, epidemic response, and diagnostic testing)."
+      ]
+    },
+    {
+      "description": "Recruitment, support, and coordination of local expertise and capacity (public, private—commercial, and non-profit, including academic), including legal, ethical, communications, and operational issues.",
+      "searchKeywords": [
+        "Recruit",
+        "expertise"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "ational primary care bodies can coordinate with public health leads to cascade information to practitioners, communicate with the public, and collate health intelligence from the frontline primary care.",
+        "Here, we assessed the required expertise and diagnostic capacity in specialised laboratories in 30 European Union/European Economic Area (EU/EEA) countries.",
+        "Forty-five laboratories in 28 countries indicated having previous expertise in human coronavirus (HCoV) diagnostics.",
+        "Organisations such as the Global Outbreak Alert and Response Network (GOARN), the Coalition for Epidemic Preparedness Innovations (CEPI), the Global Research Collaboration For Infectious Disease Preparedness (GloPID-R) and the Global Initiative on Sharing All Influenza Data (GISAID) have been supported by the WHO Research Blueprint and its Global Coordinating Mechanism to provide a forum where those with the expertise and capacity to contribute to managing new threats can come together both between and during outbreaks to develop innovative solutions to emerging problems.",
+        "The Government was already drawing on the expertise and capacity of Public Health England (PHE), the Ministry of Defence (MOD) and the Department of Health (DoH), to drive its response but social scientists had no seat at the table."
+      ]
+    },
+    {
+      "description": "National guidance and guidelines about best practices to states (e.g., how states might leverage universities and private laboratories for testing purposes, communications to public health officials and the public).",
+      "searchKeywords": [
+        "government",
+        "best practices",
+        "guidelines",
+        "public",
+        "public health"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "These findings can help the government and health departments better communicate with the public about public health and then translate public health needs into practice to create targeted measures to prevent and control the spread of COVID-19.",
+        "4 As a result, some of the public health precautionary strategies are selfinitiated by the community in attempts to influence the government's policies; for instance, health-care staff held a strike to press for a total border closure, which the government was reluctant to endorse.",
+        "This would allow governments to attempt to tackle the pandemic more effectively in terms of public health, as it provides a valuable and dynamic metric of the pandemic.",
+        "This approach is used to obtain timely access to public responses so that the government and the health department can better communicate with the public on health issues and take appropriate measures to prevent and control the epidemic 35, 39 ."
+      ]
+    },
+    {
+      "description": "Development of a point-of-care test (like a rapid influenza test) and rapid bed-side tests, recognizing the tradeoffs between speed, accessibility, and accuracy.",
+      "searchKeywords": [
+        "point-of-care test",
+        "rapid influenza test",
+        "speed",
+        "accuracy"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "While this strategy is a proof-of-concept and will require further testing using replication-competent SARS-CoV-2 viruses and validation in animal models before clinical tests in humans, it represents a unique approach to implement a rapid and broad antiviral defense in humans against emerging pathogens for which there are no effective vaccines.",
+        "To perform this test, for example for influenza, all the influenza virus-antibody sequences were removed from the training set and the obtained model were tested on all samples of Influenza and the accuracy is reported here.",
+        "Non-COVID-19 group included several other respiratory viruses such as influenza A, B and adenovirus infection cases, these cases were negative for anti-2019-nCoV specific antibody detection, indicating that the antibody detection has a good ability to resist interference and differential Considering that COVID-19 has broken out in many countries around the world, more than 80000 people have been diagnosed and the number is growing rapidly, the main problem at present is the need for highly sensitive tests to screen the suspected cases and to prevent missed diagnosis by nucleic acid tests, lower false positive rates for antibody testing are acceptable.",
+        "Our study discovered that, in low epidemic regions outside Hubei province such as Eastern-China region, the current reliable first approach to the unexplained pneumonia should be a combination of chest CT, SARS-COV-2 RT-PCR and multi-plex PCR (rapid influenza antigen tests and RT-PCR could also be used as a substitute)."
+      ]
+    },
+    {
+      "description": "Rapid design and execution of targeted surveillance experiments calling for all potential testers using PCR in a defined area to start testing and report to a specific entity. These experiments could aid in collecting longitudinal samples, which are critical to understanding the impact of ad hoc local interventions (which also need to be recorded).",
+      "searchKeywords": [
+        "surveillance",
+        "PCR",
+        "testers",
+        "local interventions",
+        "patients",
+        "report",
+        "area"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "In contrast to local case reporting, travel surveillance relies on diagnosing patients that have acquired infections while traveling outside the country of diagnosis.",
+        "For nonsuspected patients with potential COVID-19 exposure or from epidemic areas within the last 2 weeks, we performed hemodialysis in an isolation area within the hemodialysis facility."
+      ]
+    }
+  ]
+}
