@@ -1,0 +1,341 @@
+{
+  "taskName": "What has been published about medical care?",
+  "subTasks": [
+    {
+      "description": "Resources to support skilled nursing facilities and long term care facilities.",
+      "searchKeywords": [
+        "long term care",
+        "nursing facilities",
+        "care facilities",
+        "skilled facilities"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Further, extreme functional impairment within long-term care facilities makes close contact between health care workers and residents inevitable.",
+        "Moreover, an increase of ESBL-producing isolates has been detected in nursing homes and healthcare associated facilities"
+      ]
+    },
+    {
+      "description": "Mobilization of surge medical staff to address shortages in overwhelmed communities",
+      "searchKeywords": [
+        "surge medical",
+        "medical staff",
+        "mobilization",
+        "shortage"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "To cope with further shortages, the designated hospitals have transferred medical and clinical testing staff to frontline departments from other departments such as oncology, orthopaedics and medicines",
+        "In the situation of an unanticipated surge of patients combined with a relative shortage of medical resources, the establishment of screening and diagnostic protocol for suspected patients can focus medical resources on patients who need them and may help reduce missed cases."
+      ]
+    },
+    {
+      "description": "Age-adjusted mortality data for Acute Respiratory Distress Syndrome (ARDS) with/without other organ failure – particularly for viral etiologies",
+      "searchKeywords": [
+        "mortality data",
+        "age mortality",
+        "ards",
+        "acute respiratory distress syndrome"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Data from China, South Korea, Italy, and Iran suggest that the CFR increases sharply with age and is higher in people with COVID-19 and underlying comorbidities",
+        "We examine the role of age structure in deaths thus far in Italy and South Korea and illustrate how the pandemic could unfold in populations with similar population sizes but different age structures, showing a dramatically higher burden of mortality in countries with older versus younger populations",
+        "The total number of expected deaths by age group was derived by multiplying the total number of people in each age group and country by an assumed population infection rate of 0.4 and age-and sex-specific mortality rates",
+        "While population age structure is crucial for understanding the populations at the highest risk of mortality both across and within countries"
+      ]
+    },
+    {
+      "description": "Extracorporeal membrane oxygenation (ECMO) outcomes data of COVID-19 patients",
+      "searchKeywords": [
+        "ecmo"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "This patient progressed to critical condition and received extracorporeal membrane oxygenation (ECMO) but had not recovered by the observation endpoint of this study",
+        "If oxygenation index remains below 100 mmHg after invasive ventilation for 24 hours with high positive end-expiratory pressure in prone position, ECMO should be used promptly."
+      ]
+    },
+    {
+      "description": "Outcomes data for COVID-19 after mechanical ventilation adjusted for age.",
+      "searchKeywords": [
+        "mechanical ventilation",
+        "age adjustment"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": []
+    },
+    {
+      "description": "Knowledge of the frequency, manifestations, and course of extrapulmonary manifestations of COVID-19, including, but not limited to, possible cardiomyopathy and cardiac arrest.",
+      "searchKeywords": [
+        "extrapulmonary manifestation",
+        "cardiomyopathy",
+        "cardiac arrest"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "The human coronavirus HCoV-19 infection can cause acute respiratory distress syndrome, hypercoagulability, hypertension, extrapulmonary multiorgan dysfunction.",
+        "Diarrhoea and gastrointestinal involvement are well known in coronavirus infections of animals and humans",
+        "On February 13, 2020, the ACC released an ACC Clinical Bulletin titled 'Cardiac Implications of Novel Wuhan Coronavirus (COVID-19)'for addressing cardiac implications of this disease"
+      ]
+    },
+    {
+      "description": "Application of regulatory standards (e.g., EUA, CLIA) and ability to adapt care to crisis standards of care level.",
+      "searchKeywords": [
+        "regulatory standards",
+        "EUA",
+        "CLIA",
+        "crisis standards"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "The diagnostics industry has responded rapidly, with Emergency Use Authorization granted for PCR-based tests from the US CDC among many other providers releasing reagents, primers and probes, and other materials to support this urgent public health need",
+        "The typical turnaround time for screening and diagnosing patients with  suspected SARS-CoV-2 has been >24 hours given the need to ship samples overnight 60 to reference laboratories.",
+        "To accelerate clinical diagnostic testing for COVID-19 in the United States, the FDA on February 28th, 2020 permitted individual clinically licensed laboratories to report the results of in-house developed SARS-CoV-2 diagnostic assays while awaiting results of an EUA submission for approval",
+        "It is now also advisable for countries to review their pandemic preparedness plan, including healthcare system surge capacity and plans for business and essential service continuity.",
+        "Emergency Use Authorizations (EUA) for compassionate use cases may be forthcoming from the US federal government for normally unapproved treatments.",
+        "That is, if overwhelmed, the federal government has advised states to create guidelines for hospitals to allocate scarce resources to save the greatest number of lives",
+        "In a single prospective, observational study of 36 patients with COVID-19, those receiving hydroxychloroquine demonstrated higher rates of viral load reduction/disappearance, though no patient centered outcomes were assessed.",
+        "The FDA worked closely with manufacturers, clinical trial sponsors, and international regulators to rapidly assess product characterization data and protocols for these first human clinical trials and granted permission for the initiation of these Phase I studies in an expedited manner."
+      ]
+    },
+    {
+      "description": "Approaches for encouraging and facilitating the production of elastomeric respirators, which can save thousands of N95 masks.",
+      "searchKeywords": [
+        "production",
+        "elastomeric respirators",
+        "alternative respirator"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "In case of shortages, alternatives to respirators should be considered, including other classes of FFP respirators, elastomeric half-mask, and full face-piece air-purifying respirators.",
+        "Under the EUA for N95 respirators, FDA authorized four models of respirators for use by the general public to help reduce the wearer's exposure to airborne germs during the public health medical emergency."
+      ]
+    },
+    {
+      "description": "Best telemedicine practices, barriers and faciitators, and specific actions to remove/expand them within and across state boundaries.",
+      "searchKeywords": [
+        "telemedicine practices",
+        "barriers",
+        "faciitators"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "While there are currently barriers to the widespread implementation of telemedicine such as coordination of testing in patients triaged as high risk, this is a technology that will likely prove important to promote viral containment",
+        "In response to the current COVID-19 situation, the Centers for Medicare & Medicaid Services and commercial health plans largely have waived co-pays for TM visits as a means to encourage utilization in this time of need",
+        "Recent studies have demonstrated similar health outcomes for patients whether delivered in person or synchronously by a remote provider for various conditions",
+        "In addition, prevention and treatment guidelines, and guidance on drug use and management of coronavirus patients can be accessed via the telemedicine cloud.",
+        "We call upon the American Medical Association to take measures to promote guidance for wider implementation of telemedicine platforms and to help smaller solo and group practices with loans and other forms of financial relief to keep practices afloat during this crisis",
+        "Results from a single study of over 100 COVID-19 patients found chloroquine was superior to control in reducing pneumonia exacerbation, improving imaging findings and virus-negative conversion, and shortening the course of the disease."
+      ]
+    },
+    {
+      "description": "Guidance on the simple things people can do at home to take care of sick people and manage disease.",
+      "searchKeywords": [
+        "guidance rules",
+        "home",
+        "handwashing"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Guidance of self-protection, active isolation of close contacts (either at home or centralized) should be continuously highlighted.",
+        "Hand hygiene is a readily implemented behavior: the distribution of soap to households in humanitarian settings has been shown to increase handwashing by over 30%",
+        "Participants were asked about the use of non-pharmacological measures (frequent hand washing, use of alcohol-based hand sanitizers and handwashing at home after touching potentially contaminated surfaces on public transport or in shops",
+        "The third point is to recommend personal hygiene, in particular hand washing and avoiding contact with suspected patients"
+      ]
+    },
+    {
+      "description": "Oral medications that might potentially work.",
+      "searchKeywords": [
+        "oral medication",
+        "remdesivir"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "The most frequently assessed therapies were: stem cells therapy, lopinavir/ritonavir, chloroquine, umifenovir, hydroxychloroquine, plasma treatment, favipiravir, methylprednisolone, and remdesivir.",
+        "In particular, the effect of favipiravir and atazanavir was compared to those of the reference drugs (chloroquine, lopinavir, remdesivir) because favipiravir is considered as a drug candidate for clinical trials and atazanavir was recently predicted as the most potent antiviral drug",
+        "Remdesivir has demonstrated activity against MERS-CoV and SARS-Cov in vitro and animal models.",
+        "An in vitro study found that remdesivir and chloroquine inhibit viral infection, but further study is required.",
+        "Other medications under study include tocilizumab and favipiravir",
+        "Hydroxychloroquine and azithromycin are also under study",
+        "Notably, the SARS-CoV-2 RdRP gene and IAV NA gene that we targeted in our study are also the targets of two antiviral drugs, Remdesivir and Oseltamivir.",
+        "Remdesivir is already administered for COVID-19 through compassionate use requests, and clinical trials for its use against COVID-19 have already started in the U.S."
+      ]
+    },
+    {
+      "description": "Use of AI in real-time health care delivery to evaluate interventions, risk factors, and outcomes in a way that could not be done manually.",
+      "searchKeywords": [
+        "AI",
+        "real-time"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "A bed-side ultrasound device is essential to evaluate vascular conditions, to monitor cardiopulmonary interaction and assess hemodynamic status.",
+        "It classifies patients into mild, moderate, severe or critical pneumonia. nCapp can also establish an online COVID-19 real-time update database, and it updates the model of diagnosis in real time based on the latest real-world case data to improve diagnostic accuracy.",
+        "Three types of data could potentially be used in real time to improve predictions by considering secondary case heterogeneity.",
+        "we have developed an AI program by analyzing representative CT images using a deep learning method.",
+        "Secondly, the lesions of COVID-19 in CT volumes were not labeled by radiologists and only patient-level labels  were utilized for training the AI algorithm in our study."
+      ]
+    },
+    {
+      "description": "Best practices and critical challenges and innovative solutions and technologies in hospital flow and organization, workforce protection, workforce allocation, community-based support resources, payment, and supply chain management to enhance capacity, efficiency, and outcomes.",
+      "searchKeywords": [
+        "best practices",
+        "challenges",
+        "innovative ",
+        "drug supply",
+        "hospital flow",
+        "protection of workers",
+        "workforce protection",
+        "workforce allocation",
+        "community-based resources",
+        "supply chain management"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "It has greatly aggravated the shortage of human resources and heavy traffic flow due to the vacation of healthy workers and factory workers, which further magnified the risk of transmission.",
+        "It is necessary to implement a community-based comprehensive intervention, which requires support from national polices, to ensure the availability of medical resources, such as essential drugs, equipment, and human resources, and to improve the affordability of COPD therapy for patients.",
+        "Additionally, high value strategic assets like human resources, facilities, and infrastructures require protection; hence, it is critical that the OHSEMS be formulated, implemented, and continually improved to achieve the best results possible.",
+        "Community-based comprehensive intervention should be implemented to ensure the availability of medical resources, such as essential drugs, equipment, and human resources.",
+        "We call for particular attentions on the effective sanitization of the high risk area and the use of high level protection masks for medical staff with direct contact with the COVID-19 patients or with long stay in high risk area",
+        "We call for particular attentions on the renovation of large stadiums as field hospitals with nature ventilation and protective measures is an effective approach to quarantine and treat mild symptom patients so as to reduce the COVID-19 transmission among the public",
+        "We call for the proper use and cleaning of toilets (e.g. ventilation and sterilization), as a potential spread source of coronavirus with relatively high risk caused by aerosolization of virus and contamination of surfaces after use",
+        "Now it is urgently needed to evaluate the disease dynamics in order to organize the appropriate quarantine activities, to estimate the required number of places in hospitals, the level of individual protection, the rate of isolation of infected persons",
+        "Protective attitudes, knowledge and a supportive social environment for disease prevention were reportedly being developed within the community",
+        "Flexibility is needed in the management of these resources,including the capacity to foresee and cope with overwhelming situations such as epidemics, disasters, etc., which may require rapid reorientation of the existing material and human resources.",
+        "These infection control interventions include early identification of cases and their contacts, avoiding close contact with people with airway symptoms, appropriate hand washing, and enhanced standard infection prevention, and control practices in the healthcare setting",
+        "Staff coming into patient contact should, where appropriate, wear disposable personal protection including an isolation gown with fluid-resistant properties, over-gown gloves, googles, and a fit-tested  FFP3 mask.",
+        "All equipment coming into contact, or near contact, with an at-risk patient needs to be disinfected.",
+        "Establishment of a coordination unit with representative of all professionals at Hospital and Department levels",
+        "Unique source for communication to have clear and timely information and avoid redundancy and contrasting messages",
+        "General rules for prevention and personal behavior with detailed information to all professionals from the very beginning (procedures for disinfection of rooms and machines, optimize pathways and waiting rooms strictly for patients",
+        "Review of organizational procedures: postponement of treatments for low-priority cases (prostate with hormone, benign diseases, etc.), favor short-term Tx (hypofractionation), skip F/U visits (use phone contacts)",
+        "Triage procedure at the entrance of the department for all patients and accompanying persons: first access questionnaire, temperature measurement, check of symptoms",
+        "Check warehouse stocks for masks, coats, gloves, alcoholic cleaning solutions and disposable devices",
+        "Plan for transportation of patients who could not be supported by family or volunteers",
+        "Organization of psychological support for patient families and professionals."
+      ]
+    },
+    {
+      "description": "Efforts to define the natural history of disease to inform clinical care, public health interventions, infection prevention control, transmission, and clinical trials",
+      "searchKeywords": [
+        "natural history",
+        "pharmacoepidemiologic studies"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Studies include biologic quality studies , trials in which the primary end point is related to further defining efficacy, and pharmacoepidemiologic studies designed to examine the natural history of disease or background rates for adverse events.",
+        "Examples of required studies are pharmacoepidemiologic studies designed to assess a serious risk, trials with a primary safety end point, preclinical studies investigating specific end organ toxicities, as well as pharmacokinetic studies in the indicated population at potential risk for high drug exposure that could result in toxicity",
+        "First, symptom screening depends on the natural history of an infection: individuals are increasingly likely to show detectable symptoms with increasing time since exposure",
+        "A rapid and robust response by the global scientific community has described many key aspects of SARS-CoV-2 transmission and natural history, but key questions remain.",
+        "If well tracked, early introductions of an emerging pathogen provide a unique opportunity to characterize its transmission, natural history, and the effectiveness of screening.",
+        "Furthermore, during these early phases, uninfected and asymptomatic contacts are often closely tracked, providing critical information on transmission and natural history.",
+        "This analysis of early SARS-CoV-2 cases and their close contacts in Shenzhen China, provides insights into the natural history, transmission and control of this disease.",
+        "As SARS-CoV-19 continues to spread, it is important that we continue to expand our knowledge about its transmission and natural history.",
+        "Perhaps among the natural history of this virus infection, the predominant characteristic of SARS-CoV-2 is its remarkably high infectivity potential, where an infected individual can spread the virus to two to three other individuals when in close proximity."
+      ]
+    },
+    {
+      "description": "Efforts to develop a core clinical outcome set to maximize usability of data across a range of trials",
+      "searchKeywords": [
+        "core clinical outcome",
+        "mutualized data",
+        "data usability"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Methods Data of COVID-19 patients with clinical outcome in a designated hospital in Wuhan, were retrospectively collected from electronic medical records.",
+        "Materials and Methods: Data were obtained from the Web of Science (WOS), PubMed, and Scopus Core Collection on March 02, 2020, and updated on March 10.",
+        "Recently, many researches in the lancet reported the epidemiological, clinical symptoms, laboratory data, imaging features, treatment methods and clinical outcomes of non-pregnant adults and pregnant women infected with 2019-nCOV",
+        "In the current study, we analyzed data on 402 patients from a single hospital from December 2019 to February 2, 2020, with emphasis on mortality in these patients, in hope to understand characteristics related to clinical outcome in a more uniform clinical setting.",
+        "If the core data were missing, requests of clarification were immediately sent to the coordinators who subsequently contacted the attending clinicians.",
+        "Demographic, clinical, laboratory, radiological and clinical outcome data were collected from the hospital information system, nursing records and laboratory reports.",
+        "The clinical manifestations, laboratory data, imaging findings, pathogens, medications, surgical treatment and clinical outcomes were analyzed.",
+        "Accumulation of this data will allow correlation of clinical outcomes with purity assessments.",
+        "However, the data in this review permit a first synthesis of the clinical and laboratory characteristics of COVID-19."
+      ]
+    },
+    {
+      "description": "Efforts to determine adjunctive and supportive interventions that can improve the clinical outcomes of infected patients (e.g. steroids, high flow oxygen)",
+      "searchKeywords": [
+        "adjunctive interventions",
+        "supportive interventions",
+        "steroids",
+        "high flow oxygen"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "After treatmentwith CP, two patients were weaned from mechanical ventilation to high-flow nasal cannula and one patient discontinued high flow nasal cannula.",
+        "There were 23 cases (56.1%) underwent respiratory support, including oxygen therapy through only common nasal catheter, face mask, both common nasal catheter and face mask simultaneously, high flow nasal cannula and mechanic ventilation.",
+        "Oxygen mask and high flow oxygen were used to correct the hypoxemia",
+        "We defined severe patients as patients requiring either non-invasive ventilation, high flow oxygen devices or invasive mechanical ventilation or extracorporeal membrane oxygenation",
+        "He received antiviral drugs (arbidol and ribavirin) treatment and high flow nasal cannula on admission.",
+        "For example, a routine sequential respiratory support therapy for patients with SPO2 below 93% is: intranasal catheterization of oxygen, oxygen supply through mask, high flow oxygen supply through nasal catheter, non-invasive ventilation support, invasive ventilation support, and ECMO."
+      ]
+    }
+  ]
+}
