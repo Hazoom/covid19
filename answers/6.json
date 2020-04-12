@@ -1,0 +1,249 @@
+{
+  "taskName": "What do we know about non-pharmaceutical interventions?",
+  "subTasks": [
+    {
+      "description": "Guidance on ways to scale up NPIs in a more coordinated way (e.g., establish funding, infrastructure and authorities to support real time, authoritative (qualified participants)",
+      "searchKeywords": [
+        "non-pharmaceutical",
+        "scale_up",
+          "npi",
+        "support"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Nevertheless, by taking drastic social distancing measures and policies of controlling the source of infection, with the tremendous joint efforts from the government, healthcare workers, and the people (Fig. 1) , R t was substantially reduced to 0.32 in Wuhan after February 2, which was encouraging for the global efforts fighting against the Covid-19 outbreak using traditional non-pharmaceutical measures. 31 Some limitations of this study need to be noted.",  
+        "The aim of non-pharmaceutical infection prevention is to move a population towards herd protection, a state where a population maintains R 0 <1, thus making it impossible for a pathogen to cause an epidemic.",
+"However, testing capacity (having sufficient tests and laboratory throughput) to support these non-pharmaceutical interventions remains a challenge for containment and mitigation of COVID-19 infections.",
+          "The containment strategy of integrated nonpharmaceutical interventions (NPIs) including travel bans and restrictions, contact reductions and social distancing, early case identification and isolation have been rapidly deloyed across China to contain the outbreak, and the combination of these interventions appears to be effective."
+      ]
+    },
+    {
+      "description": "collaboration with all states to gain consensus on consistent guidance",
+      "searchKeywords": [
+        "non-pharmaceutical",
+          "national",
+          "consensus",
+          "guidance"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "China best exemplified this largescale quarantine by declaring epidemic zones and placing people under collective quarantine in villages, cities, or institutions. 21 In April 2003, the Chinese authorities gained full control of all activities to combat SARS, with guidelines and control measures that were national, unambiguous, rational, and widely followed, under central guidance.",
+        "A confirmed case should meet the criteria of notification for COVID-19 in Taiwan and be tested positive by real-time reverse transcriptase-polymerase chain reaction (RT-PCR) test. 12 Detailed information including demographic and clinical data was reported to the National Notifiable Disease Surveillance System. 13 The investigation team determined the clinical severity of the confirmed patients following the World Health Organization (WHO) interim guidance. 14 When the patient was laboratory-confirmed to have SARS-CoV-2 infection, a thorough epidemiological investigation including contact tracing was implemented by the outbreak investigation team of Taiwan CDC and local health authorities.",
+        'Consensus guidance from China advises "delayed cord clamping is not recommended" in order to reduce the risk of vertical transmission and that infants should be separated from mothers affected by COVID 19 (22) .',
+        "We first assigned cases into two groups based on the severity of their COVID-19 pneumonia according to the Diagnostic and Treatment Guidelines of the National Health Commission of China (v6) 9 .",
+        "Diagnostic criteria and clinical classification of all confirmed COVID-19 cases were based on guidelines of National Health Commission. 5 Data collection and analysis of cases and close contacts were determined by the National Health Commission of the People's Republic of China (PRC) to be part of a continuing public health outbreak investigation and were thus considered exempt from 93% in resting state; (3) arterial oxygen partial pressure/fraction of inspired oxygen ≤300 mmHg; 4. critical type: any one condition of the followings: (1) respiratory failure need mechanical ventilation; (2) shock; (3) other organs failure need intensive care unit (ICU) monitoring and treatment."
+          "Based on the National Guidelines in Diagnosis and Treatment Scheme for COVID-19 (9), the seriousness of clinical presentations of COVID-19 cases was categorized as mild, moderate, severe, and critical."
+      ]
+    },
+    {
+      "description": "mobilize resources to geographic areas where critical shortfalls are identified)",
+      "searchKeywords": [
+        "mobilize_resource",
+          "delivery_system", 
+          "health_care"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "During the 2009 influenza A(H1N1) pandemic, inadequate surge capacity highlighted the need for intensive-care reserves and improved health-care resource planning at all levels. 17, 18 In an effort to improve ECMO preparedness 19 for an outbreak of an emerging infectious disease, we highlight the ten key components of an ECMO action plan (panel) based on these four categories, with practical recommendations for health centres to ensure appropriate training, capacity, and planning, depending on local priorities and resources.",
+        "These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active. therapy for patients with acute myocardial infarction is to provide the best care, given the available resources, to such patients in a timely manner at any location.",
+        "The analysis at the micro-level may further specify the proposed measures and prescribe actions for: l the digital modernization of the system and the introduction of e-health, l the improvement of skills and competencies of human resources, l the development of modern procurement systems, analytical cost accounting, compensation methods, methods for preparing and monitoring the budget of hospitals, and l the introduction of internal control systems, quality management systems, one-day surgery, home health-care, distant care.",
+        "In particular, some of these cities already contributed significant healthcare resources to Hubei, leaving themselves inadequately prepared for the localized outbreak.",
+          "The lack of IPC in developing countries with limited resources is a major dilemma that leads to high rates of healthcare-associated infections. 65 Hand hygiene is arguably, the most important infection control procedure, and is often neglected by health-care workers in these countries. 66 While developing countries still lack the equipment, expertise, and health infrastructure to detect and manage patients, 65 SARS-CoV-2 is spreading rapidly in these unprepared countries . 67 It has been recommended to promptly prioritize resources, precise surveillance, and capacity development in countries with low preparedness for diagnosing the virus and limiting transmission. 68 What is most essential is that regular care activities do not suffer because of a pandemic condition, and that control of the far more common (and far more deadly) pathogens hospitals deal with on a daily basis remains of utmost importance."
+      ]
+    },
+    {
+      "description": "Rapid design and execution of experiments to examine and compare NPIs currently being implemented.",
+      "searchKeywords": [
+          "non-pharmaceutical",
+        "rapid_experiment",
+        "multidisciplinary",
+        "homeland_security_science",
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+          "To facilitate rapid determination of outbreak risk, we propose a reformulation of a classic result from random network theory that relies on contact tracing data to simultaneously determine the first moment (R 0 ) and the higher moments (representing the heterogeneity) in the distribution of secondary infections.",
+        "To address the need for rapid quantification of risk, while acknowledging the shortcomings of R 0 , we use network science methods to derive both the probability of an epidemic and its final size.",
+        "Other effective measures include One health approach, implementation of effective prevention and control strategies, rapid communication and networking, and exploring advances in science and technology for developing rapid and confirmatory diagnostics, enhancing disease surveillance and monitoring, implementation of strict biosecurity measures, and timely efforts toward designing appropriate and effective vaccines and therapeutics (Cheng et al. 2020; Cohen 2020; Cyranoski 2020; Lu 2020; Munjal et al. 2017; Singh et al. 2017) .",
+        'Progress has been facilitated by: 1) application of principles of reliability science (in which failures to adhere to best practice are regarded as "defects" in care); 2) development of concise "bundles" of evidence-based practices (culled from exhaustive and somewhat cumbersome guidelines); 3) application of an "execution framework" (including clear aims supported by leadership, multi-disciplinary teams employing quality improvement methods at the bedside in clinical microsystems, clear measures of outcomes and success, and a parsimonious set of "drivers" required to achieve these outcomes); and 4) advances in technology.',
+        "Methods: Twenty-seven experts from 15 countries participated in a European Science Foundation workshop with plenary sessions and smaller work groups and building on the interdisciplinary expertise within ESPRIT (ESCMID Study Group on Primary Care Topics), EuroDURG (European Drug Utilisation Research Group), WHO (World Health Organisation), ESAC and other experts in this field.
+      ]
+    },
+    {
+      "description": "Rapid assessment of the likely efficacy of school closures, travel bans, bans on mass gatherings of various sizes, and other social distancing approaches.",
+      "searchKeywords": [
+        [
+          "travel_ban",
+          "school",
+          "social_distance"
+        ]
+      ],
+      "optionalKeywords": [
+        "efficacy",
+        "effective",
+        "assesment",
+          "control"
+      ],
+      "bestSentences": [
+        "Incorporating social mixing patterns in different contexts and at different times of the week (weekend vs weekday) into mathematical models, it is possible to evaluate the potential effectiveness of a range of control measures targeting respiratory infections, including school closures [4, 14] and social distancing [11] .",
+        "Mathematical models can help us understand how SARS-CoV-2 would spread across the population and inform control measures that may mitigate future transmission. 24, 25 Here, we simulated the trajectory of the ongoing outbreak of COVID-19 in Wuhan, using an age-structured SEIR model. 17, 18 Because individuals' mixing patterns are non-random, they influence the transmission dynamics of the disease. 11 Models assessing the effectiveness of social distancing interventions, such as school closure, need to account for social structures and heterogeneities in mixing of individuals.",
+        "In the event that local containment is unsuccessful, our findings suggest that national outbreak control is feasible provided that R 0 is low (≤1•5), with a combination of the proposed inter vention measures (quarantine, school closure, and workplace distancing) being most effective.",
+        "In a systematic review, focused on influenza and school closures, Jackson et al. find some evidence that school closures are effective, but that the empirical evidence does not resolve how or when to close schools. 4 Furthermore, they find school closure mostly reduces infection in school children.",
+        "Effective interventions include limiting population mobility (e.g. cancellation of mass gathering, school closures and work-from-home arrangements) and public education (e.g. use of face masks and improved personal hygiene) (1)."
+      ]
+    },
+    {
+      "description": "Methods to control the spread in communities, barriers to compliance and how these vary among different populations.",
+      "searchKeywords": [
+        [
+          "community",
+          "compliance",
+          "population"
+        ]
+      ],
+      "optionalKeywords": [
+        "method",
+        "effective",
+        "control"
+      ],
+      "bestSentences": [
+        "Since the outbreak of COVID-19, some countries have suspended flights to and from China, and prevented Chinese people from travelling to their countries; both of these actions violate WHO International Health Regulations. 6 Similarly, in community prevention and control of the disease, the measures taken by individual villages and communities to seal off roads are of no value. 7 Such measures could result in civil unrest and reduce compliance with infection prevention and control advice.",
+          "For instance, even if traffic restrictions are not effective on their own, they facilitate the control of the population and thus it would be easier to detect infected individuals and treat them.",
+          "The WHO's initial focus was on managing droplet and contact transmission, but it has since recognized the role fomites play as well. 2 Fomites are important because while populations generally protect themselves from clearly observable droplet transmissions (coughing, sneezing), being invisible, fomite transmission is regularly overlooked both in hospitals and communities. 3e5 Consequently, during the community saturation phase, fomite transmission may play a larger role than droplet transmission as a mechanism in emergent infectious diseases. 3e6 In this paper we argue that by implementing enhanced Traffic Control Bundling (eTCB), 6 an extension of the TCB deployed by Taiwan during the 2003 SARS outbreak, countries can interrupt the community-hospital-community transmission cycle, thereby limiting COVID-19's impact.",
+          "Therefore, the next stage of SARS-CoV-2 prevention and control needs to focus on the screening of asymptomatic patients in the community with a history of contact with the imported population, especially for children and the elderly."
+      ]
+    },
+    {
+      "description": "Models of potential interventions to predict costs and benefits that take account of such factors as race, income, disability, age, geographic location, immigration status, housing status, employment status, and health insurance status.",
+      "searchKeywords": [
+        [
+         "intervention", 
+            "benefit_cost",
+            "housing", 
+            "demographic",
+            "income", 
+            "age", 
+            "immigration",
+            "census"
+        ]
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Ratio from aggregate case data Assuming homogeneous attack rates across the different age groups, the demographic distribution of cases by age across each location should broadly match the demography of the populations in Wuhan and across the rest of China.",
+          "Respondents were asked about their demographics (including sex, age, living district, education 118 attainment, household income), self-perceived health status, travel history in the past month, occurrence 119 of respiratory symptoms in the past fourteen days and anxiety level using the Hospital, Anxiety and 120 Depression scale -Anxiety (HASD-A) (0-7 = Normal; 8-10 = Borderline abnormal; 11-21 = Abnormal).",
+          "The model was developed using detailed census, workplace and mobility data using a model development methodology applied previously.11 Such models create realistic representations of the respective communities at an individual-byindividual level using the best available data sources, including from the Australian Bureau of Statistics (ABS).16 The Newcastle model represents 272,409 people in an urban area with a population which is representative of the Australian population as a whole, in terms of age distribution.",
+          "Demographic data included gender, age, hospital classification, years of working, departments, professional titles, undertaking management work or not, educational background, marriage status, single child or not, and fertile or not."
+      ]
+    },
+    {
+      "description": "Policy changes necessary to enable the compliance of individuals with limited resources and the underserved with NPIs.",
+      "searchKeywords": [
+        [
+          "access",
+            "policy", 
+            "compliance",
+            "equitable"
+        ]
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Social distancing policies may themselves influence the background mortality risks, as people may be less likely to access health and social care, and because social isolation has in many previous studies been shown to be associated with the onset and progression of cardiovascular and other diseases (34) .",
+        "Research is a key part of the COVID-19 response, and we believe that the government should act, with legislation and other means, to massively mobilise publicly accountable access to nationwide NHS health and social care data across a large number of data custodians for researchers, clinician and policy makers NHS data across the whole country.",
+          "Also, this research work will contribute significantly to recent research findings by Nesteruk (2020) and Ming and Zhang (2020) as well as inform government, non-government organizations as well as policy maker's decision on sustainable policies to prevent the spread of the disease based on specific age groups of the active population. .",
+          "A key measurable goal for the success of health policy is assessing Universal Health Coverage, including access to effective and safe medicines and other health targets within the UN's Sustainable Development Goals."
+      ]
+    },
+    {
+      "description": "Research on why people fail to comply with public health advice, even if they want to do so (e.g., social or financial costs may be too high).",
+      "searchKeywords": [
+        [
+          "implementation",
+          "diagnostics",
+          "product",
+          "clinical",
+          "process"
+        ]
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Socio-economic differences may well be the reason for this: Ushuaia has one of the lowest poverty rates in the country, whereas Jujuy has one of the highest.",
+        "Individuals of lower socioeconomic status are more likely to find themselves in a dilemma between the need to work in high-risk locations and the lack of protective equipment.",
+        "Previous modeling studies have shown that community level control measures are effective in reducing disease transmissibility, however, prolonged closures of schools and businesses, as well as limited public gatherings have negative socio-economic impacts that must be considered (30, 31) .",
+          "The negative socio-economic impacts dictate that the community-level interventions can only last a finite amount of time.",
+          "The evaluation of additional factors (demographic, socio-economic, political) included in the IDVI that may influence the overall potential impact of an unfolding epidemic identifies several countries that had a significant importation risk with a low to medium IDVI, such as Nigeria, Ethiopia, Egypt and Algeria."
+      ]
+    },
+    {
+      "description": "Research on the economic impact of this or any pandemic.",
+      "searchKeywords": [
+        [
+          "implementation",
+          "diagnostics",
+          "product",
+          "clinical",
+          "process"
+        ]
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "It had allocated €2800 million to all regions for health services and created a new fund with €1000 million for priority health interventions. 4 However, these amounts need to be seen against the background of almost a decade of austerity from which the health system has yet to recover. 5 Third, in service delivery, the national Ministry of Health has developed a set of clinical protocols, published on its website.",
+          'However, even full productivity (20 million facemasks per day) does not seem to meet the need of a population of 1·4 billion in China.',
+          "In addition to the thousands of lives lost, the economic costs of these outbreaks are estimated as $671 million, $40 billion, and $2.2 billion, respectively (5) (6) (7) (8) .",
+          "In 2006, Dr. Larry Brilliant stated that 90% of the epidemiologists in his confidence agreed that there would be a large influenza pandemic within two generations, in which 1 billion people would sicken, 165 million would die, and the global economy would lose $1 to $3 trillion (11) (see Supplementary Materials for further discussion)."
+      ]
+    },
+      {
+      "description": "This would include identifying policy and programmatic alternatives that lessen/mitigate risks to critical government services, food distribution and supplies, access to critical household supplies, and access to health diagnoses, treatment, and needed care, regardless of ability to pay.",
+      "searchKeywords": [
+        [
+          "implementation",
+          "diagnostics",
+          "product",
+          "clinical",
+          "process"
+        ]
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "There are also significant resource implications not just in terms of PPE use but predominantly in terms of the time required to don and doff PPE for every care interaction from bringing food to routine observations to clinical review.",
+          'However, even full productivity (20 million facemasks per day) does not seem to meet the need of a population of 1·4 billion in China.',
+          "Social planning and health policy explore, on the one hand, the type and quantity of health services and goods needed by the population and on the other, the human, material, and financial resources, i.e., the necessary inputs for the system to operate as well as the outputs and outcomes.",
+          "It is necessary to implement a community-based comprehensive intervention, which requires support from national polices, to ensure the availability of medical resources, such as essential drugs, equipment, and human resources, and to improve the affordability of COPD therapy for patients."
+      ]
+    }
+}
