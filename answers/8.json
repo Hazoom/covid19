@@ -248,7 +248,46 @@
       "bestSentences": [
         "Interventions: Screening and management of patients using a hospital-specific protocol, which included fever triage, monitoring visitors and patients, emergency response, personnel training for healthcare team members, health education for patients and family, medical materials management, disinfection and wastes disposal protocols. :",
         "To report our experiences screening and managing patients with suspected or confirmed novel coronavirus (COVID-19) disease using a hospital-specific protocol.",
-        "Key components of the protocol included: a three-level fever triage process; monitoring visitors and inpatients, formation of an emergency response team for COVID-19, personnel training for healthcare team members, health education for patients and family, medical materials management, and disinfection and wastes disposal protocols."
+        "Key components of the protocol included: a three-level fever triage process; monitoring visitors and inpatients, formation of an emergency response team for COVID-19, personnel training for healthcare team members, health education for patients and family, medical materials management, and disinfection and wastes disposal protocols.",
+        "Confirmation of COVID-19 was based on a positive result for real-time reverse transcription polymerase chain reaction (RT-PCR) testing of SARS-CoV-2 in nasopharynx swabs by hospital laboratory, and double-confirmed by local Centers for Disease Control and Prevention using the same RT-PCR protocol."
+      ]
+    },
+    {
+      "description": "Policies to mitigate the effects on supplies associated with mass testing, including swabs and reagents.",
+      "searchKeywords": [
+        "protocols",
+        "mass",
+        "supplies",
+        "swabs",
+        "test"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "In spite of superior accuracy, PCR-based molecular testing using throat swabs requires more complicated techniques of laboratory personnel with prolonged reporting time, which may not be suitable for emerging cases of SARS-CoV-2.",
+        "Since testing began, local procedures and national guidelines have changed in response to changing understanding of the disease and demand for testing.",
+        "A protocol for performing this assay is provided in the Methods section and can be used for testing any of the other designs we have provided."
+      ]
+    },
+    {
+      "description": "Technology roadmap for diagnostics.",
+      "searchKeywords": [
+        "Technology",
+        "product",
+        "development",
+        "roadmap",
+        "diagnostics"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "77 An updated roadmap for MERS-CoV product development lists all available diagnostics and other diagnostics in the developmental phase."
       ]
     }
   ]
