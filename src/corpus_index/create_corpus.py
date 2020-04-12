@@ -2,7 +2,6 @@ import argparse
 import os
 import time
 
-import argcomplete
 import numpy as np
 import pandas as pd
 
@@ -91,7 +90,6 @@ def parse_arguments():
                         default=data_dir,
                         help="Path to a directory where model will be saved.")
 
-    argcomplete.autocomplete(parser)
     options = parser.parse_args()
 
     if not os.path.isfile(options.corpus_file):
@@ -106,7 +104,7 @@ if __name__ == '__main__':
 
     print('-I- Loading sentences from CSV files')
 
-    sentences = pd.read_csv(args.corpus_file, index_col=0)['cleaned_sentence'].values
+    cleaned_sentences = pd.read_csv(args.corpus_file, index_col=0)['cleaned_sentence'].values
 
-    print(f'-I- Encoding {sentences.shape[0]} sentences')
-    embed_sentences(sentences, args)
+    print(f'-I- Encoding {cleaned_sentences.shape[0]} sentences')
+    embed_sentences(cleaned_sentences, args)
