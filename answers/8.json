@@ -12,7 +12,6 @@
         "exposure",
         "policy",
         "mitigation"
-      ]
       ],
       "bestSentences": [
         "As the virus spreads globally it is likely that government strategies will shift from containment and delay towards mitigation (4) ",
@@ -142,13 +141,9 @@
     {
       "description": "Rapid design and execution of targeted surveillance experiments calling for all potential testers using PCR in a defined area to start testing and report to a specific entity. These experiments could aid in collecting longitudinal samples, which are critical to understanding the impact of ad hoc local interventions (which also need to be recorded).",
       "searchKeywords": [
-        "surveillance",
         "PCR",
-        "testers",
-        "local interventions",
-        "patients",
-        "report",
-        "area"
+        "test",
+        "longitudinal study"
       ],
       "optionalKeywords": [
         "new_coronavirus",
@@ -156,8 +151,104 @@
         "covid19"
       ],
       "bestSentences": [
-        "In contrast to local case reporting, travel surveillance relies on diagnosing patients that have acquired infections while traveling outside the country of diagnosis.",
-        "For nonsuspected patients with potential COVID-19 exposure or from epidemic areas within the last 2 weeks, we performed hemodialysis in an isolation area within the hemodialysis facility."
+        "In subsequent research in this project, a longitudinal study should be conducted that uses a wider sample and measures the mental health status of medical personnel from multiple dimensions, which can help better identify the mutual influence between demographic data and mental health status.",
+        "Weather C'3 is an asymptomatic infection did not been identified by PCR test, but the same contact history and the similar onset time of her three relatives indicate that C'3 was an asymptomatic COVID-19-carrier.",
+        "Asymptomatic travellers will be missed by symptom-based surveillance; and, even if tested, some asymptomatic contacts may be missed due to the imperfect sensitivity of the PCR test 20 ."
+      ]
+    },
+    {
+      "description": "Separation of assay development issues from instruments, and the role of the private sector to help quickly migrate assays onto those devices.",
+      "searchKeywords": [
+        "assays",
+        "development",
+        "issues",
+        "private sector"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "119 We also did not take into account other factors which could cause the delay in development of In conclusion, we provided proof of concept that the available SARS-CoV antibody 133 assays can reliably detect antibodies in patients with COVID-19 which could be used in this 134 current outbreak situation for serosurveys and as a diagnostic tool for under resourced countries.",
+        "Assays using quantitative reverse 55 transcription-polymerase chain reaction (qRT-PCR) approaches for detection of the 56 virus in 4-6 hours have been developed by several laboratories, including an 57 Emergency Use Authorization (EUA)-approved assay developed by the US CDC 6 .",
+        "In this issue of Eurosurveillance, we are publishing two articles on different aspects of the newly emerged 2019-nCoV. One is a research article by Corman et al. on the development of a diagnostic methodology based on RT-PCR of the E and RdRp genes, without the need for virus material; the assays were validated in five international laboratories [5] ."
+      ]
+    },
+    {
+      "description": "Efforts to track the evolution of the virus (i.e., genetic drift or mutations) and avoid locking into specific reagents and surveillance/detection schemes.",
+      "searchKeywords": [
+        "track",
+        "tracking",
+        "evolution",
+        "mutations"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Therefore, in-depth detection and tracking of the mutation and evolution of the virus in the population, as well as a cross-species transmission mechanism, are urgent tasks to be carried out at present.",
+        "This allows accurate identification of other coronavirus species and the tracking of new viral mutations as the outbreak expands globally.",
+        "We have systematically analyzed and tracked the genome mutations among 120 different strains of 2019-nCoV. Although most substitutions are de novo mutations, we have identified 2019-nCoV as a member of the betacoronaviruses, shares similar genome structures as bat SARS, human SARS, MERS with nucleotide identity over 88%, 79%, about and 50%,respectively 23 .",
+        "In this work, we investigated the mutation pattern of SARS-CoV-2 by comprehensive comparative genomic analysis of the nonsynonymous/ synonymous substitution, relative synonymous codon usage (RSCU) and selective pressure in order to explore their potential in evolution and function."
+      ]
+    },
+    {
+      "description": "Latency issues and when there is sufficient viral load to detect the pathogen, and understanding of what is needed in terms of biological and environmental sampling.",
+      "searchKeywords": [
+        "Latency",
+        "issues",
+        "viral load",
+        "pathogen",
+        "sampling"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "The low level of genetic variation in SARS-CoV-2 could merely be a sampling issue due to the short time this virus has circulated in humans.",
+        "Thus, positive pathogen results (especially virus and atypical pathogens, which is a type of common pathogens detection in unexplained pneumonia) cannot be the exclusive criteria to COVID-2019 during unexplained pneumonia diagnosis.",
+        "Exposed: Individual has been infected with a pathogen, but due to the pathogens incubation period, is not yet infectious."
+      ]
+    },
+    {
+      "description": "Use of diagnostics such as host response markers (e.g., cytokines) to detect early disease or predict severe disease progression, which would be important to understanding best clinical practice and efficacy of therapeutic interventions.",
+      "searchKeywords": [
+        "cytokines",
+        "severe"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Further analysis of plasma cytokines demonstrated that the median concentrations of IFN-γ, TNF-α, IL10, IL6, IL4, IL2 and IL17A in severe group were higher than mild group.",
+        "In contrast, the severe patient group showed more significant fluctuations in the serum levels of these cytokines ( Figure 3 ).",
+        "Clinically, for those severe patients, the main symptoms of 2019-nCoV pneumonia are fever, decreased white blood cell and lymphocyte count, increased C reaction protein and abnormally expressed cytokines [6] .",
+        "Except for IL-4, the presence of cytokines was shown to be significantly higher in the severe group than in the mild group."
+      ]
+    },
+    {
+      "description": "Policies and protocols for screening and testing.",
+      "searchKeywords": [
+        "protocols",
+        "screening",
+        "testing"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Interventions: Screening and management of patients using a hospital-specific protocol, which included fever triage, monitoring visitors and patients, emergency response, personnel training for healthcare team members, health education for patients and family, medical materials management, disinfection and wastes disposal protocols. :",
+        "To report our experiences screening and managing patients with suspected or confirmed novel coronavirus (COVID-19) disease using a hospital-specific protocol.",
+        "Key components of the protocol included: a three-level fever triage process; monitoring visitors and inpatients, formation of an emergency response team for COVID-19, personnel training for healthcare team members, health education for patients and family, medical materials management, and disinfection and wastes disposal protocols."
       ]
     }
   ]
