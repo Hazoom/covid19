@@ -289,6 +289,119 @@
       "bestSentences": [
         "77 An updated roadmap for MERS-CoV product development lists all available diagnostics and other diagnostics in the developmental phase."
       ]
+    },
+    {
+      "description": "Barriers to developing and scaling up new diagnostic tests (e.g., market forces), how future coalition and accelerator models (e.g., Coalition for Epidemic Preparedness Innovations) could provide critical funding for diagnostics, and opportunities for a streamlined regulatory environment.",
+      "searchKeywords": [
+        "scaling",
+        "diagnostic",
+        "Coalition for Epidemic Preparedness Innovations",
+        "funding"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "On 23 January 2020, the Coalition for Epidemic Preparedness Innovations (CEPI) announced that they will fund vaccine development programmes with Inovio, The University of Queensland and Moderna, Inc respectively, with the aim to test the experimental vaccines clinically in 16 weeks (By June 2020).",
+        "Plumbing work on research funding and development pipelines through recent changes in the structure of government funding, 2 new public and private joint ventures and specialist undergraduate and postgraduate courses now aim to incorporate pathways to translation at the earliest stages."
+      ]
+    },
+    {
+      "description": "New platforms and technology (e.g., CRISPR) to improve response times and employ more holistic approaches to COVID-19 and future diseases.",
+      "searchKeywords": [
+        "technology",
+        "platforms",
+        "CRISPR",
+        "response times",
+        "holistic approaches"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "The diagnostic performance of CRISPR-nCoV was assessed 44 and also compared across three technology platforms (mNGS, RT-PCR and CRISPR) 45 Results 46 2019-nCoVs sequenced in our study were conserved with the Wuhan strain, and shared 47 certain genetic similarity with SARS-CoV.",
+        "Health-Emergency Disaster Risk Management (Health-EDRM) emerged as the latest knowledge, research and policy paradigm shift from response to preparedness and health risk management in non-emergency times [1] ."
+      ]
+    },
+    {
+      "description": "Coupling genomics and diagnostic testing on a large scale.",
+      "searchKeywords": [
+        "Coupling genomics",
+        "diagnostic testing",
+        "large scale"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "National laboratory networks developed diagnostic tests once the COVID-19 genetic sequences were published 5 and laboratory testing capacity was increased in all three locations, although expansion of the diagnostic capacity to university and large private laboratories in Japan is still ongoing."
+      ]
+    },
+    {
+      "description": "Enhance capabilities for rapid sequencing and bioinformatics to target regions of the genome that will allow specificity for a particular variant.",
+      "searchKeywords": [
+        "rapid sequencing",
+        "bioinformatics",
+        "genome",
+        "specificity"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Key advantages of our approach over 127 existing methods such as qRT-PCR include (1) isothermal signal amplification for rapid 128 target detection obviating the need for thermocycling, (2) single nucleotide target 129 specificity (guide RNAs at the N2 site can distinguish SARS-CoV-2 from SARS-CoV 130 and MERS-CoV), (3) integration with portable, low-cost reporting formats such as lateral 131 flow strips, and (4) quick development cycle to address emerging threats from novel 132 zoonotic viruses (<2 weeks for SARS-CoV-2, Supplementary Fig. 6) .",
+        "The rapid sequencing of the nearly 30,000 nucleotide 2019-nCoV genome by Dr. Zhang's group at Fudan University and several other groups in China illustrate the dedication and increased capacity of the scientific infrastructure in China [4, 5] "
+      ]
+    },
+    {
+      "description": "Enhance capacity (people, technology, data) for sequencing with advanced analytics for unknown pathogens, and explore capabilities for distinguishing naturally-occurring pathogens from intentional.",
+      "searchKeywords": [
+        "sequencing",
+        "analytics",
+        "unknown pathogen",
+        "distinguishing",
+        "naturally-occurring pathogens",
+        "intentional"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "The probability that the outbreak is due to an unknown pathogen (Disease X) increases as more information becomes available, for two reasons: (i) the current outbreak can be seen to exhibit characteristics that are not similar to those observed in previous outbreaks, and; (ii) previously observed pathogens are ruled out by laboratory test results.",
+        "Thus, positive pathogen results (especially virus and atypical pathogens, which is a type of common pathogens detection in unexplained pneumonia) cannot be the exclusive criteria to COVID-2019 during unexplained pneumonia diagnosis.",
+        "Ideally, such algorithms would not only filter out artefacts and perform mapping to the reference genome, but also suggest the most represented pathogen in each sample, narrowing down the spectrum of considered pathogens."
+      ]
+    },
+    {
+      "description": "One Health surveillance of humans and potential sources of future spillover or ongoing exposure for this organism and future pathogens, including both evolutionary hosts (e.g., bats) and transmission hosts (e.g., heavily trafficked and farmed wildlife and domestic food and companion species), inclusive of environmental, demographic, and occupational risk factors.",
+      "searchKeywords": [
+        "One Health",
+        "surveillance",
+        "spillover",
+        "bats",
+        "wildlife",
+        "future"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "To prevent the next epidemic and pandemic related to these interfaces, we call for research and investment in three areas: 1) surveillance among wildlife to identify the high-risk pathogens they carry; 2) surveillance among people who have contact with wildlife to identify early spillover events; and 3) improvement of market biosecurity regarding the wildlife trade.",
+        "A broad surveillance for SARS-CoV-2 among different animals is warranted within Huanan Seafood Market and the vicinities, and should include potential reservoir hosts such as bats (both in the wild and if found in live animal markets) as well as potential intermediate hosts such as pigs, live poultry, fish, reptiles, and wild animals in close proximity to humans, which not only allow virus transmission among them but also lead to the generation of new viral strains.",
+        "Surveillance for SARS-CoV-2 in nonhuman hosts including swine and wild animals and further genetic analysis of SARS-CoV-2, and other SARS-like CoVs may reveal the possible intermediate host of the recently emerged human SARS-CoV-2 responsible for the current outbreak and is a very important One Health measure."
+      ]
     }
   ]
 }
