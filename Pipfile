@@ -17,6 +17,8 @@ pytest = "*"
 gensim = "*"
 networkx = "*"
 falcon = "*"
+s3fs = "*"
+sqlalchemy = "*"
 
 [requires]
 python_version = "3.6"
