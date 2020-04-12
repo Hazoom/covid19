@@ -1,0 +1,269 @@
+{
+  "taskName": "What has been published about information sharing and inter-sectoral collaboration?",
+  "subTasks": [
+    {
+      "description": "Methods for coordinating data-gathering with standardized nomenclature.",
+      "searchKeywords": [
+        "data gathering",
+        "standardized nomenclature"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "At the same time, three investigators complete the data collection and management to ensure the independence, completeness and authenticity of the data.",
+        "Currently, there are no standardized nomenclature guidelines for coronaviruses.",
+        "On the basis of the historical nomenclature procedure, I suggest to establish a standardized nomenclature process for coronaviruses.",
+        "In this editorial we propose a clinical staging system to establish a standardized nomenclature for uniform evaluation and reporting of this disease, to facilitate therapeutic application and evaluate response.",
+        "The usage of a standardized nomenclature based on the software enabled an easy exchange of data."
+      ]
+    },
+    {
+      "description": "Sharing response information among planners, providers, and others.",
+      "searchKeywords": [
+        "Sharing",
+        "response information",
+        "planners"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "WHO has developed strategic objectives for this response such as limiting human-to-human transmission and zoonotic transmission, early detection and management of victims, gathering data to identify unknown clinical aspects of this disease, sharing event information to all communities, minimizing social and economic impact via multisectoral partnerships and two online courses on an open learning platform to provide real-time knowledge [2, 5] .",
+        "They were then required to provide response to the statement \"information that I received about the novel coronavirus outbreak is sufficient\" with five options from strongly disagree (1) to strongly agree (5) ."
+      ]
+    },
+    {
+      "description": "Understanding and mitigating barriers to information-sharing.",
+      "searchKeywords": [
+        "information sharing",
+        "barrier"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "This can be achieved by ensuring that protocols on data sharing are calibrated to remove all hurdles pertaining to sharing of information.",
+        "Data sharing: data obtained for this study will be available to others.",
+        "It is planned that a later version of this document will be submitted for peer-reviewed publication, but in the interests of sharing information during a rapidly changing epidemic landscape, we are making this early version available.",
+        "Despite the potential for genome sequencing to revolutionize outbreak response, the global public health community still struggles to coordinate data sharing across international borders, between academic researchers, and with private companies [51] [52] [53] ."
+      ]
+    },
+    {
+      "description": "How to recruit, support, and coordinate local (non-Federal) expertise and capacity relevant to public health emergency response (public, private, commercial and non-profit, including academic).",
+      "searchKeywords": [
+        "coordinate",
+        "local",
+        "public health",
+        "emergency response"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "A level-1 response means that during the occurrence of a particularly serious public health emergency, the provincial headquarters shall organize and coordinate the emergency response work within its administrative area according to the decision deployment and unified command of the State Council [22] ",
+        "Any concern for possible COVID-19 should immediately prompt notification of institutional infection prevention and control as well as local or state health departments."
+      ]
+    },
+    {
+      "description": "Integration of federal/state/local public health surveillance systems.",
+      "searchKeywords": [
+        "federal",
+        "state",
+        "local",
+        "public health",
+        "emergency response",
+        "surveillance"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Therefore, ensuring that surveillance and health systems around the world are ready and sufficiently strong to detect and deal with cases seen is a priority.",
+        "Due to current limited knowledge of the epidemiology of the virus at the time of writing (e.g. the proportion and infectiousness of asymptomatic or subclinical infections) and the rapidly changing situation of the outbreak, the simplicity of our approach to define importation risk can help to quickly update risk assessments, prioritise surveillance, target limited resources and understand the potential of 2019n-CoV introduction at specific destinations [32] .",
+        "At the same time, municipalities responded differently, regarding timeliness and adequacy of measures (including declarations of public health emergency, holiday extension, event cancelation, and surveillance using infrared thermometers in public spaces",
+        "Even with this unknown, seasonal variation in transmissibility of SARS-CoV-2 and underlying differences in migration, introduction times, and attack rate should thus be taken into account when monitoring and projecting global transmission, planning further surveillance of the epidemic, and developing pandemic prevention and containment strategies."
+      ]
+    },
+    {
+      "description": "Value of investments in baseline public health response infrastructure preparedness",
+      "searchKeywords": [
+        "investments",
+        "baseline",
+        "public health",
+        "response",
+        "infrastructure preparedness"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Nevertheless, investments in preparedness for biological threats remain underfunded, leaving the world vulnerable to catastrophic .",
+        "If the investment is over a duration 1 year, the return is often annualized to simplify comparisons with other investments of different durations.",
+        "We believe that using near real-time multi-modal mobility datasets and detailed disease surveillance with qualitative and quantitative inputs on ongoing interventions and preparedness efforts will aid in swift and efficient global response to such outbreaks.",
+        "Preparedness is the key to navigating any public health crisis, and malariaendemic countries must be prepared for the challenges that COVID-19 might bring while minimising disruption to malaria control."
+      ]
+    },
+    {
+      "description": "Modes of communicating with target high-risk populations (elderly, health care workers).",
+      "searchKeywords": [
+        "communicate",
+        "talk",
+        "elders"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "We will also add capabilities to communicate with smartphones to have access to the cloud so that the result of each diagnostic test can be passed to health agencies remotely.",
+        "When suspected cases admitted to hospitals, involved physicians may mention Feidian and communicate in WeChat using this word."
+      ]
+    },
+    {
+      "description": "Risk communication and guidelines that are easy to understand and follow (include targeting at risk populations’ families too).",
+      "searchKeywords": [
+        "Risk communication",
+        "guidelines",
+        "simple",
+        "families"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "To this end, a hotline for psychological guidance can be set up, and guidelines for this hotline should be formulated to effectively alleviate the tension and panic of the public.",
+        "In addition, prevention and treatment guidelines, and guidance on drug use and management of coronavirus patients can be accessed via the telemedicine cloud.",
+        "Health authorities, including the National Health Commission of the People's Republic of China, 11 WHO, 12 and U.S Centers for Disease Control and Prevention, 13 have issued safety recommendations for taking simple precautions to reduce exposure to and transmission of the virus."
+      ]
+    },
+    {
+      "description": "Communication that indicates potential risk of disease to all population groups.",
+      "searchKeywords": [
+        "Communication",
+        "inform",
+        "indicates",
+        "potential risk",
+        "population groups"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "People with blood group A have a significantly higher risk for acquiring COVID-19 compared with non-A blood groups, whereas blood group O has a significantly lower risk for the infection compared with non-O blood groups.",
+        "For these measures to be effective, special attention should be devoted to those population groups that are more at risk and patterns of intergenerational contact."
+      ]
+    },
+    {
+      "description": "Misunderstanding around containment and mitigation.",
+      "searchKeywords": [
+        "Misunderstanding",
+        "containment",
+        "mitigation"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "The implications of misunderstanding the real dynamic of the COVID-19 pandemic are extremely dangerous.",
+        "Notably, variation in reporting descriptive data may lead to the misunderstanding of COVID-9 characteristics.",
+        "Additionally, the model keeps track of four ways in which screening can miss infected 104 travellers: (1) due to imperfect sensitivity, symptom screening may fail to detect symptoms in 105 travellers that display symptoms; (2) questionnaires may fail to detect exposure risk in travellers 106 aware they have been exposed, owing to deliberate obfuscation or misunderstanding; (3)  107 screening may fail to detect both symptoms and known exposure risk in travellers who have 108 both and (4) travellers not exhibiting symptoms and with no knowledge of their exposure are 109 fundamentally undetectable.",
+        "Based on genotyping, SARS-CoV-2 is unlikely to be significantly linked to SARS-CoV. Rather, SARS-CoV-2 may lead to the misunderstanding of the pathogenesis of the new coronavirus, which is less pathogenic compared with SARS-CoV. Human coronavirus (HCoV) is commonly referred to coronaviruses of low pathogenicity, with human beings being their primary natural host, as exemplified by HCoV-OC43, 229E, NL63, and HKU1."
+      ]
+    },
+    {
+      "description": "Action plan to mitigate gaps and problems of inequity in the Nation’s public health capability, capacity, and funding to ensure all citizens in need are supported and can access information, surveillance, and treatment.",
+      "searchKeywords": [
+        "inequity",
+        "public health",
+        "access",
+        "information",
+        "available"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Access for all patients to medical expertise and quality of care is addressed by a number of policy measures for their safety, support for low-income patients and the socially excluded, citizens' access to health services across Europe, implementation of best practices, fighting antimicrobial resistance, high safety standards in the blood, organs, tissues, and cells for transplantation and generally reducing and eliminating disparities in health."
+      ]
+    },
+    {
+      "description": "Measures to reach marginalized and disadvantaged populations: Data systems and research priorities and agendas incorporate attention to the needs and circumstances of disadvantaged populations and underrepresented minorities.",
+      "searchKeywords": [
+        "marginalized populations",
+        "disadvantaged populations",
+        "research priorities",
+        "minorities"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Sexual minorities, people with mental illness, migrants, refugees, the homeless, transient populations, transgender people, sex workers and many other groups who do not conform to existing social norms, or who have historically been marginalized and excluded, experience many often completely preventable illnesses.",
+        "In this Special Issue on the health of marginalized people, we have gathered 15 papers from many countries, describing a wide range of physical and mental health issues, using a variety of advanced research methods to understand the health challenges faced by a diverse array of marginalized populations globally, and recommending interventions to improve the health of marginalized populations.",
+        "Second, once infected with severe acute respiratory syndrome coronavirus 2-which results in COVID-19-people with mental disorders can be exposed to more barriers in accessing timely health services, because of discrimination associated with mental ill-health in health-care settings.",
+        "Compared with other international migrants (ie, international students), IMWs encounter more barriers in accessing health services in host countries (eg, inadequate health insurance), particularly migrant domestic workers."
+      ]
+    },
+    {
+      "description": "Mitigating threats to incarcerated people from COVID-19, assuring access to information, prevention, diagnosis, and treatment.",
+      "searchKeywords": [
+        "prisoner",
+        "prison",
+        "access to information",
+        "diagnosis",
+        "treatment"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Correctly, there has recently been talk of a \"blind spot\" in the media regarding the spread of Covid-19 among prison inmates"
+      ]
+    },
+    {
+      "description": "Understanding coverage policies (barriers and opportunities) related to testing, treatment, and care",
+      "searchKeywords": [
+        "coverage policies",
+        "diagnosis",
+        "treatment",
+        "care"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Implement mechanisms and policies to promptly alert key facility staff, including infection control, health care epidemiology, facility leadership, occupational health, clinical laboratory, and frontline staff about known or suspected COVID-19 patients.",
+        "We urge practitioners to promptly start adopting e-mental health care applications, both as methods to continue their care to current patients in need and as interventions to cope with the imminent upsurge in mental health symptoms due to the coronavirus.",
+        " Quality in health-care and long-term health care and adjustment, including preventive care, to the changing needs and preferences of society and individuals, primarily through the development of quality standards that meet international best practices and through the development of a higher sense of responsibility among health professionals and patients and recipients of care."
+      ]
+    }
+  ]
+}

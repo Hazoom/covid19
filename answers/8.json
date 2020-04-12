@@ -1,0 +1,407 @@
+{
+  "taskName": "What do we know about diagnostics and surveillance?",
+  "subTasks": [
+    {
+      "description": "How widespread current exposure is to be able to make immediate policy recommendations on mitigation measures.",
+      "searchKeywords": [
+        "exposure",
+        "policy recommendations",
+        "mitigation"
+      ],
+      "optionalKeywords": [
+        "exposure",
+        "policy",
+        "mitigation"
+      ],
+      "bestSentences": [
+        "As the virus spreads globally it is likely that government strategies will shift from containment and delay towards mitigation (4) ",
+        "4 As a result, some of the public health precautionary strategies are selfinitiated by the community in attempts to influence the government's policies; for instance, health-care staff held a strike to press for a total border closure, which the government was reluctant to endorse.",
+        "hese strategies include the direct government acquisition of stockpiles of vaccines, the use of prizes, priority review vouchers, and the establishment of advance market commitments, each of which is described in more detail in Supplemental Materials."
+      ]
+    },
+    {
+      "description": "Denominators for testing and a mechanism for rapidly sharing that information, including demographics, to the extent possible.",
+      "searchKeywords": [
+        "mitigation",
+        "government",
+        "strategies"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "We described the demographic characteristics and exposures of the cases, and defined the incubation period as the exposure to the transmission source to the onset of symptoms.",
+        "The diagnosis of COVID-19 relies on the following criteria: clinical symptoms, epidemiological history and positive CT images, as well as positive pathogenic testing."
+      ]
+    },
+    {
+      "description": "Sampling methods to determine asymptomatic disease (e.g., use of serosurveys (such as convalescent samples) and early detection of disease (e.g., use of screening of neutralizing antibodies such as ELISAs).",
+      "searchKeywords": [
+        "demographic",
+        "Sampling methods",
+        "asymptomatic",
+        "serosurveys",
+        "convalescent samples",
+        "screening",
+        "ELISAs"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "In other words, if someone is symptomatic and confirmed to be COVID19+ on any of the days between t+1 to t+14, then s/he was infected but asymptomatic on day t. Using publicly available data for the state of Washington for dates Feb. 28-March 16, 2020, our math shows that on Feb. 28, 2020, there were at least 567 asymptomatic infected cases, despite there being only 1 officially confirmed case reported for that day.",
+        "2 [ Figure 1 ] 3 [ Table 2 ] 4 Preliminary ELISA evaluation of recombinant proteins 5 Indirect ELISAs were used to preliminarily evaluate the six recombinant proteins.",
+        "Our model incorporates the following essential ingredients of COVID-19 epidemics: (1) the number of asymptomatic infectious individuals (with very mild or no symptoms), (2) the number of symptomatic reported infectious individuals (with severe symptoms) and (3) the number of symptomatic unreported infectious individuals (with mild symptoms).",
+        "The rate asymptomatic infectious become reported symptomatic is ν 1 = f ν, the rate asymptomatic infectious become unreported symptomatic is The cumulative number of reported cases at time t is given by the formula and the cumulative number of unreported",
+        "Ratio from aggregate case data Assuming homogeneous attack rates across the different age groups, the demographic distribution of cases by age across each location should broadly match the demography of the populations in Wuhan and across the rest of China."
+      ]
+    },
+    {
+      "description": "Efforts to increase capacity on existing diagnostic platforms and tap into existing surveillance platforms.",
+      "searchKeywords": [
+        "diagnostic platforms",
+        "capacity",
+        "surveillance platforms"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Singapore's systematic enhancement in capacity and capabilities for pandemic preparednessfrom establishing a purpose-build National Centre for Infectious Diseases to stockpiling personal protective equipment (PPE) at the national level -seeks to limit the mortality and morbidity from the next communicable disease outbreak, such as COVID-19, while safeguarding the occupational health of its frontline healthcare workers.",
+        "Shenzhen city has established a preexisting Infectious Disease Epidemic Plan (IDEP), which has facilitated managing and containing local outbreak of the 2019-nCoV. In case the patient load exceeds the hospital capability of the IDH, new IDHs should be considered either by building a temporary new IDH or reconstructing an existing hospital.",
+        "The aftermath of recent epidemics and pandemics (eg, severe acute respiratory syndrome, H1N1 pandemic, Middle East respiratory syndrome, and Ebola) have highlighted the need to reinforce national public health capabilities and infrastructures, including diseasesurveillance systems and laboratory networks, as well as human capacity (eg, training in surveillance, epidemic response, and diagnostic testing)."
+      ]
+    },
+    {
+      "description": "Recruitment, support, and coordination of local expertise and capacity (public, private—commercial, and non-profit, including academic), including legal, ethical, communications, and operational issues.",
+      "searchKeywords": [
+        "Recruit",
+        "expertise"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "ational primary care bodies can coordinate with public health leads to cascade information to practitioners, communicate with the public, and collate health intelligence from the frontline primary care.",
+        "Here, we assessed the required expertise and diagnostic capacity in specialised laboratories in 30 European Union/European Economic Area (EU/EEA) countries.",
+        "Forty-five laboratories in 28 countries indicated having previous expertise in human coronavirus (HCoV) diagnostics.",
+        "Organisations such as the Global Outbreak Alert and Response Network (GOARN), the Coalition for Epidemic Preparedness Innovations (CEPI), the Global Research Collaboration For Infectious Disease Preparedness (GloPID-R) and the Global Initiative on Sharing All Influenza Data (GISAID) have been supported by the WHO Research Blueprint and its Global Coordinating Mechanism to provide a forum where those with the expertise and capacity to contribute to managing new threats can come together both between and during outbreaks to develop innovative solutions to emerging problems.",
+        "The Government was already drawing on the expertise and capacity of Public Health England (PHE), the Ministry of Defence (MOD) and the Department of Health (DoH), to drive its response but social scientists had no seat at the table."
+      ]
+    },
+    {
+      "description": "National guidance and guidelines about best practices to states (e.g., how states might leverage universities and private laboratories for testing purposes, communications to public health officials and the public).",
+      "searchKeywords": [
+        "government",
+        "best practices",
+        "guidelines",
+        "public",
+        "public health"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "These findings can help the government and health departments better communicate with the public about public health and then translate public health needs into practice to create targeted measures to prevent and control the spread of COVID-19.",
+        "4 As a result, some of the public health precautionary strategies are selfinitiated by the community in attempts to influence the government's policies; for instance, health-care staff held a strike to press for a total border closure, which the government was reluctant to endorse.",
+        "This would allow governments to attempt to tackle the pandemic more effectively in terms of public health, as it provides a valuable and dynamic metric of the pandemic.",
+        "This approach is used to obtain timely access to public responses so that the government and the health department can better communicate with the public on health issues and take appropriate measures to prevent and control the epidemic 35, 39 ."
+      ]
+    },
+    {
+      "description": "Development of a point-of-care test (like a rapid influenza test) and rapid bed-side tests, recognizing the tradeoffs between speed, accessibility, and accuracy.",
+      "searchKeywords": [
+        "point-of-care test",
+        "rapid influenza test",
+        "speed",
+        "accuracy"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "While this strategy is a proof-of-concept and will require further testing using replication-competent SARS-CoV-2 viruses and validation in animal models before clinical tests in humans, it represents a unique approach to implement a rapid and broad antiviral defense in humans against emerging pathogens for which there are no effective vaccines.",
+        "To perform this test, for example for influenza, all the influenza virus-antibody sequences were removed from the training set and the obtained model were tested on all samples of Influenza and the accuracy is reported here.",
+        "Non-COVID-19 group included several other respiratory viruses such as influenza A, B and adenovirus infection cases, these cases were negative for anti-2019-nCoV specific antibody detection, indicating that the antibody detection has a good ability to resist interference and differential Considering that COVID-19 has broken out in many countries around the world, more than 80000 people have been diagnosed and the number is growing rapidly, the main problem at present is the need for highly sensitive tests to screen the suspected cases and to prevent missed diagnosis by nucleic acid tests, lower false positive rates for antibody testing are acceptable.",
+        "Our study discovered that, in low epidemic regions outside Hubei province such as Eastern-China region, the current reliable first approach to the unexplained pneumonia should be a combination of chest CT, SARS-COV-2 RT-PCR and multi-plex PCR (rapid influenza antigen tests and RT-PCR could also be used as a substitute)."
+      ]
+    },
+    {
+      "description": "Rapid design and execution of targeted surveillance experiments calling for all potential testers using PCR in a defined area to start testing and report to a specific entity. These experiments could aid in collecting longitudinal samples, which are critical to understanding the impact of ad hoc local interventions (which also need to be recorded).",
+      "searchKeywords": [
+        "PCR",
+        "test",
+        "longitudinal study"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "In subsequent research in this project, a longitudinal study should be conducted that uses a wider sample and measures the mental health status of medical personnel from multiple dimensions, which can help better identify the mutual influence between demographic data and mental health status.",
+        "Weather C'3 is an asymptomatic infection did not been identified by PCR test, but the same contact history and the similar onset time of her three relatives indicate that C'3 was an asymptomatic COVID-19-carrier.",
+        "Asymptomatic travellers will be missed by symptom-based surveillance; and, even if tested, some asymptomatic contacts may be missed due to the imperfect sensitivity of the PCR test 20 ."
+      ]
+    },
+    {
+      "description": "Separation of assay development issues from instruments, and the role of the private sector to help quickly migrate assays onto those devices.",
+      "searchKeywords": [
+        "assays",
+        "development",
+        "issues",
+        "private sector"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "119 We also did not take into account other factors which could cause the delay in development of In conclusion, we provided proof of concept that the available SARS-CoV antibody 133 assays can reliably detect antibodies in patients with COVID-19 which could be used in this 134 current outbreak situation for serosurveys and as a diagnostic tool for under resourced countries.",
+        "Assays using quantitative reverse 55 transcription-polymerase chain reaction (qRT-PCR) approaches for detection of the 56 virus in 4-6 hours have been developed by several laboratories, including an 57 Emergency Use Authorization (EUA)-approved assay developed by the US CDC 6 .",
+        "In this issue of Eurosurveillance, we are publishing two articles on different aspects of the newly emerged 2019-nCoV. One is a research article by Corman et al. on the development of a diagnostic methodology based on RT-PCR of the E and RdRp genes, without the need for virus material; the assays were validated in five international laboratories [5] ."
+      ]
+    },
+    {
+      "description": "Efforts to track the evolution of the virus (i.e., genetic drift or mutations) and avoid locking into specific reagents and surveillance/detection schemes.",
+      "searchKeywords": [
+        "track",
+        "tracking",
+        "evolution",
+        "mutations"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Therefore, in-depth detection and tracking of the mutation and evolution of the virus in the population, as well as a cross-species transmission mechanism, are urgent tasks to be carried out at present.",
+        "This allows accurate identification of other coronavirus species and the tracking of new viral mutations as the outbreak expands globally.",
+        "We have systematically analyzed and tracked the genome mutations among 120 different strains of 2019-nCoV. Although most substitutions are de novo mutations, we have identified 2019-nCoV as a member of the betacoronaviruses, shares similar genome structures as bat SARS, human SARS, MERS with nucleotide identity over 88%, 79%, about and 50%,respectively 23 .",
+        "In this work, we investigated the mutation pattern of SARS-CoV-2 by comprehensive comparative genomic analysis of the nonsynonymous/ synonymous substitution, relative synonymous codon usage (RSCU) and selective pressure in order to explore their potential in evolution and function."
+      ]
+    },
+    {
+      "description": "Latency issues and when there is sufficient viral load to detect the pathogen, and understanding of what is needed in terms of biological and environmental sampling.",
+      "searchKeywords": [
+        "Latency",
+        "issues",
+        "viral load",
+        "pathogen",
+        "sampling"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "The low level of genetic variation in SARS-CoV-2 could merely be a sampling issue due to the short time this virus has circulated in humans.",
+        "Thus, positive pathogen results (especially virus and atypical pathogens, which is a type of common pathogens detection in unexplained pneumonia) cannot be the exclusive criteria to COVID-2019 during unexplained pneumonia diagnosis.",
+        "Exposed: Individual has been infected with a pathogen, but due to the pathogens incubation period, is not yet infectious."
+      ]
+    },
+    {
+      "description": "Use of diagnostics such as host response markers (e.g., cytokines) to detect early disease or predict severe disease progression, which would be important to understanding best clinical practice and efficacy of therapeutic interventions.",
+      "searchKeywords": [
+        "cytokines",
+        "severe"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Further analysis of plasma cytokines demonstrated that the median concentrations of IFN-γ, TNF-α, IL10, IL6, IL4, IL2 and IL17A in severe group were higher than mild group.",
+        "In contrast, the severe patient group showed more significant fluctuations in the serum levels of these cytokines ( Figure 3 ).",
+        "Clinically, for those severe patients, the main symptoms of 2019-nCoV pneumonia are fever, decreased white blood cell and lymphocyte count, increased C reaction protein and abnormally expressed cytokines [6] .",
+        "Except for IL-4, the presence of cytokines was shown to be significantly higher in the severe group than in the mild group."
+      ]
+    },
+    {
+      "description": "Policies and protocols for screening and testing.",
+      "searchKeywords": [
+        "protocols",
+        "screening",
+        "testing"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Interventions: Screening and management of patients using a hospital-specific protocol, which included fever triage, monitoring visitors and patients, emergency response, personnel training for healthcare team members, health education for patients and family, medical materials management, disinfection and wastes disposal protocols. :",
+        "To report our experiences screening and managing patients with suspected or confirmed novel coronavirus (COVID-19) disease using a hospital-specific protocol.",
+        "Key components of the protocol included: a three-level fever triage process; monitoring visitors and inpatients, formation of an emergency response team for COVID-19, personnel training for healthcare team members, health education for patients and family, medical materials management, and disinfection and wastes disposal protocols.",
+        "Confirmation of COVID-19 was based on a positive result for real-time reverse transcription polymerase chain reaction (RT-PCR) testing of SARS-CoV-2 in nasopharynx swabs by hospital laboratory, and double-confirmed by local Centers for Disease Control and Prevention using the same RT-PCR protocol."
+      ]
+    },
+    {
+      "description": "Policies to mitigate the effects on supplies associated with mass testing, including swabs and reagents.",
+      "searchKeywords": [
+        "protocols",
+        "mass",
+        "supplies",
+        "swabs",
+        "test"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "In spite of superior accuracy, PCR-based molecular testing using throat swabs requires more complicated techniques of laboratory personnel with prolonged reporting time, which may not be suitable for emerging cases of SARS-CoV-2.",
+        "Since testing began, local procedures and national guidelines have changed in response to changing understanding of the disease and demand for testing.",
+        "A protocol for performing this assay is provided in the Methods section and can be used for testing any of the other designs we have provided."
+      ]
+    },
+    {
+      "description": "Technology roadmap for diagnostics.",
+      "searchKeywords": [
+        "Technology",
+        "product",
+        "development",
+        "roadmap",
+        "diagnostics"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "77 An updated roadmap for MERS-CoV product development lists all available diagnostics and other diagnostics in the developmental phase."
+      ]
+    },
+    {
+      "description": "Barriers to developing and scaling up new diagnostic tests (e.g., market forces), how future coalition and accelerator models (e.g., Coalition for Epidemic Preparedness Innovations) could provide critical funding for diagnostics, and opportunities for a streamlined regulatory environment.",
+      "searchKeywords": [
+        "scaling",
+        "diagnostic",
+        "Coalition for Epidemic Preparedness Innovations",
+        "funding"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "On 23 January 2020, the Coalition for Epidemic Preparedness Innovations (CEPI) announced that they will fund vaccine development programmes with Inovio, The University of Queensland and Moderna, Inc respectively, with the aim to test the experimental vaccines clinically in 16 weeks (By June 2020).",
+        "Plumbing work on research funding and development pipelines through recent changes in the structure of government funding, 2 new public and private joint ventures and specialist undergraduate and postgraduate courses now aim to incorporate pathways to translation at the earliest stages."
+      ]
+    },
+    {
+      "description": "New platforms and technology (e.g., CRISPR) to improve response times and employ more holistic approaches to COVID-19 and future diseases.",
+      "searchKeywords": [
+        "technology",
+        "platforms",
+        "CRISPR",
+        "response times",
+        "holistic approaches"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "The diagnostic performance of CRISPR-nCoV was assessed 44 and also compared across three technology platforms (mNGS, RT-PCR and CRISPR) 45 Results 46 2019-nCoVs sequenced in our study were conserved with the Wuhan strain, and shared 47 certain genetic similarity with SARS-CoV.",
+        "Health-Emergency Disaster Risk Management (Health-EDRM) emerged as the latest knowledge, research and policy paradigm shift from response to preparedness and health risk management in non-emergency times [1] ."
+      ]
+    },
+    {
+      "description": "Coupling genomics and diagnostic testing on a large scale.",
+      "searchKeywords": [
+        "Coupling genomics",
+        "diagnostic testing",
+        "large scale"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "National laboratory networks developed diagnostic tests once the COVID-19 genetic sequences were published 5 and laboratory testing capacity was increased in all three locations, although expansion of the diagnostic capacity to university and large private laboratories in Japan is still ongoing."
+      ]
+    },
+    {
+      "description": "Enhance capabilities for rapid sequencing and bioinformatics to target regions of the genome that will allow specificity for a particular variant.",
+      "searchKeywords": [
+        "rapid sequencing",
+        "bioinformatics",
+        "genome",
+        "specificity"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Key advantages of our approach over 127 existing methods such as qRT-PCR include (1) isothermal signal amplification for rapid 128 target detection obviating the need for thermocycling, (2) single nucleotide target 129 specificity (guide RNAs at the N2 site can distinguish SARS-CoV-2 from SARS-CoV 130 and MERS-CoV), (3) integration with portable, low-cost reporting formats such as lateral 131 flow strips, and (4) quick development cycle to address emerging threats from novel 132 zoonotic viruses (<2 weeks for SARS-CoV-2, Supplementary Fig. 6) .",
+        "The rapid sequencing of the nearly 30,000 nucleotide 2019-nCoV genome by Dr. Zhang's group at Fudan University and several other groups in China illustrate the dedication and increased capacity of the scientific infrastructure in China [4, 5] "
+      ]
+    },
+    {
+      "description": "Enhance capacity (people, technology, data) for sequencing with advanced analytics for unknown pathogens, and explore capabilities for distinguishing naturally-occurring pathogens from intentional.",
+      "searchKeywords": [
+        "sequencing",
+        "analytics",
+        "unknown pathogen",
+        "distinguishing",
+        "naturally-occurring pathogens",
+        "intentional"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "The probability that the outbreak is due to an unknown pathogen (Disease X) increases as more information becomes available, for two reasons: (i) the current outbreak can be seen to exhibit characteristics that are not similar to those observed in previous outbreaks, and; (ii) previously observed pathogens are ruled out by laboratory test results.",
+        "Thus, positive pathogen results (especially virus and atypical pathogens, which is a type of common pathogens detection in unexplained pneumonia) cannot be the exclusive criteria to COVID-2019 during unexplained pneumonia diagnosis.",
+        "Ideally, such algorithms would not only filter out artefacts and perform mapping to the reference genome, but also suggest the most represented pathogen in each sample, narrowing down the spectrum of considered pathogens."
+      ]
+    },
+    {
+      "description": "One Health surveillance of humans and potential sources of future spillover or ongoing exposure for this organism and future pathogens, including both evolutionary hosts (e.g., bats) and transmission hosts (e.g., heavily trafficked and farmed wildlife and domestic food and companion species), inclusive of environmental, demographic, and occupational risk factors.",
+      "searchKeywords": [
+        "One Health",
+        "surveillance",
+        "spillover",
+        "bats",
+        "wildlife",
+        "future"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "To prevent the next epidemic and pandemic related to these interfaces, we call for research and investment in three areas: 1) surveillance among wildlife to identify the high-risk pathogens they carry; 2) surveillance among people who have contact with wildlife to identify early spillover events; and 3) improvement of market biosecurity regarding the wildlife trade.",
+        "A broad surveillance for SARS-CoV-2 among different animals is warranted within Huanan Seafood Market and the vicinities, and should include potential reservoir hosts such as bats (both in the wild and if found in live animal markets) as well as potential intermediate hosts such as pigs, live poultry, fish, reptiles, and wild animals in close proximity to humans, which not only allow virus transmission among them but also lead to the generation of new viral strains.",
+        "Surveillance for SARS-CoV-2 in nonhuman hosts including swine and wild animals and further genetic analysis of SARS-CoV-2, and other SARS-like CoVs may reveal the possible intermediate host of the recently emerged human SARS-CoV-2 responsible for the current outbreak and is a very important One Health measure."
+      ]
+    }
+  ]
+}

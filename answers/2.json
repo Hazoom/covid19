@@ -1,0 +1,157 @@
+{
+  "taskName": "What do we know about COVID-19 risk factors?",
+  "subTasks": [
+    {
+      "description": "Data on potential risks factors: 1. Smoking, pre-existing pulmonary disease",
+      "searchKeywords": [
+        "risk_factor",
+        "Smoking",
+        "pulmonary disease"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "We note however our analyses do not control for potential confounding factors such as smoking or chronic obstructive pulmonary disease (COPD). .",
+        "It is perhaps not surprising that chronic respiratory diseases such as Chronic Obstructive Pulmonary Disease (COPD), and indeed active TB, could predispose susceptibility to SARS-CoV-2.",
+        "Besides, based on the expression of ACE2 in smoking individuals, we inferred that long-term smoking might be a risk factor for 2019-nCoV. Analyzing the ACE2 in SARS-CoV infected cells suggested that ACE2 was more than just a receptor but also participated in post-infection regulation, including immune response, cytokine secretion, and viral genome replication."
+      ]
+    },
+    {
+      "description": "Data on potential risks factors: 2. Co-infections (determine whether co-existing respiratory/viral infections make the virus more transmissible or virulent) and other co-morbidities",
+      "searchKeywords": [
+        "risk_factor",
+        "Smoking",
+        "pulmonary disease"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Comorbidities' empirical prevalence can be computed from China CDC report for all subjects, but does not allow different values for each age interval and gender and, for that reason, we considered that prevalence values for each comorbidity were constant across age groups and gender.",
+        "Finally, comorbidities classes were assumed to be exclusive, i.e., no subject could have more than one comorbidity.",
+        "The aim of the meta-analysis was to assess the prevalence of comorbidities in the COVID-19 infection patients and the risk of underlying diseases in severe patients compared to non-severe patients.",
+        "87 In other researches that conducted about the antiviral essential oils and their active constitutions indicated that Laurus nobilis essential oil which was characterized by the presence of β-ocimene (32), 1,8-cineole (6), α-pinene (4), and β-pinene (5), as the main constituents, showed interesting activity against SARS-CoV. 88 This overview caused the development of commercial therapeutics based on monoterpens compounds for viral infections especially in respiratory viral infections (Fig. 16.3) "
+      ]
+    },
+    {
+      "description": "Data on potential risks factors: 3. Neonates and Pregnant women",
+      "searchKeywords": [
+        "risk_factors",
+        "pregnant women",
+        "covid19"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Unfortunately, there is limited experience with coronavirus infections during pregnancy, and it now appears certain that pregnant women have become infected during the present 2019-nCoV epidemic.",
+        "It is certain that 2019-nCoV will infect women who are pregnant, leaving the question open as to whether the novel coronavirus will have a similar or different effect on them compared with SARS-CoV and MERS-CoV. In order to address the potential obstetrical outcomes of infection to both mother and infant, the present communication describes the current state of knowledge regarding the effects of other coronavirus infections in pregnancy."
+      ]
+    },
+    {
+      "description": "Data on potential risks factors: 4. Socio-economic and behavioral factors to understand the economic impact of the virus and whether there were differences.",
+      "searchKeywords": [
+        "risk_factors",
+        "Socio-economic"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "The COVID-19 pandemic may cause excess mortality over the next year in the population both because of deaths among those infected, and because people who are not infected are experiencing social and economic upheaval; meanwhile the ability of health services to provide high quality of care for both infected and uninfected patients is increasingly threatened.",
+        "A main objective of this paper is to quantify the effect of various social and economic factors in mediating the transmission rates of the virus, which may help identify potential behavioral and socioeconomic risk factors for infections.",
+        "Every location has a different socio-economic profile such that the growth rate of the epidemic (and hence R 0 ) might differ.",
+        "Of additional concern is that the anticipated destinations of hundreds of thousands of travellers departing China are to low-income or lower-middle income countries, where inadequately resourced medical and public health systems might be unable to detect and adequately manage an imported case of 2019n-CoV, including possible subsequent community spread."
+      ]
+    },
+    {
+      "description": "Transmission dynamics of the virus, including the basic reproductive number, incubation period, serial interval, modes of transmission and environmental factors",
+      "searchKeywords": [
+        "risk_factors",
+        "Transmission dynamics",
+        "reproductive number",
+        "incubation period",
+        "serial interval"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "In mathematical epidemiology, when one uses a phenomenological approach, the epidemic dynamics can be described by the following variant of logistic growth model [2] [3] [4] [5]  where C is an accumulated number of cases, 0 r infection rate, and 0 K  is the final epidemic size.",
+        "To infer COVID-19 transmission dynamics during the early stage of the outbreak, we simulated observations from January 10-23, 2020 (i.e. the period before the initiation of travel restrictions) using an iterated filter-ensemble adjustment Kalman filter (IF-EAKF) framework [9] [10] [11] .",
+        "We assume that at time t after 23 January, an increasing control function u(t) represents the fraction of the transmissions that are prevented, thus the effective reproduction number becomes R(t) = (1 − u(t))R 0 S(t)/N. Based on the previous estimates from the literature (see Table 1 ), we chose an incubation period α −1 = 5.1 days [30] , basic reproduction number R 0 = 2.6 (2.1-3.1) with the corresponding infectious period γ −1 = 3.3 (1.7-5.6) days [19] .",
+        "Results: Results suggest that the basic reproduction number, R 0, before VEC introduced as 2.50 with a 95% confidence interval (CI) was [2.43, 2.55] and the effective reproduction number, R v, after VEC introduced as 1.",
+        "With the model, on 95% confidence level, we estimate the basic reproduction number, R 0 = 2.82 ± 0.11, time between March 19 and March 21 when the effective reproduction number becoming less than one, the epidemic ending after April 2 and the total number of confirmed cases approaching 14408 ± 429 on the Chinese mainland excluding Hubei province."
+      ]
+    },
+    {
+      "description": "Severity of disease, including risk of fatality among symptomatic hospitalized patients, and high-risk patient groups",
+      "searchKeywords": [
+        "risk_factors",
+        "Severity of disease",
+        "fatality",
+        "symptomatic hospitalized patients",
+        "high-risk"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "In other words, if someone is symptomatic and confirmed to be COVID19+ on any of the days between t+1 to t+14, then s/he was infected but asymptomatic on day t. Using publicly available data for the state of Washington for dates Feb. 28-March 16, 2020, our math shows that on Feb. 28, 2020, there were at least 567 asymptomatic infected cases, despite there being only 1 officially confirmed case reported for that day.",
+        "If a patient presented after many days of being symptomatic, this may have affected disease severity, compared with an earlier clinical presentation.",
+        "Among 84,957 episodes of respiratory illness, 79.0% were sampled at secondary/tertiary healthcare services (hospital inpatients and outpatients), and 21.0% from primary healthcare services (general practice [GP]).",
+        "Recent investigation showed that the viral load that was determined in the asymptomatic patient was similar to that in the symptomatic patients 16 , implying that the viral load in respiratory specimens may not be able to objectively reflect the disease severity."
+      ]
+    },
+    {
+      "description": "Susceptibility of populations",
+      "searchKeywords": [
+        "risk_factors",
+        "population susceptibility"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "Younger parts of a population present a much lower risk than older populations.",
+        "Thus, given the dataset x and an estimate R 0 of the associated basic reproductive ratio, the matrix R should satisfy If we look at the ith row of this set of equations, we have The age-specific susceptibility z i can thus be estimated as To estimate the equivalent of the matrix R for some new population with age-structured contact matrix k = (k i,j ), we assume that z i is constant across populations (i.e. in every population we see the same dependence of susceptibility on age).",
+        "Fig. 2) , which indicates that different susceptibility to this virus may exist between differential populations."
+      ]
+    },
+    {
+      "description": "Public health mitigation measures that could be effective for control",
+      "searchKeywords": [
+        "risk_factors",
+        "public health",
+        "mitigation",
+        "measure"
+      ],
+      "optionalKeywords": [
+        "new_coronavirus",
+        "coronavirus",
+        "covid19"
+      ],
+      "bestSentences": [
+        "For public health stakeholders and their local surveillance teams to prepare mitigating strategies, an assessment of basic reproduction numbers can be quite helpful.",
+        "Furthermore, given the controversy over the appropriate handling of elective surgical cases during this pandemic, we hope that our results may have a positive impact on health policy and public health.",
+        "School closures have been enacted as a measure of mitigation during the ongoing COVID-19 pandemic due to their ability to reduce transmission.",
+        "The mass quarantine measure implemented in the epidemic's epicenter, Wuhan, Hubei Province, China, on January 23, 2020, has stopped the human migration between Wuhan and other places."
+      ]
+    }
+  ]
+}
