@@ -131,10 +131,13 @@ def _add_line_for_sentence_level(section_type,
                                  trigram_model) -> None:
     sentences = _extract_sentences_from_text(text)
     cleaned_sentences = _clean_sentences(sentences)
-    tokenzied_sentences = [sentence.split(' ') for sentence in cleaned_sentences]
-    sentences_with_bigrams = bigram_model[tokenzied_sentences]
-    sentences_with_trigrams = trigram_model[sentences_with_bigrams]
-    cleaned_sentences = [' '.join(sentence) for sentence in sentences_with_trigrams]
+
+    if bigram_model and trigram_model:
+        tokenzied_sentences = [sentence.split(' ') for sentence in cleaned_sentences]
+        sentences_with_bigrams = bigram_model[tokenzied_sentences]
+        sentences_with_trigrams = trigram_model[sentences_with_bigrams]
+        cleaned_sentences = [' '.join(sentence) for sentence in sentences_with_trigrams]
+
     features = [
         file['paper_id'],
         sha_to_properties[file['paper_id']]['cord_uid'],
@@ -259,8 +262,11 @@ def build_csv(metadata: str,
 
     print(f'Filtering only COVID-19 articles: {filter_covid_19}')
 
-    bigram_model = Phraser.load(bigram_model_path)
-    trigram_model = Phraser.load(trigram_model_path)
+    bigram_model = None
+    trigram_model = None
+    if bigram_model_path and trigram_model_path:
+        bigram_model = Phraser.load(bigram_model_path)
+        trigram_model = Phraser.load(trigram_model_path)
 
     all_df = None
     for dir_name in dirs:
@@ -293,8 +299,8 @@ def main():
     argument_parser.add_argument('-m', '--metadata', type=str, help='Metadata CSV file', required=True)
     argument_parser.add_argument('-d', '--dirs', nargs='+', help='File directories', required=True)
     argument_parser.add_argument('-o', '--output', type=str, help='Output CSV file', required=True)
-    argument_parser.add_argument('--bigram-model', type=str, help='bi-gram phrases Model', required=True)
-    argument_parser.add_argument('--trigram-model', type=str, help='tri-gram phrases Model', required=True)
+    argument_parser.add_argument('--bigram-model', type=str, help='bi-gram phrases Model', required=False)
+    argument_parser.add_argument('--trigram-model', type=str, help='tri-gram phrases Model', required=False)
     argument_parser.add_argument('--no-filter-covid-19', help='No filter COVID-19 docs', action="store_true")
     argument_parser.add_argument('--sentences', help='Each line is a sentence in text', action="store_true")
     args = argument_parser.parse_args()

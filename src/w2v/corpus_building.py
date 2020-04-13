@@ -26,12 +26,14 @@ def _extract_sentences_from_text(text: str, bigram_model, trigram_model) -> List
 
     cleaned_sentences = [_clean_and_tokenize_sentence(sentence) for sentence in doc.sents]
 
-    tokenzied_sentences = [sentence.split(' ') for sentence in cleaned_sentences]
-    sentences_with_bigrams = bigram_model[tokenzied_sentences]
-    sentences_with_trigrams = trigram_model[sentences_with_bigrams]
-    results = [' '.join(sentence) for sentence in sentences_with_trigrams]
+    if bigram_model and trigram_model:
+        tokenzied_sentences = [sentence.split(' ') for sentence in cleaned_sentences]
+        sentences_with_bigrams = bigram_model[tokenzied_sentences]
+        sentences_with_trigrams = trigram_model[sentences_with_bigrams]
+        results = [' '.join(sentence) for sentence in sentences_with_trigrams]
+        return results
 
-    return results
+    return cleaned_sentences  # in case bi-grams and tri-grams model not provided
 
 
 def _load_files(dirname: str) -> List[dict]:
@@ -74,8 +76,11 @@ def _generate_sentences(all_files: List[dict], bigram_model, trigram_model, filt
 
 
 def build_corpus(dirs: List[str], output: str,  bigram_model_path: str, trigram_model_path: str, filter_covid19: bool):
-    bigram_model = Phraser.load(bigram_model_path)
-    trigram_model = Phraser.load(trigram_model_path)
+    bigram_model = None
+    trigram_model = None
+    if bigram_model_path and trigram_model_path:
+        bigram_model = Phraser.load(bigram_model_path)
+        trigram_model = Phraser.load(trigram_model_path)
 
     all_sentences = []
     for dir_name in dirs:
@@ -95,8 +100,8 @@ def main():
     argument_parser = argparse.ArgumentParser()
     argument_parser.add_argument('-d', '--dirs', nargs='+', help='File directories', required=True)
     argument_parser.add_argument('-o', '--output', type=str, help='Output txt file', required=True)
-    argument_parser.add_argument('--bigram-model', type=str, help='bi-gram phrases Model', required=True)
-    argument_parser.add_argument('--trigram-model', type=str, help='tri-gram phrases Model', required=True)
+    argument_parser.add_argument('--bigram-model', type=str, help='bi-gram phrases Model', required=False)
+    argument_parser.add_argument('--trigram-model', type=str, help='tri-gram phrases Model', required=False)
     argument_parser.add_argument('-f', '--filter', help='Filter out non COVID-19 articles', action="store_true")
     args = argument_parser.parse_args()
     build_corpus(args.dirs, args.output, args.bigram_model, args.trigram_model, args.filter)
