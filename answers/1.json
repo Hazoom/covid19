@@ -14,16 +14,13 @@
         "covid19"
       ],
       "bestSentences": [
-        "Consistent to previous reports, the incubation period of our cases was in a range of 2-10 days, with a median of 6.5 days.",
         "Specifically, the 483 confirmed patients were with average estimated incubation period D = 7.4 days, the mode was 4 days (50 out of the 483 cases) and the median was 7 days (48 out of the 483 cases).",
         "The mean incubation was 8.42 (95% confidence interval [CI], 6.55-10.29) days.",
         "The mean incubation was 9.06 (95% CI, 6.11-12.00) days for patients without pneumonia and 7.54 (95% CI, 5.29-9.79) days for patients with pneumonia.",
         "SARS-CoV-2 might be present in patients for around 18 days by adding the mean incubation of 8.42 days.",
         "It suggests that age 40 can be a key age cutoff for the incubation of COVID-19 along with previous statistical analysis.",
         "The following findings are obtained: 1) COVID-19 patients in Henan show gender (55% vs 45%) and age (81% aged between 21 and 60) preferences, possible causes were explored; 2) Statistical analysis on 483 patients reveals that the estimated average, mode and median incubation periods are 7.4, Incubation periods of 92% patients were no more than 14 days;",
-        "In absence of data on the 2019-nCoV incubation period, the WHO has worked with a broad range of 0 to 14 days, the CDC has taken a range of 2 to 14 days, and several studies have assumed incubation periods of SARS or MERS coronaviruses.",
-        "Based on ME, OLS and MLE approaches, we modeled the incubation period as logarithmic normal distributions, and we found the ME method can well mimic the long right tails of the PDF for the incubation periods.",
-        "This increase in severity with age is clearly reflected in case-reports in which the mean age tends to be in the range 50-60 years."
+        "In absence of data on the 2019-nCoV incubation period, the WHO has worked with a broad range of 0 to 14 days, the CDC has taken a range of 2 to 14 days, and several studies have assumed incubation periods of SARS or MERS coronaviruses."
       ]
     },
     {
