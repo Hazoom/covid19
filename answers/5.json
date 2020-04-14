@@ -82,7 +82,9 @@
         "coronavirus",
         "covid19"
       ],
-      "bestSentences": []
+      "bestSentences": [
+        "Secondary outcomes included the time from randomization to fever reduction (patients with fever at the time of enrollment), the time from randomization to cough relief (patients with moderate or severe cough at the time of enrollment), the rate of auxiliary oxygen therapy or noninvasive mechanical ventilation during the trial, the all-cause mortality during the trial, the rate of respiratory failure during the trial (defined as SPO 2 ≤ 90% or PaO 2 /FiO 2 < 300 mmHg without oxygen inhalation, and requires oxygen therapy or higher respiratory support)."
+      ]
     },
     {
       "description": "Knowledge of the frequency, manifestations, and course of extrapulmonary manifestations of COVID-19, including, but not limited to, possible cardiomyopathy and cardiac arrest.",
