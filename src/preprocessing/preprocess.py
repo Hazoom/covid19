@@ -9,7 +9,7 @@ import pandas as pd
 from tqdm import tqdm
 
 from preprocessing.filtering import get_tags
-from nlp import text_parsing
+from nlp import text_tokenizer
 from nlp.cleaning import clean_tokenized_sentence
 
 
@@ -69,7 +69,7 @@ def _clean_sentences(sentences) -> List[str]:
 
 
 def _extract_sentences_from_text(text: str) -> List[str]:
-    doc = text_parsing.parse_text(text)
+    doc = text_tokenizer.tokenize_text(text)
 
     return list(doc.sents)
 

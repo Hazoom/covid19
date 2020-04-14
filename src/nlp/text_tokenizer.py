@@ -18,9 +18,9 @@ def get_nlp_parser():
     if 'nlp' not in __CACHE:
         print("Loading NLP model")
         nlp = spacy.load('en_core_sci_sm', disable=['parser', 'tagger', 'ner'])
-        # nlp.add_pipe(blingfire_sentence_splitter.mark_sentence_boundaries,
-        #              name='mark-sentence-boundaries',
-        #              first=True)
+        nlp.add_pipe(blingfire_sentence_splitter.mark_sentence_boundaries,
+                     name='mark-sentence-boundaries',
+                     first=True)
         nlp.max_length = 2000000
         __CACHE['nlp'] = nlp
     return __CACHE['nlp']

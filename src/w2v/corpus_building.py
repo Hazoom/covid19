@@ -6,7 +6,7 @@ from typing import List
 from gensim.models.phrases import Phraser
 from tqdm import tqdm
 
-from nlp import text_parsing
+from nlp import text_tokenizer
 from nlp.cleaning import clean_tokenized_sentence
 from preprocessing.filtering import get_tags
 
@@ -22,7 +22,7 @@ def _clean_and_tokenize_sentence(sentence) -> str:
 
 
 def _extract_sentences_from_text(text: str, bigram_model, trigram_model) -> List[str]:
-    doc = text_parsing.parse_text(text)
+    doc = text_tokenizer.tokenize_text(text)
 
     cleaned_sentences = [_clean_and_tokenize_sentence(sentence) for sentence in doc.sents]
 
