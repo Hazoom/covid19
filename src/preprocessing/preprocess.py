@@ -143,6 +143,7 @@ def _add_line_for_sentence_level(section_type,
         sha_to_properties[file['paper_id']]['cord_uid'],
         sha_to_properties[file['paper_id']]['source'],
         sha_to_properties[file['paper_id']]['publish_time'],
+        sha_to_properties[file['paper_id']]['url'],
         title_text,
         format_authors(file['metadata']['authors']),
         section_type,
@@ -181,7 +182,7 @@ def generate_df_sentence_level(all_files: List[dict],
 
     print(f'No. of lines before breaking to sentences: {len(sentences_lines)}')
 
-    col_names = ['paper_id', 'cord_uid', 'source', 'publish_time', 'title', 'authors',
+    col_names = ['paper_id', 'cord_uid', 'source', 'publish_time', 'url', 'title', 'authors',
                  'section', 'sentence', 'cleaned_sentence']
 
     sentences_to_df = []
@@ -218,6 +219,7 @@ def generate_df(all_files: List[dict], sha_to_properties: dict, filter_covid19: 
                 sha_to_properties[file['paper_id']]['cord_uid'],
                 sha_to_properties[file['paper_id']]['source'],
                 sha_to_properties[file['paper_id']]['publish_time'],
+                sha_to_properties[file['paper_id']]['url'],
                 title_text,
                 format_authors(file['metadata']['authors']),
                 format_authors(file['metadata']['authors'],
@@ -227,7 +229,7 @@ def generate_df(all_files: List[dict], sha_to_properties: dict, filter_covid19: 
             ]
             cleaned_files.append(features)
 
-    col_names = ['paper_id', 'cord_uid', 'source', 'publish_time', 'title', 'authors',
+    col_names = ['paper_id', 'cord_uid', 'source', 'publish_time', 'url', 'title', 'authors',
                  'affiliations', 'abstract', 'text']
 
     clean_df = pd.DataFrame(cleaned_files, columns=col_names)
@@ -245,7 +247,8 @@ def _build_metadata_dict(metadata):
             if sha not in sha_to_properties:
                 sha_to_properties[sha] = {'cord_uid': row['cord_uid'],
                                           'source': row['source_x'],
-                                          'publish_time': row['publish_time']}
+                                          'publish_time': row['publish_time'],
+                                          'url': row['url']}
     return sha_to_properties
 
 
