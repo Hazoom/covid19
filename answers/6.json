@@ -6,7 +6,7 @@
       "searchKeywords": [
         "non-pharmaceutical",
         "scale_up",
-          "npi",
+        "npi",
         "support"
       ],
       "optionalKeywords": [
@@ -15,7 +15,7 @@
         "covid19"
       ],
       "bestSentences": [
-        "Nevertheless, by taking drastic social distancing measures and policies of controlling the source of infection, with the tremendous joint efforts from the government, healthcare workers, and the people (Fig. 1) , R t was substantially reduced to 0.32 in Wuhan after February 2, which was encouraging for the global efforts fighting against the Covid-19 outbreak using traditional non-pharmaceutical measures. 31 Some limitations of this study need to be noted.",  
+        "Nevertheless, by taking drastic social distancing measures and policies of controlling the source of infection, with the tremendous joint efforts from the government, healthcare workers, and the people (Fig. 1) , R t was substantially reduced to 0.32 in Wuhan after February 2, which was encouraging for the global efforts fighting against the Covid-19 outbreak using traditional non-pharmaceutical measures. 31 Some limitations of this study need to be noted.",
         "The containment strategy of integrated nonpharmaceutical interventions (NPIs) including travel bans and restrictions, contact reductions and social distancing, early case identification and isolation have been rapidly deloyed across China to contain the outbreak, and the combination of these interventions appears to be effective."
       ]
     },
@@ -23,9 +23,9 @@
       "description": "collaboration with all states to gain consensus on consistent guidance",
       "searchKeywords": [
         "non-pharmaceutical",
-          "national",
-          "consensus",
-          "guidance"
+        "national",
+        "consensus",
+        "guidance"
       ],
       "optionalKeywords": [
         "new_coronavirus",
@@ -42,8 +42,8 @@
       "description": "mobilize resources to geographic areas where critical shortfalls are identified)",
       "searchKeywords": [
         "mobilize_resource",
-          "delivery_system", 
-          "health_care"
+        "delivery_system",
+        "health_care"
       ],
       "optionalKeywords": [
         "new_coronavirus",
@@ -53,12 +53,12 @@
       "bestSentences": [
         "During the 2009 influenza A(H1N1) pandemic, inadequate surge capacity highlighted the need for intensive-care reserves and improved health-care resource planning at all levels. 17, 18 In an effort to improve ECMO preparedness 19 for an outbreak of an emerging infectious disease, we highlight the ten key components of an ECMO action plan (panel) based on these four categories, with practical recommendations for health centres to ensure appropriate training, capacity, and planning, depending on local priorities and resources.",
         "The analysis at the micro-level may further specify the proposed measures and prescribe actions for: l the digital modernization of the system and the introduction of e-health, l the improvement of skills and competencies of human resources, l the development of modern procurement systems, analytical cost accounting, compensation methods, methods for preparing and monitoring the budget of hospitals, and l the introduction of internal control systems, quality management systems, one-day surgery, home health-care, distant care."
-        ]
+      ]
     },
     {
       "description": "Rapid design and execution of experiments to examine and compare NPIs currently being implemented.",
       "searchKeywords": [
-          "non-pharmaceutical",
+        "non-pharmaceutical",
         "rapid_experiment",
         "multidisciplinary",
         "homeland_security_science"
@@ -69,7 +69,7 @@
         "covid19"
       ],
       "bestSentences": [
-          "To facilitate rapid determination of outbreak risk, we propose a reformulation of a classic result from random network theory that relies on contact tracing data to simultaneously determine the first moment (R 0 ) and the higher moments (representing the heterogeneity) in the distribution of secondary infections.",
+        "To facilitate rapid determination of outbreak risk, we propose a reformulation of a classic result from random network theory that relies on contact tracing data to simultaneously determine the first moment (R 0 ) and the higher moments (representing the heterogeneity) in the distribution of secondary infections.",
         "Other effective measures include One health approach, implementation of effective prevention and control strategies, rapid communication and networking, and exploring advances in science and technology for developing rapid and confirmatory diagnostics, enhancing disease surveillance and monitoring, implementation of strict biosecurity measures, and timely efforts toward designing appropriate and effective vaccines and therapeutics (Cheng et al. 2020; Cohen 2020; Cyranoski 2020; Lu 2020; Munjal et al. 2017; Singh et al. 2017) .",
         "Progress has been facilitated by: 1) application of principles of reliability science (in which failures to adhere to best practice are regarded as 'defects' in care); 2) development of concise 'bundles' of evidence-based practices (culled from exhaustive and somewhat cumbersome guidelines); 3) application of an 'execution framework' (including clear aims supported by leadership, multi-disciplinary teams employing quality improvement methods at the bedside in clinical microsystems, clear measures of outcomes and success, and a parsimonious set of 'drivers' required to achieve these outcomes); and 4) advances in technology."
       ]
@@ -87,7 +87,7 @@
         "efficacy",
         "effective",
         "assesment",
-          "control"
+        "control"
       ],
       "bestSentences": [
         "Incorporating social mixing patterns in different contexts and at different times of the week (weekend vs weekday) into mathematical models, it is possible to evaluate the potential effectiveness of a range of control measures targeting respiratory infections, including school closures [4, 14] and social distancing [11] .",
@@ -119,14 +119,14 @@
       "description": "Models of potential interventions to predict costs and benefits that take account of such factors as race, income, disability, age, geographic location, immigration status, housing status, employment status, and health insurance status.",
       "searchKeywords": [
         [
-         "intervention", 
-            "benefit_cost",
-            "housing", 
-            "demographic",
-            "income", 
-            "age", 
-            "immigration",
-            "census"
+          "intervention",
+          "benefit_cost",
+          "housing",
+          "demographic",
+          "income",
+          "age",
+          "immigration",
+          "census"
         ]
       ],
       "optionalKeywords": [
@@ -136,8 +136,8 @@
       ],
       "bestSentences": [
         "Ratio from aggregate case data Assuming homogeneous attack rates across the different age groups, the demographic distribution of cases by age across each location should broadly match the demography of the populations in Wuhan and across the rest of China.",
-          "The model was developed using detailed census, workplace and mobility data using a model development methodology applied previously.11 Such models create realistic representations of the respective communities at an individual-byindividual level using the best available data sources, including from the Australian Bureau of Statistics (ABS).16 The Newcastle model represents 272,409 people in an urban area with a population which is representative of the Australian population as a whole, in terms of age distribution.",
-          "Demographic data included gender, age, hospital classification, years of working, departments, professional titles, undertaking management work or not, educational background, marriage status, single child or not, and fertile or not."
+        "The model was developed using detailed census, workplace and mobility data using a model development methodology applied previously.11 Such models create realistic representations of the respective communities at an individual-byindividual level using the best available data sources, including from the Australian Bureau of Statistics (ABS).16 The Newcastle model represents 272,409 people in an urban area with a population which is representative of the Australian population as a whole, in terms of age distribution.",
+        "Demographic data included gender, age, hospital classification, years of working, departments, professional titles, undertaking management work or not, educational background, marriage status, single child or not, and fertile or not."
       ]
     },
     {
@@ -145,9 +145,9 @@
       "searchKeywords": [
         [
           "access",
-            "policy", 
-            "compliance",
-            "equitable"
+          "policy",
+          "compliance",
+          "equitable"
         ]
       ],
       "optionalKeywords": [
@@ -157,7 +157,7 @@
       ],
       "bestSentences": [
         "Social distancing policies may themselves influence the background mortality risks, as people may be less likely to access health and social care, and because social isolation has in many previous studies been shown to be associated with the onset and progression of cardiovascular and other diseases (34) .",
-         "A key measurable goal for the success of health policy is assessing Universal Health Coverage, including access to effective and safe medicines and other health targets within the UN's Sustainable Development Goals."
+        "A key measurable goal for the success of health policy is assessing Universal Health Coverage, including access to effective and safe medicines and other health targets within the UN's Sustainable Development Goals."
       ]
     },
     {
@@ -179,7 +179,7 @@
       "bestSentences": [
         "Socio-economic differences may well be the reason for this: Ushuaia has one of the lowest poverty rates in the country, whereas Jujuy has one of the highest.",
         "Individuals of lower socioeconomic status are more likely to find themselves in a dilemma between the need to work in high-risk locations and the lack of protective equipment.",
-         "The negative socio-economic impacts dictate that the community-level interventions can only last a finite amount of time."
+        "The negative socio-economic impacts dictate that the community-level interventions can only last a finite amount of time."
       ]
     },
     {
@@ -204,7 +204,7 @@
         "In 2006, Dr. Larry Brilliant stated that 90% of the epidemiologists in his confidence agreed that there would be a large influenza pandemic within two generations, in which 1 billion people would sicken, 165 million would die, and the global economy would lose $1 to $3 trillion (11) (see Supplementary Materials for further discussion)."
       ]
     },
-      {
+    {
       "description": "This would include identifying policy and programmatic alternatives that lessen/mitigate risks to critical government services, food distribution and supplies, access to critical household supplies, and access to health diagnoses, treatment, and needed care, regardless of ability to pay.",
       "searchKeywords": [
         [
@@ -226,3 +226,5 @@
         "It is necessary to implement a community-based comprehensive intervention, which requires support from national polices, to ensure the availability of medical resources, such as essential drugs, equipment, and human resources, and to improve the affordability of COPD therapy for patients."
       ]
     }
+  ]
+}
