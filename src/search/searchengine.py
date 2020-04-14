@@ -1,5 +1,6 @@
 import operator
 from typing import List
+from datetime import datetime
 
 import pandas as pd
 from gensim.models.phrases import Phraser
@@ -77,19 +78,42 @@ class SearchEngine:
         print(f'Search terms after cleaning, bigrams, trigrams and synonym expansion: {search_terms}')
         print(f'Optional search terms after cleaning, bigrams, trigrams and synonym expansion: {optional_search_terms}')
 
+        date_today = datetime.today()
+
         # calculate score for each sentence. Take only sentence with at least one match from the must-have keywords
-        index_to_score = {}
+        indexes = []
+        match_counts = []
+        days_diffs = []
         for sentence_index, sentence in enumerate(self.cleaned_sentences):
             sentence_tokens = sentence.split(' ')
             sentence_tokens_set = set(sentence_tokens)
             match_count = sum([keyword_weight if keyword in sentence_tokens_set else 0
                                for keyword in search_terms])
             if match_count > 0:
-                index_to_score[sentence_index] = match_count
+                indexes.append(sentence_index)
                 if optional_search_terms:
-                    match_count = sum([optional_keyword_weight if keyword in sentence_tokens_set else 0
+                    match_count += sum([optional_keyword_weight if keyword in sentence_tokens_set else 0
                                        for keyword in optional_search_terms])
-                    index_to_score[sentence_index] += match_count
+                match_counts.append(match_count)
+                article_date = self.sentence_id_to_metadata[sentence_index]["publish_time"]
+
+                if article_date == "2020":
+                    article_date = "2020-01-01"
+
+                article_date = datetime.strptime(article_date, "%Y-%m-%d")
+                days_diff = (date_today - article_date).days
+                days_diffs.append(days_diff)
+
+        # the bigger the better
+        match_counts = [float(match_count)/sum(match_counts) for match_count in match_counts]
+
+        # the lesser the better
+        days_diffs = [(max(days_diffs) - days_diff) for days_diff in days_diffs]
+        days_diffs = [float(days_diff)/sum(days_diffs) for days_diff in days_diffs]
+
+        index_to_score = {}
+        for index, match_count, days_diff in zip(indexes, match_counts, days_diffs):
+            index_to_score[index] = 0.7 * match_count + 0.3 * days_diff
 
         # sort by score descending
         sorted_indexes = sorted(index_to_score.items(), key=operator.itemgetter(1), reverse=True)
