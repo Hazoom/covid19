@@ -1,0 +1,1402 @@
+{
+  "taskName": "What do we know about vaccines and therapeutics?",
+  "subTasks": [
+    {
+      "sub_task_description": "Effectiveness of drugs being developed and tried to treat COVID-19 patients.",
+      "seed_sentences": [
+        "However, our ability to identify and validate effective combinations is limited by a combinatorial explosion, driven by both the large number of drug pairs and dosage combinations.",
+        "Prior to our evaluation of 49 drugs against SARS-CoV-2 infection, we also tested antiviral activity of several other drugs based on the cytopathic effect of the virus in the presence of each drug.",
+        "Although several drugs, such as remdesivir and chloroquine phosphate, have been registered in ongoing clinical trials for COVID-19, no specific antiviral drugs against this novel coronavirus are approved so far."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "72bec44d56da538afeabe871b4069ffe9b0906da",
+          "cord_uid": "5f95gve3",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.999730",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Prior to our evaluation of 49 drugs against SARS-CoV-2 infection, we also tested antiviral activity of several other drugs based on the cytopathic effect of the virus in the presence of each drug ( Figure 2 )."
+        },
+        {
+          "paper_id": "6131628f8273f4c73aa0a46e0ee71e359ba86fe5",
+          "cord_uid": "t1wpujpm",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038190",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Although a number of drugs have been evaluated for SARS-CoV and MERS-CoV there are no approved therapeutic agents available for coronaviruses."
+        },
+        {
+          "paper_id": "48f486ccea11b4ba01186e287124316c962857f7",
+          "cord_uid": "wmfcwqfw",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.10.20033522",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "At the present time, there are no proven etiological treatments for COVID-19 but some ongoing clinical trials are testing the effects of anti-viral drugs (NCT04252664 on ClinicalTrials.gov)."
+        },
+        {
+          "paper_id": "6131628f8273f4c73aa0a46e0ee71e359ba86fe5",
+          "cord_uid": "t1wpujpm",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038190",
+          "publish_time": "2020-03-20",
+          "section": "abstract",
+          "sentence": "Although a number of antiviral agents have been evaluated for coronaviruses there are no approved drugs available."
+        },
+        {
+          "paper_id": "f879c69d61f14d7efc51023258d1361bc681d403",
+          "cord_uid": "9ecuca17",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.03.20030668",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "Although antiviral drugs, including osehamivir and ribavirin had been applied to our patients, to date no effective antiviral to treat COVID-19 has been identified."
+        },
+        {
+          "paper_id": "55712908d1e617c25eebc0ca762a086e9d46a4e8",
+          "cord_uid": "8xmcljal",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jtho.2020.03.008",
+          "publish_time": "2020-03-17",
+          "section": "body",
+          "sentence": "At the moment, there are no specific therapeutics approved by the Food and Drug Administration, but the peculiar abundance of CD138\u00fe plasma cells in COVID-19 may be a relevant feature; indeed COVID-19 and SARS, both caused by coronaviruses, are"
+        },
+        {
+          "paper_id": "17307ab6eda64e1538da204c02114dd36a9b7fd6",
+          "cord_uid": "xetzg7gp",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.08.939553",
+          "publish_time": "2020-02-12",
+          "section": "body",
+          "sentence": "Early research into SARS-CoV-2 has mostly described its epidemiological features (1, 3) , case reports (4), structural characterizations (5), basic genomics features (6, 7) , etc. Scant works have reported on the immunological features of SARS-CoV-2, which could have significant bearing on our understanding of how this virus interacts with its host."
+        },
+        {
+          "paper_id": "1eb2a0cf3757558a49f6ad91294a832b04ca6353",
+          "cord_uid": "x3c7zjvg",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20033175",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "No antiviral treatment for coronavirus infection has been proven to be effective, however, antiviral agents were applied in almost (97.8%) patients with COVID-19."
+        },
+        {
+          "paper_id": "297f36eeb998b4e8729a0cbdf958671e9909edc1",
+          "cord_uid": "8prn86g6",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.997585",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Potential inhibitors have been designed to target nearly every stage of the viral replication cycle. 2 However, despite decades of research, no effective drug is currently approved to treat serious coronavirus infections such as SARS, MERS, and now COVID-19."
+        },
+        {
+          "paper_id": "0600766ed9853749cfca4d2ac0b3fb1c0e03c82f",
+          "cord_uid": "tijcxtwx",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30185-9",
+          "publish_time": "2020-02-21",
+          "section": "body",
+          "sentence": "Beyond supportive care, 17 no specific coronavirus antivirals or vaccines of proven efficacy in humans exist, although clinical trials of both are ongoing for MERS-CoV and one controlled trial of ritonavir-boosted lopinavir monotherapy has been launched for 2019-nCoV (ChiCTR2000029308)."
+        },
+        {
+          "paper_id": "28884786bfd579216f563c278e1730290dd4ccb8",
+          "cord_uid": "hj675z1b",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.12.989186",
+          "publish_time": "2020-03-14",
+          "section": "body",
+          "sentence": "Potential inhibitors have been designed to target nearly every stage of this process. 3 However, despite decades of research, no effective drug is currently approved to treat serious coronavirus infections such as SARS, MERS, and COVID-19."
+        },
+        {
+          "paper_id": "cd4f5118038ae33283d34a15f8c3888f00e247bc",
+          "cord_uid": "szsb1oan",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jaut.2020.102434",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "Although several candidate vaccines against SARS-CoV have been produced and tested, at present, unfortunately, there is no FDA approved vaccine against SARS."
+        },
+        {
+          "paper_id": "63e846049e86d130df69d522c92008d9415a9a24",
+          "cord_uid": "d7n1zy0b",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.lfs.2020.117477",
+          "publish_time": "2020-05-01",
+          "section": "body",
+          "sentence": "Additionally, a huge number of attempts to develop anti-RdRp compounds are under clinical testing against different viruses."
+        },
+        {
+          "paper_id": "d99dbae98cc9705d9b5674bb6eb66560b4434305",
+          "cord_uid": "op69dg4q",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7063555/",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "Currently, randomized controlled trials have not shown any specific antiviral treatment to be effective for COVID-19."
+        },
+        {
+          "paper_id": "320e1640a5ddfcbed21e1afff08a86dc1b0af5b2",
+          "cord_uid": "w49i0xkz",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jacc.2020.03.031",
+          "publish_time": "2020-03-19",
+          "section": "body",
+          "sentence": "To date, no approved preventative vaccines or approved therapies are available for COVID-19, although several are being actively studied (24) ."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Methods evaluating potential complication of Antibody-Dependent Enhancement (ADE) in vaccine recipients.",
+      "seed_sentences": [
+        "In addition to potent neutralizing antibody elicitation upon  immunization, potential 315 antibody-dependent disease enhancement (ADE) is the major concern",
+        "Second, it was reported that antibody dependent enhancement (ADE) of SARS-CoV-2 due to prior exposure to other coronaviruses might also be involved in COVID-19.",
+        "ADE can elicit sustained inflammation, lymphopenia, and/o cytokine storm, which makes it a possible explanation for the  geographic limitation of severe cases. Third, combined infections may lead to a more severe systemic inflammatory response.",
+        "Another rare risk worth mentioning during CP therapy is antibody-dependent infection enhancement, occurring at sub-neutralizing concentrations, which could suppress innate antiviral systems and thus could allow logarithmic intracellular growth of the virus"
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "430088e2d738c4c20413082888b2666668c9105f",
+          "cord_uid": "nnlynjoy",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.16.20036780",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "ADE can elicit sustained inflammation, lymphopenia, and/or cytokine storm, which makes it a possible explanation for the geographic limitation of severe cases. 34 Third, combined infections may lead to a more severe systemic inflammatory response."
+        },
+        {
+          "paper_id": "9ad252c633b7596a4b64ca9f1699a0db5ce99c05",
+          "cord_uid": "8znnq0rh",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.16.20036145",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Another rare risk worth mentioning during CP therapy is antibody-dependent infection enhancement, occurring at sub-neutralizing concentrations, which could suppress innate antiviral systems and thus could allow logarithmic intracellular growth of the virus (28)."
+        },
+        {
+          "paper_id": "f48986254b981e602475cd421c586b5bce8dda4c",
+          "cord_uid": "ctd9sutv",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.micinf.2020.02.006",
+          "publish_time": "2020-03-31",
+          "section": "abstract",
+          "sentence": "One possible answer is antibody dependent enhancement (ADE) of SARS-CoV-2 due to prior exposure to other coronaviruses."
+        },
+        {
+          "paper_id": "f48986254b981e602475cd421c586b5bce8dda4c",
+          "cord_uid": "ctd9sutv",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.micinf.2020.02.006",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "One possible answer is antibody dependent enhancement (ADE) of SARS-CoV-2 due to prior exposure to other coronaviruses."
+        },
+        {
+          "paper_id": "430088e2d738c4c20413082888b2666668c9105f",
+          "cord_uid": "nnlynjoy",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.16.20036780",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "First, SARS-Cov-2 infects patients by binding human ACE2, 29, 30 which is widely expressed in multiple organs throughout the body. 31 SARS-CoV-2 might lead to multi-system inflammation through ACE/Ang II/AT1R pathway and ACE2/Ang (1-7)/Mas receptor pathway. 32, 33 Second, it was reported that antibody dependent enhancement (ADE) of SARS-CoV-2 due to prior exposure to other coronaviruses might also be involved in COVID-19."
+        },
+        {
+          "paper_id": "3fe2552d3d8e6c9ead2c41e30fbb69e917277f53",
+          "cord_uid": "dmud2zf7",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.04.20030395",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "While the cell surface receptor for SARS-Cov-2 has now been identified as ACE2 8 , other receptors may also exist on immune cells to bind to coronavirus [9] [10] [11] ."
+        },
+        {
+          "paper_id": "39ab0e9d7a93e6a7483bf4851e69cd66d2653256",
+          "cord_uid": "i9r77o70",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.16.994152",
+          "publish_time": "2020-03-17",
+          "section": "body",
+          "sentence": "In addition to potent neutralizing antibody elicitation upon immunization, potential 315 antibody-dependent disease enhancement (ADE) is the major concern for an efficacious The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.03.16.994152 doi: bioRxiv preprint 582 Figure 3 ."
+        },
+        {
+          "paper_id": "478eef31104b531a2fb5df48ebfdd9cdc4485a77",
+          "cord_uid": "ba8zx73b",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.it.2020.02.007",
+          "publish_time": "2020-03-12",
+          "section": "body",
+          "sentence": "Attractive antiviral compounds include protease inhibitors [10] , which deactivate membrane fusion triggering and suppress virus entry."
+        },
+        {
+          "paper_id": "2f6efc4edc0c9fffd3acc810efd8616e7772b28a",
+          "cord_uid": "c08ptb1o",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.13.990267",
+          "publish_time": "2020-03-14",
+          "section": "body",
+          "sentence": "For these reasons the development of antibodies that target the spike RBD of coronaviruses and block their interaction with ACE2, disrupting a fundamental infection mechanism, represent attractive therapeutic solutions."
+        },
+        {
+          "paper_id": "93d8f1552a81587e2f88e38580cbe4753b9934f1",
+          "cord_uid": "nt5sprdh",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.05.20032011",
+          "publish_time": "2020-03-08",
+          "section": "body",
+          "sentence": "This is particularly important for SARS-CoV-2 as the virus could undergo recombination with other human coronaviruses and mutation and this may also affect both vaccine and antiviral efficacy."
+        },
+        {
+          "paper_id": "1cf4faa405e1bd03ac04596491a0261cfdd68449",
+          "cord_uid": "p2rhqdem",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6668225/",
+          "publish_time": "2019-01-29",
+          "section": "body",
+          "sentence": "Immunity is acquired through a neutralizing antibody response to the virus G protein, which is located on the viral envelope CD8 T-cell responses may also contribute to VSV immunity, and have been mapped to the virus N protein in BALB/c mice; other T cell epitopes presumably are present in the remaining 4 major virus proteins Non-neutralizing antibodies may play a role in clearance of infected cells or virus killing through a variety of Fc-mediated phagocytic and cytotoxic mechanisms [55, 60, 61, 69, 73, 83, 84] 3.9."
+        },
+        {
+          "paper_id": "d1c0a1bfbc2785ecfaac415612d354f2ffc3bfc5",
+          "cord_uid": "6g34qwer",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.21.20040691",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "A favorable specific antibody drug should inhibit the virus replication and suppress the inflammation storm."
+        },
+        {
+          "paper_id": "acb678bdd7634055de18d0b89bb6a4890e6a0306",
+          "cord_uid": "r22x7gnu",
+          "source": "CZI",
+          "url": "https://doi.org/10.1038/s41422-020-0282-0",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Our preliminary data (Supplementary information, Fig. S2 ) showed that remdesivir also inhibited virus infection efficiently in a human cell line (human liver cancer Huh-7 cells), which is sensitive to 2019-nCoV. 2 Chloroquine, a widely-used anti-malarial and autoimmune disease drug, has recently been reported as a potential broadspectrum antiviral drug. 8, 9 Chloroquine is known to block virus infection by increasing endosomal pH required for virus/ cell fusion, as well as interfering with the glycosylation of cellular receptors of SARS-CoV. 10 Our time-of-addition assay demonstrated that chloroquine functioned at both entry, and at postentry stages of the 2019-nCoV infection in Vero E6 cells (Fig. 1c, d) ."
+        },
+        {
+          "paper_id": "c12a11fa9c5fdff0bf85a9f0111c64d6dffe8d26",
+          "cord_uid": "cgcvfftf",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1470-9465.2006.12_4_1426.x",
+          "publish_time": "2006-12-31",
+          "section": "body",
+          "sentence": "Recent evidence indicate that such an immune environment may also affect the epithelial inflammatory response to the virus: a reduced production of proinflammatory mediators is observed, correlating with increased viral proliferation and increased virusinduced cytotoxicity."
+        },
+        {
+          "paper_id": "c6ec1380338cb2467dc6fc14add09ca5bea18411",
+          "cord_uid": "iu2ziccm",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.01.28.922922",
+          "publish_time": "2020-01-29",
+          "section": "abstract",
+          "sentence": "In contrast, specific inhibitors targeting the key protease involved in replication and proliferation of the virus are the most effective means to alleviate the epidemic."
+        },
+        {
+          "paper_id": "1c4200a8fa3fc2e851aed0f43b17b32187dc9034",
+          "cord_uid": "n2jer8en",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.2353/ajpath.2007.060469",
+          "publish_time": "2007-02-28",
+          "section": "body",
+          "sentence": "However, in vitro experiments have demonstrated that cells expressing DC-SIGN or L-SIGN without ACE2 are not or are only partially susceptible to SARS-CoV infection. 24 -26 This suggests that these receptors are much less efficient than ACE2 receptors and merely enhance infection of susceptible cells. 24 -26 All these findings suggest that other receptors and/or cofactors may be involved in the interaction between the virus and the target cells."
+        },
+        {
+          "paper_id": "f6f1ec12291f743de1504003929ea654217f2af6",
+          "cord_uid": "8p1agcm2",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.12.946087",
+          "publish_time": "2020-02-20",
+          "section": "body",
+          "sentence": "Vaccination strategies designed to target the immune response toward these conserved epitope regions could generate immunity that is not only crossprotective across Betacoronaviruses but also relatively resistant to ongoing virus evolution."
+        },
+        {
+          "paper_id": "1ddf28f6c2bc0a7db607b0771748e34fb6659f51",
+          "cord_uid": "hq4jb2wy",
+          "source": "CZI",
+          "url": "https://doi.org/10.3389/fmicb.2020.00298",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Also, these traditional vaccines may induce the antibody-dependent enhancement (ADE) effect, as in the case of SARS-CoV infection (Luo et al., 2018b) ."
+        },
+        {
+          "paper_id": "628224850a2206055fd6792b865f83674e3d3c29",
+          "cord_uid": "1a8uevk8",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijantimicag.2020.105948",
+          "publish_time": "2020-03-19",
+          "section": "body",
+          "sentence": "At the same time, antibodies can limit the virus reproduction in the acute phase of infection and help clear the virus, which is conducive to the rapid recovery of the disease [62] ."
+        },
+        {
+          "paper_id": "9b5988df3808813c14e5898f7642f5c32cbc148d",
+          "cord_uid": "0cvoeiy0",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.diagmicrobio.2013.02.011",
+          "publish_time": "2013-06-30",
+          "section": "body",
+          "sentence": "The strong or abnormal activation of the immune system in severe HFMD cases may affect the method choice concerning pathogen detection using either molecular methods or immune detection focus on IgM antibody."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Exploration of use of best animal models and their predictive value for a human vaccine.",
+      "seed_sentences": [
+        "Animal-based diseased models have also been developed to identify systemic mechanisms of acute exacerbation",
+        "But there is a need for rapid human and animal-based trails as  these vaccines still require 3 to 10 months for  commercialization."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "05e2f08d487b551346b31083c115af7bd75c8dc2",
+          "cord_uid": "1mjaycee",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jare.2020.03.005",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "But there is a need for rapid human and animal-based trails as these vaccines still require 3 to 10 months for commercialization."
+        },
+        {
+          "paper_id": "45a566c71056ba4faab425b4f7e9edee6320e4a4",
+          "cord_uid": "iy1us54z",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7052386/",
+          "publish_time": "2020-02-25",
+          "section": "body",
+          "sentence": "Animal-based diseased models have also been developed to identify systemic mechanisms of acute exacerbation (Shin, 2016; Gubernatorova et al., 2019; Tanner and Single, 2019) ."
+        },
+        {
+          "paper_id": "5307fbd7cbc9b0b7e87ec4d1a8b99e544d81446f",
+          "cord_uid": "xuczplaf",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jaut.2020.102433",
+          "publish_time": "2020-02-26",
+          "section": "body",
+          "sentence": "In order to develop pre-and post-exposure prophylaxis against COVID-19, there is an urgent need to establish an animal model to replicate the severe disease currently observed in humans."
+        },
+        {
+          "paper_id": "7e8409337e69a72191475029805c6776ad43b60b",
+          "cord_uid": "rxrlbw60",
+          "source": "CZI",
+          "url": "https://doi.org/10.3855/jidc.12425",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Having an animal model that can recapitulate human disease is essential for vaccine and therapeutic development as well as testing."
+        },
+        {
+          "paper_id": "7e8409337e69a72191475029805c6776ad43b60b",
+          "cord_uid": "rxrlbw60",
+          "source": "CZI",
+          "url": "https://doi.org/10.3855/jidc.12425",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Establishing an animal model of infection and disease pathogenesis is imperative for understanding several essential elements of viral disease in the infected host, including host tropism, immune responses, and modes of transmission, as well as for the progression of therapeutic development."
+        },
+        {
+          "paper_id": "cd4f5118038ae33283d34a15f8c3888f00e247bc",
+          "cord_uid": "szsb1oan",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jaut.2020.102434",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "Development of animal models that faithfully mimic SARS-CoV-2 infection in humans is critical not only in providing a more refined understanding of the pathogenic mechanisms involved but also to serve as a screening model for potential chemotherapeutic agents and vaccines."
+        },
+        {
+          "paper_id": "20587d80c1cf2e0a78894f9c98a4cbc1dfed3676",
+          "cord_uid": "ggv87nhn",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-253040-1.50007-5",
+          "publish_time": "1974-12-31",
+          "section": "body",
+          "sentence": "Further, the antibody response plays an important role in the pathogenesis of viral diseases (see Chapter 10), and methods for measuring different kinds of antibodies in various parts of the body are essential for the proper understanding of disease processes in intact animals."
+        },
+        {
+          "paper_id": "8f07d14b2b470c80d8f88f54fb5cb0c72e5e7ecd",
+          "cord_uid": "39vjafky",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1469-0691.2008.02006.x",
+          "publish_time": "2008-05-31",
+          "section": "body",
+          "sentence": "The increasing prevalence, in some countries, of C. ulcerans infection, which can present with symptoms of classical diphtheria, also highlights the need for increased understanding of this pathogen, associated with contact with domestic animals."
+        },
+        {
+          "paper_id": "d2ca1dd15ada19a63bfa942ade9249ef08b8b06b",
+          "cord_uid": "3rbjwjxu",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jcyt.2013.11.010",
+          "publish_time": "2014-02-28",
+          "section": "body",
+          "sentence": "The limitation of this approach is that it is time-consuming (up to 3 months), requires the use of a clinical grade viral vector, which is expensive, and can be a major regulatory hurdle."
+        },
+        {
+          "paper_id": "08dfdc04bb88613df95bb3988a97ee07a3c5d96e",
+          "cord_uid": "jizitnfl",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-012374410-4.00549-5",
+          "publish_time": "2008-12-31",
+          "section": "body",
+          "sentence": "A number of other viruses that infect humans (e.g., Ebola virus, Lassa fever virus, enterovirus 70) or livestock (e.g., foot and mouth disease virus, rinderpest, Newcastle disease virus) have also been studied for their offensive capabilities or for the development of medical and veterinary countermeasures."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Capabilities to discover a therapeutic (not vaccine) for the disease, and clinical effectiveness studies to discover therapeutics, to include antiviral agents.",
+      "seed_sentences": [
+        "Current antiviral drugs developed to treat coronavirus  infections primarily target S protein, the 3C-like and  papain-like  proteases",
+        "The alternative antiviral approach we propose here relies on a CRISPR-based system for recognizing and degrading the intracellular viral genome and its resulting viral mRNAs",
+        "Here, we describe preliminary tests for the ability of the SARS-CoV-2 S1 RBD to bind heparin, an important prerequisite for the underpinning research related to the development of SARS-CoV-2 heparin-based therapeutic.",
+        "This implies a therapeutic challenge is attributed to the enhanced rigidity of the COVID-19 RBD relative to that of the  SARS-2002.",
+        "For these reasons the development of antibodies that target the spike RBD of coronaviruses and block their interaction with ACE2, disrupting a fundamental infection mechanism, represent attractive therapeutic solutions."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "07e833d0917cace550853f72923856d0fe1a7120",
+          "cord_uid": "0d77ojnb",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.29.971093",
+          "publish_time": "2020-03-02",
+          "section": "body",
+          "sentence": "Here, we describe preliminary tests for the ability of the SARS-CoV-2 S1 RBD to bind heparin, an important prerequisite for the underpinning research related to the development of SARS-CoV-2 heparin-based therapeutic."
+        },
+        {
+          "paper_id": "15bad8368522a05f32dee771e5a8259f0e9cbbfd",
+          "cord_uid": "jpkxjn6e",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.10.986398",
+          "publish_time": "2020-03-12",
+          "section": "body",
+          "sentence": "This implies a therapeutic challenge is attributed to the enhanced rigidity of the COVID-19 RBD relative to that of the SARS-2002."
+        },
+        {
+          "paper_id": "6ae20454d1a9f228864de24660c2460becbc8151",
+          "cord_uid": "1qniriu0",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.01.30.927889",
+          "publish_time": "2020-02-04",
+          "section": "body",
+          "sentence": "Protease inhibitors are remarkably effective in blocking the replication of coronavirus, including the SARS and the Middle East respiratory syndrome (MERS), providing a promising foundation for the development of anticoronaviral therapeutics."
+        },
+        {
+          "paper_id": "05d47dd5b46f86428de058db4ecc8bca76a9ad16",
+          "cord_uid": "xieqswct",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.13.991307",
+          "publish_time": "2020-03-14",
+          "section": "body",
+          "sentence": "Whereas traditional vaccines work by priming the human immune system to recognize viral proteins or weakened viruses and decrease viral entry into cells 8 , the alternative antiviral approach we propose here relies on a CRISPR-based system for recognizing and degrading the intracellular viral genome and its resulting viral mRNAs (Fig. 1B) ."
+        },
+        {
+          "paper_id": "5779e410753e13a0a79f9f872321fe42df49e65c",
+          "cord_uid": "z6v6s46n",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-809712-0.00011-3",
+          "publish_time": "2017-12-31",
+          "section": "body",
+          "sentence": "Moreover, the RNAi is used to target the replicase enzyme of human SARS virus."
+        },
+        {
+          "paper_id": "837056cb9cb01b2f15c39e7e342a3c47bfcc24cf",
+          "cord_uid": "r88hpbxp",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.06.977876",
+          "publish_time": "2020-03-07",
+          "section": "body",
+          "sentence": "Current antiviral drugs developed to treat coronavirus 53 (CoV) infections primarily target S protein, the 3C-like (3CL) and papain-like (PLP) proteases 3, 4 . 54 Because mutant viruses in the S protein is prone to escape the targeted therapeutic with 55 different host-cell receptor binding patterns 4 , as well as antibody-dependent enhancement 56 (ADE) effects of S protein antibodies are found in MERS coronavirus 5 , there are several limitations 57 on targeting S protein for antiviral approaches."
+        },
+        {
+          "paper_id": "fe69099d9491aa640dd66e8d606651c262755361",
+          "cord_uid": "647zcjgu",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.bbrc.2020.02.071",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Naturally, antibodies and inhibitors that can disrupt the interaction of RBD with ACE2 is of therapeutic importance."
+        },
+        {
+          "paper_id": "4faf34d795e5ff74a886528e46268af783fe712b",
+          "cord_uid": "647zcjgu",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.bbrc.2020.02.071",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Naturally, antibodies and inhibitors that can disrupt the interaction of RBD with ACE2 is of therapeutic importance."
+        },
+        {
+          "paper_id": "da1ff7154ddb1edba97ccb99a0bf84dfec0649ad",
+          "cord_uid": "7icslv2r",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.tim.2012.09.003",
+          "publish_time": "2012-12-31",
+          "section": "body",
+          "sentence": "After its internalization, the viral RNA is translated in the cytoplasm generating a polyprotein, which is eventually processed by virusencoded protease(s) into a dozen 'mature' proteins, including four capsid proteins (VP1-4), RNA-dependent RNA polymerase 3D pol , protease 3C pro (a major player in viral polyprotein processing but it may also cleave some host proteins, including components of the innate immunity system), 2C ATPase (believed to function as an RNA helicase but perhaps involved in some other activities too), VPg (a primer for initiation of positive and negative viral RNA strands), and two hydrophobic proteins 2B and 3A that navigate key replicative proteins to their intracellular destinations and help create an optimal environment for viral reproduction."
+        },
+        {
+          "paper_id": "48f173325e26a2e59ddb58d1941e59946ae52aa3",
+          "cord_uid": "qdt90c22",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7081067/",
+          "publish_time": "2020-03-17",
+          "section": "body",
+          "sentence": "Altogether, these data support the assumption that some protease inhibitors may have an antiviral effect by blocking coronavirus main protease."
+        },
+        {
+          "paper_id": "3a6544f6f247366d4c12167f7fba743e9d981c63",
+          "cord_uid": "elo7kfun",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.19.956946",
+          "publish_time": "2020-02-20",
+          "section": "body",
+          "sentence": "Structure-based rational design of binders with enhanced affinities to either ACE2 or the S protein of the coronaviruses may facilitate development of decoy ligands or neutralizing antibodies that block viral infection. author/funder."
+        },
+        {
+          "paper_id": "a388cca261e8af7936cf3b79c35f43442f65706b",
+          "cord_uid": "nhq0oq8y",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.16.951723",
+          "publish_time": "2020-02-20",
+          "section": "body",
+          "sentence": "However, coronavirus is a single-stranded RNA virus prone to rapid mutations during transmission, nAbs without cross-reactivity to a broad spectrum of viral mutants could lead to treatment failure 10, [27] [28] [29] , therefore, highly potent and cross-protective nAbs and prophylactic vaccines against SARS-CoV-2 are in urgent needs. with ACE2 by computational modeling and binding free energy analysis."
+        },
+        {
+          "paper_id": "11bb388ea0dbb352e25fcbc8614bfd6e62831e8b",
+          "cord_uid": "vlqd192g",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.998724",
+          "publish_time": "2020-03-21",
+          "section": "body",
+          "sentence": "By supplementing AMV reverse transcriptase, AIOD-CRISPR can be easily developed as one-step RT-AIOD-CRISPR to detect RNA targets such as HIV-1 and SARS-CoV-2 RNAs, which facilitates the CRISPR-Cas12a-based RNA detection without the preparation of cDNA."
+        },
+        {
+          "paper_id": "36f4e878826cc01b53272a5974ee60d8fddc9943",
+          "cord_uid": "g68g6xxu",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.tig.2004.01.009",
+          "publish_time": "2004-03-31",
+          "section": "body",
+          "sentence": "These anti-SARS drugs will function as protease inhibitors that might block coronavirus replication."
+        },
+        {
+          "paper_id": "51d84dcdb63743d247efcba5d4469bfad39926e9",
+          "cord_uid": "tdmkph8r",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.tcb.2015.02.001",
+          "publish_time": "2015-06-30",
+          "section": "body",
+          "sentence": "A common antiviral strategy shared among some of these ISGs is to cause dysregulation of viral or host translation through interaction with translation factors and components of the RNAi pathway, and facilitation of stress-induced post-translational modification and function of Ago2."
+        },
+        {
+          "paper_id": "473fbfa4949e8349434157a9f65687087176e605",
+          "cord_uid": "wi30tue8",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.chom.2015.02.003",
+          "publish_time": "2015-03-11",
+          "section": "body",
+          "sentence": "Accumulation of Phosphorylated eIF2a Is Dependent upon a Virus-Specific Transcription Factor in Xrn1-Depeted Cells To more precisely define the point in the viral lifecycle where mRNA translation was inhibited in Xrn1-depleted cells, protein synthesis was analyzed by separating metabolically radiolabeled proteins by SDS-PAGE at different times post-infection."
+        },
+        {
+          "paper_id": "478eef31104b531a2fb5df48ebfdd9cdc4485a77",
+          "cord_uid": "ba8zx73b",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.it.2020.02.007",
+          "publish_time": "2020-03-12",
+          "section": "body",
+          "sentence": "Attractive antiviral compounds include protease inhibitors [10] , which deactivate membrane fusion triggering and suppress virus entry."
+        },
+        {
+          "paper_id": "36f4e878826cc01b53272a5974ee60d8fddc9943",
+          "cord_uid": "g68g6xxu",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.tig.2004.01.009",
+          "publish_time": "2004-03-31",
+          "section": "body",
+          "sentence": "All these findings are relevant for sequence-based diagnostics and drug design against SARS-CoV and other coronaviruses because targeting the long arm with lower mutation rates should prove more robust against mutational changes in the target."
+        },
+        {
+          "paper_id": "12d267205009c178b6a50506db717ff650d93415",
+          "cord_uid": "o877uul1",
+          "source": "CZI",
+          "url": "https://doi.org/10.1038/s41586-020-2012-7",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "High-throughput sequencing, pathogen screening and genome assembly Samples from patient BALF or from the supernatant of virus cultures were used for RNA extraction and next-generation sequencing (NGS) using BGI MGISEQ2000 and Illumina MiSeq 3000 sequencers."
+        },
+        {
+          "paper_id": "4b2b9841f4d7064851b89540f55df916f279a82b",
+          "cord_uid": "y7lrp0gc",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.antiviral.2020.104762",
+          "publish_time": "2020-05-31",
+          "section": "body",
+          "sentence": "The case of chikungunya virus (CHIKV) is of specific interest: chloroquine showed promising antiviral activity in vitro (Coombs et al., 1981; Delogu and de Lamballerie, 2011) , but was shown to enhance alphavirus replication in various animal models (Maheshwari et al., 1991; Roques et al., 2018; Seth et al., 1999) , most probably because of the immune modulation and anti-inflammatory properties of chloroquine in vivo (Connolly et al., 1988; Katz and Russell, 2011; Savarino et al., 2003) ."
+        },
+        {
+          "paper_id": "9444dbf96374f2efc528fb4ede46ecf41a2b69be",
+          "cord_uid": "txuthqgo",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.22.002204",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "Deletions within the viral mRNA in the S glycoprotein and N In (a) is shown the read depth over the region deleted in the S glycoprotein together with information on the sequence in the region and the translation in all three frames."
+        },
+        {
+          "paper_id": "ffc9bc4ac6548cb1c03c2c6f088ab1c1c2067c6f",
+          "cord_uid": "dpcpg5c1",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.01.30.927574",
+          "publish_time": "2020-01-31",
+          "section": "body",
+          "sentence": "These modified nucleotide analogues should be potent polymerase inhibitors and thus active against various viral diseases, including but not limited to the coronaviruses such ."
+        },
+        {
+          "paper_id": "21f6b32c1715216a4f27933a8e8161eed2b3c656",
+          "cord_uid": "z3nyvaxp",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.mehy.2005.08.031",
+          "publish_time": "2006-12-31",
+          "section": "body",
+          "sentence": "Second, if anti-coronavirus antibody is the reason leading to dysfunction of adrenal cortex, due to molecular mimicry between the coronavirus and ACTH, the vaccine of SARS should have the same complication."
+        },
+        {
+          "paper_id": "28884786bfd579216f563c278e1730290dd4ccb8",
+          "cord_uid": "hj675z1b",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.12.989186",
+          "publish_time": "2020-03-14",
+          "section": "body",
+          "sentence": "To provide further proof that SARS-CoV-2 RdRp might be inhibited by 2'-F,Me-UTP, we next tested the ability of this molecule to be incorporated into an RNA primer to terminate the reaction catalyzed by the RdRp from SARS-CoV, using an RNA template."
+        },
+        {
+          "paper_id": "8179a15e73fbe20321358ee8992894bc9d101d0c",
+          "cord_uid": "on8w7mh6",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.arbr.2014.11.020",
+          "publish_time": "2015-01-31",
+          "section": "body",
+          "sentence": "Viruses were detected using a multiplex polymerase chain reaction (PCR) technique after reverse transcription of viral RNA (RT-PCR) for amplification of a specific 120-330 base-pair fragment of the viral genome."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Alternative models to aid decision makers in determining how to prioritize and distribute scarce, newly proven therapeutics as production ramps up. This could include identifying approaches for expanding production capacity to ensure equitable and timely distribution to populations in need.",
+      "seed_sentences": [
+        "More severe cases were seen in elderly with coexisting condition, which warrants clear triage management and high-risk approach in healthcare access prioritization.",
+        "And this risk stratification tool will enable better centralized management and early treatment of severe patients, and optimal use of medical resources via patient prioritization and thus significantly reduce mortality rates",
+        "Therefore, early identification of patients at high risk for progression to severe COVID-19 will facilitate appropriate supportive care and reduce the mortality rate, unnecessary or inappropriate healthcare utilization via patient's prioritization."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "4ffcd1d8e0f56c5a238bbd4040ec23410ef71a1b",
+          "cord_uid": "grx4gx95",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20036368",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "More severe cases were seen in elderly with coexisting condition, which warrants clear triage management and high-risk approach in healthcare access prioritization."
+        },
+        {
+          "paper_id": "ed4a41df2cf4e14a59f8c3899a8b19a2fbf1c291",
+          "cord_uid": "51b7hss1",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20037515",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "And this risk stratification tool will enable better centralized management and early treatment of severe patients, and optimal use of medical resources via patient prioritization and thus significantly reduce mortality rates."
+        },
+        {
+          "paper_id": "ed4a41df2cf4e14a59f8c3899a8b19a2fbf1c291",
+          "cord_uid": "51b7hss1",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20037515",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Therefore, early identification of patients at high risk for progression to severe COVID-19 will facilitate appropriate supportive care and reduce the mortality rate, unnecessary or inappropriate healthcare utilization via patient prioritization."
+        },
+        {
+          "paper_id": "510ecab01c66bc2a911abcf67451ec482ed18a05",
+          "cord_uid": "nsrm0axa",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.01.20029397",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "Therefore, early diagnosis and intensive care of critically severe COVID-19 cases will be considerably essential to reduce complications and mortality."
+        },
+        {
+          "paper_id": "f3ff1ecae96700f41b83d2a034a3a959428388b0",
+          "cord_uid": "fmymklz6",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.19.20025023",
+          "publish_time": "2020-02-23",
+          "section": "body",
+          "sentence": "Further understanding of the epidemiological and clinical features of COVID-19 is of great importance for the early detection of patients and reduction of severe cases and deaths [12] ."
+        },
+        {
+          "paper_id": "94e62a756a8f77d56f465194b69e260afad78eea",
+          "cord_uid": "tv9xsned",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.20039818",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Our study may help to identify severe COVID-19 patients in early stage, in order to provide supportive treatment and reduce the mortality."
+        },
+        {
+          "paper_id": "510ecab01c66bc2a911abcf67451ec482ed18a05",
+          "cord_uid": "nsrm0axa",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.01.20029397",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "Therefore, early diagnosis and intensive care of critically severe COVID-19 cases, especially those combined with ARDS, will be considerably essential to reduce mortality."
+        },
+        {
+          "paper_id": "510ecab01c66bc2a911abcf67451ec482ed18a05",
+          "cord_uid": "nsrm0axa",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.01.20029397",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "Thus, early diagnosis and intensive care of critically severe COVID-19 cases, especially those combined with ARDS, will be considerably essential to reduce mortality."
+        },
+        {
+          "paper_id": "48656efc59191537073975938f25f201524971af",
+          "cord_uid": "pd70i3d8",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.10.20021584",
+          "publish_time": "2020-02-12",
+          "section": "body",
+          "sentence": "If severe cases can be identified as early as possible, risk stratification management will help alleviate insufficient medical resources and might reduce mortality."
+        },
+        {
+          "paper_id": "94e62a756a8f77d56f465194b69e260afad78eea",
+          "cord_uid": "tv9xsned",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.20039818",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Early examination of risk factors in COVID-19 patients could distinguish severe patients from mild patients effectively and facilitate appropriate treatment."
+        },
+        {
+          "paper_id": "48656efc59191537073975938f25f201524971af",
+          "cord_uid": "pd70i3d8",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.10.20021584",
+          "publish_time": "2020-02-12",
+          "section": "body",
+          "sentence": "If there are large-scale cases, the risk stratification and management will help alleviate the shortage of medical resources and reduce the mortality of critical patients."
+        },
+        {
+          "paper_id": "efd78d873d7c23d511d82524d6e6d9a0c2ec9551",
+          "cord_uid": "50oy9qqy",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.20037325",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "In order to prevent malignant progression and reduce the mortality of COVID-19, it is vital to identify mild patients who are easy to deteriorate into severe/critical cases and give them active treatment earlier."
+        },
+        {
+          "paper_id": "ed4a41df2cf4e14a59f8c3899a8b19a2fbf1c291",
+          "cord_uid": "51b7hss1",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20037515",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Early identification of patients approaching to severe COVID-19 patients will lead to better management and optimal use of medical resources."
+        },
+        {
+          "paper_id": "efd78d873d7c23d511d82524d6e6d9a0c2ec9551",
+          "cord_uid": "50oy9qqy",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.20037325",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "With the worldwide outbreak of COVID-19, early prediction and early aggressive treatment of mild patients at high risk of malignant progression to severe/critical stage are important ways to reduce mortality."
+        },
+        {
+          "paper_id": "4380f0251c595d6cb551e643198d2dacd3c6746c",
+          "cord_uid": "na8odvj7",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.04.20030916",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "Therefore, how to closely observe the condition after morbidity and find severe cases as soon as possible is the key to reduce the mortality of critically ill patients."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Efforts targeted at a universal coronavirus vaccine.",
+      "seed_sentences": [
+        "These immunodominant epitopes can be incorporated in universal subunit CoV vaccine.",
+        "The present study provided a detailed  genetic analysis of 2019-nCoV genome evolution and potential  universal epitopes for subunit vaccine development",
+        "This creates a challenge for vaccine development efforts, especially for the design of epitope vaccines, where only a limited number of epitopes may be included"
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "04dc6d9c1e3f28e2b57934301593cf3da58b9935",
+          "cord_uid": "wxagjqbt",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.000794",
+          "publish_time": "2020-03-21",
+          "section": "body",
+          "sentence": "This creates a challenge for vaccine development efforts, especially for the design of epitope vaccines, where only a limited number of epitopes may be included."
+        },
+        {
+          "paper_id": "acb0e11e5763dbf7588ec435751a2ab705a783f1",
+          "cord_uid": "xxcx7hg5",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.01.29.925867",
+          "publish_time": "2020-01-30",
+          "section": "abstract",
+          "sentence": "The present study reported detailed analysis of 2019-nCoV genome evolution and potential candidate peptides for vaccine development."
+        },
+        {
+          "paper_id": "9b0c87f808b1b66f2937d7a7acb524a756b6113b",
+          "cord_uid": "8gncbgot",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/jcm9030623",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "The systematic review describes and assesses the potential rapid diagnostics, vaccines and therapeutics for 2019-nCoV, based in part on the developments for MERS-CoV and SARS-CoV."
+        },
+        {
+          "paper_id": "89795fa23ea23b2636c1c791bff839fb5580af26",
+          "cord_uid": "ap24tmzo",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30184-7",
+          "publish_time": "2020-02-21",
+          "section": "body",
+          "sentence": "The genetic sequence of the 2019 novel coronavirus (2019-nCoV) enabled the rapid development of point-of-care real-time RT-PCR diagnostic tests specific for 2019-nCoV (based on full genome sequence data on the Global Initiative on Sharing All Influenza Data [GISAID] platform)."
+        },
+        {
+          "paper_id": "b70d27459fd8143edf76721da40cdbca399c9fb1",
+          "cord_uid": "l6rqsqs2",
+          "source": "CZI",
+          "url": "https://doi.org/10.1097/cm9.0000000000000777",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "The identification of the 2019-nCoV has laid the foundation for the diagnosis and treatment of patients, the formulation of prevention and control measures as well as the development of drugs and vaccines."
+        },
+        {
+          "paper_id": "f6f1ec12291f743de1504003929ea654217f2af6",
+          "cord_uid": "8p1agcm2",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.12.946087",
+          "publish_time": "2020-02-20",
+          "section": "abstract",
+          "sentence": "We identified potential targets for immune responses to 2019-nCoV and provide essential information for understanding human immune responses to this virus and evaluation of diagnostic and vaccine candidates."
+        },
+        {
+          "paper_id": "b3940a8e9cd829a3346f913119efdb1ffcd8ec77",
+          "cord_uid": "trlni6iq",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.cell.2020.02.058",
+          "publish_time": "2020-03-09",
+          "section": "body",
+          "sentence": "Cell 180, 1-12, March 19, 2020 7 ongoing vaccine design efforts."
+        },
+        {
+          "paper_id": "04dc6d9c1e3f28e2b57934301593cf3da58b9935",
+          "cord_uid": "wxagjqbt",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.000794",
+          "publish_time": "2020-03-21",
+          "section": "abstract",
+          "sentence": "Designing a COVID-19 vaccine where only a few epitope targets are included is therefore a very challenging task."
+        },
+        {
+          "paper_id": "181b7b57851e6f58a601b68e613d10c10616f774",
+          "cord_uid": "7i52vltp",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.03.933226",
+          "publish_time": "2020-02-04",
+          "section": "body",
+          "sentence": "Overall, as the identified set of epitopes map identically to SARS-CoV-2, they present potentially useful candidates for guiding experimental efforts towards developing universal vaccines against SARS-CoV-2."
+        },
+        {
+          "paper_id": "181b7b57851e6f58a601b68e613d10c10616f774",
+          "cord_uid": "7i52vltp",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.03.933226",
+          "publish_time": "2020-02-04",
+          "section": "body",
+          "sentence": "All sequence and immunological data, and all scripts for reproducing the results are available at https://github.com/faraz107/2019-nCoV-T-Cell-Vaccine-Candidates."
+        },
+        {
+          "paper_id": "09de57e5401565a1e80361d32b09ce66b3a988c8",
+          "cord_uid": "2uwnamao",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/v12030254",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Overall, as the identified set of SARS-CoV epitopes map identically to SARS-CoV-2, they present potentially useful candidates for guiding experimental efforts towards developing vaccines against SARS-CoV-2."
+        },
+        {
+          "paper_id": "9b0c87f808b1b66f2937d7a7acb524a756b6113b",
+          "cord_uid": "8gncbgot",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/jcm9030623",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "With the emergence of 2019-nCoV, there are about 15 potential vaccine candidates in the pipeline globally (Table 3 ), in which a wide range of technology (such as messenger RNA, DNA-based, nanoparticle, synthetic and modified virus-like particle) was applied."
+        },
+        {
+          "paper_id": "1ddf28f6c2bc0a7db607b0771748e34fb6659f51",
+          "cord_uid": "hq4jb2wy",
+          "source": "CZI",
+          "url": "https://doi.org/10.3389/fmicb.2020.00298",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "A number of subunit vaccines against SARS-CoV and MERS-CoV have been developed, and these are described in detail in the next paragraphs."
+        },
+        {
+          "paper_id": "09de57e5401565a1e80361d32b09ce66b3a988c8",
+          "cord_uid": "2uwnamao",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/v12030254",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Our aim was to determine sets of epitopes associated with MHC alleles with maximum population coverage, potentially aiding the development of vaccines against SARS-CoV-2."
+        },
+        {
+          "paper_id": "123ea6f7fb7c9dbde72ca2a6a5f1c5d0986966ab",
+          "cord_uid": "3e6u4aza",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7048180/",
+          "publish_time": "2020-02-17",
+          "section": "body",
+          "sentence": "Therefore, it is urgent to experimentally determine the cross-reactivity of anti-SARS-CoV antibodies with 2019-nCoV spike protein, which could have important implications for rapid development of vaccines and therapeutic antibodies against 2019-nCoV."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Efforts to develop animal models and standardize challenge studies",
+      "seed_sentences": [
+        "However, given the therapeutic effect of AS on CLP animal models, we firmly believe that AS will improve the function of T and B cells.",
+        "While some animal models for such studies are under  development, most of the research is carried out in the Vero E6 cells.",
+        "In addition, these findings could have key implications for  animal model development as well as further research into how SARS-CoV-2 modulates the type I IFN response early  during infection.",
+        "Having an understanding of the animal models and model development previously utilized for the other coronaviruses of interest will aid in the development of a model for 2019-nCoV."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "7e8409337e69a72191475029805c6776ad43b60b",
+          "cord_uid": "rxrlbw60",
+          "source": "CZI",
+          "url": "https://doi.org/10.3855/jidc.12425",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Having an understanding of the animal models and model development previously utilized for the other coronaviruses of interest will aid in the development of a model for 2019-nCoV."
+        },
+        {
+          "paper_id": "0a32446730827ad8152c6a61e4738e4e0b231412",
+          "cord_uid": "egntml7e",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.26.966143",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "However, given the therapeutic effect of AS on CLP animal models, we firmly believe that AS will improve the function of T and B cells."
+        },
+        {
+          "paper_id": "d3493e82bfbb4d2dad1a01b5c2bb50df879619a7",
+          "cord_uid": "2w0zr9c0",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.07.982264",
+          "publish_time": "2020-03-09",
+          "section": "abstract",
+          "sentence": "In addition, these findings could have key implications for animal model development 22 as well as further research into how SARS-CoV-2 modulates the type I IFN response early 23 during infection."
+        },
+        {
+          "paper_id": "2634ab4b2f262ef28c5cdb34759ff3cae6c6187f",
+          "cord_uid": "1cc9ig04",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.999029",
+          "publish_time": "2020-03-21",
+          "section": "abstract",
+          "sentence": "While some animal models for such studies are under 33 development, most of the research is carried out in the Vero E6 cells."
+        },
+        {
+          "paper_id": "7e8409337e69a72191475029805c6776ad43b60b",
+          "cord_uid": "rxrlbw60",
+          "source": "CZI",
+          "url": "https://doi.org/10.3855/jidc.12425",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Establishing an animal model of infection and disease pathogenesis is imperative for understanding several essential elements of viral disease in the infected host, including host tropism, immune responses, and modes of transmission, as well as for the progression of therapeutic development."
+        },
+        {
+          "paper_id": "5f6a4c37c7c20e77dc239f09da7b00df8a07ed10",
+          "cord_uid": "tkyngspy",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.bbrc.2020.03.044",
+          "publish_time": "2020-03-19",
+          "section": "body",
+          "sentence": "Future studies should investigate these signaling pairs in the setting of CoVs infection in patients and animal models."
+        },
+        {
+          "paper_id": "c9f97759dfaf6a968e6528458e6a5533029d451d",
+          "cord_uid": "vbayngh0",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.cell.2020.02.052",
+          "publish_time": "2020-03-05",
+          "section": "body",
+          "sentence": "In sum, this study provided key insights into the first step of SARS-CoV-2 infection, viral entry into cells, and defined potential targets for antiviral intervention."
+        },
+        {
+          "paper_id": "96aaf04cd17ae7c92f976a072d4352d1d3aca94f",
+          "cord_uid": "7it4hs5d",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.cyto.2009.07.578",
+          "publish_time": "2009-11-30",
+          "section": "body",
+          "sentence": "The approach described in this study will provide significant insight for novel regulators of the host innate response to viral infection."
+        },
+        {
+          "paper_id": "cd4f5118038ae33283d34a15f8c3888f00e247bc",
+          "cord_uid": "szsb1oan",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jaut.2020.102434",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "Development of animal models that faithfully mimic SARS-CoV-2 infection in humans is critical not only in providing a more refined understanding of the pathogenic mechanisms involved but also to serve as a screening model for potential chemotherapeutic agents and vaccines."
+        },
+        {
+          "paper_id": "ff067164497bcfbd9145be223dcd2b05f159dd63",
+          "cord_uid": "llqpfhwg",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.02.20030189",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "Future studies are needed to a better understanding of the antibody response profile of SARS-CoV-2 infection."
+        },
+        {
+          "paper_id": "05e2f08d487b551346b31083c115af7bd75c8dc2",
+          "cord_uid": "1mjaycee",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jare.2020.03.005",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "Animal models play a vital role to uncover the mechanisms of viral pathogenicity from the entrance to the transmission and designing therapeutic strategies."
+        },
+        {
+          "paper_id": "2653807613a9f41dd55b66dcd5d5b551f7e29e9b",
+          "cord_uid": "osbk041e",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jinf.2020.02.029",
+          "publish_time": "2020-03-05",
+          "section": "body",
+          "sentence": "Preclinical works on animal models should contribute to elucidate the true role of lymphopenia and endothelial dysfunction in this disease."
+        },
+        {
+          "paper_id": "72bec44d56da538afeabe871b4069ffe9b0906da",
+          "cord_uid": "5f95gve3",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.999730",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Our findings could be further validated in an appropriate animal model, and hopefully developed through subsequent clinical trials in order to provide additional therapeutic options for patients with COVID-19."
+        },
+        {
+          "paper_id": "7e8409337e69a72191475029805c6776ad43b60b",
+          "cord_uid": "rxrlbw60",
+          "source": "CZI",
+          "url": "https://doi.org/10.3855/jidc.12425",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Having an animal model that can recapitulate human disease is essential for vaccine and therapeutic development as well as testing."
+        },
+        {
+          "paper_id": "e8d3d7ab031be52d7e69b0070488d8c43e2f00fb",
+          "cord_uid": "izolg0pm",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(19)33221-0",
+          "publish_time": "2020-03-04",
+          "section": "body",
+          "sentence": "Several experimentally infected animal models for MERS have been developed (appendix p 6). 50, 51 Methods for gene silencing and editing are being further developed, therefore it is likely that additional viral and host factors important in MERS-CoV pathogenesis will be identified."
+        },
+        {
+          "paper_id": "d3493e82bfbb4d2dad1a01b5c2bb50df879619a7",
+          "cord_uid": "2w0zr9c0",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.07.982264",
+          "publish_time": "2020-03-09",
+          "section": "body",
+          "sentence": "Moving forward, these data 232 could provide important insights for both the treatment of SARS-CoV-2 as well as developing 233 novel animal models of disease."
+        },
+        {
+          "paper_id": "7bc69471836fbf9cf28e57926d95fc48e6f45964",
+          "cord_uid": "1qkwsh6a",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7054940/",
+          "publish_time": "2020-02-08",
+          "section": "body",
+          "sentence": "Further research is warranted on establishing animal models for the current 2019-nCoV unrevealing viral events of replication, transmission, and pathogenesis in humans."
+        },
+        {
+          "paper_id": "fea50730d7cdcd7c728f98c31fe20aeb8af5e350",
+          "cord_uid": "13jupb26",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.compbiomed.2020.103670",
+          "publish_time": "2020-02-26",
+          "section": "body",
+          "sentence": "Some care is needed in deducing mechanisms of activation and cell entry, and hence potential therapies, on the basis of using different types of virus as reference models."
+        },
+        {
+          "paper_id": "17307ab6eda64e1538da204c02114dd36a9b7fd6",
+          "cord_uid": "xetzg7gp",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.08.939553",
+          "publish_time": "2020-02-12",
+          "section": "body",
+          "sentence": "Such analyses could also inform antiviral immuno-therapeutic development, which can be either T cell-based or B cell-based."
+        },
+        {
+          "paper_id": "b3e877acb1b2ec719f6e094f7900cc3bf865457c",
+          "cord_uid": "q0yqnlyl",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.21.001933",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Understanding the dynamics that permits a virus to shift hosts is of considerable interest, and further be an essential preliminary step towards facilitating the development of vaccines and the discovery of specific drug therapies."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Efforts to develop prophylaxis clinical studies and prioritize in healthcare workers",
+      "seed_sentences": [
+        "In the trial  examining the effectiveness of ribavirin/lopinavir/ritonavir compared to no treatment as a prophylactic measure for healthcare workers, treatment-related adverse events were widely reported in the prophylaxis arm",
+        "Further works are also warranted to determine if these compounds could be useful as chemoprophylaxis to prevent the  transmission of the virus, especially for healthcare workers."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "d7a0d7d944131b85f308c65b3dfc51df9bcd512f",
+          "cord_uid": "ptnmtvzj",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20039008",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "In the trial 7 examining the effectiveness of ribavirin/lopinavir/ritonavir compared to no treatment as a prophylactic measure for healthcare workers, treatment-related adverse events were widely reported in the prophylaxis arm, including: GI symptoms (diarrhea n=9, nausea n=9, stomatitis n=4), anemia (n=9), leucopenia (n=8) and hyperbilirubinemia (n=20)."
+        },
+        {
+          "paper_id": "eac6f99c5187f0a254687b455c4fa8d59d190b3c",
+          "cord_uid": "eo2pcgix",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20036376",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Moreover, such a diagnostic tool will help with preventing spread of virus by identifying the infected cases and can monitor the health status of infected patients by quantifying the viral load."
+        },
+        {
+          "paper_id": "6f92b2053d88d3a78029983b4d231f867e5c0ee1",
+          "cord_uid": "wztm0rbx",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.dsx.2020.03.013",
+          "publish_time": "2020-03-25",
+          "section": "body",
+          "sentence": "Clinicians caring for these patients also need to be fully aware of the potential CV side-effects of various therapies used for treating the viral infection."
+        },
+        {
+          "paper_id": "628224850a2206055fd6792b865f83674e3d3c29",
+          "cord_uid": "1a8uevk8",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijantimicag.2020.105948",
+          "publish_time": "2020-03-19",
+          "section": "body",
+          "sentence": "We should also strive to develop specific drugs, promote the research and development of vaccines, and reduce morbidity and mortality of the disease, so as to better protect the safety of people's lives."
+        },
+        {
+          "paper_id": "d99fcb854ef8540ba535e65784ec9d9a7fe45159",
+          "cord_uid": "wq5zqzvv",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.meegid.2020.104215",
+          "publish_time": "2020-07-31",
+          "section": "body",
+          "sentence": "The principles of good laboratory practices for handling pathogenic viruses are also discussed."
+        },
+        {
+          "paper_id": "6e2c9f2f4eb33812e4458660db84d6fcb2b92bd2",
+          "cord_uid": "rpq6xan7",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.cmpb.2007.02.005",
+          "publish_time": "2007-05-31",
+          "section": "body",
+          "sentence": "This valuable information could also be used for future epidemiology studies on contact histories, possible contact histories and possible transmission routes, and for control and tracking the spread of the disease."
+        },
+        {
+          "paper_id": "73243d95149d9f2260f3c852599d7d39f4cc8ccc",
+          "cord_uid": "5o9bbspc",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijantimicag.2020.105949",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Further studies on this combination are needed, since such combination may both act as an antiviral therapy against SARS-CoV-2 and prevent bacterial super-infections."
+        },
+        {
+          "paper_id": "5a17ed3e4abf295f5820c65f56398266c1baae98",
+          "cord_uid": "2jq626ye",
+          "source": "CZI",
+          "url": "https://doi.org/10.12688/f1000research.22211.2",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "The goal would be that ACE2-Fc could treat infection in current patients preventing significant morbidities and death, while also serving as a potential prophylactic to give passive immunity to clinical providers on the frontlines, as well as individuals who may have been exposed to the virus."
+        },
+        {
+          "paper_id": "489040d34aa5dc8e6eba3d4e9d3d48f0bcc6061f",
+          "cord_uid": "2jq626ye",
+          "source": "CZI",
+          "url": "https://doi.org/10.12688/f1000research.22211.2",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "The goal would be that ACE2-Fc could treat infection in current patients preventing significant morbidities and death, while also serving as a potential prophylactic to give passive immunity to clinical providers on the frontlines, as well as individuals who may have been exposed to the virus."
+        },
+        {
+          "paper_id": "d9e4c9b6b809ddc1f9dc8787f77368334e1e538b",
+          "cord_uid": "wzcaugst",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.tmaid.2020.101575",
+          "publish_time": "2020-02-06",
+          "section": "body",
+          "sentence": "A more accurate knowledge of this disease among physicians in non-endemic areas is needed for better management of imported cases and professional exposures especially with emerging viruses, such as the one causing the 2019 novel CoV [1, 27] , and ProMED would also be a source of epidemiological information when giving pre-travel advice and post-travel consultation."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Assays to evaluate vaccine immune response and process development for vaccines, alongside suitable animal models [in conjunction with therapeutics",
+      "seed_sentences": [
+        "We then propose that an 'Sp/Nsp cocktail vaccine' containing a structural 35 protein(s) (Sp) and a non-structural protein(s)  would stimulate effective complementary 36 immune responses",
+        "Since all the three vaccines were found to be antigenic, they should be able to induce good immune response.",
+        "we revealed the immune response process of SARS-CoV-2 entering the blood circulation system using immune profiling analysis with single-cell resolution."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "06d12dc5ac32d82387c65370d0a600e13059122d",
+          "cord_uid": "ld0vo1rl",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.000141",
+          "publish_time": "2020-03-21",
+          "section": "abstract",
+          "sentence": "We then propose that an \"Sp/Nsp cocktail vaccine\" containing a structural 35 protein(s) (Sp) and a non-structural protein(s) (Nsp) would stimulate effective complementary 36 immune responses. 37 38 39 40"
+        },
+        {
+          "paper_id": "f08249cbb9bdfc3b7f103470537a52190c81b974",
+          "cord_uid": "2okcuviq",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20033472",
+          "publish_time": "2020-03-17",
+          "section": "body",
+          "sentence": "In conclusion, in this study, we revealed the immune response process of SARS-CoV-2 entering the blood circulation system using immune profiling analysis with single-cell resolution."
+        },
+        {
+          "paper_id": "17643a57b92abf0d6635d308949e78de2ecc7f66",
+          "cord_uid": "dptgg05n",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20036640",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "To explore cellular immune responses to SARS-CoV-2, we isolated PBMCs from the whole blood and phenotypically analyzed them by flow cytometry (Figure 2A )."
+        },
+        {
+          "paper_id": "73c8af41cfdbf52c0dfba37727e3b94cb56b495e",
+          "cord_uid": "7vrm081c",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.05.935072",
+          "publish_time": "2020-02-11",
+          "section": "body",
+          "sentence": "All the three vaccine constructs were found to be antigenic as well as non-allergenic."
+        },
+        {
+          "paper_id": "f08249cbb9bdfc3b7f103470537a52190c81b974",
+          "cord_uid": "2okcuviq",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20033472",
+          "publish_time": "2020-03-17",
+          "section": "abstract",
+          "sentence": "We revealed blood cell immune response profiles using 5' mRNA, TCR and BCR V(D)J transcriptome analysis with single-cell resolution."
+        },
+        {
+          "paper_id": "5d3612cd95331a2f0c43ef9d03ce583b5ff8c995",
+          "cord_uid": "mjhez5im",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.03.20020206",
+          "publish_time": "2020-02-05",
+          "section": "body",
+          "sentence": "Then, we used ssGSEA (Single Sample Gene Set Enrichment Analysis) to quantify the immune infiltrates in healthy people epithelial cells and cells after infection."
+        },
+        {
+          "paper_id": "c12a11fa9c5fdff0bf85a9f0111c64d6dffe8d26",
+          "cord_uid": "cgcvfftf",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1470-9465.2006.12_4_1426.x",
+          "publish_time": "2006-12-31",
+          "section": "body",
+          "sentence": "The three groups included in the study (asthmatic, diabetic and hypersthenes) had a good response to vaccination and diabetics are better responders than the other two groups, with 100% of protection against two strains of the vaccine (AH3N2 and B)."
+        },
+        {
+          "paper_id": "949feecec7c10e71532e860f7f1230bd696e8234",
+          "cord_uid": "e9vq3fe3",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.25.965434",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "In this study, we characterized the physio-chemical characteristics of SARS-CoV-2 viral genome for epitope candidates and adopted an immune-informatics based pipeline with highly stringent criteria to identify S protein targeted B-and T-cell epitopes that may potentially promote an immune response in the host."
+        },
+        {
+          "paper_id": "984e07e449dde660098275470dd952cc88df3223",
+          "cord_uid": "lm9pay2b",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.16.20035014",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "In this study, we evaluated immunoassays for the detection of antibodies against 223 SARS-CoV-2."
+        },
+        {
+          "paper_id": "7b5d4d14d76305751a70e0740b86b905bb0df64a",
+          "cord_uid": "d599uera",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(03)13967-0",
+          "publish_time": "2003-07-26",
+          "section": "body",
+          "sentence": "We developed an immunohistochemical method for detecting SARS-CoV antigen."
+        },
+        {
+          "paper_id": "f08249cbb9bdfc3b7f103470537a52190c81b974",
+          "cord_uid": "2okcuviq",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20033472",
+          "publish_time": "2020-03-17",
+          "section": "body",
+          "sentence": "Here, we focus on insights into blood immune responses to COVID-19 using 5' mRNA, TCR, and BCR V(D)J recombination analysis with 4 4 single-cell resolution."
+        },
+        {
+          "paper_id": "97e0efc17b5a10c75f7c83b08423d27585a31df5",
+          "cord_uid": "68193u0a",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.12.20035048",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "We retrospectively evaluated their anti-SARS-CoV-2 antibody response, clinical disease severity, and clinical outcome."
+        },
+        {
+          "paper_id": "8f07d14b2b470c80d8f88f54fb5cb0c72e5e7ecd",
+          "cord_uid": "39vjafky",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1469-0691.2008.02006.x",
+          "publish_time": "2008-05-31",
+          "section": "body",
+          "sentence": "The elicited cellular and humoral immune response was evaluated using IFN-g ELISpot and sub-class specific antibody ELISA."
+        },
+        {
+          "paper_id": "7b5d4d14d76305751a70e0740b86b905bb0df64a",
+          "cord_uid": "d599uera",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(03)13967-0",
+          "publish_time": "2003-07-26",
+          "section": "body",
+          "sentence": "Antibody to SARS-CoV was detected in paired acute and convalescent sera by use of an indirect immunofluorescence assay 2 for patients in all cohorts."
+        },
+        {
+          "paper_id": "17307ab6eda64e1538da204c02114dd36a9b7fd6",
+          "cord_uid": "xetzg7gp",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.08.939553",
+          "publish_time": "2020-02-12",
+          "section": "body",
+          "sentence": "To facilitate immunological studies of SARS-CoV-2, we created the SARS-CoV-2 Immune Viewer (Sup. Fig. 6 ) to openly share the viral immunogenicity data of SARS-CoV-2, and also SARS-CoV and MERS-CoV."
+        }
+      ]
+    }
+  ]
+}

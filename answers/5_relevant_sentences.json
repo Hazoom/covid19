@@ -1,0 +1,2521 @@
+{
+  "taskName": "What has been published about medical care?",
+  "subTasks": [
+    {
+      "sub_task_description": "Resources to support skilled nursing facilities and long term care facilities.",
+      "seed_sentences": [
+        "Further, extreme functional impairment within long-term care facilities makes close contact between health care workers and residents inevitable.",
+        "Moreover, an increase of ESBL-producing isolates has been detected in nursing homes and healthcare associated facilities"
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "8f07d14b2b470c80d8f88f54fb5cb0c72e5e7ecd",
+          "cord_uid": "39vjafky",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1469-0691.2008.02006.x",
+          "publish_time": "2008-05-31",
+          "section": "body",
+          "sentence": "Moreover, an increase of ESBL-producing isolates has been detected in nursing homes and healthcare associated facilities in the community, with the potential influx of ESBLs from the community to the hospital."
+        },
+        {
+          "paper_id": "22616110b79baaf4c9d23f130a9ee35c64d991f7",
+          "cord_uid": "poamqquy",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1469-0691.2011.03559.x",
+          "publish_time": "2011-05-31",
+          "section": "body",
+          "sentence": "We observed a progressive increase during the study period; this trend could be due to the increase of immunocompromised patients admitted to our institution, in particular hematological patients, solid organ transplant recipients and surgical patients admitted to intensive care units."
+        },
+        {
+          "paper_id": "d013e42811c6442b184da3b9bbfd9e334031a975",
+          "cord_uid": "w0ghfo3g",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7085188/",
+          "publish_time": "2020-03-21",
+          "section": "body",
+          "sentence": "Providing the limited healthcare worker cadre with appropriate training and personal protective equipment, and ensuring a continuous supply chain for such, is a challenge in all settings, exacerbated in complex humanitarian crises."
+        },
+        {
+          "paper_id": "8f07d14b2b470c80d8f88f54fb5cb0c72e5e7ecd",
+          "cord_uid": "39vjafky",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1469-0691.2008.02006.x",
+          "publish_time": "2008-05-31",
+          "section": "body",
+          "sentence": "This is a consequence of the increasing rates of healthcare-associated staphylococcal bacteraemias and also of the increasing number of patients with implanted medical devices."
+        },
+        {
+          "paper_id": "f186e5f78bd1203264270110fd788805756715a5",
+          "cord_uid": "si91es0i",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.psychres.2020.112902",
+          "publish_time": "2020-04-30",
+          "section": "body",
+          "sentence": "All efforts to overcome interpersonal isolation, from joke sharing in the nursing station to conference calls, have important roles in times of severe strain and stress (Folkman and Greer, 2000) ."
+        },
+        {
+          "paper_id": "8f07d14b2b470c80d8f88f54fb5cb0c72e5e7ecd",
+          "cord_uid": "39vjafky",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1469-0691.2008.02006.x",
+          "publish_time": "2008-05-31",
+          "section": "body",
+          "sentence": "Nevertheless and in parallel, an increase in MRSA isolates in the community setting, including nursing homes and healthcare-associated facilities, has been observed during the past decade."
+        },
+        {
+          "paper_id": "c013fb6790e1ca21d720911ee61532a0cd57408c",
+          "cord_uid": "p42cgpf0",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20038950",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Extensive capacity is needed for such a level of medical care, which is a health emergency and is particularly challenging."
+        },
+        {
+          "paper_id": "867ebb2be2d466bcb35e5a7319708eaff39c4799",
+          "cord_uid": "ojmhkt5o",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0924-8579(17)30423-5",
+          "publish_time": "2017-11-30",
+          "section": "body",
+          "sentence": "Conclusion: The findings suggest that there is substantial colonization of MRSA among in-hospital and out-hospital health care providers."
+        },
+        {
+          "paper_id": "1007a3041cb5ae9e3e6f09712d81277c02ed3dbf",
+          "cord_uid": "6xq5rs0u",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijmedinf.2006.02.007",
+          "publish_time": "2007-04-30",
+          "section": "body",
+          "sentence": "HSRC is able to link and use laboratory and radiology data in its inference and is able to achieve much higher specificity of patient categorization through access to more information."
+        },
+        {
+          "paper_id": "9a27c99f125072894ab9db357b4ff8858a11203d",
+          "cord_uid": "0gkoanrg",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7036338/",
+          "publish_time": "2020-02-20",
+          "section": "abstract",
+          "sentence": "With the numbers of confirmed cases are increasing, information on the epidemiologic investigation and clinical manifestation have been accumulated."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Mobilization of surge medical staff to address shortages in overwhelmed communities",
+      "seed_sentences": [
+        "To cope with further shortages, the designated hospitals have transferred medical and clinical testing staff to frontline departments from other departments such as oncology, orthopaedics and medicines",
+        "In the situation of an unanticipated surge of patients combined with a relative shortage of medical resources, the establishment of screening and diagnostic protocol for suspected patients can focus medical resources on patients who need them and may help reduce missed cases."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "7a33f2d7e0c46cac008acb577b7c69235c6fae6d",
+          "cord_uid": "gjb6zo81",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.cmi.2020.02.005",
+          "publish_time": "2020-02-11",
+          "section": "body",
+          "sentence": "To cope with further shortages, the designated hospitals have transferred medical and clinical testing staff to frontline departments from other departments such as oncology, orthopaedics and medicines."
+        },
+        {
+          "paper_id": "52c10207ba9098e1f733dbb84c796bd321b33eb0",
+          "cord_uid": "nz02frdm",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.20038679",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "In the situation of an unanticipated surge of patients combined with a relative shortage of medical resources (beds, staff and PPE), the establishment of screening and diagnostic protocol for suspected patients can focus medical resources on patients who need them and may help reduce missed cases."
+        },
+        {
+          "paper_id": "de0bb74bc43e328b88c728506d51f65bf9c2cb11",
+          "cord_uid": "rwyd1j3t",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.disamonth.2017.03.022",
+          "publish_time": "2017-09-30",
+          "section": "body",
+          "sentence": "The small investment in time to share information on potentially worrisome trends within the medical community, along with appropriate warnings and counsel to our communities, and should more than pay off in enhanced care to our patients."
+        },
+        {
+          "paper_id": "bd2f7613f5818fc82f76c7d68bdac08825957fb9",
+          "cord_uid": "s9j21zsy",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.27.20028027",
+          "publish_time": "2020-03-01",
+          "section": "body",
+          "sentence": "In crowed hospitals, and with shortage of medical resources, this simple model can help to quickly prioritise patients."
+        },
+        {
+          "paper_id": "cd4f5118038ae33283d34a15f8c3888f00e247bc",
+          "cord_uid": "szsb1oan",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jaut.2020.102434",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "The use of detection kits can accelerate accurate diagnosis of patients, help to determine quarantine and isolation requirements, assist in determining the treatment of patients and save limited medical resources."
+        },
+        {
+          "paper_id": "0f07a76e45660e547af8810c54b34767cba86a16",
+          "cord_uid": "7hvbbq15",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30411-6",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "It is essential to train, equip, and strengthen the diagnostic capacities of hospital laboratories close to infectious disease and emergency departments to reduce the time to deliver results, manage confirmed cases and contacts more rapidly, and preserve strict infection control measures."
+        },
+        {
+          "paper_id": "dafa879852c6f4a9a328debdd27f37fefe876ece",
+          "cord_uid": "k5y1qc82",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.tmaid.2020.101623",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "This differs from the CFR found in our systematic review and may be explained by the fact that cases requiring medical attention in hospitals were the patients included in the studies selected for analysis, and that consequently they consulted with an advanced stage of disease leading to hospitalization."
+        },
+        {
+          "paper_id": "48656efc59191537073975938f25f201524971af",
+          "cord_uid": "pd70i3d8",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.10.20021584",
+          "publish_time": "2020-02-12",
+          "section": "body",
+          "sentence": "If there are large-scale cases, the risk stratification and management will help alleviate the shortage of medical resources and reduce the mortality of critical patients."
+        },
+        {
+          "paper_id": "4eca1f55ea6141d3be5280fd504dbd3585d097ab",
+          "cord_uid": "v2u96kmc",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.bbi.2020.03.007",
+          "publish_time": "2020-03-10",
+          "section": "body",
+          "sentence": "Therefore, carrying out a longitudinal large-sized intervention study and enrolling clinical doctors and other medical workers, such as technicians, is necessary to further explore the pathogenesis, therapeutic strategies, and mechanisms of vicarious traumatization."
+        },
+        {
+          "paper_id": "6f07f5dc2599b774baffd5a80e0b0a59662b7f35",
+          "cord_uid": "onciplo1",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1473-3099(20)30110-9",
+          "publish_time": "2020-02-19",
+          "section": "body",
+          "sentence": "Despite multiple preventive procedures, it is not uncommon that medical personnel in these wards might not be fully aware of their exposure while caring for patients; therefore, setting up an infection control system to provide real-time monitoring and aid for instant correction is of high importance to minimise the risk of nosocomial infection."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Age-adjusted mortality data for Acute Respiratory Distress Syndrome (ARDS) with/without other organ failure \u2013 particularly for viral etiologies",
+      "seed_sentences": [
+        "Data from China, South Korea, Italy, and Iran suggest that the CFR increases sharply with age and is higher in people with COVID-19 and underlying comorbidities",
+        "We examine the role of age structure in deaths thus far in Italy and South Korea and illustrate how the pandemic could unfold in populations with similar population sizes but different age structures, showing a dramatically higher burden of mortality in countries with older versus younger populations",
+        "The total number of expected deaths by age group was derived by multiplying the total number of people in each age group and country by an assumed population infection rate of 0.4 and age-and sex-specific mortality rates"
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "1e574c1272c82d322baf7a2b3a539ebbd66f1697",
+          "cord_uid": "gv8wlo06",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20036293",
+          "publish_time": "2020-03-18",
+          "section": "abstract",
+          "sentence": "We examine the role of age structure in deaths thus far in Italy and South Korea and illustrate how the pandemic could unfold in populations with similar population sizes but different age structures, showing a dramatically higher burden of mortality in countries with older versus younger populations."
+        },
+        {
+          "paper_id": "882219fd09765ece5b362415882397e78972373e",
+          "cord_uid": "lbcxl6w9",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30567-5",
+          "publish_time": "2020-03-09",
+          "section": "body",
+          "sentence": "Data from China, South Korea, Italy, and Iran suggest that the CFR increases sharply with age and is higher in people with COVID-19 and underlying comorbidities. 18 Targeted social distancing for these groups could be the most effective way to reduce morbidity and concomitant mortality."
+        },
+        {
+          "paper_id": "1e574c1272c82d322baf7a2b3a539ebbd66f1697",
+          "cord_uid": "gv8wlo06",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20036293",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "Note: Total number of expected deaths by age group is derived by multiplying the total number of people in each age group and country by an assumed infection rate of 0.4 and age-and sex-specific mortality rates extracted from Italian data."
+        },
+        {
+          "paper_id": "1e574c1272c82d322baf7a2b3a539ebbd66f1697",
+          "cord_uid": "gv8wlo06",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20036293",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "Note: Total number of expected deaths by age group is derived by multiplying the total number of people in each age group and country by an assumed infection rate of 0.4 and age-and sex-specific mortality rates extracted from Italian data."
+        },
+        {
+          "paper_id": "2536b83acf84368d7c13be81fe07aa0575115da7",
+          "cord_uid": "96wkqutc",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.26.20028167",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "For COVID-19, this means that we see higher scaling factors in countries with older populations, since this usually means contacts involving older individuals are more common."
+        },
+        {
+          "paper_id": "1e574c1272c82d322baf7a2b3a539ebbd66f1697",
+          "cord_uid": "gv8wlo06",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20036293",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "For Figures 1 and 2 , the total number of expected deaths by age group was derived by multiplying the total number of people in each age group and country by an assumed population infection rate of 0.4 and age-and sex-specific mortality rates extracted from most recent Italian data."
+        },
+        {
+          "paper_id": "bf39a81c9aab9e0569f33d93d5e203d320dac024",
+          "cord_uid": "oeqf7uk9",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.23.20026864",
+          "publish_time": "2020-02-25",
+          "section": "abstract",
+          "sentence": "Results: Older age and high number of comorbidities were associated with higher severity and mortality in patients with both COVID-19 and SARS."
+        },
+        {
+          "paper_id": "1e574c1272c82d322baf7a2b3a539ebbd66f1697",
+          "cord_uid": "gv8wlo06",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20036293",
+          "publish_time": "2020-03-18",
+          "section": "abstract",
+          "sentence": "Because deaths have been concentrated at older ages, we highlight the important role of demography, particularly how the age structure of a population may help explain differences in fatality rates across countries and how transmission unfolds."
+        },
+        {
+          "paper_id": "ed4a41df2cf4e14a59f8c3899a8b19a2fbf1c291",
+          "cord_uid": "51b7hss1",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20037515",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "In this research, we identified older age, higher LDH and CRP, DBIL, RDW, BUN, and lower ALB on admission correlated with higher odds of severe COVID-19."
+        },
+        {
+          "paper_id": "d6ed37b4f35f7f1c2b735e9315e801cf16bcddf8",
+          "cord_uid": "oribgtyl",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s2468-2667(20)30058-x",
+          "publish_time": "2020-03-17",
+          "section": "body",
+          "sentence": "COVID-19 has an increased mortality in older people and in those with chronic diseases or immunosuppression."
+        },
+        {
+          "paper_id": "1ec9d8c7afcab0fb0478c33b3b6026356f6e0cad",
+          "cord_uid": "z7r4n0w7",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.21.20037267",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "In COVID-19, rapid and dramatic increase of CRP was observed more often in severe cases than in non-severe cases [19] ."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Extracorporeal membrane oxygenation (ECMO) outcomes data of COVID-19 patients",
+      "seed_sentences": [
+        "This patient progressed to critical condition and received extracorporeal membrane oxygenation (ECMO) but had not recovered by the observation endpoint of this study",
+        "If oxygenation index remains below 100 mmHg after invasive ventilation for 24 hours with high positive end-expiratory pressure in prone position, ECMO should be used promptly."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "4790e3eb0374a7f159014ef77ec42a6b9de91c29",
+          "cord_uid": "e6avpfg8",
+          "source": "CZI",
+          "url": "https://doi.org/10.1097/cm9.0000000000000757",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "If oxygenation index remains below 100 mmHg after invasive ventilation for 24 hours with high positive end-expiratory pressure (PEEP) in prone position, ECMO should be used promptly."
+        },
+        {
+          "paper_id": "f6b9fd7dbed6516888eca71004caaa62aa0132d4",
+          "cord_uid": "9hknw4ws",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20038984",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "This patient progressed to critical condition and received extracorporeal membrane oxygenation (ECMO) but had not recovered by the observation endpoint of this study. the author/funder, who has granted medRxiv a license to display the preprint in perpetuity."
+        },
+        {
+          "paper_id": "e8d3d7ab031be52d7e69b0070488d8c43e2f00fb",
+          "cord_uid": "izolg0pm",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(19)33221-0",
+          "publish_time": "2020-03-04",
+          "section": "body",
+          "sentence": "Another study is comparing patients who received extracorporeal membrane oxygenation (ECMO) support with those who did not receive ECMO support (NCT02627378)."
+        },
+        {
+          "paper_id": "6115e9fbaed5e154ff92cb8d02387fec72251dab",
+          "cord_uid": "e99athff",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033530",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Weaning from NO will start when patients improve the level of oxygenation to PaO2/FiO2> 300 mmHg for more than 24 hours consecutively."
+        },
+        {
+          "paper_id": "6115e9fbaed5e154ff92cb8d02387fec72251dab",
+          "cord_uid": "e99athff",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033530",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Based on the present literature and Food and Drug Administration reports, the risks of breathing iNO at 80 ppm for 24 hours are minimal when Met-Hb levels and NO/NO2 delivery levels are carefully monitored [12] ."
+        },
+        {
+          "paper_id": "23a62c1bffd5b46d2123bf6b4c16164afccf6f75",
+          "cord_uid": "aoviner2",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s2213-2600(20)30121-1",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Health-care Development least 10 cm H 2 O; respiratory rate of 10-30 breaths per min) and conventional ventilatory support versus ECMO for severe adult respiratory failure (CESAR; 37 peak inspiratory pressure 20-25 cm H 2 O; positive end-expiratory pressure 10 cm H 2 O; respiratory rate of 10 breaths per min) could serve as useful guides pending further evidence on ventilation strategies for ECMO in patients with ARDS."
+        },
+        {
+          "paper_id": "fd28e6d03eef27b0454f13ca539dc1498242a4c2",
+          "cord_uid": "hmy8fs3g",
+          "source": "CZI",
+          "url": "https://doi.org/10.1186/s40779-020-0233-6",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "If respiratory failure cannot be improved or worsens continuously within a short time (1 h) after using HFNO or NIV, intubation should be performed immediately."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Outcomes data for COVID-19 after mechanical ventilation adjusted for age.",
+      "seed_sentences": [
+        "Secondary outcomes included the time from randomization to fever reduction (patients with fever at the time of enrollment), the time from randomization to cough relief (patients with moderate or severe cough at the time of enrollment), the rate of auxiliary oxygen therapy or noninvasive mechanical ventilation during the trial, the all-cause mortality during the trial, the rate of respiratory failure during the trial (defined as SPO 2 \u2264 90% or PaO 2 /FiO 2 < 300 mmHg without oxygen inhalation, and requires oxygen therapy or higher respiratory support)."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "9731e9ca09f70adcddebc6667f689908bd3b18e0",
+          "cord_uid": "14he8n3u",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20037432",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Secondary outcomes included the time from randomization to fever reduction (patients with fever at the time of enrollment), the time from randomization to cough relief (patients with moderate or severe cough at the time of enrollment), the rate of auxiliary oxygen therapy or noninvasive mechanical ventilation during the trial, the all-cause mortality during the trial, the rate of respiratory failure during the trial (defined as SPO 2 \u2264 90% or PaO 2 /FiO 2 < 300 mmHg without oxygen inhalation, and requires oxygen therapy or higher respiratory support)."
+        },
+        {
+          "paper_id": "e9457327ddb51cf3ceb3698660ff08f526a09d44",
+          "cord_uid": "566pbuic",
+          "source": "CZI",
+          "url": "https://doi.org/10.1097/cm9.0000000000000775",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Specific clinical types included: (1) common: fever, respiratory tract infection symptoms, and so on, with imaging indicating pneumonia; (2) severe (any of the following conditions): I, respiratory distress, respiratory rate (RR) \u226530 breaths/min; II, oxygen saturation \u226493% at rest; III, partial pressure of oxygen (PaO 2 )/fraction of inspired oxygen (FiO 2 ) \u2264300 mmHg (1 mmHg = 0.133 kPa); (3) critical (any of the following conditions): I, respiratory failure and a requirement for mechanical ventilation; II, shock; III, concomitant failure of other organs and requirement for intensive care unit (ICU) monitoring and treatment."
+        },
+        {
+          "paper_id": "8f07d14b2b470c80d8f88f54fb5cb0c72e5e7ecd",
+          "cord_uid": "39vjafky",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1469-0691.2008.02006.x",
+          "publish_time": "2008-05-31",
+          "section": "body",
+          "sentence": "Specifically required are the presence of either 1 major criterion (requirement for mechanical ventilation, or need for therapeutic vasopressors), or 2 or more minor criteria (hypotension despite adequate fluid resuscitation, PaO 2 /FiO 2 ratio <250, respiratory rate 30/min, non-invasive ventilatory support, BUN > 7mM, new onset confusion, multilobar pneumonia, platelet count <100,000 cells/mm 3 or a fall of >25% in previous 48 hours to <120,000, leukopenia or hypothermia)."
+        },
+        {
+          "paper_id": "eb8ac60527db35b10881cb4fd86b8a6e21983d02",
+          "cord_uid": "dbzrd23n",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.19.20025031",
+          "publish_time": "2020-02-23",
+          "section": "body",
+          "sentence": "The classifying criteria was as follows: 118 Mild: Presenting mild symptoms and normal radiology manifestation in both lungs. 119 Moderate (typical): Presenting typical symptoms (fever, cough and other respiratory 120 symptoms) and radiology manifestation suggesting pneumonia. 121 Severe: Presenting any one of the followings: 122 1) Respiratory distress, respiratory rates \u226530 per minute; 123 2) Pulse oxygen saturation \u226493% on room air 124 3) Oxygenation Index (PaO2/FiO2) \u2264300mmHg 125 Critically ill: Presenting any one of the followings 126 1) Respiratory failure where invasive ventilation is necessary 127 2) Signs of shock (circulatory failure) 128 3) Failure of any other organ where ICU care is necessary 129 130 The cumulative numbers of confirmed and suspected cases were collected from Shanghai 132 CDC, which were updated daily and publicly accessible."
+        },
+        {
+          "paper_id": "a209539267a73a6fb2ed9ea4766a50687b9b8cfb",
+          "cord_uid": "hz71il2l",
+          "source": "CZI",
+          "url": "https://doi.org/10.1097/cm9.0000000000000761",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "For strictly selected early-stage patients with mild-to-moderate (partial pressure of arterial oxygen [PaO2]/fraction of inspired oxygen [FiO 2 ] > 200 mmHg) hypoxic respiratory failure and especially for units with limited numbers of invasive ventilators, it is recommended that NPPV be attempted for short periods of time (1-2 hours) [1, 8, 11] and to intubate immediately if no improvement is observed."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Knowledge of the frequency, manifestations, and course of extrapulmonary manifestations of COVID-19, including, but not limited to, possible cardiomyopathy and cardiac arrest.",
+      "seed_sentences": [
+        "The human coronavirus HCoV-19 infection can cause acute respiratory distress syndrome, hypercoagulability, hypertension, extrapulmonary multiorgan dysfunction.",
+        "Diarrhoea and gastrointestinal involvement are well known in coronavirus infections of animals and humans",
+        "On February 13, 2020, the ACC released an ACC Clinical Bulletin titled 'Cardiac Implications of Novel Wuhan Coronavirus (COVID-19)'for addressing cardiac implications of this disease"
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "2d0285c90976dfa43d58eca6b7d1d7ef29994fc2",
+          "cord_uid": "owjgs6ja",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.27.20027557",
+          "publish_time": "2020-02-29",
+          "section": "abstract",
+          "sentence": "The human coronavirus HCoV-19 infection can cause acute respiratory distress syndrome 47 (ARDS), hypercoagulability, hypertension, extrapulmonary multiorgan dysfunction."
+        },
+        {
+          "paper_id": "114ed64f52f503d9d2e2ba1fd1ee62b0a168cd84",
+          "cord_uid": "jg6v644y",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.05.20031591",
+          "publish_time": "2020-03-08",
+          "section": "body",
+          "sentence": "On February 13, 2020, the ACC released an ACC Clinical Bulletin titled \"Cardiac Implications of Novel Wuhan Coronavirus (COVID-19)\" 10 for addressing cardiac implications of this disease and offering early clinical guidance given the current uncertainty over COVID-19."
+        },
+        {
+          "paper_id": "48a980df98eb6778320db220cbf8de12d9eeaf02",
+          "cord_uid": "6m8sbbi1",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.tmaid.2020.101566",
+          "publish_time": "2020-02-29",
+          "section": "body",
+          "sentence": "Coronaviruses cause respiratory and intestinal infections in animals and humans."
+        },
+        {
+          "paper_id": "d9e4c9b6b809ddc1f9dc8787f77368334e1e538b",
+          "cord_uid": "wzcaugst",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.tmaid.2020.101575",
+          "publish_time": "2020-02-06",
+          "section": "body",
+          "sentence": "Coronaviruses cause respiratory and intestinal infections in animals and humans."
+        },
+        {
+          "paper_id": "8699664d8100af1e701e25daeb8a4fced18a3daf",
+          "cord_uid": "epcel2ez",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.micinf.2020.02.002",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "Human coronaviruses (CoVs) could cause respiratory, gastrointestinal, hepatic and central nervous system diseases."
+        },
+        {
+          "paper_id": "bceb7b4cbae953e40d6425896499511c15d62420",
+          "cord_uid": "mp9g41ai",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.sapharm.2020.03.007",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Coronavirus disease (COVID-19) is caused by the infection of a severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)."
+        },
+        {
+          "paper_id": "c7ab2dca0d2a4a49fb570750b26db4c3abfc5ab7",
+          "cord_uid": "1hwdd7nq",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.tmaid.2020.101615",
+          "publish_time": "2020-03-05",
+          "section": "body",
+          "sentence": "These are the Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV), MERS-CoV and the SARS-CoV-2, the causative agent of COVID-19."
+        },
+        {
+          "paper_id": "26e75d3c815aae7fd9b094c3e5c74d3f7132ca13",
+          "cord_uid": "zio8yhuy",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.06.20032144",
+          "publish_time": "2020-03-08",
+          "section": "abstract",
+          "sentence": "Three human coronaviruses cause more severe, acute illnesses; MERS-CoV causes Middle East Respiratory Syndrome, MERS, SARS-CoV causes severe acute respiratory syndrome, or SARS and SARS-CoV-2 coronavirus that causes COVID-19."
+        },
+        {
+          "paper_id": "4380f0251c595d6cb551e643198d2dacd3c6746c",
+          "cord_uid": "na8odvj7",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.04.20030916",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "Coronaviruses usually cause respiratory, digestive and nervous system diseases in humans and animals (1) ."
+        },
+        {
+          "paper_id": "7bc69471836fbf9cf28e57926d95fc48e6f45964",
+          "cord_uid": "1qkwsh6a",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7054940/",
+          "publish_time": "2020-02-08",
+          "section": "body",
+          "sentence": "Coronaviruses (CoVs) are well-known causes of severe infections, respiratory, enteric and systemic, in humans and numerous animal hosts."
+        },
+        {
+          "paper_id": "418538e40e195b8a0c7669b3a005ebcdb6a325c3",
+          "cord_uid": "4yuw7jo3",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7073332/",
+          "publish_time": "2020-03-16",
+          "section": "abstract",
+          "sentence": "Human coronaviruses (HCoVs), including severe acute respiratory syndrome coronavirus (SARS-CoV) and 2019 novel coronavirus (2019-nCoV, also known as SARS-CoV-2), lead global epidemics with high morbidity and mortality."
+        },
+        {
+          "paper_id": "21100aba41a4bfb48d7dc37f1bf5dbb38bf3867a",
+          "cord_uid": "b4mdiont",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.03.20020263",
+          "publish_time": "2020-02-05",
+          "section": "abstract",
+          "sentence": "Human Coronaviruses (HCoVs), including severe acute respiratory syndrome coronavirus (SARS-CoV), Middle east respiratory syndrome coronavirus (MERS-CoV), and 2019 novel coronavirus (2019-nCoV), lead global epidemics with high morbidity and mortality."
+        },
+        {
+          "paper_id": "24a525b0319b028b8898f731d49b84f467ae2c73",
+          "cord_uid": "2hgwa6pq",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.antiviral.2020.104759",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "This virus, named \"Severe Acute Respiratory Syndrome-related Coronavirus 2\" (SARS-CoV-2), can cause a severe and even fatal respiratory disease, called Coronavirus disease-19 , and lead to acute respiratory distress syndrome (ARDS)."
+        },
+        {
+          "paper_id": "c81820321b9360c0ac3be7dd683ce5b08e1f1972",
+          "cord_uid": "2hgwa6pq",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.antiviral.2020.104759",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "This virus, named \"Severe Acute Respiratory Syndrome-related Coronavirus 2\" (SARS-CoV-2), can cause a severe and even fatal respiratory disease, called Coronavirus disease-19 , and lead to acute respiratory distress syndrome (ARDS)."
+        },
+        {
+          "paper_id": "7c83c3afd2d5fd30b962694db7d9d4defd0c26a5",
+          "cord_uid": "yrq58n4k",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038612",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "The person infected with the severe acute respiratory syndrome coronavirus 2 (SARS-cov-2) [4] may develop the disease called COVID-19, which manifests with mild to severe symptoms of fever, cough, shortness of breath and other signs [5] ."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Application of regulatory standards (e.g., EUA, CLIA) and ability to adapt care to crisis standards of care level.",
+      "seed_sentences": [
+        "The diagnostics industry has responded rapidly, with Emergency Use Authorization granted for PCR-based tests from the US CDC among many other providers releasing reagents, primers and probes, and other materials to support this urgent public health need",
+        "To accelerate clinical diagnostic testing for COVID-19 in the United States, the FDA on February 28th, 2020 permitted individual clinically licensed laboratories to report the results of in-house developed SARS-CoV-2 diagnostic assays while awaiting results of an EUA submission for approval",
+        "Emergency Use Authorizations (EUA) for compassionate use cases may be forthcoming from the US federal government for normally unapproved treatments.",
+        "The FDA worked closely with manufacturers, clinical trial sponsors, and international regulators to rapidly assess product characterization data and protocols for these first human clinical trials and granted permission for the initiation of these Phase I studies in an expedited manner."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "c40321fcc587dbd862f1b7587412f81675ac5cff",
+          "cord_uid": "y0l943xg",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-323-35761-6.00079-1",
+          "publish_time": "2018-12-31",
+          "section": "body",
+          "sentence": "To advance promising vaccine candidates to Phase I clinical trials to obtain preliminary human safety data, the FDA worked closely with manufacturers, clinical trial sponsors, and international regulators to rapidly assess product characterization data and protocols for these first human clinical trials and granted permission for the initiation of these Phase I studies in an expedited manner."
+        },
+        {
+          "paper_id": "a94c8e4e733e7e733dafdb7700718fc9dbd9b873",
+          "cord_uid": "ei9w19i7",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.mayocp.2020.02.003",
+          "publish_time": "2020-02-28",
+          "section": "body",
+          "sentence": "The test received expedited approval from the FDA and the test is being made available to state health departments and selected commercial laboratories."
+        },
+        {
+          "paper_id": "ce19f6664fc109d488b095746ef87195906df39d",
+          "cord_uid": "hc359qwn",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-012436643-5/50163-2",
+          "publish_time": "2004-12-31",
+          "section": "body",
+          "sentence": "FDA recommendations for stem cell-based product manufacture and characterization incorporate the tremendous experience gained in many cell therapy clinical trials and from experience with the entire field of stem cell research."
+        },
+        {
+          "paper_id": "0fbb18050e29ca78191625d42576b1c574027377",
+          "cord_uid": "cv3qgno3",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.26.20028373",
+          "publish_time": "2020-02-29",
+          "section": "body",
+          "sentence": "The diagnostics industry has responded rapidly, with Emergency Use Authorization granted for PCR-based tests from the US CDC (https://www.cdc.gov/coronavirus/2019-ncov/about/testing.html), Seegene in Korea and BGI in China (https://www.bgi.com/global/company/news/bgi-develops-realtime-dna-based-kit-for-detecting-the-2019-novel-coronavirus/) among many other providers releasing reagents, primers and probes, and other materials to support this urgent public health need."
+        },
+        {
+          "paper_id": "ea17aad7692bb5040f3b2ba1d01b8249e4969469",
+          "cord_uid": "wuvry51z",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.06.20032334",
+          "publish_time": "2020-03-10",
+          "section": "body",
+          "sentence": "To accelerate clinical diagnostic testing for COVID-19 in the 61 United States, the FDA on February 28th, 2020 permitted individual clinically licensed 62 laboratories to report the results of in-house developed SARS-CoV-2 diagnostic assays 63 while awaiting results of an EUA submission for approval 7 . 64 Here we report the development and initial validation of a CRISPR (clustered 65 regularly interspaced short palindromic repeats)-Cas12 based assay 8-11 for detection of 66 SARS-CoV-2 from extracted patient sample RNA in approximately 30 minutes, called 67 SARS-CoV-2 DETECTR."
+        },
+        {
+          "paper_id": "ce19f6664fc109d488b095746ef87195906df39d",
+          "cord_uid": "hc359qwn",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-012436643-5/50163-2",
+          "publish_time": "2004-12-31",
+          "section": "abstract",
+          "sentence": "Food and Drug Administration (FDA) recommendations for stem cell-based product manufacture and characterization incorporate the tremendous experience gained in many cell therapy clinical trials and the experience of the entire field of stem cell research."
+        },
+        {
+          "paper_id": "a778ccfb7c1f8c36aadd62218ffa7a2a99a8ec1d",
+          "cord_uid": "qn3v40j0",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1331/japha.2010.09220",
+          "publish_time": "2010-04-30",
+          "section": "body",
+          "sentence": "As a result of this expansion, it became essential for CDC to prepare and submit, in a timely manner, high-quality IND and IDE documents to FDA."
+        },
+        {
+          "paper_id": "5cb5e6a2d2fb1eb4ab85598211846a7061b24e92",
+          "cord_uid": "iudq5jdu",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijsu.2020.02.034",
+          "publish_time": "2020-04-30",
+          "section": "body",
+          "sentence": "Regarding diagnostic testing, US-based companies such as Co-Diagnostics and the Novacyt's molecular diagnostics division Primerdesign have launched COVID-2019 testing kits for use in the research setting [8, 9] ."
+        },
+        {
+          "paper_id": "3bf6368f164189524748aa07f1a42fe808841b64",
+          "cord_uid": "u2n8so5w",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7077230/",
+          "publish_time": "2020-02-14",
+          "section": "body",
+          "sentence": "Since the potential of this method became apparent, many enterprises have stepped in, developing commercial PCR kits for reliable fast-track diagnosis of infections like enterovirus, influenza, herpes simplex, etc."
+        },
+        {
+          "paper_id": "c40321fcc587dbd862f1b7587412f81675ac5cff",
+          "cord_uid": "y0l943xg",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-323-35761-6.00079-1",
+          "publish_time": "2018-12-31",
+          "section": "body",
+          "sentence": "To enable an initiation of these pivotal studies in an expedited manner, the FDA engaged in joint reviews with vaccine manufacturers, the WHO, regulatory agencies in Europe and Canada, and West African regulators to discuss study designs, ethical considerations, and required product information to reach international regulatory convergence, thus facilitating trial initiation."
+        },
+        {
+          "paper_id": "c40321fcc587dbd862f1b7587412f81675ac5cff",
+          "cord_uid": "y0l943xg",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-323-35761-6.00079-1",
+          "publish_time": "2018-12-31",
+          "section": "body",
+          "sentence": "In return for these additional resources, the FDA agreed to certain review performance goals, such as completing reviews of new drug applications and biologics license applications (BLAs) and taking regulatory actions on them in predictable timeframes."
+        },
+        {
+          "paper_id": "c40321fcc587dbd862f1b7587412f81675ac5cff",
+          "cord_uid": "y0l943xg",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-323-35761-6.00079-1",
+          "publish_time": "2018-12-31",
+          "section": "body",
+          "sentence": "These changes revolutionized the drug approval process in the United States and enabled FDA to speed the application review process for new drugs and biologics without compromising the FDA's high standards for demonstration of safety, efficacy, and quality.  "
+        },
+        {
+          "paper_id": "e847d433e7424152a9846673209cb73027415ecd",
+          "cord_uid": "aei5jyp8",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1470-9465.2006.12_4_1427.x",
+          "publish_time": "2006-12-31",
+          "section": "body",
+          "sentence": "We have embarked on exploring clinical and molecular aspects of this growing problem, and wish to report our pilot survey here to alert the medical community."
+        },
+        {
+          "paper_id": "65bcf6346ea3698c74f76384f8a30a4835b5b98c",
+          "cord_uid": "zlhu1jit",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7068163/",
+          "publish_time": "2020-03-05",
+          "section": "body",
+          "sentence": "Therefore, it was necessary to rapidly implement adequately quick and sensitive diagnostic assays for outbreak management of SARS-CoV-2 in public health laboratories."
+        },
+        {
+          "paper_id": "489040d34aa5dc8e6eba3d4e9d3d48f0bcc6061f",
+          "cord_uid": "2jq626ye",
+          "source": "CZI",
+          "url": "https://doi.org/10.12688/f1000research.22211.2",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "The dire situations facing patients in outbreak scenarios demand quick responses by the healthcare community and the biotech industry."
+        },
+        {
+          "paper_id": "5a17ed3e4abf295f5820c65f56398266c1baae98",
+          "cord_uid": "2jq626ye",
+          "source": "CZI",
+          "url": "https://doi.org/10.12688/f1000research.22211.2",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "The dire situations facing patients in outbreak scenarios demand quick responses by the healthcare community and the biotech industry."
+        },
+        {
+          "paper_id": "6bb53d6ec1c4fe079a56a40c5cc3747b29ad857c",
+          "cord_uid": "da61tfr9",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijantimicag.2020.105938",
+          "publish_time": "2020-03-12",
+          "section": "body",
+          "sentence": "The worldwide ongoing trials, including those involving the care of patients in our institute [90] , will verify whether the hopes raised by chloroquine in the treatment of COVID-19 can be confirmed."
+        },
+        {
+          "paper_id": "059d5acb8af8bd2bedab06b5dcc0510691fe0f1e",
+          "cord_uid": "31i1k332",
+          "source": "CZI",
+          "url": "https://doi.org/10.2807/1560-7917.es.2020.25.6.2000082",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "At country level, 24 of 30 EU/EEA countries had already implemented molecular tests for 2019-nCoV while the laboratories in the remaining six countries had arranged to ship clinical specimens of suspected cases to a specialised laboratory abroad, while planning to implement assays between 30 January and 17 February 2020."
+        },
+        {
+          "paper_id": "6131628f8273f4c73aa0a46e0ee71e359ba86fe5",
+          "cord_uid": "t1wpujpm",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038190",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Our study underlines the need to register as much details as possible on clinical trials registries during outbreaks in order to inform the development of future trials."
+        },
+        {
+          "paper_id": "60e51d3d13b027492b9f3b8693c58dd8b5385ada",
+          "cord_uid": "vtjsigod",
+          "source": "CZI",
+          "url": "https://doi.org/10.1007/s00134-020-05954-2",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "We designed a case report form to collect clinical data, proceed with the ethics committee approval of research protocols, and contact with the laboratory that is qualified to conduct research on highly infectious organisms."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Approaches for encouraging and facilitating the production of elastomeric respirators, which can save thousands of N95 masks.",
+      "seed_sentences": [
+        "In case of shortages, alternatives to respirators should be considered, including other classes of FFP respirators, elastomeric half-mask, and full face-piece air-purifying respirators.",
+        "Under the EUA for N95 respirators, FDA authorized four models of respirators for use by the general public to help reduce the wearer's exposure to airborne germs during the public health medical emergency."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "4ffa132eb846df71be74a6c1ce6e9d08c3458bb9",
+          "cord_uid": "bpukqctg",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.gie.2020.03.019",
+          "publish_time": "2020-03-14",
+          "section": "body",
+          "sentence": "In case of shortages, alternatives to respirators should be considered, including other classes of FFP respirators, elastomeric half-mask, and full face-piece air-purifying respirators."
+        },
+        {
+          "paper_id": "a778ccfb7c1f8c36aadd62218ffa7a2a99a8ec1d",
+          "cord_uid": "qn3v40j0",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1331/japha.2010.09220",
+          "publish_time": "2010-04-30",
+          "section": "body",
+          "sentence": "Under the EUA for N95 respirators, FDA authorized four models of respirators for use by the general public to help reduce the wearer's exposure to airborne germs during the public health medical emergency."
+        },
+        {
+          "paper_id": "ed4831fb9499b8c666ebcf39b3775c534d251c84",
+          "cord_uid": "dkbujz83",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijnurstu.2020.103567",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "A respirator may provide protection against multiple modes of transmission, including droplet, airborne and hand-to-mouth/nose transmission."
+        },
+        {
+          "paper_id": "5f139e7f8d32031001059ea4a8fce4881a1f725b",
+          "cord_uid": "un4wkfua",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jacc.2020.03.021",
+          "publish_time": "2020-03-19",
+          "section": "body",
+          "sentence": "The use of Powered Air Purifying Respirator (PAPR) systems may also be reasonable, especially for patients who may be vomiting (e.g. inferior STEMI), or those who may require CPR and/or intubation."
+        },
+        {
+          "paper_id": "e05b82e279e0d06b9959124c302a56e8a011e560",
+          "cord_uid": "n90pgns3",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1540-2487(03)00042-7",
+          "publish_time": "2003-09-30",
+          "section": "body",
+          "sentence": "A respirator is an important tool used to control SARS but must be incorporated into a total program that also uses patient isolation, Universal Precautions, and protective eyewear to prevent infection of mucous membranes."
+        },
+        {
+          "paper_id": "0815316dd0837045c915a15e58b46c70cfbe189e",
+          "cord_uid": "hp4zd8lr",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.tibtech.2017.06.005",
+          "publish_time": "2017-10-31",
+          "section": "body",
+          "sentence": "Various sterilization methods (e.g., ethylene oxide, formalin, UV, bleach, hydrogen peroxide) have been tested to recycle respirators."
+        },
+        {
+          "paper_id": "0815316dd0837045c915a15e58b46c70cfbe189e",
+          "cord_uid": "hp4zd8lr",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.tibtech.2017.06.005",
+          "publish_time": "2017-10-31",
+          "section": "body",
+          "sentence": "The degree of respiratory protection is affected by the technical performance of the mask (filtration efficiency, comfort, faceseal, proper donning/doffing, and pathogen infectivity), as well as the infrastructure (available supplies, policies, and cost)."
+        },
+        {
+          "paper_id": "e3b40cc8e0e137c416b4a2273a4dca94ae8178cc",
+          "cord_uid": "ol2exczc",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/jcm9020575",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "If necessary, ventilation in the prone position, recruitment maneuver, or extracorporeal membrane oxygenation (ECMO) can be used. C. Circulation support: improve microcirculation based on full fluid resuscitation, use vasoactive drugs, and apply hemodynamic monitoring if necessary."
+        },
+        {
+          "paper_id": "ff1cc08ebe7f5a104152662fa87ff683524165c7",
+          "cord_uid": "8lwnmdeq",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-443-07151-5.50005-6",
+          "publish_time": "2007-12-31",
+          "section": "body",
+          "sentence": "A respirator is necessary in later stages."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Best telemedicine practices, barriers and faciitators, and specific actions to remove/expand them within and across state boundaries.",
+      "seed_sentences": [
+        "While there are currently barriers to the widespread implementation of telemedicine such as coordination of testing in patients triaged as high risk, this is a technology that will likely prove important to promote viral containment",
+        "In response to the current COVID-19 situation, the Centers for Medicare & Medicaid Services and commercial health plans largely have waived co-pays for Telemedicine visits as a means to encourage utilization in this time of need",
+        "In addition, prevention and treatment guidelines, and guidance on drug use and management of coronavirus patients can be accessed via the telemedicine cloud.",
+        "We call upon the American Medical Association to take measures to promote guidance for wider implementation of telemedicine platforms and to help smaller solo and group practices with loans and other forms of financial relief to keep practices afloat during this crisis"
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "2f118dc48714f3dd4b21914080a1a2a249d05ae6",
+          "cord_uid": "b0md9hqe",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jaad.2020.03.037",
+          "publish_time": "2020-03-22",
+          "section": "body",
+          "sentence": "We call upon the American Medical Association to take measures to promote guidance for wider implementation of telemedicine platforms and to help smaller solo and group practices with loans and other forms of financial relief to keep practices afloat during this crisis."
+        },
+        {
+          "paper_id": "320e1640a5ddfcbed21e1afff08a86dc1b0af5b2",
+          "cord_uid": "w49i0xkz",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jacc.2020.03.031",
+          "publish_time": "2020-03-19",
+          "section": "body",
+          "sentence": "While there are currently barriers to the widespread implementation of telemedicine such as coordination of testing in patients triaged as high risk, this is a technology that will likely prove important to promote viral containment (86) ."
+        },
+        {
+          "paper_id": "05d47dd5b46f86428de058db4ecc8bca76a9ad16",
+          "cord_uid": "xieqswct",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.13.991307",
+          "publish_time": "2020-03-14",
+          "section": "body",
+          "sentence": "While this strategy is a proof-of-concept and will require further testing using replication-competent SARS-CoV-2 viruses and validation in animal models before clinical tests in humans, it represents a unique approach to implement a rapid and broad antiviral defense in humans against emerging pathogens for which there are no effective vaccines."
+        },
+        {
+          "paper_id": "ffbc1762c9e43be58033a7a1f2e21e00d9c7d250",
+          "cord_uid": "we62087x",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20037648",
+          "publish_time": "2020-03-20",
+          "section": "abstract",
+          "sentence": "However, testing capacity (having sufficient tests and laboratory throughput) to support these non-pharmaceutical interventions remains a challenge for containment and mitigation of COVID-19 infections."
+        },
+        {
+          "paper_id": "17e72ee178b183ee417e8827681663db38f08d4c",
+          "cord_uid": "fb832hlp",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-804543-5.00003-8",
+          "publish_time": "2016-12-31",
+          "section": "body",
+          "sentence": "While the SARS epidemic was halted by quarantine measures, there is an ongoing need for a safe and effective vaccine platform that could be used in the event of future human coronavirus threats."
+        },
+        {
+          "paper_id": "9ec258353291e981ef7eeb36111794c40b15c752",
+          "cord_uid": "c4u0gxp5",
+          "source": "CZI",
+          "url": "https://doi.org/10.1097/jcma.0000000000000270",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Although many experimental trials are on the way, the best we can do to prevent a rampant outbreak is stringent infection control operation."
+        },
+        {
+          "paper_id": "f3fa89e819a64d2d6c74f6d590661ca435878c26",
+          "cord_uid": "c4u0gxp5",
+          "source": "CZI",
+          "url": "https://doi.org/10.1097/jcma.0000000000000270",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Although many experimental trials are on the way, the best we can do to prevent a rampant outbreak is stringent infection control operation."
+        },
+        {
+          "paper_id": "74b00f19c3af87d1081644f02490ba250f57b7ca",
+          "cord_uid": "6ojmmmuj",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.04.934232",
+          "publish_time": "2020-02-11",
+          "section": "body",
+          "sentence": "Although traditional vaccines, which depend on biochemical trials, induced potent neutralizing and protective responses in the immunized animals but they can be costly, allergenic, time consuming and require in vitro culture of pathogenic viruses leading to serious concern of safety [23, 24]."
+        },
+        {
+          "paper_id": "c87faa1cff1699197fd0c0bcc39c634cf26b28e5",
+          "cord_uid": "pyeb86on",
+          "source": "CZI",
+          "url": "https://doi.org/10.1186/s12916-020-01533-w",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Coordination of clinical trials to avoid duplication and ensure that results are rapidly available will be a challenge but the case numbers should facilitate rapid definitive results. (see What is in the pipeline for vaccine development and/or therapeutics?)."
+        },
+        {
+          "paper_id": "78360444f3b4540339efc9e7e5f2610a7e46c023",
+          "cord_uid": "pyeb86on",
+          "source": "CZI",
+          "url": "https://doi.org/10.1186/s12916-020-01533-w",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Coordination of clinical trials to avoid duplication and ensure that results are rapidly available will be a challenge but the case numbers should facilitate rapid definitive results. (see What is in the pipeline for vaccine development and/or therapeutics?)."
+        },
+        {
+          "paper_id": "0f34f180295196b73c5bf7c4892fb023d388cb15",
+          "cord_uid": "oxs4o9xe",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/s2542-5196(20)30035-8",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Vaccines and therapeutic alternatives might be possible and are needed, but they are a response, because the emerging strain is unpredictable and a vaccine is unlikely to prevent the initial events."
+        },
+        {
+          "paper_id": "bb378eca9aac6493c663f2ea0c66a0c912fd8308",
+          "cord_uid": "oxs4o9xe",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/s2542-5196(20)30035-8",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Vaccines and therapeutic alternatives might be possible and are needed, but they are a response, because the emerging strain is unpredictable and a vaccine is unlikely to prevent the initial events."
+        },
+        {
+          "paper_id": "dfaaa40052923c82f8f3733e9804862ade08806f",
+          "cord_uid": "tmitwvz0",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ienj.2020.100848",
+          "publish_time": "2020-03-14",
+          "section": "body",
+          "sentence": "While these steps are extreme, they have been taken to prevent further spread of this new virus, as scientists and public health experts race to understand the transmissibility and severity of the virus."
+        },
+        {
+          "paper_id": "478eef31104b531a2fb5df48ebfdd9cdc4485a77",
+          "cord_uid": "ba8zx73b",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.it.2020.02.007",
+          "publish_time": "2020-03-12",
+          "section": "body",
+          "sentence": "Therefore, one can be optimistic about the prospects for broad antibody-mediated immunity against current and future zoonotic SARS-related CoVs, although much work lies ahead to identify vaccines that can elicit appropriate neutralizing antibodies."
+        },
+        {
+          "paper_id": "74b00f19c3af87d1081644f02490ba250f57b7ca",
+          "cord_uid": "6ojmmmuj",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.04.934232",
+          "publish_time": "2020-02-11",
+          "section": "abstract",
+          "sentence": "Nevertheless, the proposed vaccine is rapidly needed to be validated clinically in order to ensure its safety, immunogenic profile and to help on stopping this epidemic before it leads to devastating global outbreaks."
+        },
+        {
+          "paper_id": "c40321fcc587dbd862f1b7587412f81675ac5cff",
+          "cord_uid": "y0l943xg",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-323-35761-6.00079-1",
+          "publish_time": "2018-12-31",
+          "section": "body",
+          "sentence": "The implementation of a strong regulatory system will facilitate these goals, which are especially critical for vaccines that are inherently more difficult to develop, characterize, and manufacture than most pharmaceutical products."
+        },
+        {
+          "paper_id": "5779e410753e13a0a79f9f872321fe42df49e65c",
+          "cord_uid": "z6v6s46n",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-809712-0.00011-3",
+          "publish_time": "2017-12-31",
+          "section": "body",
+          "sentence": "Apart from antivirals to fight against these coronaviruses, RNA interference (RNAi) and vaccine development may be a useful strategy though it is a challenging task."
+        },
+        {
+          "paper_id": "96250a5e9ece21b2415b83d6756a3fcd07123ee7",
+          "cord_uid": "kh9whqzd",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.995795",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "A crucial aspect of being prepared for future epidemics is sustained ongo- ing research of emerging infectious diseases even at 'times of peace' when such viruses do not pose an active threat."
+        },
+        {
+          "paper_id": "9484af8bce6df5d0a9912a686e44a1db4a381635",
+          "cord_uid": "7tscp04v",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5583508/",
+          "publish_time": "2017-08-29",
+          "section": "body",
+          "sentence": "Because human data on the recombinant VSV vaccine platform are scarce, our study makes important contributions to the understanding of the immunological properties of this vaccine in humans and may provide unique insights for future use of this vector technology in emergency vaccines, including candidate vaccines currently in development against Zika virus (Betancourt et al., 2017) ."
+        },
+        {
+          "paper_id": "65ed294672533d6734d1c0d66b1c987101a42fcf",
+          "cord_uid": "fb8mca1h",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20036582",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "Other modeling work ( 16 ) suggests that the feasibility of containing SARS-CoV-2 is highly sensitive to the number of infections that occur prior to scale-up of containment efforts."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Guidance on the simple things people can do at home to take care of sick people and manage disease.",
+      "seed_sentences": [
+        "Guidance of self-protection, active isolation of close contacts (either at home or centralized) should be continuously highlighted.",
+        "Participants were asked about the use of non-pharmacological measures (frequent hand washing, use of alcohol-based hand sanitizers and handwashing at home after touching potentially contaminated surfaces on public transport or in shops",
+        "The third point is to recommend personal hygiene, in particular hand washing and avoiding contact with suspected patients"
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "871a4524f272de0abe395fbf5788eaf31068783c",
+          "cord_uid": "706bf8qr",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ypmed.2012.04.009",
+          "publish_time": "2012-06-30",
+          "section": "body",
+          "sentence": "In addition, participants were asked about the use of non-pharmacological measures (frequent hand washing, use of alcohol-based hand sanitizers and handwashing at home after touching potentially contaminated surfaces on public transport or in shops, for example) in the seven days before the onset of symptoms in cases and the seven days before the onset of symptoms in the matched case in controls."
+        },
+        {
+          "paper_id": "81231d91aecc8f4dd09c6fa8a53e48af7e0c4ba0",
+          "cord_uid": "95ka0p8n",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20037671",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "The third point is to recommend personal hygiene, in particular hand washing and avoiding contact with suspected patients, discovering unknown cases of infection and early detection and isolation of patients, which is emphasized by the healthcare system to overcome this disease."
+        },
+        {
+          "paper_id": "66d0fde2a8b8e7eb46a2a19c63cf4b9fbe1c4c08",
+          "cord_uid": "6us88smz",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.disamonth.2013.10.005",
+          "publish_time": "2013-12-31",
+          "section": "abstract",
+          "sentence": "Frequent hand washing, avoiding touching nose, mouth, and eyelids are important basic approaches travelers can take to reduce risk, as well as proper vaccination."
+        },
+        {
+          "paper_id": "de0bb74bc43e328b88c728506d51f65bf9c2cb11",
+          "cord_uid": "rwyd1j3t",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.disamonth.2017.03.022",
+          "publish_time": "2017-09-30",
+          "section": "body",
+          "sentence": "Frequent hand washing, avoiding touching nose, mouth and eyelids are important basic approaches travelers can take to reduce risk, as well as proper vaccination."
+        },
+        {
+          "paper_id": "754315299d847600d6c5d414665c728d40bf731d",
+          "cord_uid": "si486lqi",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.01.27.922443",
+          "publish_time": "2020-01-28",
+          "section": "body",
+          "sentence": "Maintaining personal hygiene (e.g., frequently performing hand hygiene, washing hands with soap and water) and cough etiquette (e.g., covering nose and mouth when coughing, correctly disposing wasted tissues after coughing) are also beneficial."
+        },
+        {
+          "paper_id": "2e812b0622cb565973cc2af21014399318d50920",
+          "cord_uid": "3rqrq2mg",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.clae.2020.03.007",
+          "publish_time": "2020-03-19",
+          "section": "body",
+          "sentence": "The message around hygiene should be reinforced to CL patients nd they should be reminded to wash hands thoroughly before touching their own eyes and their CLs."
+        },
+        {
+          "paper_id": "57e5dbed53a99d2c2d0e5cccc22c7689a58c5557",
+          "cord_uid": "b8ofli35",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.cgh.2020.03.020",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "These include good hand hygiene with alcohol-based hand sanitizers or soap and water, covering your mouth and nose with a tissue or your sleeve (not your hands) when coughing or sneezing, limiting touching your face, avoiding close contact with anyone with influenza-like and/or upper respiratory symptoms, and staying home if you are sick."
+        },
+        {
+          "paper_id": "49391a17a2ab396eee878283e8a81d27c69f0ba0",
+          "cord_uid": "oz3cjtql",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jamda.2020.03.004",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "This begins with frequent hand washing, not touching our face with unwashed hands, and keeping surfaces touched by others clean."
+        },
+        {
+          "paper_id": "871a4524f272de0abe395fbf5788eaf31068783c",
+          "cord_uid": "706bf8qr",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ypmed.2012.04.009",
+          "publish_time": "2012-06-30",
+          "section": "abstract",
+          "sentence": "The use of non-pharmacological measures seven days before the onset of symptoms (frequency of hand washing, use of alcohol-based hand sanitizers and handwashing after touching contaminated surfaces) was collected."
+        },
+        {
+          "paper_id": "fd28e6d03eef27b0454f13ca539dc1498242a4c2",
+          "cord_uid": "hmy8fs3g",
+          "source": "CZI",
+          "url": "https://doi.org/10.1186/s40779-020-0233-6",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Home caregivers 1 Clean and disinfect hands after contact with the patient, before leaving patient's room or the house, before and after eating, after using the toilet and after entering house from outside (for visible contaminant on hands, wash hands with running water then use hand disinfection)."
+        },
+        {
+          "paper_id": "867ebb2be2d466bcb35e5a7319708eaff39c4799",
+          "cord_uid": "ojmhkt5o",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0924-8579(17)30423-5",
+          "publish_time": "2017-11-30",
+          "section": "body",
+          "sentence": "Background: Hand hygiene is the leading measure for preventing the spread of antimicrobial resistance and reducing healthcareassociated infections."
+        },
+        {
+          "paper_id": "d013e42811c6442b184da3b9bbfd9e334031a975",
+          "cord_uid": "w0ghfo3g",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7085188/",
+          "publish_time": "2020-03-21",
+          "section": "body",
+          "sentence": "Furthermore, hand hygiene is an avenue of agency for protecting one's own health, consistent with the rights to dignity and to fully participate in decisions related to assistance in humanitarian crises."
+        },
+        {
+          "paper_id": "2a66dc5f23ecf02ca8d7626818ef34f7663df87f",
+          "cord_uid": "zpiaka80",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.tmaid.2020.101567",
+          "publish_time": "2020-02-29",
+          "section": "body",
+          "sentence": "Use an alcohol-based hand sanitizer if soap and water are not available."
+        },
+        {
+          "paper_id": "c12a11fa9c5fdff0bf85a9f0111c64d6dffe8d26",
+          "cord_uid": "cgcvfftf",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1470-9465.2006.12_4_1426.x",
+          "publish_time": "2006-12-31",
+          "section": "body",
+          "sentence": "As C-MRSA are easily transmitted, patients with soft tissue infections should be counselled on the importance of hand hygiene, not sharing personal items such as towels, and appropriate wound care."
+        },
+        {
+          "paper_id": "421838e663f2a0247293270c60d87c535c961068",
+          "cord_uid": "m5h19hy6",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7079521/",
+          "publish_time": "2020-03-17",
+          "section": "body",
+          "sentence": "Infection preventive and control (IPC) measures that may reduce the risk of exposure include the following: use of face masks; covering coughs and sneezes with tissues that are then safely disposed of (or, if no tissues are available, use a flexed elbow to cover the cough or sneeze); regular hand washing with soap or disinfection with hand sanitizer containing at least 60% alcohol (if soap and water are not available); avoidance of contact with infected people and maintaining an appropriate distance as much as possible; and refraining from touching eyes, nose, and mouth with unwashed hands [3] ."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Oral medications that might potentially work.",
+      "seed_sentences": [
+        "The most frequently assessed therapies were: stem cells therapy, lopinavir/ritonavir, chloroquine, umifenovir, hydroxychloroquine, plasma treatment, favipiravir, methylprednisolone, and remdesivir.",
+        "In particular, the effect of favipiravir and atazanavir was compared to those of the reference drugs (chloroquine, lopinavir, remdesivir) because favipiravir is considered as a drug candidate for clinical trials and atazanavir was recently predicted as the most potent antiviral drug",
+        "An in vitro study found that remdesivir and chloroquine inhibit viral infection, but further study is required.",
+        "Remdesivir is already administered for COVID-19 through compassionate use requests, and clinical trials for its use against COVID-19 have already started in the U.S."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "72bec44d56da538afeabe871b4069ffe9b0906da",
+          "cord_uid": "5f95gve3",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.999730",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "In particular, the effect of favipiravir and atazanavir was compared to those of the reference drugs (chloroquine, lopinavir, remdesivir) because favipiravir is considered as a drug candidate for clinical trials and atazanavir was recently predicted as the most potent antiviral drug by AI-inference modeling 13 ."
+        },
+        {
+          "paper_id": "6131628f8273f4c73aa0a46e0ee71e359ba86fe5",
+          "cord_uid": "t1wpujpm",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038190",
+          "publish_time": "2020-03-20",
+          "section": "abstract",
+          "sentence": "The most frequently assessed therapies were: stem cells therapy (n=23 trials), lopinavir/ritonavir (n=15), chloroquine (n=11), umifenovir (n=9), hydroxychloroquine (n=7), plasma treatment (n=7), favipiravir (n=7), methylprednisolone (n=5), and remdesivir (n=5)."
+        },
+        {
+          "paper_id": "05d47dd5b46f86428de058db4ecc8bca76a9ad16",
+          "cord_uid": "xieqswct",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.13.991307",
+          "publish_time": "2020-03-14",
+          "section": "body",
+          "sentence": "Remdesivir is already administered for COVID-19 through compassionate use requests, and clinical trials for its use against COVID-19 have already started in the U.S. (clinical trial ID NCT04280705) and China."
+        },
+        {
+          "paper_id": "6131628f8273f4c73aa0a46e0ee71e359ba86fe5",
+          "cord_uid": "t1wpujpm",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038190",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Our search strategy was designed to identify all the clinical trials using antiviral agents that were registered for COVID-19."
+        },
+        {
+          "paper_id": "165562ba942e0a8aa506fdf31fd8ade1a7e0ef1e",
+          "cord_uid": "ce8hrh5e",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.eng.2020.03.002",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "We hope that all clinical trials and research on evidence transformation for COVID-19 can refer to the COS-COVID during protocol design and decision-making."
+        },
+        {
+          "paper_id": "6131628f8273f4c73aa0a46e0ee71e359ba86fe5",
+          "cord_uid": "t1wpujpm",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038190",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Figure 2 reports the number of trials by the median of the total number of planned inclusions per trial for the ten most frequent therapies (stem cells therapy, lopinavir/ritonavir, chloroquine phosphate, hydroxychloroquine, favipiravir, umifenovir, plasma treatment, remdesivir, methylprednisolone, oseltamivir)."
+        },
+        {
+          "paper_id": "b579c3547bba2a33057373d57b7c05f37dd4cfc3",
+          "cord_uid": "rbnfh89u",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.27.20028787",
+          "publish_time": "2020-03-01",
+          "section": "body",
+          "sentence": "All patients with COVID-19 enrolled in this study were diagnosed according author/funder, who has granted medRxiv a license to display the preprint in perpetuity."
+        },
+        {
+          "paper_id": "fd6163a04c4ac0100a7c9be19def78d2171eac47",
+          "cord_uid": "0xzsa21a",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.10.20033803",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Since the outbreak of COVID-19, the government has conducted large-scale medical tracking and quarantine measures."
+        },
+        {
+          "paper_id": "d4cfb1fc4fc53abbc1d4b0ca60276c6af6632c3c",
+          "cord_uid": "bsgqsdbx",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.16.20023903",
+          "publish_time": "2020-02-19",
+          "section": "body",
+          "sentence": "No reuse allowed without permission. author/funder, who has granted medRxiv a license to display the preprint in perpetuity. to determine the effects of corticosteroid on lymphocytes in the patient with COVID-19."
+        },
+        {
+          "paper_id": "b831e5c64437bbd350556f97f5f1ae4225bc3f1f",
+          "cord_uid": "38d6gb7o",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.22.002386",
+          "publish_time": "2020-03-22",
+          "section": "body",
+          "sentence": "Many COVID-19 patients will be on the drugs identified here, treating pre-existing conditions."
+        },
+        {
+          "paper_id": "6131628f8273f4c73aa0a46e0ee71e359ba86fe5",
+          "cord_uid": "t1wpujpm",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038190",
+          "publish_time": "2020-03-20",
+          "section": "abstract",
+          "sentence": "To provide an overview of the landscape of therapeutic research for COVID-19, we conducted a review of registered clinical trials."
+        },
+        {
+          "paper_id": "e066fdbb4a9338a57477424cb66fd4d75b2fd66d",
+          "cord_uid": "rscduazd",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.04.20030965",
+          "publish_time": "2020-03-09",
+          "section": "body",
+          "sentence": "We conducted a comprehensive systematic search of PubMed, Embase, Cochrane database, and google to find all published studies that describe the clinical characteristics of COVID-19, using the search terms, \"novel coronavirus\", \"SARS-CoV-2\", \"COVID-19\"."
+        },
+        {
+          "paper_id": "dc2bd2b0da8367f981d384c8d7da5d44b53e73d5",
+          "cord_uid": "3pxc5wot",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.lfs.2020.117592",
+          "publish_time": "2020-03-25",
+          "section": "abstract",
+          "sentence": "In addition, the results suggest guanosine derivative (IDX-184), Setrobuvir, and YAK as top seeds for antiviral treatments with high potential to fight the SARS-CoV-2 strain specifically."
+        },
+        {
+          "paper_id": "995847926bde7c0022c3c2b8ac9f3f84756c221d",
+          "cord_uid": "8caqxfxv",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.eng.2020.03.007",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "Furthermore, we introduced the time of viral clearance as a primary endpoint for experimental antiviral treatment and demonstrated it to be a surrogate of clinical endpoint; this will be helpful for designing COVID-19 research."
+        },
+        {
+          "paper_id": "6131628f8273f4c73aa0a46e0ee71e359ba86fe5",
+          "cord_uid": "t1wpujpm",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038190",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "In this review, we aimed to summarize the current state of registered clinical trials for COVID-19 in order to study their design, which antiviral agents were being investigated, the details of their administration, and the outcomes."
+        },
+        {
+          "paper_id": "28884786bfd579216f563c278e1730290dd4ccb8",
+          "cord_uid": "hj675z1b",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.12.989186",
+          "publish_time": "2020-03-14",
+          "section": "body",
+          "sentence": "A related purine nucleotide prodrug, Remdesivir (Fig. 2b) , was developed by Gilead to treat Ebola virus infections, though not successfully, and is currently in clinical trials for treating COVID-19. 15, 16 In contrast to Sofosbuvir (Fig. 2a) , both the 2'-and 3'-OH groups in Remdesivir (Fig. 2b) are unmodified, but a cyano group at the 1' position serves to inhibit the RdRp in the active triphosphate form."
+        },
+        {
+          "paper_id": "8330d31a5ec8b240991ed6d5a0dcbaf967f7dbd0",
+          "cord_uid": "k36rymkv",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30566-3",
+          "publish_time": "2020-03-11",
+          "section": "body",
+          "sentence": "Ran domised clinical trials for lopinavir/ ritonavir (ChiCTR2000029308) and intravenous remdesivir (NCT04257656, NCT04252664) in treatment of COVID-19 are currently in progress."
+        },
+        {
+          "paper_id": "6a10b8685933b9ac1002b9a7de81d2f74f5ff0af",
+          "cord_uid": "mk62bybt",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.phrs.2020.104761",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "The most promising antiviral drug for SARS-CoV-2 is remdesivir that is currently under clinical development for the treatment of Ebola virus infection [11] ."
+        },
+        {
+          "paper_id": "24e17488d399c436305c819953beae2961214771",
+          "cord_uid": "2vdvswda",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.28.20028068",
+          "publish_time": "2020-03-03",
+          "section": "abstract",
+          "sentence": "Methods: We collected information on clinical characteristics, exposure history, and laboratory examinations of all laboratory-confirmed COVID-19 patients admitted to PLA General Hospital."
+        },
+        {
+          "paper_id": "05e2f08d487b551346b31083c115af7bd75c8dc2",
+          "cord_uid": "1mjaycee",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jare.2020.03.005",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "Nafamostat, Nitazoxanide, Ribavirin, Penciclovir, Favipiravir, Ritonavir, AAK1, Baricitinib, and Arbidol exhibited moderate results when tested against infection in patients and in-vitro clinical isolates (46, 48, 50, 52) ."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Use of AI in real-time health care delivery to evaluate interventions, risk factors, and outcomes in a way that could not be done manually.",
+      "seed_sentences": [
+        "A bed-side ultrasound device is essential to evaluate vascular conditions, to monitor cardiopulmonary interaction and assess hemodynamic status.",
+        "It classifies patients into mild, moderate, severe or critical pneumonia. nCapp can also establish an online COVID-19 real-time update database, and it updates the model of diagnosis in real time based on the latest real-world case data to improve diagnostic accuracy.",
+        "Three types of data could potentially be used in real time to improve predictions by considering secondary case heterogeneity."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "b23e58f5cbd3d23d149f64e909fa7e7caae72b6f",
+          "cord_uid": "wyz5jyjh",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ceh.2020.03.001",
+          "publish_time": "2020-12-31",
+          "section": "body",
+          "sentence": "It classifies patients into mild, moderate, severe or critical pneumonia. nCapp can also establish an online COVID-19 real-time update database, and it updates the model of diagnosis in real time based on the latest real-world case data to improve diagnostic accuracy."
+        },
+        {
+          "paper_id": "d666c86af7eeaee9a830f99d863045f52571ea5f",
+          "cord_uid": "r8bhgb7k",
+          "source": "CZI",
+          "url": "https://doi.org/10.1097/cm9.0000000000000778",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "(4) A bed-side ultrasound device is essential to evaluate vascular conditions, to monitor cardiopulmonary interaction and assess hemodynamic status."
+        },
+        {
+          "paper_id": "980a8d0a6a71b5a4838951f309521d4aedb21b90",
+          "cord_uid": "ba1br2a0",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ejrad.2020.108941",
+          "publish_time": "2020-05-31",
+          "section": "body",
+          "sentence": "CT imaging can demonstrate typical features making the diagnosis of COVID-19 quite likely, which can help to rapidly screen patients, and to stratify the patients' severity to quickly develop effective treatment strategies."
+        },
+        {
+          "paper_id": "8213acea5f1a592dae49adae07380fea8203910d",
+          "cord_uid": "9zeqigqa",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.21.20040154",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "Our model is applicable to COVID-19 epidemics in any region with reported case data, which can be updated to higher accuracy with on-going day by day reported case data. 1  We use data from the Korean Center for Disease Control, the Italian Ministry of Health, the French Public Agency of Health, and the Robert Koch Institute of Germany."
+        },
+        {
+          "paper_id": "882219fd09765ece5b362415882397e78972373e",
+          "cord_uid": "lbcxl6w9",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30567-5",
+          "publish_time": "2020-03-09",
+          "section": "body",
+          "sentence": "Ongoing data collection and epidemiological analysis are therefore essential parts of assessing the impacts of mitigation strategies, alongside clinical research on how to best manage seriously ill patients with COVID-19."
+        },
+        {
+          "paper_id": "5129bb31949c66ebd544658c531004046d4102da",
+          "cord_uid": "fcvstps9",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.05.20031906",
+          "publish_time": "2020-03-08",
+          "section": "body",
+          "sentence": "As a result, the COVID-19 EWS contained easy-to-get parameters on clinical manifestation, epidemiological characteristics, basic vital signs, laboratory and radiologic data, which provide a more comprehensive assessment of patients."
+        },
+        {
+          "paper_id": "b23e58f5cbd3d23d149f64e909fa7e7caae72b6f",
+          "cord_uid": "wyz5jyjh",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ceh.2020.03.001",
+          "publish_time": "2020-12-31",
+          "section": "body",
+          "sentence": "Compared with the traditional medical model, the application of nCapp assisted management of COVID-19 can better meet the requirements of P4 medicine (predictive, preventative, personalized, and participatory). nCapp can conduct the online monitoring, location tracking, alarm linkage, command and dispatch functions, in favor of online and full-time monitoring of changes in symptoms and diseases severity and guiding treatment."
+        },
+        {
+          "paper_id": "980a8d0a6a71b5a4838951f309521d4aedb21b90",
+          "cord_uid": "ba1br2a0",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ejrad.2020.108941",
+          "publish_time": "2020-05-31",
+          "section": "body",
+          "sentence": "In this study, we report the CT characteristics of patients with COVID-19 of various severity to provide a more comprehensive overview of the disease, in order to help the clinical diagnosis and management."
+        },
+        {
+          "paper_id": "045bff414afcee22d7f2f6667cae10b10ba99571",
+          "cord_uid": "0zkc5w74",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jinf.2020.03.016",
+          "publish_time": "2020-03-19",
+          "section": "body",
+          "sentence": "Consequently, RT-PCR results, chest CT features, clinical manifestation, laboratory results, and exposure history should be made a comprehensive analysis to diagnose COVID-19 infection for the clinical decisions beyond clinical and radiological features."
+        },
+        {
+          "paper_id": "a625e5d6fc8956c231c500a40e887e248a69de61",
+          "cord_uid": "fcmzdcuh",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.26.20028191",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "Hence, analyzing clinical characteristics of death cases with COVID-19 is urgently needed to improve the outcome of infected patients."
+        },
+        {
+          "paper_id": "24e17488d399c436305c819953beae2961214771",
+          "cord_uid": "2vdvswda",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.28.20028068",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "We then evaluated the dynamics of clinical and laboratory parameters during hospital stay between COVID-19 patients with pneumonia and those without pneumonia and re-categorized the patient with progressive disease."
+        },
+        {
+          "paper_id": "cf03feaa814c150f703e19c8aecae4ce5cf6f62c",
+          "cord_uid": "l04kdkyk",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1053/j.jvca.2020.03.021",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "Invasive arterial blood pressure was monitored by radial artery puncture and catheterization with ultrasound guidance with the patient under local anesthesia."
+        },
+        {
+          "paper_id": "18b84fbfb1856c50ad512c25ccd11276a047ea7a",
+          "cord_uid": "6z4p8pxb",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/s2589-7500(20)30055-8",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Frequent refreshing of the line list would further enable real-time updates as more clinical, epidemiological, and virological (including genetic) knowledge become available as the outbreak progresses."
+        },
+        {
+          "paper_id": "353852971069ad5794445e5c1ab6077ce23da75d",
+          "cord_uid": "6z4p8pxb",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/s2589-7500(20)30055-8",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Frequent refreshing of the line list would further enable real-time updates as more clinical, epidemiological, and virological (including genetic) knowledge become available as the outbreak progresses."
+        },
+        {
+          "paper_id": "0e38333bff68345492526fd39b70d1b18969cb83",
+          "cord_uid": "ll4rxd9p",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.12.20027185",
+          "publish_time": "2020-03-17",
+          "section": "abstract",
+          "sentence": "Accurate and rapid diagnosis of COVID-19 suspected cases plays a crucial role in timely quarantine and medical treatment."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Best practices and critical challenges and innovative solutions and technologies in hospital flow and organization, workforce protection, workforce allocation, community-based support resources, payment, and supply chain management to enhance capacity, efficiency, and outcomes.",
+      "seed_sentences": [
+        "It is necessary to implement a community-based comprehensive intervention, which requires support from national polices, to ensure the availability of medical resources, such as essential drugs, equipment, and human resources, and to improve the affordability of COPD therapy for patients.",
+        "We call for particular attentions on the effective sanitization of the high risk area and the use of high level protection masks for medical staff with direct contact with the COVID-19 patients or with long stay in high risk area",
+        "We call for particular attentions on the renovation of large stadiums as field hospitals with nature ventilation and protective measures is an effective approach to quarantine and treat mild symptom patients so as to reduce the COVID-19 transmission among the public",
+        "These infection control interventions include early identification of cases and their contacts, avoiding close contact with people with airway symptoms, appropriate hand washing, and enhanced standard infection prevention, and control practices in the healthcare setting",
+        "Staff coming into patient contact should, where appropriate, wear disposable personal protection including an isolation gown with fluid-resistant properties, over-gown gloves, googles, and a fit-tested  FFP3 mask.",
+        "General rules for prevention and personal behavior with detailed information to all professionals from the very beginning (procedures for disinfection of rooms and machines, optimize pathways and waiting rooms strictly for patients",
+        "Review of organizational procedures: postponement of treatments for low-priority cases (prostate with hormone, benign diseases, etc.), favor short-term Tx (hypofractionation), skip F/U visits (use phone contacts)",
+        "Triage procedure at the entrance of the department for all patients and accompanying persons: first access questionnaire, temperature measurement, check of symptoms"
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "1c4e7b7c8c06509b7f1a91486458879631602eac",
+          "cord_uid": "ewivbfib",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.crad.2020.03.003",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Staff coming into patient contact should, where appropriate, wear disposable personal protection including an isolation gown with fluid-resistant properties, over-gown gloves, googles, and a fit-tested \"filtering face piece\" FFP3 mask. 19 All equipment coming into contact, or near contact, with an at-risk patient needs to be disinfected."
+        },
+        {
+          "paper_id": "9cd6628012c0dcc7ea502d846e138d3bf8170b55",
+          "cord_uid": "j13lhuoy",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1378/chest.12-1854",
+          "publish_time": "2013-06-30",
+          "section": "body",
+          "sentence": "Community-based comprehensive intervention should be implemented to ensure the availability of medical resources, such as essential drugs, equipment, and human resources."
+        },
+        {
+          "paper_id": "a006cb9a90f0625f548c5775891d395860c81c75",
+          "cord_uid": "0xhho1sh",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijantimicag.2020.105924",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "Moreover, people with symptoms of acute respiratory infection should practice cough etiquette, which is to maintain distance, cover coughs and sneezes with disposable tissues or clothing, and wash hands, and within healthcare facilities enhanced standard infection prevention and control practices are recommended in hospitals, especially in emergency departments [42] ."
+        },
+        {
+          "paper_id": "867ebb2be2d466bcb35e5a7319708eaff39c4799",
+          "cord_uid": "ojmhkt5o",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0924-8579(17)30423-5",
+          "publish_time": "2017-11-30",
+          "section": "body",
+          "sentence": "Conclusion: Through the continuous monitoring of the trend of drug resistance distribution at the same time prudent use of antibiotics and the use of antibiotics stewardship, the most important thing is to implement contact isolation, hand hygiene and medical environment, such as cleaning and disinfection of infection control measures, Reduce the transmission of drugresistant bacteria."
+        },
+        {
+          "paper_id": "89a8918f7e3044b89642aaa74defc7381abef482",
+          "cord_uid": "pth2d40p",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.jmii.2020.02.012",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "These infection control interventions include early identification of cases and their contacts, avoiding close contact with people with airway symptoms, appropriate hand washing, and enhanced standard infection prevention, and control practices in the healthcare setting. 47, 48 Uncertain issues Although information on COVID-19 has increased rapidly since the emergence of SARS-CoV-2, many issues remain unresolved."
+        },
+        {
+          "paper_id": "1f5c1597a84ed1d4f84c488cd19098a091a3d513",
+          "cord_uid": "pth2d40p",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.jmii.2020.02.012",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "These infection control interventions include early identification of cases and their contacts, avoiding close contact with people with airway symptoms, appropriate hand washing, and enhanced standard infection prevention, and control practices in the healthcare setting. 47, 48 Uncertain issues Although information on COVID-19 has increased rapidly since the emergence of SARS-CoV-2, many issues remain unresolved."
+        },
+        {
+          "paper_id": "c12a11fa9c5fdff0bf85a9f0111c64d6dffe8d26",
+          "cord_uid": "cgcvfftf",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1470-9465.2006.12_4_1426.x",
+          "publish_time": "2006-12-31",
+          "section": "body",
+          "sentence": "The major objectives of ''Clean Care is Safer Care'' are: to raise awareness of the impact of health careassociated infection on patient safety and promote preventive strategies within countries; to build commitment from countries to prioritise reducing health care-associated infection; and to test the implementation of the new WHO Guidelines on Hand Hygiene in Health Care in specific districts worldwide as part of an integrated package of actions derived from existing WHO strategies in the fields of blood safety, injection and immunisation safety, clinical procedure safety, and water, basic sanitation and waste management."
+        },
+        {
+          "paper_id": "b3fefaf12333cd48df7fc035419d5322978eb326",
+          "cord_uid": "3d3sjegp",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.cmpb.2011.02.002",
+          "publish_time": "2011-11-30",
+          "section": "body",
+          "sentence": "Outbreaks are usually contained with a package of infection control measures, which may include performing active surveillance cultures to identify colonized patients, improving hand hygiene compliance, contact-based infection control, barrier precaution policies, effective staff management, antibiotic policies, and, last but not least, education [2, 13, 14] .  "
+        },
+        {
+          "paper_id": "fe297e7210ed7586d1d84f774ca15a60b5e70173",
+          "cord_uid": "rvg5elrc",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jacr.2020.02.008",
+          "publish_time": "2020-02-19",
+          "section": "body",
+          "sentence": "In addition, the droplet precaution instruction recommends appropriate personal protective equipment, including a disposable isolation gown with fluid-resistant characteristics, a pair of disposable gloves with coverage over gown cuffs, eye protection with goggles, and probably a face mask over goggles [22] ."
+        },
+        {
+          "paper_id": "0760e79585cd85c7e9a59f88188b915955aa3926",
+          "cord_uid": "iyv86437",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.pulmoe.2020.02.010",
+          "publish_time": "2020-04-30",
+          "section": "body",
+          "sentence": "Only thus can we minimise the risks of exposure, ensure early detection and timely diagnosis, and adopt the most effective infection control, therapeutic and preventive measures."
+        },
+        {
+          "paper_id": "1156bc3bde3db9325dde0de524a8671b4f5af648",
+          "cord_uid": "fu8ndhdo",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jacr.2020.03.011",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "With severe infectious diseases such as COVID-19, the highest level of infection control measures must be implemented; these include providing adequate standard protective equipment, training staff, and instituting proper emergency plans."
+        },
+        {
+          "paper_id": "6ee81707d6ecfc383720d49e2c884cd28378ae02",
+          "cord_uid": "oe7adj91",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.accpm.2020.03.001",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "Thus, support with early diagnosis, implementation of effective infection control measures, and limitation of procedures associated with risk of environmental and personal contamination, such as aerosolisation, bronchoscopies or transfers for CT scans should be implemented."
+        },
+        {
+          "paper_id": "9ec258353291e981ef7eeb36111794c40b15c752",
+          "cord_uid": "c4u0gxp5",
+          "source": "CZI",
+          "url": "https://doi.org/10.1097/jcma.0000000000000270",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Stringent protection procedures should be conducted for high-risk procedures (such as endoscopy, Ambu bagging, and endotracheal tube intubation)."
+        },
+        {
+          "paper_id": "f3fa89e819a64d2d6c74f6d590661ca435878c26",
+          "cord_uid": "c4u0gxp5",
+          "source": "CZI",
+          "url": "https://doi.org/10.1097/jcma.0000000000000270",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Stringent protection procedures should be conducted for high-risk procedures (such as endoscopy, Ambu bagging, and endotracheal tube intubation)."
+        },
+        {
+          "paper_id": "b23e58f5cbd3d23d149f64e909fa7e7caae72b6f",
+          "cord_uid": "wyz5jyjh",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ceh.2020.03.001",
+          "publish_time": "2020-12-31",
+          "section": "body",
+          "sentence": "Medical institutions should standardize the process of disinfection, isolation, and protection, reserve qualified and sufficient protective materials, such as disinfection products, medical surgical masks, medical protective masks, isolation gowns, and eye masks, to ensure the personal protection of medical personnel."
+        },
+        {
+          "paper_id": "52f88e8d4b44c47b9afd25b59eb9b7f85ab95275",
+          "cord_uid": "j3avpu1y",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30154-9",
+          "publish_time": "2020-02-21",
+          "section": "body",
+          "sentence": "But as shown in this study, it is still crucial to isolate patients and trace and quarantine contacts as early as possible because asymptomatic infection appears possible (as shown in one of our patients), educate the public on both food and personal hygiene, and alert health-care workers on compliance to infection control to prevent superspreading events."
+        },
+        {
+          "paper_id": "b90df8c645c41d498e7e371a379193cffc2a58cf",
+          "cord_uid": "q1rby2to",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.aorn.2007.12.001",
+          "publish_time": "2008-03-31",
+          "section": "body",
+          "sentence": "\u2022 Contact precautions-health care personnel should \u2022 wear gloves and a gown for all patient contact and \u2022 use dedicated equipment (eg, stethoscopes, disposable blood pressure cuffs, disposable thermometers) whenever possible."
+        },
+        {
+          "paper_id": "8868082a33ad12400eb72ee137df74bf7cf73fff",
+          "cord_uid": "p94phf68",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.kint.2020.03.001",
+          "publish_time": "2020-03-07",
+          "section": "body",
+          "sentence": "Designated care personnel: All personnel involved in direct patient care should undertake full protection, including long-sleeved waterproof isolation clothing, hair caps, goggles, gloves and medical masks (surgical mask grade or above)."
+        },
+        {
+          "paper_id": "867ebb2be2d466bcb35e5a7319708eaff39c4799",
+          "cord_uid": "ojmhkt5o",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0924-8579(17)30423-5",
+          "publish_time": "2017-11-30",
+          "section": "body",
+          "sentence": "Conclusion: Strict infection control measures were applied including isolation of infective resident, early rapid test for those with flu symptoms, using mask for all our staff and family members and reinforce hand washing and environmental cleansing."
+        },
+        {
+          "paper_id": "867ebb2be2d466bcb35e5a7319708eaff39c4799",
+          "cord_uid": "ojmhkt5o",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0924-8579(17)30423-5",
+          "publish_time": "2017-11-30",
+          "section": "body",
+          "sentence": "Conclusion: It is effective to decrease and prevent cross infection by promote infection control strategies for patients, visitors, and health care providers."
+        },
+        {
+          "paper_id": "a42784abfc6f33d60ef37d4b03e4ce1e8627079a",
+          "cord_uid": "i2wzig78",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.acra.2020.02.003",
+          "publish_time": "2020-02-26",
+          "section": "body",
+          "sentence": "Medical personnel who have close contact with suspected or confirmed patients must adhere to strict medical protection, which includes: (1) wearing disposable work caps, (2) wearing protective glasses or face masks (antifog type), (3) wearing medical protective masks (N95), (4) wearing protective clothing or isolation clothing, (5) wearing disposable latex gloves (double layered), (6) wearing disposable shoe covers, and (7) strictly implementing good hand hygiene."
+        },
+        {
+          "paper_id": "e3b40cc8e0e137c416b4a2273a4dca94ae8178cc",
+          "cord_uid": "ol2exczc",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/jcm9020575",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Therefore, early detection, isolation, and treatment of patients are the key measures to control the source of infection and reduce the infection rate."
+        },
+        {
+          "paper_id": "4891e50b4ad9839f12a436a602c52ed0d2ad883f",
+          "cord_uid": "bqkz5ou3",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jcjq.2020.03.001",
+          "publish_time": "2020-03-07",
+          "section": "body",
+          "sentence": "Most organizations do this by posting materials provided through the CDC, such as respiratory etiquette, and providing access to hand hygiene products and masks. \uf0b7 Ensure that staff at points of entry and intake know how to screen and respond to patients or visitors who may be infectious (for example, those with cough, fever, rash, diarrhea, or vomiting). \uf0b7 Implement all elements of standard precautions as outlined in the CDC Core Practices, including o Hand hygiene o Environmental cleaning and disinfection o Risk assessment with use of appropriate personal protective equipment (such as gloves, gowns, face masks) based on activities being performed o Reprocessing of reusable medical equipment between each patient and when soiled \uf0b7 Hand-off communications, both inter-and intrafacility, should include notification of colonization or infection with a potentially transmissible pathogen. \uf0b7 Organizations should implement a system for evaluation and management of exposed or ill health care workers and support staff that could expose patients, visitors, or other staff."
+        },
+        {
+          "paper_id": "c7dc07727f9f0a09b060e1a3ca8acc3ee7d82bda",
+          "cord_uid": "njo93g3h",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.21.20037051",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "Next, to avoid overcrowding, treatment timings were staggered such that  Given the risk of COVID-19 pneumonia to frontline medical staff, the following measures were implemented to mitigate the risk of cross-infection from patients to healthcare workers: 1) a buddy system to expedite the notification of unwell team members who harboured symptoms of fever, fatigue and dry cough, or who had a positive contact history with a COVID-19 patient; 2) twice daily temperature monitoring of all staff; 3) all staff members who were involved in transfer and delivery of treatment for patients had to don protective gear comprising of disposable surgical caps, gowns, N95 masks, face screens, double-layered gloves, and shoe covers; 4) radiation therapists were split into two-man teams at any point in time, along with optimisation of processes for patient set-up and treatment delivery to reduce cross infection; 5) protective gear should be disposed of in a medical hazard waste bag; 6) strict hand hygiene before leaving the treatment area; 7) team gatherings during work were prohibited; and 8) finally, social distancing was encouraged to prevent transmission to family members. ."
+        },
+        {
+          "paper_id": "bb659ff1b0d45d4e17e10268f4d1daaca3491269",
+          "cord_uid": "3jmy9dy3",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.adro.2020.03.003",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "However, a few measures aiming at reducing the impact of epidemic can be highlighted: \u2022 Establishment of a coordination unit with representative of all professionals at Hospital and Department levels; \u2022 Unique source for communication to have clear and timely information and avoid redundancy and contrasting messages; \u2022 General rules for prevention and personal behavior with detailed information to all professionals from the very beginning (procedures for disinfection of rooms and machines, optimize pathways and waiting rooms strictly for patients; precise time for consultation avoiding unnecessary waiting time, washing hands frequently, surgical mask for operators and for patients/accompanying persons); \u2022 Review of organizational procedures: postponement of treatments for low-priority cases (prostate with hormone, benign diseases, etc.), favor short-term Tx (hypofractionation), skip F/U visits (use phone contacts) \u2022 Definition of a priori policy for coronavirus suspected or positive at the beginning and during treatment (recommended not to start Tx and recommended to interrupt Tx); \u2022 Triage procedure at the entrance of the department for all patients and accompanying persons: first access -questionnaire, temperature measurement, check of symptoms; daily treatment -temperature measurement, check of symptoms; \u2022 Check warehouse stocks for masks, coats, gloves, alcoholic cleaning solutions and disposable devices; \u2022 Plan for transportation of patients who could not be supported by family or volunteers; \u2022 Organization of psychological support for patient families and professionals."
+        },
+        {
+          "paper_id": "81231d91aecc8f4dd09c6fa8a53e48af7e0c4ba0",
+          "cord_uid": "95ka0p8n",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20037671",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "The third point is to recommend personal hygiene, in particular hand washing and avoiding contact with suspected patients, discovering unknown cases of infection and early detection and isolation of patients, which is emphasized by the healthcare system to overcome this disease."
+        },
+        {
+          "paper_id": "83dbefe76e95b17d41f3779bede6079ef2ba432a",
+          "cord_uid": "fe061u76",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7056754/",
+          "publish_time": "2020-02-25",
+          "section": "body",
+          "sentence": "To reduce the risk of infection at an early stage, all possible methods should be undertaken, such as to restrict hospitalization, expedite discharge, prohibit visits, provide physical supplies, and provide psychological assistance."
+        },
+        {
+          "paper_id": "b40159b406d4be046f9e60d3ed65d94ea46879fb",
+          "cord_uid": "3en3yey1",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30464-5",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Medical staff at major hospitals must be trained in the proper protocols of quarantining individuals who are at-risk of COVID-19 infection, as well as isolation and safe treatment of patients who test positive."
+        },
+        {
+          "paper_id": "bb659ff1b0d45d4e17e10268f4d1daaca3491269",
+          "cord_uid": "3jmy9dy3",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.adro.2020.03.003",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "In this entrance, a first triage was performed to patients by the measurement of the temperature and evaluation of symptoms (cough, dyspnea)."
+        },
+        {
+          "paper_id": "a044d99ce4fd194fe5d572aada61a4a83c4a274f",
+          "cord_uid": "z4l3pk23",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.cca.2020.03.009",
+          "publish_time": "2020-06-30",
+          "section": "body",
+          "sentence": "Identification, isolation and caring for patients early are essential to limit human-to-human transmission including reducing secondary infections among close contacts and health care workers, preventing transmission amplification events."
+        },
+        {
+          "paper_id": "98629ae2533d73afbb0f5ef9d0cc813bf3afa851",
+          "cord_uid": "xqs4baou",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20036756",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Medical staff and administrative staff efficiently screened out latent and close contacts, and actively adopted preventive and control measures such as isolation, disinfection, and hospitalization."
+        },
+        {
+          "paper_id": "9b9016e259bd0ad640825ebc12c130bd7e050323",
+          "cord_uid": "yqmi0cqy",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijgo.2009.05.006",
+          "publish_time": "2009-10-31",
+          "section": "body",
+          "sentence": "Infection control teaching modules were developed for all obstetrical staff, and all workers were routinely screened for symptoms and signs of infection."
+        },
+        {
+          "paper_id": "ed4831fb9499b8c666ebcf39b3775c534d251c84",
+          "cord_uid": "dkbujz83",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijnurstu.2020.103567",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Summing up, in the case of serious emerging infections, like COVID-19, the precautionary principle should be used for frontline health workers and a properly fitted respirator should be used."
+        },
+        {
+          "paper_id": "22616110b79baaf4c9d23f130a9ee35c64d991f7",
+          "cord_uid": "poamqquy",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1469-0691.2011.03559.x",
+          "publish_time": "2011-05-31",
+          "section": "body",
+          "sentence": "Strict infection control measures, such as hand hygiene, patient cohorting and shuting down the NICU for new admissions, were established."
+        },
+        {
+          "paper_id": "287eefa43ac355c45966bac3684798e120341027",
+          "cord_uid": "3pt29s6v",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0022-3476(83)80427-2",
+          "publish_time": "1983-09-30",
+          "section": "body",
+          "sentence": "Early and strict implementation of infection control measures can be effective in stopping the spread of NEC through nurseries?"
+        },
+        {
+          "paper_id": "867ebb2be2d466bcb35e5a7319708eaff39c4799",
+          "cord_uid": "ojmhkt5o",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0924-8579(17)30423-5",
+          "publish_time": "2017-11-30",
+          "section": "body",
+          "sentence": "At the same time, contact precaution, antibiotic evaluation, and environmental cleaning rules establishment are carried out to control nosocomial Clostridium difficile infection and improve medical care quality."
+        },
+        {
+          "paper_id": "a006cb9a90f0625f548c5775891d395860c81c75",
+          "cord_uid": "0xhho1sh",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijantimicag.2020.105924",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "Based on previous experience of management of MERS and SARS infections, the WHO recommend infection control interventions to reduce the general risk of transmission of acute respiratory infections, including avoiding close contact with people suffering from acute respiratory infections, frequent hand-washing especially after direct contact with ill people or their environment, and avoiding unprotected contact with farm or wild animals."
+        },
+        {
+          "paper_id": "b90df8c645c41d498e7e371a379193cffc2a58cf",
+          "cord_uid": "q1rby2to",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.aorn.2007.12.001",
+          "publish_time": "2008-03-31",
+          "section": "body",
+          "sentence": "1 Particularly, the article guides clinicians in the appropriate application of standard precautions and prepares clinicians to incorporate respi-ratory hygiene/cough etiquette into infection control practices, which has been added as a component of standard precautions."
+        },
+        {
+          "paper_id": "1156bc3bde3db9325dde0de524a8671b4f5af648",
+          "cord_uid": "fu8ndhdo",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jacr.2020.03.011",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "Data gathering includes dissemination of up-to-date case definitions and information about confirmatory tests to all staff with direct patient contact to allow appropriate barrier precautions to be taken."
+        },
+        {
+          "paper_id": "d69fafa5d266102bd2666aac853ef94472ba0a8e",
+          "cord_uid": "4zg3ms5b",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.bja.2020.02.008",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "Analysis of this experience uncovered several important lessons. 19 First, the protection of healthcare workers is not just about PPE; it encompasses all principles of infection prevention and control. 20 Whilst the initial focus for protecting anaesthesiologists or personnel involved in aerosol-generating medical procedures (tracheal intubation, non-invasive ventilation, tracheotomy, cardiopulmonary resuscitation, manual ventilation before intubation, and bronchoscopy) was on the need for more stringent PPE, such as powered air-purifying respirators or double gloves during the SARS outbreak, further investigation did not support a risk of transmission with tracheal intubation if appropriate precautions and more standard PPE were used. 21 22 In areas, such as the emergency department or ICU where SARS patients were managed, there were 'uncontrolled situations characterized by multiple opportunities for extensive contamination and staff exposure prior to the intubation event'. 21 Healthcare workers were exposed to risk of infection before PPE was used."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Efforts to define the natural history of disease to inform clinical care, public health interventions, infection prevention control, transmission, and clinical trials",
+      "seed_sentences": [
+        "Studies include biologic quality studies , trials in which the primary end point is related to further defining efficacy, and pharmacoepidemiologic studies designed to examine the natural history of disease or background rates for adverse events.",
+        "A rapid and robust response by the global scientific community has described many key aspects of SARS-CoV-2 transmission and natural history, but key questions remain.",
+        "If well tracked, early introductions of an emerging pathogen provide a unique opportunity to characterize its transmission, natural history, and the effectiveness of screening.",
+        "Furthermore, during these early phases, uninfected and asymptomatic contacts are often closely tracked, providing critical information on transmission and natural history.",
+        "This analysis of early SARS-CoV-2 cases and their close contacts in Shenzhen China, provides insights into the natural history, transmission and control of this disease.",
+        "Perhaps among the natural history of this virus infection, the predominant characteristic of SARS-CoV-2 is its remarkably high infectivity potential, where an infected individual can spread the virus to two to three other individuals when in close proximity."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "3a73b880acd8983f87b210ff7fee434fd6ecc8c8",
+          "cord_uid": "hnx213kp",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.03.20028423",
+          "publish_time": "2020-03-04",
+          "section": "body",
+          "sentence": "If well tracked, early introductions of an emerging pathogen provide a unique opportunity to characterize its transmission, natural history, and the effectiveness of screening."
+        },
+        {
+          "paper_id": "3a73b880acd8983f87b210ff7fee434fd6ecc8c8",
+          "cord_uid": "hnx213kp",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.03.20028423",
+          "publish_time": "2020-03-04",
+          "section": "body",
+          "sentence": "Furthermore, during these early phases, uninfected and asymptomatic contacts are often closely tracked, providing critical information on transmission and natural history."
+        },
+        {
+          "paper_id": "3a73b880acd8983f87b210ff7fee434fd6ecc8c8",
+          "cord_uid": "hnx213kp",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.03.20028423",
+          "publish_time": "2020-03-04",
+          "section": "body",
+          "sentence": "This analysis of early SARS-CoV-2 cases and their close contacts in Shenzhen China, provides insights into the natural history, transmission and control of this disease."
+        },
+        {
+          "paper_id": "3a73b880acd8983f87b210ff7fee434fd6ecc8c8",
+          "cord_uid": "hnx213kp",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.03.20028423",
+          "publish_time": "2020-03-04",
+          "section": "body",
+          "sentence": "A rapid and robust response by the global scientific community has described many key aspects of SARS-CoV-2 1,2,6-8 transmission and natural history, but key questions remain."
+        },
+        {
+          "paper_id": "3a73b880acd8983f87b210ff7fee434fd6ecc8c8",
+          "cord_uid": "hnx213kp",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.03.20028423",
+          "publish_time": "2020-03-04",
+          "section": "body",
+          "sentence": "Combined, this data on early introductions can be used to give insights into disease natural history 9 , transmission characteristics 10 , and the unseen burden of infection 11 ."
+        },
+        {
+          "paper_id": "efc7604ddb49c098ee68aa59fbdd23833f4b3469",
+          "cord_uid": "dgi4ibym",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-812343-0.00001-1",
+          "publish_time": "2017-12-31",
+          "section": "body",
+          "sentence": "Laboratory surveillance allows the monitoring of pathogens, vectors, reservoir hosts, and human immunity and provides strong evidence for the early detection of infectious disease outbreaks."
+        },
+        {
+          "paper_id": "c40321fcc587dbd862f1b7587412f81675ac5cff",
+          "cord_uid": "y0l943xg",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-323-35761-6.00079-1",
+          "publish_time": "2018-12-31",
+          "section": "body",
+          "sentence": "Studies that generally would not be considered required postmarketing studies or clinical trials are agreed-upon studies (postmarketing commitments) and include biologic quality studies (such as manufacturing, stability, and immunogenicity studies that do not have a primary safety end point), trials in which the primary end point is related to further defining efficacy, and pharmacoepidemiologic studies designed to examine the natural history of disease or background rates for adverse events."
+        },
+        {
+          "paper_id": "31816b72a378debeb42e76ff7ff2af69727cd049",
+          "cord_uid": "5xxi33v3",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.07.20032524",
+          "publish_time": "2020-03-10",
+          "section": "body",
+          "sentence": "Therefore, detection of viral antigen can play a rapid screening effect and achieve the purpose of early diagnosis."
+        },
+        {
+          "paper_id": "31816b72a378debeb42e76ff7ff2af69727cd049",
+          "cord_uid": "5xxi33v3",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.07.20032524",
+          "publish_time": "2020-03-10",
+          "section": "body",
+          "sentence": "Therefore, detection of viral antigen can play a rapid screening effect and achieve the purpose of early diagnosis."
+        },
+        {
+          "paper_id": "e3fa5ac28a1cd0b48cccb80d7ab65cdc429b08ac",
+          "cord_uid": "luxgc7st",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075990/",
+          "publish_time": "2020-02-24",
+          "section": "body",
+          "sentence": "SARS-CoV-2 transmission in humans appears efficient and the virus is of pandemic potential."
+        },
+        {
+          "paper_id": "182fc0c38ce9f98fa70dc7ed3063551d426c4b7a",
+          "cord_uid": "luxgc7st",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075990/",
+          "publish_time": "2020-02-24",
+          "section": "body",
+          "sentence": "SARS-CoV-2 transmission in humans appears efficient and the virus is of pandemic potential."
+        },
+        {
+          "paper_id": "58b5c77c9fb3f68a3ad84a3f15275dc0e4554192",
+          "cord_uid": "luxgc7st",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075990/",
+          "publish_time": "2020-02-24",
+          "section": "body",
+          "sentence": "SARS-CoV-2 transmission in humans appears efficient and the virus is of pandemic potential."
+        },
+        {
+          "paper_id": "efc7604ddb49c098ee68aa59fbdd23833f4b3469",
+          "cord_uid": "dgi4ibym",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-812343-0.00001-1",
+          "publish_time": "2017-12-31",
+          "section": "body",
+          "sentence": "It will substantially enhance the early identification of the epidemiological significance of pathogens, and provide strong evidence for the early warning of infectious disease outbreaks."
+        },
+        {
+          "paper_id": "22616110b79baaf4c9d23f130a9ee35c64d991f7",
+          "cord_uid": "poamqquy",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1469-0691.2011.03559.x",
+          "publish_time": "2011-05-31",
+          "section": "body",
+          "sentence": "Rapid pathogen identification (ID) and antimicrobial susceptibility testing (AST) results permit early streamlining of the empirical antimicrobial treatment to the pathogen-directed treatment with potential healthcare benefits."
+        },
+        {
+          "paper_id": "c9f97759dfaf6a968e6528458e6a5533029d451d",
+          "cord_uid": "vbayngh0",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.cell.2020.02.052",
+          "publish_time": "2020-03-05",
+          "section": "body",
+          "sentence": "In sum, this study provided key insights into the first step of SARS-CoV-2 infection, viral entry into cells, and defined potential targets for antiviral intervention."
+        },
+        {
+          "paper_id": "99a46ba28f5811c112876ec77f570d6c10778db6",
+          "cord_uid": "g3asp1ps",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.24.20026682",
+          "publish_time": "2020-02-26",
+          "section": "abstract",
+          "sentence": "WeChat offered a new approach to early detect disease outbreaks."
+        },
+        {
+          "paper_id": "867ebb2be2d466bcb35e5a7319708eaff39c4799",
+          "cord_uid": "ojmhkt5o",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0924-8579(17)30423-5",
+          "publish_time": "2017-11-30",
+          "section": "body",
+          "sentence": "The drug susceptibilities against antibiotics, ampicillin and gentamicin, and antifungals, caspofungin and amphotericin B, of these microbes will be analyzed to check their phenotypic changes that associate with virulence."
+        },
+        {
+          "paper_id": "22616110b79baaf4c9d23f130a9ee35c64d991f7",
+          "cord_uid": "poamqquy",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1469-0691.2011.03559.x",
+          "publish_time": "2011-05-31",
+          "section": "body",
+          "sentence": "Clinical and environmental samples are processed according to classic microbiologic methods and the susceptibility to antimicrobials are tested according to the CLSI guidelines."
+        },
+        {
+          "paper_id": "efc7604ddb49c098ee68aa59fbdd23833f4b3469",
+          "cord_uid": "dgi4ibym",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-812343-0.00001-1",
+          "publish_time": "2017-12-31",
+          "section": "body",
+          "sentence": "The current early warning laboratory surveillance includes the following: (1) Pathogen monitoring: including antigenic changes in pathogens, virulence, or resistance that suggests an outbreak or an increased risk of infectious diseases."
+        },
+        {
+          "paper_id": "844892a4ad49ce5ebfd11bc24e225acba4e67e12",
+          "cord_uid": "i5k60y63",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-801773-9.00005-4",
+          "publish_time": "2017-12-31",
+          "section": "body",
+          "sentence": "Types of data that can be used to establish dose-response relationships include animal toxicity studies, clinical human exposure studies, and epidemiological data from investigations of illness (CAC, 2013) ."
+        },
+        {
+          "paper_id": "c40321fcc587dbd862f1b7587412f81675ac5cff",
+          "cord_uid": "y0l943xg",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-323-35761-6.00079-1",
+          "publish_time": "2018-12-31",
+          "section": "body",
+          "sentence": "Examples of required studies are pharmacoepidemiologic studies designed to assess a serious risk, trials with a primary safety end point, preclinical studies investigating specific end organ toxicities, as well as pharmacokinetic studies in the indicated population at potential risk for high drug exposure that could result in toxicity."
+        },
+        {
+          "paper_id": "ffad7416effd57e66c6f2143ad660768af44cee9",
+          "cord_uid": "ghi0ekm5",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1473-3099(20)30086-4",
+          "publish_time": "2020-02-24",
+          "section": "body",
+          "sentence": "Combining imaging assessments with clinical and laboratory findings could help to identify SARS-CoV-2 infections early."
+        },
+        {
+          "paper_id": "a44334e676e43c1889d282b0f0a8365f0f1e0c52",
+          "cord_uid": "gmi1ewc2",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.01.31.20019901",
+          "publish_time": "2020-02-02",
+          "section": "abstract",
+          "sentence": "Understanding the early transmission dynamics of the infection and evaluating the effectiveness of control measures is crucial for assessing the potential for sustained transmission to occur in new areas."
+        },
+        {
+          "paper_id": "52194e8281940254cc935191779fbd75c31b2875",
+          "cord_uid": "uvavdk6n",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1473-3099(20)30144-4",
+          "publish_time": "2020-03-11",
+          "section": "abstract",
+          "sentence": "Understanding the early transmission dynamics of the infection and evaluating the effectiveness of control measures is crucial for assessing the potential for sustained transmission to occur in new areas."
+        },
+        {
+          "paper_id": "99a46ba28f5811c112876ec77f570d6c10778db6",
+          "cord_uid": "g3asp1ps",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.24.20026682",
+          "publish_time": "2020-02-26",
+          "section": "body",
+          "sentence": "The current study shows that gathering and analyzing data from WeChat may be amazing to early detect disease outbreak."
+        },
+        {
+          "paper_id": "a44334e676e43c1889d282b0f0a8365f0f1e0c52",
+          "cord_uid": "gmi1ewc2",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.01.31.20019901",
+          "publish_time": "2020-02-02",
+          "section": "body",
+          "sentence": "In the early stages of a new infectious disease outbreak, it is crucial to understand the transmission dynamics of the infection."
+        },
+        {
+          "paper_id": "09828066238548180c0e726b8944f6ab9e69c99b",
+          "cord_uid": "40d24mvm",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1473-3099(20)30235-8",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Furthermore, the high viral load on presentation suggests that SARS-CoV-2 could be susceptible to emergence of antiviral resistance."
+        },
+        {
+          "paper_id": "c40321fcc587dbd862f1b7587412f81675ac5cff",
+          "cord_uid": "y0l943xg",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-323-35761-6.00079-1",
+          "publish_time": "2018-12-31",
+          "section": "body",
+          "sentence": "\u2022 The regulations regarding biological products, in addition, define effectiveness as the reasonable expectation that, in a significant proportion of the target population, pharmacologic or other effects of the biological product, when administered under adequate directions for use and warnings against unsafe use, will serve a clinically significant function in the diagnosis, cure, mitigation, treatment, or prevention of disease in humans."
+        },
+        {
+          "paper_id": "c40321fcc587dbd862f1b7587412f81675ac5cff",
+          "cord_uid": "y0l943xg",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-323-35761-6.00079-1",
+          "publish_time": "2018-12-31",
+          "section": "body",
+          "sentence": "The end points are product specific, and may be clinical disease end points or immune response end points if efficacy against clinical disease had been previously established and there are immune correlates or surrogates of that protection."
+        },
+        {
+          "paper_id": "e08ff7855eaa0c9d0bb785dcffc24e65910b7184",
+          "cord_uid": "imvbkt69",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1473-3099(04)01173-9",
+          "publish_time": "2004-11-30",
+          "section": "body",
+          "sentence": "Identification of determinants of the incubation period, such as age, infectious dose, and host genetics, can provide insights into the mechanisms of disease progression."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Efforts to develop a core clinical outcome set to maximize usability of data across a range of trials",
+      "seed_sentences": [
+        "Recently, many researches in the lancet reported the epidemiological, clinical symptoms, laboratory data, imaging features, treatment methods and clinical outcomes of non-pregnant adults and pregnant women infected with 2019-nCOV",
+        "Demographic, clinical, laboratory, radiological and clinical outcome data were collected from the hospital information system, nursing records and laboratory reports.",
+        "The clinical manifestations, laboratory data, imaging findings, pathogens, medications, surgical treatment and clinical outcomes were analyzed.",
+        "Accumulation of this data will allow correlation of clinical outcomes with purity assessments."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "f854d7b750541d65c48df953a65028a50ce57881",
+          "cord_uid": "eu3rry7p",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.20.20025510",
+          "publish_time": "2020-02-23",
+          "section": "body",
+          "sentence": "Demographic, clinical, laboratory, radiological and clinical outcome data were collected from the hospital information system, nursing records and laboratory reports."
+        },
+        {
+          "paper_id": "6cf87a546884756094da0d300e85a061c2cc43ea",
+          "cord_uid": "txyf05n4",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.08.20029710",
+          "publish_time": "2020-03-10",
+          "section": "body",
+          "sentence": "Recently, many researches in the lancet reported the epidemiological, clinical symptoms, laboratory data, imaging features, treatment methods and clinical outcomes of non-pregnant adults and pregnant women infected with 2019-nCOV [3, 4] ."
+        },
+        {
+          "paper_id": "f854d7b750541d65c48df953a65028a50ce57881",
+          "cord_uid": "eu3rry7p",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.20.20025510",
+          "publish_time": "2020-02-23",
+          "section": "body",
+          "sentence": "The data collected include demographic characteristics, comorbidities, clinical signs, and symptoms, laboratory testing results, chest computed tomography (CT) scan images and clinical outcomes from the hospital information system, nursing records, and laboratory reports. ."
+        },
+        {
+          "paper_id": "e847d433e7424152a9846673209cb73027415ecd",
+          "cord_uid": "aei5jyp8",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1470-9465.2006.12_4_1427.x",
+          "publish_time": "2006-12-31",
+          "section": "body",
+          "sentence": "Epidemiological, clinical and laboratory findings were analyzed."
+        },
+        {
+          "paper_id": "5ce430242bc6674c68d00110511cd1da4f53b265",
+          "cord_uid": "mai4eggf",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1378/chest.10-1036",
+          "publish_time": "2011-05-31",
+          "section": "body",
+          "sentence": "Information recorded included demographic data, underlying medical conditions, symptoms, signs, laboratory and chest radiograph fi ndings before therapy and during follow-up, and the clinical course, treatment, and adverse events during hospital stay."
+        },
+        {
+          "paper_id": "ff9b8ea0d7aeaf02cbe9943601c0d00ae0aefd93",
+          "cord_uid": "0hnh4n9e",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30528-6",
+          "publish_time": "2020-03-17",
+          "section": "body",
+          "sentence": "We obtained clinical data for chronic medical illnesses, physical examinations, laboratory and radiological results, and clinical progression and outcome from inpatient medical records."
+        },
+        {
+          "paper_id": "5734e3b81e16fe1976a129c5a0872716f3dd50b8",
+          "cord_uid": "qele28zk",
+          "source": "CZI",
+          "url": "https://doi.org/10.1038/s41586-020-2008-3",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Demographic, clinical and laboratory data were retrieved from the clinical records of the patient."
+        },
+        {
+          "paper_id": "2e41aee6651cf4cab4edf5aa67cc401c2bef9d67",
+          "cord_uid": "2zm4dq0u",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.27.20027524",
+          "publish_time": "2020-02-29",
+          "section": "body",
+          "sentence": "We obtained demographic, illness history, physical examination, laboratory test, management, and outcome data from patients' medical records."
+        },
+        {
+          "paper_id": "cc5ff1ad25889b7ecad1dcbef8b3a79d9b310d5f",
+          "cord_uid": "gag50cmf",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jinf.2020.03.004",
+          "publish_time": "2020-03-19",
+          "section": "body",
+          "sentence": "Epidemiological, demographic, underlying comorbidities, symptoms, signs, laboratory findings, X-ray, chest computed tomographic (CT) scans, treatment and outcome data were obtained from patients' medical records."
+        },
+        {
+          "paper_id": "3afd5fba7dc182ddfa769c0d766134b525581005",
+          "cord_uid": "ti9b1etu",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.04.20026005",
+          "publish_time": "2020-03-06",
+          "section": "abstract",
+          "sentence": "Demographic, clinical, laboratory and radiological characteristics, medication therapy and outcomes were collected and analyzed."
+        },
+        {
+          "paper_id": "68ed7bb581b0cf32116ee46767c08e3180b05c34",
+          "cord_uid": "9hh17k86",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.27.20029009",
+          "publish_time": "2020-02-29",
+          "section": "body",
+          "sentence": "The epidemiological, demographic, clinical, laboratory, radiological and treatment data were collected and analyzed."
+        },
+        {
+          "paper_id": "d2fbc82953f3419e38bd6d29bac5665fc7a9a07c",
+          "cord_uid": "5gt2hkud",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-804543-5.00004-x",
+          "publish_time": "2016-12-31",
+          "section": "body",
+          "sentence": "Here, we review the epidemiology of the disease, clinical presentations, and the outcome."
+        },
+        {
+          "paper_id": "1d99db01b6d686c51b41ad60824f16859f67b7ef",
+          "cord_uid": "g70y02rk",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijid.2020.03.040",
+          "publish_time": "2020-03-20",
+          "section": "abstract",
+          "sentence": "Epidemiological, clinical data were analyzed between those with abnormal or normal imaging findings."
+        },
+        {
+          "paper_id": "baabfb35a321ea12028160e0d2c1552a2fda2dd5",
+          "cord_uid": "v0ln3wfa",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.26.20026971",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "Epidemiological, clinical, laboratory characteristics and treatment and outcomes data were acquired by the hospitalization management system. ."
+        },
+        {
+          "paper_id": "cfeda05ff998d6973560c4f55577a5feaeccb59b",
+          "cord_uid": "6vbhgwsi",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.diagmicrobio.2016.07.023",
+          "publish_time": "2016-10-31",
+          "section": "body",
+          "sentence": "In addition, demographic and clinical data from these patients were collected from the hospital clinical records."
+        },
+        {
+          "paper_id": "c6012a6141f5ad05ac983aa9f1a7c57938363b16",
+          "cord_uid": "xle4bx49",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.07.20031575",
+          "publish_time": "2020-03-10",
+          "section": "body",
+          "sentence": "Demographic data, clinical features and medical history were available and collected according to the patient record system."
+        },
+        {
+          "paper_id": "867ebb2be2d466bcb35e5a7319708eaff39c4799",
+          "cord_uid": "ojmhkt5o",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0924-8579(17)30423-5",
+          "publish_time": "2017-11-30",
+          "section": "body",
+          "sentence": "Patient data were extracted from patient charts and electronic medical records on demographics, clinical and microbiological features and outcomes."
+        },
+        {
+          "paper_id": "8b71ce92ec03e066eca7792bfd17e2f210d50ce3",
+          "cord_uid": "nqxo3f45",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.13.20022673",
+          "publish_time": "2020-02-17",
+          "section": "abstract",
+          "sentence": "The epidemiological characteristics, clinical symptoms, laboratory assessments, and computed tomographic (CT) scans were obtained."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Efforts to determine adjunctive and supportive interventions that can improve the clinical outcomes of infected patients (e.g. steroids, high flow oxygen)",
+      "seed_sentences": [
+        "There were 23 cases (56.1%) underwent respiratory support, including oxygen therapy through only common nasal catheter, face mask, both common nasal catheter and face mask simultaneously, high flow nasal cannula and mechanic ventilation.",
+        "Oxygen mask and high flow oxygen were used to correct the hypoxemia",
+        "We defined severe patients as patients requiring either non-invasive ventilation, high flow oxygen devices or invasive mechanical ventilation or extracorporeal membrane oxygenation",
+        "For example, a routine sequential respiratory support therapy for patients with SPO2 below 93% is: intranasal catheterization of oxygen, oxygen supply through mask, high flow oxygen supply through nasal catheter, non-invasive ventilation support, invasive ventilation support, and ECMO."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "bd2f7613f5818fc82f76c7d68bdac08825957fb9",
+          "cord_uid": "s9j21zsy",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.27.20028027",
+          "publish_time": "2020-03-01",
+          "section": "body",
+          "sentence": "For example, a routine sequential respiratory support therapy for patients with SPO2 below 93% is: intranasal catheterization of oxygen, oxygen supply through mask, high flow oxygen supply through nasal catheter, non-invasive ventilation support, invasive ventilation support, and ECMO."
+        },
+        {
+          "paper_id": "6131628f8273f4c73aa0a46e0ee71e359ba86fe5",
+          "cord_uid": "t1wpujpm",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038190",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "We defined severe patients as patients requiring either non-invasive ventilation, high flow oxygen devices or invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO)."
+        },
+        {
+          "paper_id": "49ac69f362c27acbc6de0c5cbb640267e7a1e797",
+          "cord_uid": "jir7n19b",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.02.20030452",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "Treatment strategies included: (1) effective oxygen therapy according to the severity of hypoxemia (nasal catheter/mask oxygen inhalation, high-flow nasal cannula (HFNC) and non-invasive ventilation (NIV)), (2) supportive treatment to ensure sufficient energy intake and balance for electrolytes and acid-base levels, (3) antiviral treatment (including All rights reserved."
+        },
+        {
+          "paper_id": "f879c69d61f14d7efc51023258d1361bc681d403",
+          "cord_uid": "9ecuca17",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.03.20030668",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "Critically ill patients were defined as those required oxygen therapy to maintain peripheral capillary oxygen saturation (SpO2) > 92% or PaO 2 /FiO 2 ratio > 300 mmHg, symptoms of respiratory distress (including tachypnea > 22 breaths/min, labored breathing, use of intercostal muscles, and/or dyspnea at rest) or required mechanical ventilation (6) (7) (8) (9) ."
+        },
+        {
+          "paper_id": "b23e58f5cbd3d23d149f64e909fa7e7caae72b6f",
+          "cord_uid": "wyz5jyjh",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ceh.2020.03.001",
+          "publish_time": "2020-12-31",
+          "section": "body",
+          "sentence": "Severe patients should be provided with effective oxygen therapy, including nasal catheter and mask oxygen therapies."
+        },
+        {
+          "paper_id": "b23e58f5cbd3d23d149f64e909fa7e7caae72b6f",
+          "cord_uid": "wyz5jyjh",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ceh.2020.03.001",
+          "publish_time": "2020-12-31",
+          "section": "body",
+          "sentence": "The patient should be provided with effective oxygen therapy, including nasal catheter therapy, mask oxygen therapy, and highflow nasal oxygen therapy (HFNO). 3.4.1.1."
+        },
+        {
+          "paper_id": "111b9a6e91c938696fcdb4cb128b8ae739dbe11c",
+          "cord_uid": "dlivkn8l",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.26.20028225",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "Oxygen therapy was used for every patient to improve hypoxia."
+        },
+        {
+          "paper_id": "ff54e074416d584681566019cdec2d3683ac2fc5",
+          "cord_uid": "nxfr24sp",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.xkme.2020.03.001",
+          "publish_time": "2020-03-12",
+          "section": "body",
+          "sentence": "The patient was treated with oxygen support by nasal cannula, regular hemodialysis, antihypertensive medications, moxifloxacin (400 mg daily), and lopinavir/ritonavir (1 tablet twice daily) antiviral therapy."
+        },
+        {
+          "paper_id": "1eb2a0cf3757558a49f6ad91294a832b04ca6353",
+          "cord_uid": "x3c7zjvg",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20033175",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Treatment measures evaluated in this research contained high-flow nasal cannula oxygen therapy (HFNC), non-invasive mechanical ventilation (NIMV) or invasive mechanical ventilation (IMV), blood purification treatment, application of antiviral agents, antibacterial agents, anti-fungal agents, corticosteroids, and immunoglobulin."
+        },
+        {
+          "paper_id": "9ba90347cdedd122a6fc8fd3baf1d15f3911e6c2",
+          "cord_uid": "ztcyvsoi",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7090728/",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "In hypoxic patients, provision of oxygen through nasal prongs, face mask, high flow nasal cannula (HFNC) or non-invasive ventilation is indicated."
+        },
+        {
+          "paper_id": "ea646b114ea01f978d205ed97405e1f2afed2dfd",
+          "cord_uid": "0nhgxoim",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30183-5",
+          "publish_time": "2020-02-21",
+          "section": "body",
+          "sentence": "Oxygen support (eg, nasal cannula and invasive mechanical ventilation) was administered to patients according to the severity of hypoxaemia."
+        },
+        {
+          "paper_id": "fd28e6d03eef27b0454f13ca539dc1498242a4c2",
+          "cord_uid": "hmy8fs3g",
+          "source": "CZI",
+          "url": "https://doi.org/10.1186/s40779-020-0233-6",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "First, oxygen therapy is the choice for patients with severe respiratory infections, respiratory distress, hypoxemia or shock."
+        },
+        {
+          "paper_id": "c001abc2e59264f76e44ce7512222c8b007de359",
+          "cord_uid": "dasx8j5v",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7080931/",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "(1) For patients with ARDS or pulmonary extensive effusion in CT scan, high-flow nasal cannula oxygen therapy (HFNC) or non-invasive mechanical ventilation (NIV) was used to maintain positive end expiratory pressure (PEEP) to prevent alveolar collapse even if some of these patients did not have refractory hypoxemia."
+        },
+        {
+          "paper_id": "5ddf9045b72cefbfb140983219a4aef988ecc586",
+          "cord_uid": "l1tmi8d9",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.bja.2020.02.020",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Preoxygenation with the standard bag-valve mask oxygenation followed by rapid-sequence intubation has been proposed in non-severely hypoxaemic critically ill patients requiring tracheal intubation to reduce the risk of aspiration and desaturation."
+        },
+        {
+          "paper_id": "efd78d873d7c23d511d82524d6e6d9a0c2ec9551",
+          "cord_uid": "50oy9qqy",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.20037325",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "The inclusion criteria were: 1) respiratory rate < 30 breaths per min; 2) resting blood oxygen saturation > 93%; 3) the ratio of arterial oxygen partial pressure to fraction of inspiration oxygen > 300mmHg; 4) non-ICU patients without shock, respiratory failure, mechanical ventilation, and failure of other organs."
+        },
+        {
+          "paper_id": "85e00fe8099f838d9eb455a7f62440d1bf7bc639",
+          "cord_uid": "b3y9zxjr",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.22.20034041",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "Severe COVID-19 patients met one of the following conditions: (1) Respiratory rate (RR) \u2265 30 times / min; (2) SaO2 / SpO2 \u2264 93% in resting state; (3) arterial partial pressure of oxygen (PaO2) / concentration of oxygen (FiO2) \u2264 300 mmHg (1mmhg = 0.133 kPa; critical COVID-19 patients met one of the following conditions: (1) respiratory failure and need mechanical ventilation; (2) shock; (3) other organ failure combined with ICU treatment; severe liver disease (such as child Pugh score \u2265 C, AST > 5 times upper limit); patients with contraindications specified in the label of ritonavir tablets; the pregnancy test of female subjects during the screening period was positive; the researchers judged that the patient was not suitable to participate in this clinical study (for example, patients with multiple basic diseases, etc.)."
+        }
+      ]
+    }
+  ]
+}

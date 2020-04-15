@@ -1,0 +1,1377 @@
+{
+  "taskName": "What do we know about COVID-19 risk factors?",
+  "subTasks": [
+    {
+      "sub_task_description": "Data on potential risks factors: 1. Smoking, pre-existing pulmonary disease",
+      "seed_sentences": [
+        "We note however our analyses do not control for potential confounding factors such as smoking or chronic obstructive pulmonary disease (COPD). .",
+        "It is perhaps not surprising that chronic respiratory diseases such as Chronic Obstructive Pulmonary Disease (COPD), and indeed active TB, could predispose susceptibility to SARS-CoV-2.",
+        "Besides, based on the expression of ACE2 in smoking individuals, we inferred that long-term smoking might be a risk factor for 2019-nCoV. Analyzing the ACE2 in SARS-CoV infected cells suggested that ACE2 was more than just a receptor but also participated in post-infection regulation, including immune response, cytokine secretion, and viral genome replication."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "5d3612cd95331a2f0c43ef9d03ce583b5ff8c995",
+          "cord_uid": "mjhez5im",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.03.20020206",
+          "publish_time": "2020-02-05",
+          "section": "abstract",
+          "sentence": "Besides, based on the expression of ACE2 in smoking individuals, we inferred that long-term smoking might be a risk factor for 2019-nCoV."
+        },
+        {
+          "paper_id": "bf013151c39358fb0c19ad4dee802a9ccb7fb0ac",
+          "cord_uid": "ei2b8oqn",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038455",
+          "publish_time": "2020-03-23",
+          "section": "abstract",
+          "sentence": "Because individuals with chronic obstructive pulmonary disease (COPD) are at increased risk of severe COVID-19, we determined whether ACE-2 expression in the lower airways was related to COPD and cigarette smoking."
+        },
+        {
+          "paper_id": "cd202788230ffa948118c39cd14b5d5be3c57219",
+          "cord_uid": "9af3fk0i",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7081524/",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "However, SARS-CoV-2 causes pneumonia that can be severe and characterized by fever, cough, dyspnea, bilateral pulmonary infiltrates, and acute respiratory injury."
+        },
+        {
+          "paper_id": "1fe8e5f5709aa0e7fb3971ce721c27b879020e6e",
+          "cord_uid": "zblitbo0",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.21.20040121",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "The established pneumonia associated with SARS-CoV-2 accounted for the inciting infection, results in relative or severe hypoxemic state of the host, prompted by impaired gas exchange across the alveoli of inflamed lung parenchyma and ventilation-perfusion mismatching."
+        },
+        {
+          "paper_id": "182fc0c38ce9f98fa70dc7ed3063551d426c4b7a",
+          "cord_uid": "luxgc7st",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075990/",
+          "publish_time": "2020-02-24",
+          "section": "body",
+          "sentence": "SARS-CoV-2 can cause asymptomatic to fatal respiratory diseases [36] ."
+        },
+        {
+          "paper_id": "58b5c77c9fb3f68a3ad84a3f15275dc0e4554192",
+          "cord_uid": "luxgc7st",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075990/",
+          "publish_time": "2020-02-24",
+          "section": "body",
+          "sentence": "SARS-CoV-2 can cause asymptomatic to fatal respiratory diseases [36] ."
+        },
+        {
+          "paper_id": "e3fa5ac28a1cd0b48cccb80d7ab65cdc429b08ac",
+          "cord_uid": "luxgc7st",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075990/",
+          "publish_time": "2020-02-24",
+          "section": "body",
+          "sentence": "SARS-CoV-2 can cause asymptomatic to fatal respiratory diseases [36] ."
+        },
+        {
+          "paper_id": "59eab95c43fdea01481fdbf9bae45dfe28ffc693",
+          "cord_uid": "uqkcbs2s",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.05.20020107",
+          "publish_time": "2020-02-11",
+          "section": "abstract",
+          "sentence": "In addition, we found that ACE2 gene is expressed in specific cell types related to smoking history and location."
+        },
+        {
+          "paper_id": "59eab95c43fdea01481fdbf9bae45dfe28ffc693",
+          "cord_uid": "uqkcbs2s",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.05.20020107",
+          "publish_time": "2020-02-11",
+          "section": "body",
+          "sentence": "We also identified a smoking related basal cell subpopulation which might be pro-goblet precursor cells and has been discussed in the study of Duclos G et.al. 14 Interestingly, we found ACE2 is mainly expressed in goblet cells in current smokers and club cells in non-smokers (Fig. 3B) , indicating 2019-nCov may infect different cell types in bronchial epithelium of current smokers and non-smokers."
+        },
+        {
+          "paper_id": "5ddf9045b72cefbfb140983219a4aef988ecc586",
+          "cord_uid": "l1tmi8d9",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.bja.2020.02.020",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "They belong to the Betacoronavirus genus and can cause severe respiratory disease, including acute respiratory distress syndrome, pulmonary oedema, and respiratory failure. 2 Tracheal intubation for invasive mechanical ventilation is the mainstay therapy to correct hypoxaemia."
+        },
+        {
+          "paper_id": "59eab95c43fdea01481fdbf9bae45dfe28ffc693",
+          "cord_uid": "uqkcbs2s",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.05.20020107",
+          "publish_time": "2020-02-11",
+          "section": "body",
+          "sentence": "We also found that ACE2 gene is expressed in specific cell types related to smoking history and location."
+        },
+        {
+          "paper_id": "34e2f834075da481cda9ff4d8810fcba05abd96e",
+          "cord_uid": "wl121lg4",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jpha.2020.03.001",
+          "publish_time": "2020-03-05",
+          "section": "body",
+          "sentence": "However, the clinical symptoms and signs of patients infected with SARS-CoV-2 are highly atypical, including respiratory symptoms, cough, fever, dyspnea, and viral pneumonia."
+        },
+        {
+          "paper_id": "bf013151c39358fb0c19ad4dee802a9ccb7fb0ac",
+          "cord_uid": "ei2b8oqn",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038455",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "In summary, active cigarette smoking and COPD up-regulate ACE-2 expression in lower airways, which in part may explain the increased risk of severe COVID-19 in these sub-populations."
+        },
+        {
+          "paper_id": "59eab95c43fdea01481fdbf9bae45dfe28ffc693",
+          "cord_uid": "uqkcbs2s",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.05.20020107",
+          "publish_time": "2020-02-11",
+          "section": "body",
+          "sentence": "In the TCGA dataset, we found a significant trend of ACE2 gene expression regulation associated with the smoking history that current smokers had the highest expression, non-smokers had the lowest expression and former smokers had that inbetween (ordinal regression p-value=0.01, Fig. 2B )."
+        },
+        {
+          "paper_id": "b696d208705fcb1925693c5f0d118733bb557ea6",
+          "cord_uid": "myh73pe6",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.04.20031237",
+          "publish_time": "2020-03-08",
+          "section": "body",
+          "sentence": "In a related work, recently Cai 15 performed an analysis with TCGA datasets and showed that smoking is associated with elevated expression of ACE2 in the lung, which may be associated with greater susceptibility to infection or more severe illness."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Data on potential risks factors: 2. Co-infections (determine whether co-existing respiratory/viral infections make the virus more transmissible or virulent) and other co-morbidities",
+      "seed_sentences": [
+        "Comorbidities' empirical prevalence can be computed from China CDC report for all subjects, but does not allow different values for each age interval and gender and, for that reason, we considered that prevalence values for each comorbidity were constant across age groups and gender.",
+        "Finally, comorbidities classes were assumed to be exclusive, i.e., no subject could have more than one comorbidity.",
+        "The aim of the meta-analysis was to assess the prevalence of comorbidities in the COVID-19 infection patients and the risk of underlying diseases in severe patients compared to non-severe patients.",
+        "87 In other researches that conducted about the antiviral essential oils and their active constitutions indicated that Laurus nobilis essential oil which was characterized by the presence of \u03b2-ocimene (32), 1,8-cineole (6), \u03b1-pinene (4), and \u03b2-pinene (5), as the main constituents, showed interesting activity against SARS-CoV. 88 This overview caused the development of commercial therapeutics based on monoterpens compounds for viral infections especially in respiratory viral infections (Fig. 16.3) "
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "4090d8537051fae501355bc567dc2dec620762eb",
+          "cord_uid": "o56j4qio",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijid.2020.03.017",
+          "publish_time": "2020-03-12",
+          "section": "abstract",
+          "sentence": "We assessed the prevalence of comorbidities in the COVID-19 infection patients and found underlying disease, including hypertension, respiratory system disease and cardiovascular, may be a risk factor for severe patients compared with Non-severe patients."
+        },
+        {
+          "paper_id": "4090d8537051fae501355bc567dc2dec620762eb",
+          "cord_uid": "o56j4qio",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijid.2020.03.017",
+          "publish_time": "2020-03-12",
+          "section": "abstract",
+          "sentence": "\uf0b7 COVID -19 cases now confirmed in multiple countries. \uf0b7 assessed the prevalence of comorbidities in infected patients. \uf0b7 comorbidities are risk factors for severe patients compare with Non-severe."
+        },
+        {
+          "paper_id": "44fd42f34c00ff7d6126a58e38b7129c6e4f940d",
+          "cord_uid": "secnz2ta",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-804543-5.00016-6",
+          "publish_time": "2016-12-31",
+          "section": "body",
+          "sentence": "Much evidence has been reported about antiviral potential of various essential oils and their constitutions on several genera of viruses. 9, 81 In some investigations the essential oils with high hydrocarbons long-chain contents such as (E,E)-2,4-decadienal (26) , showed activities against influenza virus. 82,83 On other spectrum of antiinfluenza virus compounds, sesquiterpenes and sesquiterpenes-rich essential oils showed clear effects as well as aromatic rich essential oils."
+        },
+        {
+          "paper_id": "210a892deb1c61577f6fba58505fd65356ce6636",
+          "cord_uid": "4vrqzbof",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/jcm9020538",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "This study presents the estimates of epidemiological characteristics of COVID-19 infections that are key parameter for studies on incidence, case fatality, and epidemic final size, among other possibilities [7, 11] ."
+        },
+        {
+          "paper_id": "cbc05d14c57b91081970a232ab83bc993f998fe2",
+          "cord_uid": "ykofrn9i",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.01.26.20018754",
+          "publish_time": "2020-01-28",
+          "section": "body",
+          "sentence": "This study presents the estimates of epidemiological characteristics of COVID-19 infections that are key parameter for studies on incidence, case fatality, and epidemic final size, among other possibilities [7, 11] ."
+        },
+        {
+          "paper_id": "875b7c463f00772fa0dc18ada678bc1ff16a4274",
+          "cord_uid": "7s9ot4vq",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.25.20027664",
+          "publish_time": "2020-02-27",
+          "section": "abstract",
+          "sentence": "The risk of reaching to the composite endpoints was compared among patients with COVID-19 according to the presence and number of comorbidities."
+        },
+        {
+          "paper_id": "44fd42f34c00ff7d6126a58e38b7129c6e4f940d",
+          "cord_uid": "secnz2ta",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-804543-5.00016-6",
+          "publish_time": "2016-12-31",
+          "section": "body",
+          "sentence": "Also indicated that some sesquiterpenes such as \u03b2-sesquiphellandrene (31), and tetrahydronaphthalenol (32) , showed potent antirhinoviral activity in a plaque reduction test. 87 In other researches that conducted about the antiviral essential oils and their active constitutions indicated that Laurus nobilis essential oil which was characterized by the presence of \u03b2-ocimene (32), 1,8-cineole (6), \u03b1-pinene (4), and \u03b2-pinene (5), as the main constituents, showed interesting activity against SARS-CoV. 88 This overview caused the development of commercial therapeutics based on monoterpens compounds for viral infections especially in respiratory viral infections (Fig. 16.3) . 89, 90 Although, antiviral potential is an important factor for bioactivity of natural compounds, cytotoxicity effects that probably triggered host cell damaged cycles are important."
+        },
+        {
+          "paper_id": "7325363d061f0f4699e29bfa544438e14e7c207d",
+          "cord_uid": "9xmeyrtu",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.16.20023671",
+          "publish_time": "2020-02-18",
+          "section": "body",
+          "sentence": "Next, we examined the possibilities of using above-mentioned parameters as prognostic factors for identifying severe cases in COVID-19 patients."
+        },
+        {
+          "paper_id": "5b25c63b89586e93a09b5e213a20cfd9b0418b60",
+          "cord_uid": "knt1f78p",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.21.20040022",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "The epidemic model we propose takes into account several specific characteristics of the dynamics of COVID-19, such as the important effect of asymptomatic (or with mild symptoms) infectious individuals, which may explain the large incidence of the epidemics."
+        },
+        {
+          "paper_id": "dafa879852c6f4a9a328debdd27f37fefe876ece",
+          "cord_uid": "k5y1qc82",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.tmaid.2020.101623",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "\u2022 To assess the prevalence of comorbidities among COVID-19 confirmed cases."
+        },
+        {
+          "paper_id": "54cfc3c68e1e4832fee5b3294e5673e37978ebdf",
+          "cord_uid": "73gxq2w6",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.28.20028514",
+          "publish_time": "2020-03-03",
+          "section": "abstract",
+          "sentence": "This study aimed to investigate the risk factors involved with hepatic injury in the patients with COVID-19."
+        },
+        {
+          "paper_id": "179df1e769292dd113cef1b54b0b43213e6b5c97",
+          "cord_uid": "vof63qat",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20035360",
+          "publish_time": "2020-03-16",
+          "section": "abstract",
+          "sentence": "We performed a systematic review and meta-analysis to identify the symptoms and comorbidities predictive of COVID-19 severity."
+        },
+        {
+          "paper_id": "44fd42f34c00ff7d6126a58e38b7129c6e4f940d",
+          "cord_uid": "secnz2ta",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-804543-5.00016-6",
+          "publish_time": "2016-12-31",
+          "section": "body",
+          "sentence": "Other similar activity has been observed on the various inflammations pathways such as cyclooxygenase (COX) and lipoxygenases (LOX) between sesquiterpenic alcohols, aliphatic aldehydes, and some phenolic esters that caused these phytochemicals considered for more investigations in respiratory inflammations during the air ways infections (Fig. 16.3) . 101, 102 It has been evaluated that activity of some of the essential oils such as Western red cedar (Thuja plicata) to inactivate several viruses implicated in respiratory infections, and to inhibit the influenza virus-induced secretion of cytokine (IL-6) in cultured human lung cells."
+        },
+        {
+          "paper_id": "4090d8537051fae501355bc567dc2dec620762eb",
+          "cord_uid": "o56j4qio",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijid.2020.03.017",
+          "publish_time": "2020-03-12",
+          "section": "body",
+          "sentence": "Assessing the prevalence of these chronic diseases is the basis for mitigating complications in patients with COVID-19 infections."
+        },
+        {
+          "paper_id": "1f5c1597a84ed1d4f84c488cd19098a091a3d513",
+          "cord_uid": "pth2d40p",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.jmii.2020.02.012",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "More studies are needed to clarify the epidemiologic characteristics of COVID-19 and to identify the risk and prognostic factors of patients infected with SARS-CoV-2."
+        },
+        {
+          "paper_id": "89a8918f7e3044b89642aaa74defc7381abef482",
+          "cord_uid": "pth2d40p",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.jmii.2020.02.012",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "More studies are needed to clarify the epidemiologic characteristics of COVID-19 and to identify the risk and prognostic factors of patients infected with SARS-CoV-2."
+        },
+        {
+          "paper_id": "875b7c463f00772fa0dc18ada678bc1ff16a4274",
+          "cord_uid": "7s9ot4vq",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.25.20027664",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "Our findings implied that both the category and number of comorbidities should be taken into account when predicting the prognosis in patients with COVID-19."
+        },
+        {
+          "paper_id": "94e62a756a8f77d56f465194b69e260afad78eea",
+          "cord_uid": "tv9xsned",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.20039818",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "In conclusion, this study provides a correlation between clinical parameters and disease severity of COVID-19 patients."
+        },
+        {
+          "paper_id": "cd202788230ffa948118c39cd14b5d5be3c57219",
+          "cord_uid": "9af3fk0i",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7081524/",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "In summary, by identifying host risk factors associated with severe COVID-19, this study shed light on the underlying mechanisms of disease progression."
+        },
+        {
+          "paper_id": "f854d7b750541d65c48df953a65028a50ce57881",
+          "cord_uid": "eu3rry7p",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.20.20025510",
+          "publish_time": "2020-02-23",
+          "section": "body",
+          "sentence": "We aimed to characterize the clinical features of hospitalized patients with confirmed or suspected COVID-19, and develop a mortality risk index for COVID-19 patients."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Data on potential risks factors: 3. Neonates and Pregnant women",
+      "seed_sentences": [
+        "Unfortunately, there is limited experience with coronavirus infections during pregnancy, and it now appears certain that pregnant women have become infected during the present 2019-nCoV epidemic.",
+        "It is certain that 2019-nCoV will infect women who are pregnant, leaving the question open as to whether the novel coronavirus will have a similar or different effect on them compared with SARS-CoV and MERS-CoV. In order to address the potential obstetrical outcomes of infection to both mother and infant, the present communication describes the current state of knowledge regarding the effects of other coronavirus infections in pregnancy."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "779c1b5cb3afe3d50219aa2af791014a22eb355a",
+          "cord_uid": "iy9vjpuh",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/v12020194",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "It is certain that 2019-nCoV will infect women who are pregnant, leaving the question open as to whether the novel coronavirus will have a similar or different effect on them compared with SARS-CoV and MERS-CoV."
+        },
+        {
+          "paper_id": "779c1b5cb3afe3d50219aa2af791014a22eb355a",
+          "cord_uid": "iy9vjpuh",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/v12020194",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "It is certain that 2019-nCoV will infect women who are pregnant, leaving the question open as to whether the novel coronavirus will have a similar or different effect on them compared with SARS-CoV and MERS-CoV."
+        },
+        {
+          "paper_id": "779c1b5cb3afe3d50219aa2af791014a22eb355a",
+          "cord_uid": "iy9vjpuh",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/v12020194",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "It remains to be seen during the current Wuhan 2019-nCoV epidemic how this newly-emergent coronavirus affects pregnant women and their infants, as well as which factors may modulate obstetrical disease and outcomes including the timing of maternal coronavirus exposure by gestational age, the effects of medications or other treatment regimens, differences in host immune responses, occurrence of coexisting medical and obstetrical conditions, and other covariables."
+        },
+        {
+          "paper_id": "779c1b5cb3afe3d50219aa2af791014a22eb355a",
+          "cord_uid": "iy9vjpuh",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/v12020194",
+          "publish_time": "2020",
+          "section": "abstract",
+          "sentence": "This communication reviews the medical and clinical findings from coronavirus infections in pregnant women in order to anticipate how the newly discovered 2019-nCoV might affect maternal and infant morbidity and mortality."
+        },
+        {
+          "paper_id": "779c1b5cb3afe3d50219aa2af791014a22eb355a",
+          "cord_uid": "iy9vjpuh",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/v12020194",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "In order to address the potential obstetrical outcomes of infection to both mother and infant, the present communication describes the current state of knowledge regarding the effects of other coronavirus infections in pregnancy."
+        },
+        {
+          "paper_id": "779c1b5cb3afe3d50219aa2af791014a22eb355a",
+          "cord_uid": "iy9vjpuh",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/v12020194",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "In order to address the potential obstetrical outcomes of infection to both mother and infant, the present communication describes the current state of knowledge regarding the effects of other coronavirus infections in pregnancy."
+        },
+        {
+          "paper_id": "779c1b5cb3afe3d50219aa2af791014a22eb355a",
+          "cord_uid": "iy9vjpuh",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/v12020194",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Additional clinical research on the treatment of SARS, MERS, and the new coronavirus 2019-nCoV is necessary if we are to understand the potential risks and benefits of novel therapies and new vaccines in pregnancy."
+        },
+        {
+          "paper_id": "779c1b5cb3afe3d50219aa2af791014a22eb355a",
+          "cord_uid": "iy9vjpuh",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/v12020194",
+          "publish_time": "2020",
+          "section": "abstract",
+          "sentence": "Given the rapidly progressive spread of this current 2019 novel coronavirus it is reasonable to expect that pregnant women have already become infected."
+        },
+        {
+          "paper_id": "779c1b5cb3afe3d50219aa2af791014a22eb355a",
+          "cord_uid": "iy9vjpuh",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/v12020194",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "A critical question that must be answered at this stage-with a clear view of the potential deleterious effects of a new coronavirus in pregnancy-is will maternal immunization be a priority in research and development?"
+        },
+        {
+          "paper_id": "779c1b5cb3afe3d50219aa2af791014a22eb355a",
+          "cord_uid": "iy9vjpuh",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/v12020194",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Given the potential severity in pregnancy, as demonstrated by this review of maternal infections of SARS and MERS, women who are pregnant should be considered a priority population in all efforts to prepare for and prevent infection by novel coronaviruses."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Data on potential risks factors: 4. Socio-economic and behavioral factors to understand the economic impact of the virus and whether there were differences.",
+      "seed_sentences": [
+        "The COVID-19 pandemic may cause excess mortality over the next year in the population both because of deaths among those infected, and because people who are not infected are experiencing social and economic upheaval; meanwhile the ability of health services to provide high quality of care for both infected and uninfected patients is increasingly threatened.",
+        "A main objective of this paper is to quantify the effect of various social and economic factors in mediating the transmission rates of the virus, which may help identify potential behavioral and socioeconomic risk factors for infections.",
+        "Every location has a different socio-economic profile such that the growth rate of the epidemic (and hence R 0 ) might differ.",
+        "Of additional concern is that the anticipated destinations of hundreds of thousands of travellers departing China are to low-income or lower-middle income countries, where inadequately resourced medical and public health systems might be unable to detect and adequately manage an imported case of 2019n-CoV, including possible subsequent community spread."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "de055f09fef2776bc78bac5d58c4131301b2025f",
+          "cord_uid": "8ozauxlk",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.13.20035238",
+          "publish_time": "2020-03-17",
+          "section": "body",
+          "sentence": "A main objective of this paper is to quantify the effect of various social and economic factors in mediating the transmission rates of the virus, which may help identify potential behavioral and socioeconomic risk factors for infections."
+        },
+        {
+          "paper_id": "1218f278a4f8d83dac14b23c8f698062812ef9d5",
+          "cord_uid": "3p2dl8yf",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.13.20022806",
+          "publish_time": "2020-02-17",
+          "section": "body",
+          "sentence": "Every location has a different socio-economic profile such that the growth rate of the epidemic (and hence R 0 ) might differ."
+        },
+        {
+          "paper_id": "79622641e002b2574af9dc7f99d4fbbe192606e6",
+          "cord_uid": "nzat41wu",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.22.20041079",
+          "publish_time": "2020-03-24",
+          "section": "abstract",
+          "sentence": "The COVID-19 pandemic is causing substantial mortality and a major strain on healthcare systems (1,2) ."
+        },
+        {
+          "paper_id": "92675850320915d5158aa841ba5549fe194cb288",
+          "cord_uid": "p91hfogv",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.oraloncology.2020.104659",
+          "publish_time": "2020-03-21",
+          "section": "body",
+          "sentence": "The evolution of the COVID-19 pandemic could put a strain on healthcare systems around the world."
+        },
+        {
+          "paper_id": "320e1640a5ddfcbed21e1afff08a86dc1b0af5b2",
+          "cord_uid": "w49i0xkz",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jacc.2020.03.031",
+          "publish_time": "2020-03-19",
+          "section": "body",
+          "sentence": "The COVID-19 pandemic has affected hundreds of thousands of patients and poses a major health threat on an international scale."
+        },
+        {
+          "paper_id": "95ddefb996c7178a90ddd64a5d3ee2adb1280faa",
+          "cord_uid": "x0egpfed",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jhin.2020.02.022",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "Failure to identification of COVID-19 cases in a timely fashion can paralyze a medical centre, disrupt public health systems and cause huge economic losses [7, 8] ."
+        },
+        {
+          "paper_id": "221f592feb12c19df1f3e619021205e247d39b46",
+          "cord_uid": "9ynljm2r",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033068",
+          "publish_time": "2020-03-12",
+          "section": "body",
+          "sentence": "The mortality of critically ill COVID-19 patients is high, but its mechanism is not clear at present, and it may be related to the virus-induced acute lung injury, inflammatory factor storm, multiple organ damage and secondary nosocomial infections."
+        },
+        {
+          "paper_id": "2520763bf2ffec5a1aac7eb0a45346af795eb35f",
+          "cord_uid": "dycx8i7h",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30551-1",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Long-term escalation in the need for health services will place pressures on health-care workers, and could at some point compromise the clinical management of people with COVID-19 and other patients."
+        },
+        {
+          "paper_id": "adaab431554087bf59b391f6b588f675666fc163",
+          "cord_uid": "xvkjy1bh",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijsu.2020.03.001",
+          "publish_time": "2020-04-30",
+          "section": "body",
+          "sentence": "The consequences of the COVID-19 outbreak are not only limited to human infection and deaths, but also have associated social repercussions, including racial and xenophobic attacks [9] and adverse economic implications, which have badly affected the travel industry [10] , disrupted the supply chain [11] and stock exchanges [12] , and slowed the global economy [13] ."
+        },
+        {
+          "paper_id": "1156bc3bde3db9325dde0de524a8671b4f5af648",
+          "cord_uid": "fu8ndhdo",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jacr.2020.03.011",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "In light of the infectious nature of this disease, healthcare workers are at high risk of infection of COVID-19."
+        },
+        {
+          "paper_id": "d9eeeb81d17be6a722b11081f13576de197d249f",
+          "cord_uid": "b2znv6pa",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.24.20027201",
+          "publish_time": "2020-02-25",
+          "section": "body",
+          "sentence": "Compared with the previous two outbreaks, the epidemic area of COVID-19 caused by SARS-CoV-2 is wider, the number of infected people is larger, more patients died, and the global economic loss is greater."
+        },
+        {
+          "paper_id": "a006cb9a90f0625f548c5775891d395860c81c75",
+          "cord_uid": "0xhho1sh",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijantimicag.2020.105924",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "The outbreak of COVID-19 has become a clinical threat to the general population and healthcare workers worldwide."
+        },
+        {
+          "paper_id": "b787353f562f7017c8f3131062c73cd45b86bccf",
+          "cord_uid": "fb0nwixw",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.20039602",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Therefore, further spread of the virus threatens shortage to medical supplies and further outbreaks in LMICs could lead to high COVID-19 related mortality. [9]"
+        },
+        {
+          "paper_id": "a70e7c4d8ee484ce956e91c8700d0c9310bbdbbc",
+          "cord_uid": "oee19duz",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7060038/",
+          "publish_time": "2020-02-24",
+          "section": "body",
+          "sentence": "At the same time, there is great concern about potential public health consequences if COVID-19 spreads to developing countries that lack health infrastructure and resources to combat it effectively (de Salazar et al., 2020) ."
+        },
+        {
+          "paper_id": "d2ffa88280050fc186dd63918d295efe423582e6",
+          "cord_uid": "oee19duz",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7060038/",
+          "publish_time": "2020-02-24",
+          "section": "body",
+          "sentence": "At the same time, there is great concern about potential public health consequences if COVID-19 spreads to developing countries that lack health infrastructure and resources to combat it effectively (de Salazar et al., 2020) ."
+        },
+        {
+          "paper_id": "182fc0c38ce9f98fa70dc7ed3063551d426c4b7a",
+          "cord_uid": "luxgc7st",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075990/",
+          "publish_time": "2020-02-24",
+          "section": "body",
+          "sentence": "There is great concern that spread of the virus may be devastating and of huge public health concern globally, especially in resource-limited countries Based on the general definition of a pandemic as an infection that spreads globally, COVID-19 is already a \"pandemic\"."
+        },
+        {
+          "paper_id": "58b5c77c9fb3f68a3ad84a3f15275dc0e4554192",
+          "cord_uid": "luxgc7st",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075990/",
+          "publish_time": "2020-02-24",
+          "section": "body",
+          "sentence": "There is great concern that spread of the virus may be devastating and of huge public health concern globally, especially in resource-limited countries Based on the general definition of a pandemic as an infection that spreads globally, COVID-19 is already a \"pandemic\"."
+        },
+        {
+          "paper_id": "94e62a756a8f77d56f465194b69e260afad78eea",
+          "cord_uid": "tv9xsned",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.20039818",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Cytokine storms, which can quickly induce organ failure and threaten the life of the patients, are regarded as an important cause of death in COVID-19 patients."
+        },
+        {
+          "paper_id": "606233835c3d6d195b7d230745ccb0fded626aa7",
+          "cord_uid": "yjay3t38",
+          "source": "CZI",
+          "url": "https://doi.org/10.1097/cm9.0000000000000782",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "In recent years, worldwide outbreaks of Ebola and Middle East Respiratory Syndrome (MERS) caused great health and economic losses. [1, 2] The ongoing new coronavirus pneumonia (Corona Virus Disease 2019, COVID-19) outbreak is becoming a global public health problem."
+        },
+        {
+          "paper_id": "9b1e1c869a26b53973683d284250c2f4a8a339f6",
+          "cord_uid": "11hi1jel",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.22.20040287",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "However, it is possible that the relative risk varies during the course of the pandemic, and at high levels of compromise in the workforce and health system, it is likely to be higher due to inability to provide timely care."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Transmission dynamics of the virus, including the basic reproductive number, incubation period, serial interval, modes of transmission and environmental factors",
+      "seed_sentences": [
+        "In mathematical epidemiology, when one uses a phenomenological approach, the epidemic dynamics can be described by the following variant of logistic growth model [2] [3] [4] [5]  where C is an accumulated number of cases, 0 r infection rate, and 0 K  is the final epidemic size.",
+        "To infer COVID-19 transmission dynamics during the early stage of the outbreak, we simulated observations from January 10-23, 2020 (i.e. the period before the initiation of travel restrictions) using an iterated filter-ensemble adjustment Kalman filter (IF-EAKF) framework [9] [10] [11] .",
+        "We assume that at time t after 23 January, an increasing control function u(t) represents the fraction of the transmissions that are prevented, thus the effective reproduction number becomes R(t) = (1 \u2212 u(t))R 0 S(t)/N. Based on the previous estimates from the literature (see Table 1 ), we chose an incubation period \u03b1 \u22121 = 5.1 days [30] , basic reproduction number R 0 = 2.6 (2.1-3.1) with the corresponding infectious period \u03b3 \u22121 = 3.3 (1.7-5.6) days [19] .",
+        "Results: Results suggest that the basic reproduction number, R 0, before VEC introduced as 2.50 with a 95% confidence interval (CI) was [2.43, 2.55] and the effective reproduction number, R v, after VEC introduced as 1.",
+        "With the model, on 95% confidence level, we estimate the basic reproduction number, R 0 = 2.82 \u00b1 0.11, time between March 19 and March 21 when the effective reproduction number becoming less than one, the epidemic ending after April 2 and the total number of confirmed cases approaching 14408 \u00b1 429 on the Chinese mainland excluding Hubei province."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "136ee862ad53b606c8f2bea917b9705f5079e88e",
+          "cord_uid": "ecu579el",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.04.20020503",
+          "publish_time": "2020-02-05",
+          "section": "body",
+          "sentence": "We assume that at time t after 23 January, an increasing control function u(t) represents the fraction of the transmissions that are prevented, thus the effective reproduction number becomes R(t) = (1 \u2212 u(t))R 0 S(t)/N. Based on the previous estimates from the literature (see Table 1 ), we chose an incubation period \u03b1 \u22121 = 5.1 days [30] , basic reproduction number R 0 = 2.6 (2.1-3.1) with the corresponding infectious period \u03b3 \u22121 = 3.3 (1.7-5.6) days [19] ."
+        },
+        {
+          "paper_id": "33eff3ff8721d2abd9204e3aabd504e167f3f01d",
+          "cord_uid": "zowo5ojd",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.12.20035220",
+          "publish_time": "2020-03-16",
+          "section": "abstract",
+          "sentence": "Results: Results suggest that the basic reproduction number, R 0, before VEC introduced as 2.50 with a 95% confidence interval (CI) was [2.43, 2.55] and the effective reproduction number, R v, after VEC introduced as 1. 88; its 95% CI was [1.68,2.02]."
+        },
+        {
+          "paper_id": "f8774cec00087a3d28f245c700f836e365684ef7",
+          "cord_uid": "qljywb1t",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20037945",
+          "publish_time": "2020-03-23",
+          "section": "abstract",
+          "sentence": "Results: Results suggest that the basic reproduction number, R 0, before VEC introduced as 2.29 with a 95% confidence interval (CI) was [2.19, 2.37] and the effective reproduction number, R v, after VEC introduced as 1. 99; its 95% CI was [1.71,2.23]."
+        },
+        {
+          "paper_id": "54ae20515fcef8417e255b19df1a5bf6f2ab40bb",
+          "cord_uid": "onkdv388",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.26.20028449",
+          "publish_time": "2020-02-29",
+          "section": "body",
+          "sentence": "We simulate the courses of the COVID-19 outbreaks stochastically starting from one infectious index case on January 20, 2020."
+        },
+        {
+          "paper_id": "349104eb16d3c08e212c6ee78230d8778621c40f",
+          "cord_uid": "yuppix3r",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.ijid.2020.02.033",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "To evaluate the transmissibility of COVID-19 on the ship, we applied the \"earlyR\" package to estimate the R0 in the early stage of outbreak (Jombart et al., 2017) ."
+        },
+        {
+          "paper_id": "4af62711ee4cca0c90baf73be3e83ea95e68c045",
+          "cord_uid": "yuppix3r",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.ijid.2020.02.033",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "To evaluate the transmissibility of COVID-19 on the ship, we applied the \"earlyR\" package to estimate the R0 in the early stage of outbreak (Jombart et al., 2017) ."
+        },
+        {
+          "paper_id": "bb7cd48a85b72f8d73e57d655c6d8a034fce3778",
+          "cord_uid": "nzvuugls",
+          "source": "CZI",
+          "url": "https://doi.org/10.1007/s13238-020-00693-y",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "In order to better understand the early transmission pattern of 2019-nCoV, Julien et al. conducted a randomized simulation study of the early outbreak trajectories consistent with the epidemiological findings to date (Riou and Althaus, 2020)."
+        },
+        {
+          "paper_id": "c91b581d38243c502118d93fc6f71ee02ec395e4",
+          "cord_uid": "bc9retcq",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.08.20032946",
+          "publish_time": "2020-03-12",
+          "section": "body",
+          "sentence": "In this study, we estimate key parameters of the epidemic and use an analytically solvable model of the exponential phase of SARS-CoV-2."
+        },
+        {
+          "paper_id": "29b3eaeacecf2bfc95b9a493dbb1ba4b2323dd46",
+          "cord_uid": "mrsya6wz",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.04.20031104",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "We simulated the dynamics of the COVID-19 epidemic in Hubei from 1 January 2020 to 11 February 2020."
+        },
+        {
+          "paper_id": "f243439504f76c6981579048489b59cdd37521a9",
+          "cord_uid": "pidy7erw",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7081176/",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "To estimate the time at risk for COVID-19 exposure among travelers departing Iran, we obtained data from the United Nations World Tourism Organization for the proportion of international travelers who are residents of Iran (4) and the average length of stay of tourists to Iran (5) , and assumed that the Iranian outbreak began in early January 2020."
+        },
+        {
+          "paper_id": "957e71389292e0881dff2bbe0e87fe6bf8b2d381",
+          "cord_uid": "mbdj3r0m",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.01.28.20019299",
+          "publish_time": "2020-01-30",
+          "section": "body",
+          "sentence": "We applied a likelihood-based method to estimate our model parameters, including the number of initial cases i 0 and the epidemic growth rate \u03bb, from the arrival times of the 19 reported cases transported from Wuhan to 11 cities outside of China, as of January 22, 2020 (Appendix Table 1 )."
+        },
+        {
+          "paper_id": "10138816c67a562b55bc9c2b882b62c81fc4b062",
+          "cord_uid": "m87tapjp",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.16.20023465",
+          "publish_time": "2020-02-18",
+          "section": "body",
+          "sentence": "With respect to the parameters and initial conditions listed in Table 1 , we make an astonishing finding that, for all three cases, the outbreaks of COVID-19 all point to 20-25 days before Jan. 20th (the starting date for public data and our modeling)."
+        },
+        {
+          "paper_id": "3028628066ec2401f3981f4e70c5b1acd4cef573",
+          "cord_uid": "66ulqu11",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.03.20029983",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "Here we use transmission clusters in two locations where cases have reported links, exposure and symptom onset times to estimate both the incubation period and serial interval of COVID-19."
+        },
+        {
+          "paper_id": "57e01ad2a4961cd5cc6a3733f5f8c013a8946f3c",
+          "cord_uid": "rcbw54xc",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.14.20023168",
+          "publish_time": "2020-02-18",
+          "section": "body",
+          "sentence": "Basic reproduction number (R0) was presumed to be 2.2 (95% CI 1.4-3.9)."
+        },
+        {
+          "paper_id": "fd6163a04c4ac0100a7c9be19def78d2171eac47",
+          "cord_uid": "0xzsa21a",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.10.20033803",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Very recently in , an existing discrete time, stochastic model ) was employed to estimate the \"effect of travel restrictions on the spread\" of COVID-19."
+        },
+        {
+          "paper_id": "7b78040738d551e30fc2b2b996cf4606c8739d62",
+          "cord_uid": "vh9wreex",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.21.20040303",
+          "publish_time": "2020-03-23",
+          "section": "abstract",
+          "sentence": "Using the calibrated model, we project the outbreak in the continental US for 180 days after March 13, 2020, and evaluate the effects of social distancing and travel restrictions on the outbreak."
+        },
+        {
+          "paper_id": "2cc809ed4d5c3640ee2351fdb1876e8ff6c01b51",
+          "cord_uid": "a8ig607t",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.08.20021162",
+          "publish_time": "2020-02-11",
+          "section": "abstract",
+          "sentence": "We developed a stochastic transmission model, parameterised to the 2019-nCoV outbreak."
+        },
+        {
+          "paper_id": "59ebacae3048d5db81d51968371b6350658e8b94",
+          "cord_uid": "q856rx6b",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038026",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "From December 31, 2019, to February 20, 2020, the public's attention given to the COVID-19 epidemic on Sina Microblog can be divided into three stages."
+        },
+        {
+          "paper_id": "815745bf1b522d33fd7371cc9a6561a2a93ef87e",
+          "cord_uid": "er3zmcz2",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.10.20021519",
+          "publish_time": "2020-02-12",
+          "section": "body",
+          "sentence": "Finally, we simulate possible spreading course of 2019-nCoV under different quarantine rate and starting date of prevention measures in ."
+        },
+        {
+          "paper_id": "87b89b038b28d2ba0bcfd2203845bf15f922c1b5",
+          "cord_uid": "ragcpbl6",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.21.20026328",
+          "publish_time": "2020-02-23",
+          "section": "body",
+          "sentence": "We estimated the time from infection to symptom onset (incubation period) by analyzing COVID-19 cases with asserted epidemiological links (clusters) identified by prospective contact tracing."
+        },
+        {
+          "paper_id": "eaf0b485f290fa884dd18de71be79d86de20eb31",
+          "cord_uid": "aoyyk5fl",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.21.20026146",
+          "publish_time": "2020-02-23",
+          "section": "body",
+          "sentence": "To measure behavioural change during the outbreak, each respondent was asked to report exposing behaviours both (1) prior to the outbreak: before Dec 31, 2019 when COVID-19 cases were first released by Wuhan Health Commission and (2) since the outbreak, between Jan 1 to Feb 10, 2020."
+        },
+        {
+          "paper_id": "b100dcf4e2ec314df8ebad9a20aa245edee6db59",
+          "cord_uid": "vwbpkpxd",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20037309",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "A long range regression analysis of COVID-19 out to 2025 on US data using immunological, epidemiological and seasonal effects is given in Kissler et al. (2020) , which predicts recurrent outbreaks."
+        },
+        {
+          "paper_id": "fd96fc1859201e13e35526c188e022fa6e335327",
+          "cord_uid": "v3gww4iv",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.06.20031955",
+          "publish_time": "2020-03-08",
+          "section": "body",
+          "sentence": "Our study initially demonstrated asymptomatic transmission of COVID-19 in the incubation period, especially in the last three days of incubation period, by estimating the incubation period with the use of accurate exposure history of confirmed cases."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Severity of disease, including risk of fatality among symptomatic hospitalized patients, and high-risk patient groups",
+      "seed_sentences": [
+        "In other words, if someone is symptomatic and confirmed to be COVID19+ on any of the days between t+1 to t+14, then s/he was infected but asymptomatic on day t. Using publicly available data for the state of Washington for dates Feb. 28-March 16, 2020, our math shows that on Feb. 28, 2020, there were at least 567 asymptomatic infected cases, despite there being only 1 officially confirmed case reported for that day.",
+        "If a patient presented after many days of being symptomatic, this may have affected disease severity, compared with an earlier clinical presentation.",
+        "Among 84,957 episodes of respiratory illness, 79.0% were sampled at secondary/tertiary healthcare services (hospital inpatients and outpatients), and 21.0% from primary healthcare services (general practice [GP]).",
+        "Recent investigation showed that the viral load that was determined in the asymptomatic patient was similar to that in the symptomatic patients 16 , implying that the viral load in respiratory specimens may not be able to objectively reflect the disease severity."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "179df1e769292dd113cef1b54b0b43213e6b5c97",
+          "cord_uid": "vof63qat",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20035360",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "If a patient presented after many days of being symptomatic, this may have affected disease severity, compared with an earlier clinical presentation."
+        },
+        {
+          "paper_id": "03482e6a876292352f7aaf1cceeb848e28fb973e",
+          "cord_uid": "mrsjhjh4",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20037952",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "This means that, for any time t, the number of asymptomatic but infected individuals can be estimated using the sum of new infections that were confirmed on t + 1 to t + 14 as follows: In other words, if someone is symptomatic and confirmed to be COVID19+ on any of the days between t+1 to t+14, then s/he was infected but asymptomatic on day t."
+        },
+        {
+          "paper_id": "7b7c71218f8d7ea1a1f8f702e4262b839bf7cc8a",
+          "cord_uid": "99doz9m6",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/healthcare8010051",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "In symptomatic patients, illness may evolve over the course of a week or longer, beginning with mild symptoms that progress (in some cases) to the point of dyspnea and shock [11] ."
+        },
+        {
+          "paper_id": "867ebb2be2d466bcb35e5a7319708eaff39c4799",
+          "cord_uid": "ojmhkt5o",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0924-8579(17)30423-5",
+          "publish_time": "2017-11-30",
+          "section": "body",
+          "sentence": "The clinical response rate at TOC visit was 81.8% (54/66) in the cefoperazone/sulbactam group, while it was 79.0% (64/81) in the cefepime group."
+        },
+        {
+          "paper_id": "867ebb2be2d466bcb35e5a7319708eaff39c4799",
+          "cord_uid": "ojmhkt5o",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0924-8579(17)30423-5",
+          "publish_time": "2017-11-30",
+          "section": "body",
+          "sentence": "In the ITT population, the clinical response rates were 82.1% (55/67) in the cefoperazone/sulbactam group, and 79.0% (64/81) in the cefepime group."
+        },
+        {
+          "paper_id": "a0327c89dd46ce06ec8e979ddbad8c7b9c32660b",
+          "cord_uid": "scc9wee0",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1473-3099(20)30196-1",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "This limitation is a common problem in studies of emerging infections such as SARS-CoV and MERS-CoV. 16 The few patients enrolled does not allow for adjustment for potential confounding factors that could affect viral load or antibody response."
+        },
+        {
+          "paper_id": "1eb2a0cf3757558a49f6ad91294a832b04ca6353",
+          "cord_uid": "x3c7zjvg",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20033175",
+          "publish_time": "2020-03-23",
+          "section": "abstract",
+          "sentence": "Patients with severe or critical illness had more days from onset to admission compared to those with ordinary illness."
+        },
+        {
+          "paper_id": "50be51724c114a2dcfbc9618d94a0166822003de",
+          "cord_uid": "zrbesm5b",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.995639",
+          "publish_time": "2020-03-17",
+          "section": "body",
+          "sentence": "This earlier peak in virus shedding for SARS-CoV-2 is more similar to influenza virus shedding (16) than SARS-CoV, where shedding peaked around day 10 post onset of symptoms (15) , and may explain why case 40 detection and isolation may not be as effective for SARS-CoV-2 as it was for the control of SARS-CoV (17) ."
+        },
+        {
+          "paper_id": "1ad1d4b84aea4ceaf05c62a1ad04e7150f7f4684",
+          "cord_uid": "ndn6iwre",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.29.20029462",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "Our data from the routine virological testing performed is in keeping with community based results showing that symptoms and viral detection do not always go together 16 and shows a different spectrum to those patients admitted and tested using the same assay 17 , with fewer influenza diagnoses and a greater proportion of rhinovirus / enterovirus as well as seasonal coronaviruses cases."
+        },
+        {
+          "paper_id": "5a9164999237a46d3d6aed53bd59b17d91a9e6d0",
+          "cord_uid": "pi5uq90z",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.22.20025320",
+          "publish_time": "2020-02-25",
+          "section": "body",
+          "sentence": "We estimated that the infection rate of SARS-CoV-2 in cancer patients from our single institution at 0.79% (95% CI = 0.3-1.2)."
+        },
+        {
+          "paper_id": "c12a11fa9c5fdff0bf85a9f0111c64d6dffe8d26",
+          "cord_uid": "cgcvfftf",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1470-9465.2006.12_4_1426.x",
+          "publish_time": "2006-12-31",
+          "section": "body",
+          "sentence": "Description of the epidemic: The outbreak started on the 27 June and lasted 7 days up to 3 July 2005 in a nursing home of 81 residents (R) (mean age 88 years) and 51 health care workers (HCW) Fever, cough and wheezing were reported as main symptoms among 32/81 R and 6/48 HCW on duty during the mentioned period."
+        },
+        {
+          "paper_id": "1f5c1597a84ed1d4f84c488cd19098a091a3d513",
+          "cord_uid": "pth2d40p",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.jmii.2020.02.012",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Second, Zou et al. reported that the viral load detected in asymptomatic patients was similar to that found in symptomatic patients; however, the viral loads from patients with severe diseases were higher than those in patients with mild-to-moderate presentations."
+        },
+        {
+          "paper_id": "89a8918f7e3044b89642aaa74defc7381abef482",
+          "cord_uid": "pth2d40p",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.jmii.2020.02.012",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Second, Zou et al. reported that the viral load detected in asymptomatic patients was similar to that found in symptomatic patients; however, the viral loads from patients with severe diseases were higher than those in patients with mild-to-moderate presentations."
+        },
+        {
+          "paper_id": "8330d31a5ec8b240991ed6d5a0dcbaf967f7dbd0",
+          "cord_uid": "k36rymkv",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30566-3",
+          "publish_time": "2020-03-11",
+          "section": "body",
+          "sentence": "Previous studies in macaques inoculated with SARS-CoV found that older macaques had stronger host innate responses to virus infection than younger adults, with an increase in differential expression of genes associated with inflammation, whereas expression of type I interferon beta was reduced. 16 The age-dependent defects in T-cell and B-cell function and the excess production of type 2 cytokines could lead to a deficiency in control of viral replication and more prolonged proinflammatory responses, potentially leading to poor outcome. 17 SOFA score is a good diagnostic marker for sepsis and septic shock, and reflects the state and degree of multi-organ dysfunction. 18, 19 Although bacterial infections are usually regarded as a leading cause of sepsis, viral infection can also cause sepsis syndrome."
+        },
+        {
+          "paper_id": "4a7e283daf71f03797f7b332026361c84accabaa",
+          "cord_uid": "j76995jd",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-012498264-2/50012-8",
+          "publish_time": "2001-12-31",
+          "section": "body",
+          "sentence": "It can precede the onset of more specific signs and symptoms, or accompany them."
+        },
+        {
+          "paper_id": "c8df44a3612e85e267351e936ddeb8fc5867afa1",
+          "cord_uid": "zav5gksq",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.02.20030007",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "There is an abrupt change that occurs for later interventions when the epidemic is no longer able to rebound to the same number of infections seen prior to the intervention."
+        },
+        {
+          "paper_id": "7af7848a33dc0c6599e902e9c155ab68fa72ffad",
+          "cord_uid": "6zlxqhuq",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/jcm9020580",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Considering that many patients have just developed illness and will manifest complications in a matter of 7-10 days [18] , there could be additional critically ill patients in the future."
+        },
+        {
+          "paper_id": "3028628066ec2401f3981f4e70c5b1acd4cef573",
+          "cord_uid": "66ulqu11",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.03.20029983",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "If people are quarantined in groups of (presumed) uninfected cases, pre-symptomatic transmission in quarantine would result in true exposure times that are more recent than reported last possible exposure times."
+        },
+        {
+          "paper_id": "dfb0fedbeed56bd2b795a67faab28295afc14c96",
+          "cord_uid": "tovfd9lw",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.06.20020974",
+          "publish_time": "2020-02-09",
+          "section": "body",
+          "sentence": "During hospital admission, the most common complication was pneumonia (79.1%), followed by ARDS (3.37%) and shock (1.00%)."
+        },
+        {
+          "paper_id": "11edcc84add7b4bfe1f7cc84068a06ff9b7398b2",
+          "cord_uid": "j181i5pr",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.10.20033852",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "As the incubation period seems to be highly variable, it may be possible that appearance of symptoms in any case precedes symptom onset in its ancestor."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Susceptibility of populations",
+      "seed_sentences": [
+        "Younger parts of a population present a much lower risk than older populations.",
+        "Thus, given the dataset x and an estimate R 0 of the associated basic reproductive ratio, the matrix R should satisfy If we look at the ith row of this set of equations, we have The age-specific susceptibility z i can thus be estimated as To estimate the equivalent of the matrix R for some new population with age-structured contact matrix k = (k i,j ), we assume that z i is constant across populations (i.e. in every population we see the same dependence of susceptibility on age).",
+        "Fig. 2) , which indicates that different susceptibility to this virus may exist between differential populations."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "67e26529131aa6241f7f15af391c689c34183a4e",
+          "cord_uid": "gttuxtw6",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.14.20036178",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "Younger parts of a population present a much lower risk than older populations."
+        },
+        {
+          "paper_id": "2536b83acf84368d7c13be81fe07aa0575115da7",
+          "cord_uid": "96wkqutc",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.26.20028167",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "Thus, given the dataset x and an estimate R 0 of the associated basic reproductive ratio, the matrix R should satisfy If we look at the ith row of this set of equations, we have The age-specific susceptibility z i can thus be estimated as To estimate the equivalent of the matrix R for some new population with age-structured contact matrix k = (k i,j ), we assume that z i is constant across populations (i.e. in every population we see the same dependence of susceptibility on age)."
+        },
+        {
+          "paper_id": "3e5633a9a76a8c03e4ec57e4659872a63f045117",
+          "cord_uid": "ptbk69rk",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.07.937862",
+          "publish_time": "2020-02-11",
+          "section": "body",
+          "sentence": "The available yet limited epidemiological and clinical data for SARS-CoV-2 suggest that the disease spectrum, and transmission modes of this virus and SARS-CoV may differ 1 ."
+        },
+        {
+          "paper_id": "04b808c9e6c8120245565c8f450bab037be7b375",
+          "cord_uid": "e2d75sby",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-070202823-6.50095-6",
+          "publish_time": "2007-12-31",
+          "section": "body",
+          "sentence": "As well as differences and variability in antigenic characters, strains of the virus differ in virulence, and a given strain is probably able to vary in virulence."
+        },
+        {
+          "paper_id": "c09bd47c9531a9e32168f5bab13080ed676b27bb",
+          "cord_uid": "bq06bepv",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ejrad.2020.108972",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "There were fewer lesions in younger adolescents and adolescents than in middle aged and older patients."
+        },
+        {
+          "paper_id": "2536b83acf84368d7c13be81fe07aa0575115da7",
+          "cord_uid": "96wkqutc",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.26.20028167",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "Defining z i = p i \u03b3 \u22121 , the expected number of cases in age class C i generated by a single infectious individual in age class C j over its entire infectious period is given by These age-stratified reproductive ratios define a matrix R (often called the next generation matrix), whose leading eigenvalue is the basic reproductive ratio of the entire system [4] ."
+        },
+        {
+          "paper_id": "f294f0df7468a8ac9e27776cc15fa20297a9f040",
+          "cord_uid": "73a7uvyz",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/v12020244",
+          "publish_time": "2020",
+          "section": "abstract",
+          "sentence": "There are some similarities and differences in the epidemiology and clinical features between these two viruses and diseases that are caused by these viruses."
+        },
+        {
+          "paper_id": "d0c2ac63240ec41899b1dd80e399ffb47a04be3a",
+          "cord_uid": "si0wkcb3",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b0-12-464970-x/00025-8",
+          "publish_time": "2004-12-31",
+          "section": "body",
+          "sentence": "Differences in viral strains account for the variety and extent of clinical signs and lesions."
+        },
+        {
+          "paper_id": "4c1d608959033784b3e85e34a9209ba77492f5c6",
+          "cord_uid": "gbx48scp",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jinf.2020.02.017",
+          "publish_time": "2020-02-25",
+          "section": "body",
+          "sentence": "Mild patients were significantly younger than the other types of patients, suggesting that children, teenagers and younger patients were mostly mild."
+        },
+        {
+          "paper_id": "734779fad93249a2f6fede6afd10eeff7b37919b",
+          "cord_uid": "f4hj35dr",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.04.20031112",
+          "publish_time": "2020-03-06",
+          "section": "abstract",
+          "sentence": "The transmission dynamics of the SARS-CoV-2 epidemic will depend on factors including the degree of seasonal variation in transmission strength, the duration of immunity, and the degree of cross-immunity between SARS-CoV-2 and other coronaviruses."
+        },
+        {
+          "paper_id": "c1ae608c7ffb926a0f50a6a34c0780983274ea74",
+          "cord_uid": "vkgnwxzc",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.24.20027474",
+          "publish_time": "2020-02-29",
+          "section": "body",
+          "sentence": "Different viruses have different incubation periods that determine their different dynamics epidemiologically."
+        },
+        {
+          "paper_id": "0cad40f50e41144e8b64744251515eca8cfac5f7",
+          "cord_uid": "q6pz6l2b",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.17.20023747",
+          "publish_time": "2020-02-20",
+          "section": "body",
+          "sentence": "We just mention that the mean generation interval T c is the first moment of the generation interval distribution g(t): If r and T c are computed, the value of the reproductive number R 0 can be simply estimated through a linear equation( [11, 1, 8, 4, 5] ): And if r and g(t) are estimated, R 0 can be computed as where M (z) is the moment generating function of the distribution g(t): Wallinga and Lipstch's processes are simple but powerful, which clearly demonstrate how generation intervals shape the relationship between growth rate and reproductive number."
+        },
+        {
+          "paper_id": "2536b83acf84368d7c13be81fe07aa0575115da7",
+          "cord_uid": "96wkqutc",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.26.20028167",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "Then our desired matrix has (i, j)th entr\u1ef9 and the eigenvalue of this matrix gives us the estimated basic reproductive ratioR 0 for the new population."
+        },
+        {
+          "paper_id": "4a7e283daf71f03797f7b332026361c84accabaa",
+          "cord_uid": "j76995jd",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-012498264-2/50012-8",
+          "publish_time": "2001-12-31",
+          "section": "body",
+          "sentence": "The next stage is marginally less speculative."
+        },
+        {
+          "paper_id": "147de820d90c0ce89fb5ae6836ea1794b808fdf2",
+          "cord_uid": "g9wmlvnq",
+          "source": "CZI",
+          "url": "https://doi.org/10.1097/cm9.0000000000000787",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Altogether, there exist significant differences in transmission, pathogenesis, clinical treatment, and vaccine development between these two viruses."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Public health mitigation measures that could be effective for control",
+      "seed_sentences": [
+        "For public health stakeholders and their local surveillance teams to prepare mitigating strategies, an assessment of basic reproduction numbers can be quite helpful.",
+        "Furthermore, given the controversy over the appropriate handling of elective surgical cases during this pandemic, we hope that our results may have a positive impact on health policy and public health.",
+        "School closures have been enacted as a measure of mitigation during the ongoing COVID-19 pandemic due to their ability to reduce transmission.",
+        "The mass quarantine measure implemented in the epidemic's epicenter, Wuhan, Hubei Province, China, on January 23, 2020, has stopped the human migration between Wuhan and other places."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "d83f238ec5aeaf6f08d20c4416c1ca9f631f698e",
+          "cord_uid": "4kzv06e6",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20039404",
+          "publish_time": "2020-03-23",
+          "section": "abstract",
+          "sentence": "School closures have been enacted as a measure of mitigation during the ongoing COVID-19 pandemic due to their ability to reduce transmission."
+        },
+        {
+          "paper_id": "d83f238ec5aeaf6f08d20c4416c1ca9f631f698e",
+          "cord_uid": "4kzv06e6",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20039404",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "School closures are a common measure of pandemic mitigation for many countries, driven by the logic that social distancing reduces transmission."
+        },
+        {
+          "paper_id": "9231e9d6dd98dca26e67eaf02eea8c0ad0bcce3b",
+          "cord_uid": "us7d19p5",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20037457",
+          "publish_time": "2020-03-20",
+          "section": "abstract",
+          "sentence": "Emergency school closures are often used as public health interventions during infectious disease outbreaks in an attempt to minimise the spread of infection."
+        },
+        {
+          "paper_id": "e172b0d49bd083dca5cd1021900477dd97774b84",
+          "cord_uid": "czpz3yh2",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.13.20034892",
+          "publish_time": "2020-03-17",
+          "section": "body",
+          "sentence": "As we discussed here, an additional consideration for COVID-19 is the fact that school closures might preferentially reduce infections in low risk groups (13, 16) , thus possibly shifting the burden of new infections that occur on the way to population immunity towards higher risk groups."
+        },
+        {
+          "paper_id": "14220553c9160c06bb99f59d59e6a8ecf3595226",
+          "cord_uid": "98jz8tox",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033415",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "The benefit from closing schools during an epidemic is to reduce transmission and new cases."
+        },
+        {
+          "paper_id": "14220553c9160c06bb99f59d59e6a8ecf3595226",
+          "cord_uid": "98jz8tox",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033415",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "contagion prevention from school closures justifies the potential loss of healthcare workers from the standpoint of reducing cummulative mortality."
+        },
+        {
+          "paper_id": "b2ea9c582e2613a8fbe16ed3abe14c00f1c99c00",
+          "cord_uid": "o3bp0837",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1473-3099(20)30162-6",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "The effects of school closure and quarantine were comparable, since the displacement of students to the home community will then rely on quarantine as a measure of preventing infection."
+        },
+        {
+          "paper_id": "f7b069911c90d9deab85becbad3e9a633e0bf57c",
+          "cord_uid": "tvxaxfqv",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.10.20033761",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "In such situations, efforts focusing on social distancing measures such as school closures and self-isolation may be more likely to mitigate epidemic spread. ."
+        },
+        {
+          "paper_id": "7a07d2f6803fd33f326be4952954b321c8eaaa2b",
+          "cord_uid": "zehnqsp7",
+          "source": "CZI",
+          "url": "https://doi.org/10.31646/gbio.50",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "China took the extraordinary measure of locking down Wuhan and other cities on January 23 rd 2020, thereby reducing travel out of the disease epicentre."
+        },
+        {
+          "paper_id": "3c0e6714183f9935f79f8b2e2a708833b52f00e0",
+          "cord_uid": "s956fh59",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.13.20035485",
+          "publish_time": "2020-03-17",
+          "section": "body",
+          "sentence": "The disease had spread widely over the province of Hubei, but was contained as a result of a strict quarantine imposed on January 23, 2020."
+        },
+        {
+          "paper_id": "14220553c9160c06bb99f59d59e6a8ecf3595226",
+          "cord_uid": "98jz8tox",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033415",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Understanding these tradeoffs are important in planning the public health response to COVID-19, because if the survival of infected patients is sufficiently sensitive to declines in the healthcare labor force, then school closures could increase deaths."
+        },
+        {
+          "paper_id": "815745bf1b522d33fd7371cc9a6561a2a93ef87e",
+          "cord_uid": "er3zmcz2",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.10.20021519",
+          "publish_time": "2020-02-12",
+          "section": "body",
+          "sentence": "Then, Wuhan city limited inflow and outflow of people on January 23, 2020\uff0c which was the key measures to prevent and control the outbreak."
+        },
+        {
+          "paper_id": "5f6a410a4ba086b296100a8a5a10df59eb337c90",
+          "cord_uid": "vpouyyev",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.05.20020750",
+          "publish_time": "2020-02-06",
+          "section": "body",
+          "sentence": "Instead of basic reproductive number R0, R was estimated because social distancing measures have been introduced to many parts of China, since the quarantine of Wuhan on January 23, 2020."
+        },
+        {
+          "paper_id": "a99b24730ab1768a968a582caa998ab84b96f007",
+          "cord_uid": "32v44sw9",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30260-9",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "To mitigate the spread of the virus, the Chinese Government has pro gressively implemented metro politan-wide quarantine of Wuhan and several nearby cities since Jan 23-24, 2020."
+        },
+        {
+          "paper_id": "d282b79ca6f7cafe79c135b5d21101eb54312651",
+          "cord_uid": "u1i5onqr",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20036418",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "Social distancing was one of the most effective policies to control past epidemic disease by limitation human to human transmission and reducing mortality and morbidity ( 29 , 30 , 30 ) ."
+        },
+        {
+          "paper_id": "9231e9d6dd98dca26e67eaf02eea8c0ad0bcce3b",
+          "cord_uid": "us7d19p5",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20037457",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Understanding whether the efficacy of school closure in terms of reducing the spread of disease is sufficient to justify these impacts is therefore important."
+        },
+        {
+          "paper_id": "8c02b83c2bb1c50496b7c0513506b1e54e4b795f",
+          "cord_uid": "ojsjwxc9",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1473-3099(06)70502-3",
+          "publish_time": "2006-07-31",
+          "section": "body",
+          "sentence": "For example, closing schools would slow the spread of disease, but must be done in the fi rst week or two of a national epidemic."
+        },
+        {
+          "paper_id": "815745bf1b522d33fd7371cc9a6561a2a93ef87e",
+          "cord_uid": "er3zmcz2",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.10.20021519",
+          "publish_time": "2020-02-12",
+          "section": "body",
+          "sentence": "To mitigate the spread of the virus, Chinese Government has implemented extremely serious quarantine prevention measures since Jan 23, 2020."
+        },
+        {
+          "paper_id": "ba1c4c0de19352d0b9ed7db6199803b621f0a8f2",
+          "cord_uid": "28ddm9um",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.18.20024448",
+          "publish_time": "2020-02-20",
+          "section": "body",
+          "sentence": "Since Jan 23, 2020, the Chinese government has put Wuhan and several nearby cities under quarantine, hoping to stop the disease from spreading to other parts of the country."
+        },
+        {
+          "paper_id": "0f8261c63cdeeb5c2bf9294eba2954e1ca71b244",
+          "cord_uid": "jtwb17u8",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.03.20029843",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "[5] [6] [7] These containment measures aim to reduce transmission, thereby delaying the timing and reducing the size of the epidemic peak, buying time for preparations in the healthcare system, and enabling the potential for vaccines and drugs to be used later on. 5 For example, social distancing measures have been effective in past influenza epidemics by curbing human-to-human transmission and reducing morbidity and mortality."
+        }
+      ]
+    }
+  ]
+}

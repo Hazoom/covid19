@@ -1,0 +1,1158 @@
+{
+  "taskName": "What has been published about ethical and social science considerations?",
+  "subTasks": [
+    {
+      "sub_task_description": "Efforts to articulate and translate existing ethical principles and standards to salient issues in COVID-2019",
+      "seed_sentences": [
+        "The standards address patient care issues within a quality framework that defines the programme.",
+        "First, we summarize the research articles presented in this Special Issue and then issue a call for renewed action to end discrimination and marginalization in our societies, and to strengthen wider efforts to support the health of the most marginalized people.",
+        "ChEMBL [14] , an open database that brings chemical, bioactivity, and genomic data together to translate genomic information into effective new drugs, is employed to construct our 2019-nCoV training set.",
+        "These findings can help the government and health departments better communicate with the public on health and translate public health needs into practice to create targeted measures to prevent and control the spread of COVID-19."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "59ebacae3048d5db81d51968371b6350658e8b94",
+          "cord_uid": "q856rx6b",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038026",
+          "publish_time": "2020-03-20",
+          "section": "abstract",
+          "sentence": "These findings can help the government and health departments better communicate with the public on health and translate public health needs into practice to create targeted measures to prevent and control the spread of COVID-19."
+        },
+        {
+          "paper_id": "e8c7b2f05f0f2019cfc877124a427213cdd26504",
+          "cord_uid": "a17ddpg7",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7084917/",
+          "publish_time": "2020-03-05",
+          "section": "abstract",
+          "sentence": "First, we summarize the research articles presented in this Special Issue and then issue a call for renewed action to end discrimination and marginalization in our societies, and to strengthen wider efforts to support the health of the most marginalized people."
+        },
+        {
+          "paper_id": "e8c7b2f05f0f2019cfc877124a427213cdd26504",
+          "cord_uid": "a17ddpg7",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7084917/",
+          "publish_time": "2020-03-05",
+          "section": "body",
+          "sentence": "First, we summarize the research articles presented in this Special Issue and then issue a call for renewed action to end discrimination and marginalization in our societies, and to strengthen wider efforts to support the health of the most marginalized people."
+        },
+        {
+          "paper_id": "59ebacae3048d5db81d51968371b6350658e8b94",
+          "cord_uid": "q856rx6b",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038026",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "These findings can help the government and health departments better communicate with the public about public health and then translate public health needs into practice to create targeted measures to prevent and control the spread of COVID-19."
+        },
+        {
+          "paper_id": "6ae20454d1a9f228864de24660c2460becbc8151",
+          "cord_uid": "1qniriu0",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.01.30.927889",
+          "publish_time": "2020-02-04",
+          "section": "body",
+          "sentence": "ChEMBL, 29 an open database which brings chemical, bioactivity, and genomic data together to translate genomic information into effective new drugs is employed to construct our 2019-nCoV training set."
+        },
+        {
+          "paper_id": "d46f697fd11f243bcc22b9a0109d6ca6e2c7503a",
+          "cord_uid": "4so0jlrx",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30553-5",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "The outbreak of COVID-19 is another opportunity to review the preparedness of all countries and apply key recommendations from other major public health emergencies to better protect the world against future health emergencies."
+        },
+        {
+          "paper_id": "ad0e9c151402df00786e0aa6dd30987004966deb",
+          "cord_uid": "kiq6xb6k",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30607-3",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Such studies have implications for public health recommendations regarding the type and duration of isolation required for patients with COVID-19 and will allow for more focused and targeted contact tracing and testing of appropriate specimens based on duration of illness."
+        },
+        {
+          "paper_id": "4ffcd1d8e0f56c5a238bbd4040ec23410ef71a1b",
+          "cord_uid": "grx4gx95",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20036368",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "This summary may help to understand the disease dynamics in the early phase of COVID-19 outbreak, therefore, to guide future public health measures in other countries."
+        },
+        {
+          "paper_id": "4ffcd1d8e0f56c5a238bbd4040ec23410ef71a1b",
+          "cord_uid": "grx4gx95",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20036368",
+          "publish_time": "2020-03-18",
+          "section": "abstract",
+          "sentence": "This summary may help to understand the disease dynamics in the early phase of COVID-19 outbreak, therefore, to guide future public health measures."
+        },
+        {
+          "paper_id": "59ebacae3048d5db81d51968371b6350658e8b94",
+          "cord_uid": "q856rx6b",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038026",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "This study analyzes the public's response to and attention given to the COVID-19 epidemic, which will help public health professionals monitor public response, identify public needs as early as possible, make timely public health prevention and control measures, and disseminate knowledge to citizens in a targeted manner to better respond to the current COVID-19 epidemic."
+        },
+        {
+          "paper_id": "882219fd09765ece5b362415882397e78972373e",
+          "cord_uid": "lbcxl6w9",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30567-5",
+          "publish_time": "2020-03-09",
+          "section": "body",
+          "sentence": "Ongoing data collection and epidemiological analysis are therefore essential parts of assessing the impacts of mitigation strategies, alongside clinical research on how to best manage seriously ill patients with COVID-19."
+        },
+        {
+          "paper_id": "875b7c463f00772fa0dc18ada678bc1ff16a4274",
+          "cord_uid": "7s9ot4vq",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.25.20027664",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "The public health implication of our study was that proper triage of patients should be implemented in out-patient clinics or on hospital admission by carefully inquiring the medical history because this will help identify patients who would be more likely to develop serious adverse outcomes during the progression of COVID-19."
+        },
+        {
+          "paper_id": "a9c98dc9001a93b57599a06a1145df12751ccad6",
+          "cord_uid": "9032hh5c",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20039388",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Epidemiologic descriptions and predictions could help in the understanding of the dynamic of the COVID-19 disease, supporting governments and health authorities in the resources allocation [5] ."
+        },
+        {
+          "paper_id": "4bad7c8192b20b827a75388414b54b27756bb76e",
+          "cord_uid": "e0bp8cuj",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jtho.2020.02.024",
+          "publish_time": "2020-03-07",
+          "section": "body",
+          "sentence": "This important work helps us understand the pathogenesis of COVID-19 and to be better prepared to identify potentially infected patients."
+        },
+        {
+          "paper_id": "faf3ed3d6fc359c1f310e32061e5ed414fee7017",
+          "cord_uid": "w30flf42",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1473-3099(20)30152-3",
+          "publish_time": "2020-03-05",
+          "section": "abstract",
+          "sentence": "Most importantly, we need to communicate the epidemiology and risks of COVID-19 clearly, both to health-care workers and to the general population, and to implement infection prevention and control measures that are based on sound scientific principles."
+        },
+        {
+          "paper_id": "d09c0f71b1a404a592d0dcad2c3409d43c375f99",
+          "cord_uid": "djq0lvr2",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20036533",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "Understanding the characteristics of the incubation period is crucial to design public health efforts for effectively isolating the cases and contacts to control outbreaks of Covid-19."
+        },
+        {
+          "paper_id": "18718a50df53a9c27fbdf34bbe30a90bcfd151ad",
+          "cord_uid": "s2q6g91b",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s2173-5727(11)70030-3",
+          "publish_time": "2011-12-31",
+          "section": "body",
+          "sentence": "The need to improve research in Intensive Care Medicine, in relation to ethical norms, with the incorporation of social utility criteria, adequate methodology, the adoption of a global and collaborative perspective, and taking into account the heterogeneity of critically ill patients."
+        },
+        {
+          "paper_id": "fd96fc1859201e13e35526c188e022fa6e335327",
+          "cord_uid": "v3gww4iv",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.06.20031955",
+          "publish_time": "2020-03-08",
+          "section": "body",
+          "sentence": "Our findings could help the officials to take strong and effective measures to contain the spread of COVID-19 and to the prediction of the epidemic trend."
+        },
+        {
+          "paper_id": "3ec1eb120d6bcca31ddc69832be05988c0952e60",
+          "cord_uid": "bnvfkfgt",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7079436/",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "We hope that our suggestions can aid others in ensuring safe patient transport for COVID-19 and reduce nosocomial spread.  "
+        },
+        {
+          "paper_id": "adaab431554087bf59b391f6b588f675666fc163",
+          "cord_uid": "xvkjy1bh",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijsu.2020.03.001",
+          "publish_time": "2020-04-30",
+          "section": "body",
+          "sentence": "People need to protect themselves and others from contracting COVID-19 by following public health advice, adopting the suggested preventive measures, and complying with the guidance issued by health authorities."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Efforts to embed ethics across all thematic areas, engage with novel ethical issues that arise and coordinate to minimize duplication of oversight",
+      "seed_sentences": [
+        "The vital ethical issue is whether administration of chloroquine in the setting of COVID-19 is experimental, and therefore requires ethical trial approval, or off-label (i.e. ethically justifiable as the best available treatment).",
+        "This study was approved by the ethics commissions of hospital, with a waiver of informed consent due to a public health outbreak investigation.",
+        "Here, we address epidemiological issues that affect the feasibility of an algorithmic approach to instantaneous contact tracing; ethical and implementation issues are addressed separately.",
+        "The involvement of social workers and ethics committee members might help to alleviate some of the ethical hurdles encountered during the management of a patient receiving ECMO in such highpressure settings."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "68ed7bb581b0cf32116ee46767c08e3180b05c34",
+          "cord_uid": "9hh17k86",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.27.20029009",
+          "publish_time": "2020-02-29",
+          "section": "body",
+          "sentence": "This study was approved by the ethics commissions of hospital, with a waiver of informed consent due to a public health outbreak investigation."
+        },
+        {
+          "paper_id": "7817b03a433df4b3f93127feac4b0d8090c5b56c",
+          "cord_uid": "h3mdrikn",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jcrc.2020.03.005",
+          "publish_time": "2020-03-10",
+          "section": "body",
+          "sentence": "The vital ethical issue is whether administration of chloroquine in the setting of COVID-19 is experimental, and therefore requires ethical trial approval, or off-label (i.e. ethically justifiable as the best available treatment)."
+        },
+        {
+          "paper_id": "23a62c1bffd5b46d2123bf6b4c16164afccf6f75",
+          "cord_uid": "aoviner2",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s2213-2600(20)30121-1",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "The involvement of social workers and ethics committee members might help to alleviate some of the ethical hurdles encountered during the management of a patient receiving ECMO in such highpressure settings. 57 Quality assurance and clinical governance frameworks must be maintained, and ECMO quality reviewed frequently, to measure overall outcomes of ECMO administration, identify problems, and formulate plans for corrective actions."
+        },
+        {
+          "paper_id": "68ed7bb581b0cf32116ee46767c08e3180b05c34",
+          "cord_uid": "9hh17k86",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.27.20029009",
+          "publish_time": "2020-02-29",
+          "section": "body",
+          "sentence": "This study was approved by the ethics commissions of the Fifth Hospital of Wuhan, with a waiver of informed consent due to a public health outbreak investigation."
+        },
+        {
+          "paper_id": "7817b03a433df4b3f93127feac4b0d8090c5b56c",
+          "cord_uid": "h3mdrikn",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jcrc.2020.03.005",
+          "publish_time": "2020-03-10",
+          "section": "body",
+          "sentence": "Although the use of chloroquine may be supported by expert opinion, clinical use of this drug in patients with COVID-19 should adhere to the MEURI framework or after ethical approval as a trial as stated by the WHO."
+        },
+        {
+          "paper_id": "f2f114ba9f0b618a8b2396ab87f2d861ba9fd483",
+          "cord_uid": "suhqgmlo",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.10.20033944",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Written informed consent was waived by the ethics commission of the designated hospital, as this study was carried out for emerging infectious disease and to be part of a continuing public health outbreak investigation under national authorization."
+        },
+        {
+          "paper_id": "871a4524f272de0abe395fbf5788eaf31068783c",
+          "cord_uid": "706bf8qr",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ypmed.2012.04.009",
+          "publish_time": "2012-06-30",
+          "section": "body",
+          "sentence": "The study was approved by the Ethics Committees of the participating hospitals."
+        },
+        {
+          "paper_id": "4380f0251c595d6cb551e643198d2dacd3c6746c",
+          "cord_uid": "na8odvj7",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.04.20030916",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "The study was conducted in accordance with the International Coordinating Council for Clinical Trials and the Helsinki Declaration, and was approved by the Hospital Ethics Review Committee (Ethics No 2020PS038K), and the patient's informed consent was exempted."
+        },
+        {
+          "paper_id": "ac80b578181504b29f62b712b8be899394e284d6",
+          "cord_uid": "5skk3nj4",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.crad.2020.03.004",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "The study was approved by the hospital's ethics committee and written informed consent was obtained from patients involved before enrolment when data were collected retrospectively."
+        },
+        {
+          "paper_id": "2e3c753682fba0d9c7a0462051a1287b9599ac92",
+          "cord_uid": "j8odxs1h",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.22.20040782",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "This study was approved by the Ethics of Committees of Shanghai General Hospital Affiliated to School of Medicine of Shanghai Jiao Tong University."
+        },
+        {
+          "paper_id": "85e00fe8099f838d9eb455a7f62440d1bf7bc639",
+          "cord_uid": "b3y9zxjr",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.22.20034041",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "The Ethics Committee of the hospital approved the study."
+        },
+        {
+          "paper_id": "bb6317ba4c887c1e5d5409d3727c908234f307ea",
+          "cord_uid": "5sfojk7y",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.11.20031096",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "This study received approval from the Research Ethics Committees of the participating institutions, which waivered informed patient consent because the study only involved retrospective review of clinical data and because of the urgent nature of the study to investigate a new serious infections disease."
+        },
+        {
+          "paper_id": "7852aafdfb9e59e6af78a47af796325434f8922a",
+          "cord_uid": "g41pd9uz",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.29.20029520",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "The study was approved by the Ethics Committee of General Hospital of Central Theater Command."
+        },
+        {
+          "paper_id": "52dfa9fbd6dcf7c51fac5cb85a88fb154506a722",
+          "cord_uid": "ea99j2qn",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7033720/",
+          "publish_time": "2020-02-05",
+          "section": "body",
+          "sentence": "This study was approved by the Ethics Committee of the Zhongnan Hospital of Wuhan University."
+        },
+        {
+          "paper_id": "bd2f7613f5818fc82f76c7d68bdac08825957fb9",
+          "cord_uid": "s9j21zsy",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.27.20028027",
+          "publish_time": "2020-03-01",
+          "section": "body",
+          "sentence": "The study was approved by the Tongji Hospital Ethics Committee."
+        },
+        {
+          "paper_id": "6cb6b64fdab3a0ae02ac8db2523135231916b730",
+          "cord_uid": "smfve2ur",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jinf.2020.03.001",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "This study was reviewed and approved by the Ethical Committee of Zhongnan Hospital of Wuhan University."
+        },
+        {
+          "paper_id": "bab88fad90f0f0448f75af01145e2f1b90412527",
+          "cord_uid": "y353snxw",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.12.20034876",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "The investigation was approved by the ethics committee of Union hospital, Tongji Medical college, Huazhong University of science and Technology."
+        },
+        {
+          "paper_id": "c29f7a8a7083893adb02de2cf6742c45ed2518ee",
+          "cord_uid": "xsgxd5sy",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20027078",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "This study was approved by the institutional review board of the ethics committee in our hospital (QFELL-KY-2020-11) and written informed consent was obtained from patients' legal guardians prior to enrollment."
+        },
+        {
+          "paper_id": "1a9d52bf91d858565ab0ccc8cab03e919ef6e5c3",
+          "cord_uid": "7w1bhaz6",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.16.20037259",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "This study was approved by the Ethics Committee of Chongqing Public Health Medical Treatment Center (NO.2020-018-01-KY), informed consent was allowed to be waived."
+        },
+        {
+          "paper_id": "ce1d3a3103bbd8b5d7164259be03f1d6d3d5d251",
+          "cord_uid": "jvhrp51s",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20036319",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "The study was approved by Wuhan Children's Hospital Ethics Committee, and official informed consent was obtained from guardians involved before enrollment when data were collected retrospectively."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Efforts to support sustained education, access, and capacity building in the area of ethics",
+      "seed_sentences": [
+        "Medical ethics review should strictly abide by the review work content of the \"Ethical Review Methods for Biomedical Research Involving Humans\" [17] , and here are two suggestions: (1) undertake experimental projects that match actual capabilities; (2) design of experimental schemes An appropriate research method must be selected based on the nature of the problem to be solved"
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "844892a4ad49ce5ebfd11bc24e225acba4e67e12",
+          "cord_uid": "i5k60y63",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-801773-9.00005-4",
+          "publish_time": "2017-12-31",
+          "section": "body",
+          "sentence": "Risk Assessment Policy should be laid down as per the FSMS and documented as per the requirements, maintaining the scientific integrity of the process."
+        },
+        {
+          "paper_id": "7817b03a433df4b3f93127feac4b0d8090c5b56c",
+          "cord_uid": "h3mdrikn",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jcrc.2020.03.005",
+          "publish_time": "2020-03-10",
+          "section": "abstract",
+          "sentence": "However, clinical use should either adhere to the Monitored Emergency Use of Unregistered Interventions (MEURI) framework or be ethically approved as a trial as stated by the World Health Organization."
+        },
+        {
+          "paper_id": "b12f20ae397aa504f852fc25caeb3e3b0e5b1942",
+          "cord_uid": "fk2wc715",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.16.20034934",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "It is worth noting that 22.84% of the studies failed ethical verification.All human-oriented clinical trials must in any case follow the \"Helsinki Declaration\", which has become a consensus of the medical community, and follow the basic ethical principle of \"doctors should provide medical care in the best interests of patients\" to ensure the subjects [15, 16] .The ChiCTR Center has issued a warning and requested the supplementary information of the failed units to be reviewed.Medical ethics review should strictly abide by the review work content of the \"Ethical Review Methods for Biomedical Research Involving Humans\" [17] , and here are two suggestions: (1) undertake experimental projects that match actual capabilities; (2) design of experimental schemes An appropriate research method must be selected based on the nature of the problem to be solved."
+        },
+        {
+          "paper_id": "4b36607cdbc54f8006161a9a1839489dd0a51269",
+          "cord_uid": "dqpujzo8",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7017878/",
+          "publish_time": "2020-02-10",
+          "section": "body",
+          "sentence": "This included a unit on the ethical conduct of human subject research, an in-depth review of the study design and objectives, and comprehensive information on the implementation of observational research, semistructured interviews and notetaking within the context of this study."
+        },
+        {
+          "paper_id": "7817b03a433df4b3f93127feac4b0d8090c5b56c",
+          "cord_uid": "h3mdrikn",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jcrc.2020.03.005",
+          "publish_time": "2020-03-10",
+          "section": "body",
+          "sentence": "Although the use of chloroquine may be supported by expert opinion, clinical use of this drug in patients with COVID-19 should adhere to the MEURI framework or after ethical approval as a trial as stated by the WHO."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Efforts to establish a team at WHO that will be integrated within multidisciplinary research and operational platforms and that will connect with existing and expanded global networks of social sciences.",
+      "seed_sentences": [
+        "Organisations such as the Global Outbreak Alert and Response Network, the Coalition for Epidemic Preparedness Innovations, and the Global Research Collaboration For Infectious Disease Preparedness, supported by the WHO Research Blueprint and its Global Coordinating Mechanism, were able to accelerate the outbreak response and rapidly initiate technical platforms for the development of vaccines and therapeutics.",
+        "Organisations such as the Global Outbreak Alert and Response Network (GOARN), the Coalition for Epidemic Preparedness Innovations (CEPI), the Global Research Collaboration For Infectious Disease Preparedness (GloPID-R) and the Global Initiative on Sharing All Influenza Data (GISAID) have been supported by the WHO Research Blueprint and its Global Coordinating Mechanism to provide a forum where those with the expertise and capacity to contribute to managing new threats can come together both between and during outbreaks to develop innovative solutions to emerging problems.",
+        "This study adds to the existing report of the WHO and literature by systematically evaluating the global changing .",
+        "Based on the 147 unified geographical framework, this research quickly absorbed and in-148 tegrated geographical big data, including the WHO data released inter-149 nationally, daily domestic health and disease control data, professional 150 population health platform data, Tencent location request data, Baidu 151 migration data, microblog text data, patient spatiotemporal trajectory 152 data, international airline data, census data, education enrollment data, 153 land cover data, remote sensing imagery and other multisource data 154 graduated symbols, heat maps, and three-dimensional maps."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "5d254ed178c092d3639ce70ae9653593acc471f9",
+          "cord_uid": "uze6ze8o",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7026896/",
+          "publish_time": "2020-02-05",
+          "section": "body",
+          "sentence": "Organisations such as the Global Outbreak Alert and Response Network (GOARN), the Coalition for Epidemic Preparedness Innovations (CEPI), the Global Research Collaboration For Infectious Disease Preparedness (GloPID-R) and the Global Initiative on Sharing All Influenza Data (GISAID) have been supported by the WHO Research Blueprint and its Global Coordinating Mechanism to provide a forum where those with the expertise and capacity to contribute to managing new threats can come together both between and during outbreaks to develop innovative solutions to emerging problems."
+        },
+        {
+          "paper_id": "b787353f562f7017c8f3131062c73cd45b86bccf",
+          "cord_uid": "fb0nwixw",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.20039602",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "This study adds to the existing report of the WHO and literature by systematically evaluating the global changing ."
+        },
+        {
+          "paper_id": "d27a33853d4631f93853f0d850bc06d8d1d833c6",
+          "cord_uid": "5gbkrs73",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.geosus.2020.03.005",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Based on the 147 unified geographical framework, this research quickly absorbed and in-148 tegrated geographical big data, including the WHO data released inter-149 nationally, daily domestic health and disease control data, professional 150 population health platform data, Tencent location request data, Baidu 151 migration data, microblog text data, patient spatiotemporal trajectory 152 data, international airline data, census data, education enrollment data, 153 land cover data, remote sensing imagery and other multisource data 154 graduated symbols, heat maps, and three-dimensional maps. 176 In this study, a data-driven multiscale mapping template was de- The comparison of the spatial track of a patient's activities is a critical 205 technical task for virus tracking and transmission chain reconstruction. 206 The comparison of activity tracks between patients and populations pro-207 vides an important scientific basis for delimiting the potentially infected 208 population."
+        },
+        {
+          "paper_id": "89795fa23ea23b2636c1c791bff839fb5580af26",
+          "cord_uid": "ap24tmzo",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30184-7",
+          "publish_time": "2020-02-21",
+          "section": "body",
+          "sentence": "When pieced together, these emerging data will permit regular refinement of the risk assessment, and real-time guidance to countries for patient management and outbreak control, including the best case definition for use in surveillance around outbreak sites and elsewhere."
+        },
+        {
+          "paper_id": "ba3efcd6b74e55327fd7db470d824fc18943f30e",
+          "cord_uid": "86opxdjd",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.20.20025882",
+          "publish_time": "2020-02-23",
+          "section": "body",
+          "sentence": "We believe that using near real-time multi-modal mobility datasets and detailed disease surveillance with qualitative and quantitative inputs on ongoing interventions and preparedness efforts will aid in swift and efficient global response to such outbreaks."
+        },
+        {
+          "paper_id": "9b8b585778de84e7ced9af95e4977ff678970471",
+          "cord_uid": "5yk1j4ms",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-012374410-4.00712-3",
+          "publish_time": "2008-12-31",
+          "section": "body",
+          "sentence": "Answers to these questions form the basis for implementing immediate practical measures and prospective planning enabling specific and rapid virus detection and epidemic containment, which may include the use and development of antiviral drugs and vaccines."
+        },
+        {
+          "paper_id": "b787353f562f7017c8f3131062c73cd45b86bccf",
+          "cord_uid": "fb0nwixw",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.20039602",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Obtaining and analyzing this data will not only expand current knowledge on the disease global trends but also inform strategic planning and alliance for prompt global containment of the disease and prevention of further outbreaks."
+        },
+        {
+          "paper_id": "f50072cb0c2b1dfd3fa5b8badcf53fa41ece25b8",
+          "cord_uid": "a4mf2vnp",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.resmic.2014.01.003",
+          "publish_time": "2014-03-31",
+          "section": "body",
+          "sentence": "Hay described how the Global Influenza Surveillance and Response System (and the former Global Influenza Surveillance Network) coordinated by the WHO functions as a highly responsive global cooperative mechanism that provides the basis for biannual recommendations on vaccine composition, and the early detection of and rapid response to novel influenza virus infections."
+        },
+        {
+          "paper_id": "22616110b79baaf4c9d23f130a9ee35c64d991f7",
+          "cord_uid": "poamqquy",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1469-0691.2011.03559.x",
+          "publish_time": "2011-05-31",
+          "section": "body",
+          "sentence": "The use of immunoinformatics has greatly revolutionized the field of vaccine research, discovery and development."
+        },
+        {
+          "paper_id": "af0863f211e09c946909e8a4ac83166952221c4d",
+          "cord_uid": "3fflt6a3",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.pdisas.2020.100080",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "Utilise existing disaster coordination mechanisms at regional level to inform epidemic response The regional bodies like ASEAN, SAARC, European Union (EU) need to enact regional protocols, coupled with information portals on pandemic risk."
+        },
+        {
+          "paper_id": "9484af8bce6df5d0a9912a686e44a1db4a381635",
+          "cord_uid": "7tscp04v",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5583508/",
+          "publish_time": "2017-08-29",
+          "section": "body",
+          "sentence": "Recent outbreaks of emerging infections, caused by viruses such as Ebola, Middle East Respiratory Syndrome (MERS), Coronavirus, and Zika Virus, represent a global threat and emphasize the critical need for new vaccine concepts and vectors and for rapid clinical development."
+        },
+        {
+          "paper_id": "b90d85915f51ab637584d162d5bd78a7e02cdae3",
+          "cord_uid": "zkk5d6gd",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1331/japha.2009.09007",
+          "publish_time": "2009-08-31",
+          "section": "body",
+          "sentence": "Project Bioshield Act Increased the federal share of bioterrorism projects and allowed NIAID to hire technical experts and to award grants and contracts for advancing the research and development efforts in vaccine areas."
+        },
+        {
+          "paper_id": "2f8a485f1acf987c6fe46621216f436b0e351af6",
+          "cord_uid": "l5ogbl5p",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1473-3099(20)30129-8",
+          "publish_time": "2020-03-05",
+          "section": "body",
+          "sentence": "Organisations such as the Global Outbreak Alert and Response Network, the Coalition for Epidemic Preparedness Innovations, and the Global Research Collaboration For Infectious Disease Preparedness, supported by the WHO Research Blueprint and its Global Coordinating Mechanism, were able to accelerate the outbreak response and rapidly initiate technical platforms for the development of vaccines and therapeutics. 29 Standardised data collection tools were distributed and used within a matter of weeks, and the first clinical trials for therapeutic interventions was initiated in January. 30 China has higher medical standards, a better educated healthcare workforce, and more technical and scientific expertise now than in 2003."
+        },
+        {
+          "paper_id": "d46f697fd11f243bcc22b9a0109d6ca6e2c7503a",
+          "cord_uid": "4so0jlrx",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30553-5",
+          "publish_time": "2020-03-18",
+          "section": "abstract",
+          "sentence": "Capacity building and collaboration between countries are needed to strengthen global readiness for outbreak control."
+        },
+        {
+          "paper_id": "e9110fa452f2db8694a31a73a7c6651c53547078",
+          "cord_uid": "apy0nc1m",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-1-4557-4801-3.00134-x",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "Furthermore, these powerful new techniques are leading to breakthroughs in foundational problems in viral pathogenesis, such as the nature of virus-cell interactions that produce disease, immunoprotective and immunopathologic host responses to infection, and viral and host determinants of contagion."
+        },
+        {
+          "paper_id": "facbfdfa7189ca9ff83dc30e5d241ab22e962dbf",
+          "cord_uid": "ky4xlih3",
+          "source": "CZI",
+          "url": "https://doi.org/10.1002/cti2.1115",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "In this Clinical & Translational Immunology Special Feature, I illustrate a strategic vision integrating these themes to create new, effective, economical and robust antiviral therapies and immunotherapies, with both the realities and the opportunities afforded to researchers working in our changing world squarely in mind."
+        },
+        {
+          "paper_id": "deb849e250a706bc165ea6daf17350349501b88a",
+          "cord_uid": "cq11iuek",
+          "source": "PMC",
+          "url": "https://www.pnas.org/content/pnas/117/8/3888.full.pdf",
+          "publish_time": "2020-02-14",
+          "section": "body",
+          "sentence": "Although technologies to monitor EID risk are advancing rapidly, policies to deal with such risk are largely reactive, focusing on outbreak investigation and control and on development of vaccines and therapeutic drugs targeting known pathogens."
+        },
+        {
+          "paper_id": "a39e7b5b0ab86e7610108b88e3a527d8d4ac302b",
+          "cord_uid": "cq11iuek",
+          "source": "PMC",
+          "url": "https://www.pnas.org/content/pnas/117/8/3888.full.pdf",
+          "publish_time": "2020-02-14",
+          "section": "body",
+          "sentence": "Although technologies to monitor EID risk are advancing rapidly, policies to deal with such risk are largely reactive, focusing on outbreak investigation and control and on development of vaccines and therapeutic drugs targeting known pathogens."
+        },
+        {
+          "paper_id": "bf32c955fc8c02552b6a88b5fa1d7eed5c78d818",
+          "cord_uid": "8d1076ge",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.tre.2020.101922",
+          "publish_time": "2020-04-30",
+          "section": "body",
+          "sentence": "The outcomes of this research can be used by decision-makers to predict the operative and long-term impacts of epidemic outbreaks on the SCs and develop pandemic SC plans."
+        },
+        {
+          "paper_id": "a39e7b5b0ab86e7610108b88e3a527d8d4ac302b",
+          "cord_uid": "cq11iuek",
+          "source": "PMC",
+          "url": "https://www.pnas.org/content/pnas/117/8/3888.full.pdf",
+          "publish_time": "2020-02-14",
+          "section": "body",
+          "sentence": "Better consideration of EID risk under a One Health lens can thus advance key international initiatives, such as the GHSA, which emphasizes multisectoral solutions to strengthen preparedness capacity for prevention, detection, and response to biological threats."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Efforts to develop qualitative assessment frameworks to systematically collect information related to local barriers and enablers for the uptake and adherence to public health measures for prevention and control. This includes the rapid identification of the secondary impacts of these measures. (e.g. use of surgical masks, modification of health seeking behaviors for SRH, school closures)",
+      "seed_sentences": [
+        "The containment strategy of integrated nonpharmaceutical interventions (NPIs) including travel bans and restrictions, contact reductions and social distancing, early case identification and isolation have been rapidly deloyed across China to contain the outbreak, and the combination of these interventions appears to be effective.",
+        "A 15% decline in the healthcare labor force, combined with reasonable parameters for COVID-19 such as a 15% case reduction from school closings and 2% baseline mortality rate implies that a 15% loss in the healthcare labor force must decrease the survival probability per percent healthcare worker lost by 17.6% for a school closure to increase cumulative mortality.",
+        "It is useful to know the critical value of where school closure stops saving lives and starts increasing mortality, which is defined by the condition Imposing condition (2) as a strict equality and rearranging yields , when exceeds this value, then more lives are lost from school closures than saved.",
+        "Here we present a simple yet effective model based on Baidu Migration data and the confirmed cases data to quantify the consequences and importance of Wuhan lock-down combined with nationwide traffic restrictions and Stay At Home Movement on the ongoing spread of COVID-19 across China Mainland, and preliminarily assess the efforts of 29 Provinces and 44 prefecture-level cities during the epidemic. ."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "14220553c9160c06bb99f59d59e6a8ecf3595226",
+          "cord_uid": "98jz8tox",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033415",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "A 15% decline in the healthcare labor force, combined with reasonable parameters for COVID-19 such as a 15% case reduction from school closings and 2% baseline mortality rate implies that a 15% loss in the healthcare labor force must decrease the survival probability per percent healthcare worker loss by 17.6% for school closures to increase cumulative mortality."
+        },
+        {
+          "paper_id": "14220553c9160c06bb99f59d59e6a8ecf3595226",
+          "cord_uid": "98jz8tox",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033415",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "It is useful to know the critical value of where school closure stops saving lives and starts increasing mortality, which is defined by the condition Imposing condition (2) as a strict equality and rearranging yields , when exceeds this value, then more lives are lost from school closures than saved. 1 is the maximum percent increase in the mortality rate that does not reverse lives saved from school closures. is a more inutive quantity, and it also provides a number that is invariant to ."
+        },
+        {
+          "paper_id": "14220553c9160c06bb99f59d59e6a8ecf3595226",
+          "cord_uid": "98jz8tox",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033415",
+          "publish_time": "2020-03-13",
+          "section": "abstract",
+          "sentence": "This means that the per infection mortality rate cannot increase from 2% to 2.35% when the healthcare workforce declines by 15%; otherwise, school closures will lead to a greater number of deaths than they prevent."
+        },
+        {
+          "paper_id": "53326420d7eb607538a248c0da27d3b092f651e2",
+          "cord_uid": "ad3tct5b",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.24.20027326",
+          "publish_time": "2020-02-25",
+          "section": "body",
+          "sentence": "Such difference is likely an outcome of the implementation of containment measures in China 3,20,21 , and of the increased awareness at different phases of the outbreak 22-26 (i.e. before and after containment measures) leading to self-isolation and quarantine. ."
+        },
+        {
+          "paper_id": "14220553c9160c06bb99f59d59e6a8ecf3595226",
+          "cord_uid": "98jz8tox",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033415",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Therefore, the mortality rate after the closure must rise to at least 2.35% as a result of the 15% loss in the healthcare workforce in order to undo the benefits of school closures."
+        },
+        {
+          "paper_id": "ac3e33b6ed12e43208d76bf455f3b81067e6ac6d",
+          "cord_uid": "z7r45291",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033464",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Therefore the outcome in the mainland China, both in terms of the infections avoided and the timing when the outbreak begins to be under control, is the consequence of a systematic package of social distancing (self-isolation and self-protection), contacting tracing, and detection/diagnosis."
+        },
+        {
+          "paper_id": "14220553c9160c06bb99f59d59e6a8ecf3595226",
+          "cord_uid": "98jz8tox",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033415",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Critical level of the percent increase in mortality resulting from healthcare work force absenteeism associated with school closure induced child care obligations , , that would offset the mortality reduction achieved by school closures through case reductions (color scale)."
+        },
+        {
+          "paper_id": "2309dc999803317771dca7201f28e8632b8bf773",
+          "cord_uid": "8avkjc84",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jinf.2020.02.014",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "The strategies to reduce human exposure taken in China, such as limitation on population mobility and interpersonal contact rates, strict quarantine on migrants, have already had good impacts on control of the epidemic."
+        },
+        {
+          "paper_id": "ac3e33b6ed12e43208d76bf455f3b81067e6ac6d",
+          "cord_uid": "z7r45291",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033464",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Case importation before the January 23 rd lock-down also resulted in outbreaks in all Chinese provinces, but the systematic package of interventions implemented across the country led to effective containment."
+        },
+        {
+          "paper_id": "14220553c9160c06bb99f59d59e6a8ecf3595226",
+          "cord_uid": "98jz8tox",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033415",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "If the is large, then the increase percent increase in the mortality rate is below , and closing schools saves lives."
+        },
+        {
+          "paper_id": "14220553c9160c06bb99f59d59e6a8ecf3595226",
+          "cord_uid": "98jz8tox",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033415",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "The red point, 0.176, indicates the best national estimates of cases avoided due to school closures (15% [13%,17%]) and the mean estimates of unmet healthcare workforce childcare obligations, 15%."
+        },
+        {
+          "paper_id": "ac3e33b6ed12e43208d76bf455f3b81067e6ac6d",
+          "cord_uid": "z7r45291",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033464",
+          "publish_time": "2020-03-13",
+          "section": "abstract",
+          "sentence": "We show that a coherent and integrated approach with stringent public health interventions is the key to the success of containing the epidemic in China and specially its provinces outside its epicenter, and we show that this approach can also be effective to mitigate the burden of the COVID-19 epidemic in South Korea."
+        },
+        {
+          "paper_id": "0f8261c63cdeeb5c2bf9294eba2954e1ca71b244",
+          "cord_uid": "jtwb17u8",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.03.20029843",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "The NPIs deployed in China appear to be effectively containing the COVID-19 outbreak, but the efficacy of the different interventions varied, with the early case detection and contact reduction being the most effective."
+        },
+        {
+          "paper_id": "d83f238ec5aeaf6f08d20c4416c1ca9f631f698e",
+          "cord_uid": "4kzv06e6",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20039404",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Given the close tradeoff in mortality for school closures and absenteeism, we believe it would be beneficial to explore ways to circumvent the ostensible tradeoff through child care ."
+        },
+        {
+          "paper_id": "14220553c9160c06bb99f59d59e6a8ecf3595226",
+          "cord_uid": "98jz8tox",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033415",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Conversely, if is near zero, then then it is likely that the percent increase in mortality exceeds and school closure increases the cumulative mortality."
+        },
+        {
+          "paper_id": "02652961663ca435c195fb0ed3e43642e04cfab3",
+          "cord_uid": "0syudviv",
+          "source": "CZI",
+          "url": "https://doi.org/10.2807/1560-7917.es.2020.25.8.2000197",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "The initial response to the emergence of SARS-CoV-2 is a strategy of containment consisting of active case finding in combination with case isolation and quarantine of contacts [3] , a strategy for which adequate worldwide laboratory services are indispensable as seeding of the virus through travellers from China could be expected."
+        },
+        {
+          "paper_id": "bbc58d18fa17952bcf938fb675e48db6881a24a7",
+          "cord_uid": "0syudviv",
+          "source": "CZI",
+          "url": "https://doi.org/10.2807/1560-7917.es.2020.25.8.2000197",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "The initial response to the emergence of SARS-CoV-2 is a strategy of containment consisting of active case finding in combination with case isolation and quarantine of contacts [3] , a strategy for which adequate worldwide laboratory services are indispensable as seeding of the virus through travellers from China could be expected."
+        },
+        {
+          "paper_id": "5f139e7f8d32031001059ea4a8fce4881a1f725b",
+          "cord_uid": "un4wkfua",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jacc.2020.03.021",
+          "publish_time": "2020-03-19",
+          "section": "body",
+          "sentence": "Despite measures to reduce exposure, staff shortages should be anticipated based on both the possibility of infected/exposed/quarantined staff as well as the derivative impact on staff due to school closings which will put a strain on home, dependent, and child-care resources."
+        },
+        {
+          "paper_id": "397bb0bda9dfe7504abf8ba98bf628e3368f9329",
+          "cord_uid": "901m6zw0",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038638",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "What happened in China shows that quarantine, social distancing, and isolation of infected populations may be able to contain the epidemic. [11] ."
+        },
+        {
+          "paper_id": "e3fa5ac28a1cd0b48cccb80d7ab65cdc429b08ac",
+          "cord_uid": "luxgc7st",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075990/",
+          "publish_time": "2020-02-24",
+          "section": "body",
+          "sentence": "The success in the containment of the current COVID-19 outbreak in China, affected countries, and the sporadic travel related cases worldwide will depend much on conventional public health measures, rapid clinical case identification, contact investigation, strict infection control in healthcare facilities, patient isolation, public education and community containment (quarantine) [53] ."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Efforts to identify how the burden of responding to the outbreak and implementing public health measures affects the physical and psychological health of those providing care for Covid-19 patients and identify the immediate needs that must be addressed.",
+      "seed_sentences": [
+        "Consistent with the results of previous studies in SARS-affected and H1N1 influenza-affected hospitals, our study showed that nurses and medical technicians presented higher rates of psychological stress than doctors, probably because they have more and closer contact with patients.",
+        "Specifically, what we can do to deal with an outbreak like COVID-19 would be to (1) collect information as early as possible, (2) monitor the epidemic as close as possible just like we do for an earthquake and make preparations for a hurricane and (3) communicate with the society and use confirmed data appropriately reframed not causing or exacerbating fear and panic in the public, stress and distress among medical and public health professionals, as well as administrators to make right decisions and take the right strategies at the right time in the right places for the right people.",
+        "Psychological stress, especially vicarious traumatization (VT) caused by the COVID-19 pandemic, should not be ignored.",
+        "Therefore, early intervention of VT and psychological stress for the GP and medical staff, as well as the transparent announcement of epidemic information can facilitate the psychological treatment and control of COVID-19."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "469ed0f00c09e2637351c9735c306f27acf3aace",
+          "cord_uid": "36g4zdqa",
+          "source": "CZI",
+          "url": "https://doi.org/10.1186/s41256-020-00137-4",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Specifically, what we can do to deal with an outbreak like COVID-19 would be to (1) collect information as early as possible, (2) monitor the epidemic as close as possible just like we do for an earthquake and make preparations for a hurricane and (3) communicate with the society and use confirmed data appropriately reframed not causing or exacerbating fear and panic in the public, stress and distress among medical and public health professionals, as well as administrators to make right decisions and take the right strategies at the right time in the right places for the right people."
+        },
+        {
+          "paper_id": "14783283da3482bf2aab4e6100fe4ea5c29d8db7",
+          "cord_uid": "s43mous6",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.29.20029322",
+          "publish_time": "2020-03-03",
+          "section": "abstract",
+          "sentence": "Psychological stress, especially vicarious traumatization (VT) caused by the COVID-19 pandemic, should not be ignored."
+        },
+        {
+          "paper_id": "4eca1f55ea6141d3be5280fd504dbd3585d097ab",
+          "cord_uid": "v2u96kmc",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.bbi.2020.03.007",
+          "publish_time": "2020-03-10",
+          "section": "body",
+          "sentence": "Therefore, early intervention of vicarious traumatization and psychological stress for the general public and medical staff, as well as the transparent announcement of epidemic information can facilitate the psychological treatment and control of COVID-19."
+        },
+        {
+          "paper_id": "46ef984b54bda15d5f23858a2d0a0eb64f39f5d8",
+          "cord_uid": "3qqzthx8",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.fsiml.2020.100013",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "-Particular attention should also be paid to certify that staff deployed to provide psychological-psychiatric care in institutions are informed and/or sensitized of known potential risk factors for a more severe course of a Covid-19 infection of their own (advanced age, somatic comorbidities, chronic respiratory diseases, hypertension, cancer, known immune deficiencies etc.)."
+        },
+        {
+          "paper_id": "b2f67d533f2749807f2537f3775b39da3b186051",
+          "cord_uid": "3qqzthx8",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.fsiml.2020.100013",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "-Particular attention should also be paid to certify that staff deployed to provide psychological-psychiatric care in institutions are informed and/or sensitized of known potential risk factors for a more severe course of a Covid-19 infection of their own (advanced age, somatic comorbidities, chronic respiratory diseases, hypertension, cancer, known immune deficiencies etc.)."
+        },
+        {
+          "paper_id": "94e62a756a8f77d56f465194b69e260afad78eea",
+          "cord_uid": "tv9xsned",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.20039818",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Early examination of risk factors in COVID-19 patients could distinguish severe patients from mild patients effectively and facilitate appropriate treatment."
+        },
+        {
+          "paper_id": "ed4a41df2cf4e14a59f8c3899a8b19a2fbf1c291",
+          "cord_uid": "51b7hss1",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20037515",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Early identification of patients approaching to severe COVID-19 patients will lead to better management and optimal use of medical resources."
+        },
+        {
+          "paper_id": "ed4a41df2cf4e14a59f8c3899a8b19a2fbf1c291",
+          "cord_uid": "51b7hss1",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20037515",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Therefore, early identification of patients at high risk for progression to severe COVID-19 will facilitate appropriate supportive care and reduce the mortality rate, unnecessary or inappropriate healthcare utilization via patient prioritization."
+        },
+        {
+          "paper_id": "d9eeeb81d17be6a722b11081f13576de197d249f",
+          "cord_uid": "b2znv6pa",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.24.20027201",
+          "publish_time": "2020-02-25",
+          "section": "body",
+          "sentence": "We expect our findings will shed light on the appropriate management of the HD center and HD patients in face of COVID-19 or other similar epidemic emerging. ."
+        },
+        {
+          "paper_id": "469ed0f00c09e2637351c9735c306f27acf3aace",
+          "cord_uid": "36g4zdqa",
+          "source": "CZI",
+          "url": "https://doi.org/10.1186/s41256-020-00137-4",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "As soon as an outbreak is confirmed, the follow measures should be in position immediately 1) closely and carefully monitor the epidemic; 2) take evidence-based interventions to control the epidemic, 3) actively assess responses of the epidemic to the interventions; 4) allow errors in the intervention, particularly during the early period of the epidemic, 5) always prepare for alternatives."
+        },
+        {
+          "paper_id": "6f92b2053d88d3a78029983b4d231f867e5c0ee1",
+          "cord_uid": "wztm0rbx",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.dsx.2020.03.013",
+          "publish_time": "2020-03-25",
+          "section": "body",
+          "sentence": "It is therefore highly desirable that the future studies on COVID-19 specifically describe the incidence, mechanisms, clinical presentation and outcomes of various CV manifestations in these patients."
+        },
+        {
+          "paper_id": "46ef984b54bda15d5f23858a2d0a0eb64f39f5d8",
+          "cord_uid": "3qqzthx8",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.fsiml.2020.100013",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "-Given the flood of perceivable unsettling information on Covid-19, staff providing psychological or psychiatric treatment should be informed regularly and urgently about symptomatology and presentation and on the realistic clinical course, also in comparison to other infectious diseases or in comparison to other daily risks."
+        },
+        {
+          "paper_id": "b2f67d533f2749807f2537f3775b39da3b186051",
+          "cord_uid": "3qqzthx8",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.fsiml.2020.100013",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "-Given the flood of perceivable unsettling information on Covid-19, staff providing psychological or psychiatric treatment should be informed regularly and urgently about symptomatology and presentation and on the realistic clinical course, also in comparison to other infectious diseases or in comparison to other daily risks."
+        },
+        {
+          "paper_id": "f3ff1ecae96700f41b83d2a034a3a959428388b0",
+          "cord_uid": "fmymklz6",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.19.20025023",
+          "publish_time": "2020-02-23",
+          "section": "body",
+          "sentence": "Further understanding of the epidemiological and clinical features of COVID-19 is of great importance for the early detection of patients and reduction of severe cases and deaths [12] ."
+        },
+        {
+          "paper_id": "882219fd09765ece5b362415882397e78972373e",
+          "cord_uid": "lbcxl6w9",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30567-5",
+          "publish_time": "2020-03-09",
+          "section": "body",
+          "sentence": "Ongoing data collection and epidemiological analysis are therefore essential parts of assessing the impacts of mitigation strategies, alongside clinical research on how to best manage seriously ill patients with COVID-19."
+        },
+        {
+          "paper_id": "00e5a723d44eb9f2698c38b518eff85c00f9753b",
+          "cord_uid": "65b267ic",
+          "source": "CZI",
+          "url": "https://doi.org/10.1097/cm9.0000000000000760",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "However, clinicians and researchers should be acutely aware of the likelihood for the potential existence of such transmitters of SARS-CoV-2 infection in the general population, and of the means to identify and isolate such individuals expeditiously in order to prevent a reduction of the current epidemic doubling time of approximately 7 days, and to limit viral transmission and spread [7] ."
+        },
+        {
+          "paper_id": "fd96fc1859201e13e35526c188e022fa6e335327",
+          "cord_uid": "v3gww4iv",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.06.20031955",
+          "publish_time": "2020-03-08",
+          "section": "body",
+          "sentence": "Our findings could help the officials to take strong and effective measures to contain the spread of COVID-19 and to the prediction of the epidemic trend."
+        },
+        {
+          "paper_id": "7ba04e4cbbdfdb584fc2d10a2dcc8155f19c2a5f",
+          "cord_uid": "r79doruj",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s2215-0366(20)30078-x",
+          "publish_time": "2020-02-19",
+          "section": "body",
+          "sentence": "in addition to disease knowledge and protective measures, pre-job training was arranged to address identification of and responses to psychological problems in patients with COVID-19, and hospital security staff were available to be sent to help deal with uncooperative patients."
+        },
+        {
+          "paper_id": "5b7b7f5243c116df8abfde1175562d5d51d9026b",
+          "cord_uid": "mmta80cq",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ajem.2020.03.027",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "According to experiences in the prevention and control of the COVID-19 epidemics, the deployment of emergency department trauma doctors to participate in COVID-19 prevention yielded encouraging effect."
+        },
+        {
+          "paper_id": "320e1640a5ddfcbed21e1afff08a86dc1b0af5b2",
+          "cord_uid": "w49i0xkz",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jacc.2020.03.031",
+          "publish_time": "2020-03-19",
+          "section": "body",
+          "sentence": "The objective of this review is to characterize the CV impact of COVID-19, its potential consequences in patients with established CVD, as well as considerations for individual patients (with and without COVID- 19) , health care workers, and health systems, as understanding and addressing these issues will be crucial to optimize outcomes during the current critical period and beyond."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Efforts to identify the underlying drivers of fear, anxiety and stigma that fuel misinformation and rumor, particularly through social media.",
+      "seed_sentences": [
+        "Similarly, the current COVID-19 outbreak and response have been accompanied by a massive \"infodemic\"-an overabundance of information-some accurate and many not-that makes it hard for people to find trustworthy sources and reliable guidance [10] , as most turn to social media, it is vital to track and respond to myths and rumors, an up-to-date reference should be maintained.",
+        "Reassuringly, DXY.cn maintains a special section dedicated to debunking fake news, myths, and rumours about the COVID-19 outbreak.",
+        "The unpredictable future of this epidemic has been exacerbated by myths and misinformation, often driven by erroneous news reports and the public's misunderstanding of health messages, thus causing worry in the population."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "97040e1e32165ddc6f5ac806f9d970c4141c561e",
+          "cord_uid": "8ojxsgup",
+          "source": "CZI",
+          "url": "https://doi.org/10.4414/smw.2020.20203",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "So, despite the dramatic increase of rapidly available data, public health authorities remain torn back and forth between the options of overreacting and frightening the population or underreacting putting citizen at risk in their aim to provide advice to countries and individuals on measures to protect health and prevent the spread of this outbreak."
+        },
+        {
+          "paper_id": "49847b15bc5e27a977fe0baec29f8ade3ccee245",
+          "cord_uid": "c9xs7idm",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.janxdis.2020.102196",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "Lack of faith in the healthcare system is likely to fuel fears about the consequences of becoming infected."
+        },
+        {
+          "paper_id": "9c7207b5bb54f0a33ee90dadc982c73f3be3cf19",
+          "cord_uid": "kz7jwdyj",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7081539/",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "Public confusion leaves citizens unprepared for combatting a public health crisis."
+        },
+        {
+          "paper_id": "6931b5e9ff438fd47df998904ce32f6f027514e8",
+          "cord_uid": "kxd03q02",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7052559/",
+          "publish_time": "2020-02-26",
+          "section": "body",
+          "sentence": "However, discrimination and prejudice driven by fear or misinformation have been flowing within and outside China [19, [25] [26] [27] [28] [29] [30] [31] , triggering panic and jeopardizing the response efforts of health workers and health authorities [25, 32] ."
+        },
+        {
+          "paper_id": "8517d45c79ceb3302e56904bf028a7ec6140db41",
+          "cord_uid": "fy65vg05",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.tmaid.2020.101624",
+          "publish_time": "2020-03-14",
+          "section": "body",
+          "sentence": "In such situations, anxiety, often enhanced by the media, distorts how we think about new diseases, and when it comes to making decisions that involve risks, humans can be irrational in quite systematic ways [10] ."
+        },
+        {
+          "paper_id": "a42784abfc6f33d60ef37d4b03e4ce1e8627079a",
+          "cord_uid": "i2wzig78",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.acra.2020.02.003",
+          "publish_time": "2020-02-26",
+          "section": "body",
+          "sentence": "If the imaging diagnosis is ignored, it may greatly threaten medical personnel and the public."
+        },
+        {
+          "paper_id": "7df2a4456a1aca5cc46fcc6d7c0d46dc5e182544",
+          "cord_uid": "vsn43pxu",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.janxdis.2020.102211",
+          "publish_time": "2020-04-30",
+          "section": "body",
+          "sentence": "Misinterpretations of bodily sensations and changes are influenced by one's beliefs about health and disease, which in those with high health anxiety often include beliefs that all bodily sensations and changes are signs of illness and that one is especially weak or vulnerable to becoming ill."
+        },
+        {
+          "paper_id": "9b1e1c869a26b53973683d284250c2f4a8a339f6",
+          "cord_uid": "11hi1jel",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.22.20040287",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "However, it is possible that the relative risk varies during the course of the pandemic, and at high levels of compromise in the workforce and health system, it is likely to be higher due to inability to provide timely care."
+        },
+        {
+          "paper_id": "abca4179b3826ec453deacc4aed1030a0ded2700",
+          "cord_uid": "y30na770",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.psychres.2020.112934",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Furthermore, the significant shortage of masks and disinfectants, the overwhelming and sensational news headlines, and erroneous news reports have also added to anxiety and fear (Ayittey et al., 2020) ."
+        },
+        {
+          "paper_id": "c8c052d27aaf8015316dcd2644fa5e0b3870cea1",
+          "cord_uid": "e2p46wa8",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.05.20031088",
+          "publish_time": "2020-03-08",
+          "section": "abstract",
+          "sentence": "However, in settings where this performance is unrealistically high and the outbreak of COVID-19 continues to grow, so too will the burden of the number of contacts traced for active monitoring or quarantine."
+        },
+        {
+          "paper_id": "c8c052d27aaf8015316dcd2644fa5e0b3870cea1",
+          "cord_uid": "e2p46wa8",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.05.20031088",
+          "publish_time": "2020-03-08",
+          "section": "body",
+          "sentence": "However, in settings where this performance is unrealistically high and the outbreak of COVID-19 continues to grow, so too will the burden of the number of contacts traced for active monitoring or quarantine."
+        },
+        {
+          "paper_id": "e62e453735dc2022f4d81aa9b22769de30d0bb90",
+          "cord_uid": "32vs98ya",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.16.20023804",
+          "publish_time": "2020-02-18",
+          "section": "body",
+          "sentence": "This result may be related to the sudden outbreak of the epidemic, the lack of medical resources for early response, and the failure of timely diagnosis and treatment of infected patients."
+        },
+        {
+          "paper_id": "4b198a136ae3666ddd590299150ad7498d7e0130",
+          "cord_uid": "vov6o1jx",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.respe.2017.08.001",
+          "publish_time": "2018-02-28",
+          "section": "body",
+          "sentence": "The lack of comprehension and communication between medical staff and the affected community, as well as the potential lack of comprehension of the measures set in place can prompt affected individuals to hide, due to the uncertainty of their fate."
+        },
+        {
+          "paper_id": "7df2a4456a1aca5cc46fcc6d7c0d46dc5e182544",
+          "cord_uid": "vsn43pxu",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.janxdis.2020.102211",
+          "publish_time": "2020-04-30",
+          "section": "body",
+          "sentence": "People with high health anxiety tend to misinterpret benign bodily sensations and changes as dangerous."
+        },
+        {
+          "paper_id": "5470929d340ca0fbb030ce8e00a885a0d730adbe",
+          "cord_uid": "qejmwvst",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.12.20034595",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "However, to pick out a reliable predictable model/method is far from simple, a rational evaluation of various possible choices is eagerly needed, especially under the severe threat of COVID-19 epidemics which is spreading worldwide right now."
+        }
+      ]
+    }
+  ]
+}

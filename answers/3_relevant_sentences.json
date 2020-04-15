@@ -1,0 +1,1331 @@
+{
+  "taskName": "What do we know about virus genetics, origin, and evolution?",
+  "subTasks": [
+    {
+      "sub_task_description": "Real-time tracking of whole genomes and a mechanism for coordinating the rapid dissemination of that information to inform the development of diagnostics and therapeutics and to track variations of the virus over time.",
+      "seed_sentences": [
+        "Their data showed that the 2019-nCoV viral genomes have about 79% homology to the genome of severe acute respiratory syndrome (SARS) coronavirus (SARS-CoV), about 52% homology to that of Middle East respiratory syndrome coronavirus (MERS-CoV), and about 87% homology to the genomes of two strains of batderived SARS-like coronavirus identified in Zhoushan in 2015.",
+        "To discover the evolutionary history of the viruses, we analyzed the genomes of 2019-nCoVs, compared their variations in both nucleotide and amino acid sequence levels, and determined their molecular clock related characteristics such as the nucleotide substitution rate and the most recent common ancestor.",
+        "Further tracking the genome mutations with additional strains of 2019-nCoV isolated from patients in 20 different locations at different time points will provide insights to understand the molecular evolution of this rapid spreading viruses.",
+        "In this work, we developed a Prophylactic Antiviral CRISPR in huMAN cells (PAC-MAN) strategy as a form of genetic intervention to target SARS-CoV-2, IAV, and potentially all sequenced coronaviruses.",
+        "The use of proteases in priming and activation, combined with receptor binding and ionic interactions (e.g. H + and Ca 2+ ) together control viral stability and transmission, and also control the conformational changes in the S protein that dictate the viral entry process into host cells (Belouzard et The rapid dissemination and sharing of information during the 2019-nCoV outbreak has surpassed that of both MERS-CoV or SARS-CoV, where the latter virus was only identified after several months and with a genome available a month later (Gralinski and Menachery, 2020) ."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "2ea102f58147dab02e4dea90eb90dbc67149f678",
+          "cord_uid": "jmrg4oeb",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.29.971101",
+          "publish_time": "2020-03-02",
+          "section": "body",
+          "sentence": "Further tracking the genome mutations with additional strains of 2019-nCoV isolated from patients in 20 different locations at different time points will provide insights to understand the molecular evolution of this rapid spreading viruses."
+        },
+        {
+          "paper_id": "05d47dd5b46f86428de058db4ecc8bca76a9ad16",
+          "cord_uid": "xieqswct",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.13.991307",
+          "publish_time": "2020-03-14",
+          "section": "body",
+          "sentence": "In this work, we developed a Prophylactic Antiviral CRISPR in huMAN cells (PAC-MAN) strategy as a form of genetic intervention to target SARS-CoV-2, IAV, and potentially all sequenced coronaviruses."
+        },
+        {
+          "paper_id": "e9110fa452f2db8694a31a73a7c6651c53547078",
+          "cord_uid": "apy0nc1m",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-1-4557-4801-3.00134-x",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "This concept was first appreciated in studies of poliovirus when it was recognized that the capacity of the virus to infect specific tissues paralleled its capacity to bind homogenates of the susceptible tissues in vitro. 182 The importance of receptor expression as a determinant of poliovirus tropism was conclusively demonstrated by showing that cells not susceptible for poliovirus replication could be made susceptible by recombinant expression of the poliovirus receptor. 183 In addition to the availability of virus receptors, tropism can also be determined by postattachment steps in viral replication, such as the regulation of viral gene expression."
+        },
+        {
+          "paper_id": "836190d366ba8e34c3a5df8a24d17a36fd503505",
+          "cord_uid": "eecyduzq",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.01.930537",
+          "publish_time": "2020-02-03",
+          "section": "body",
+          "sentence": "Since the receptor-binding of S-protein is the major driving force for the viral transmission to the human host cells, such a strength order supports that 2019-nCoV is able to infect the human host cells like SARS-CoV ."
+        },
+        {
+          "paper_id": "7ab9f9fcea519ebce527c3ede8091beedbb26ad9",
+          "cord_uid": "xa6kwguo",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.10.942185",
+          "publish_time": "2020-02-18",
+          "section": "body",
+          "sentence": "In this study, we perform bioinformatic analyses and homology structural modeling of 2019-nCoV S, in comparison with closely related viruses."
+        },
+        {
+          "paper_id": "b705170c7527f5bc6842d90bf443fa9f9ee00bf9",
+          "cord_uid": "sty7myg4",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.17.951848",
+          "publish_time": "2020-02-18",
+          "section": "body",
+          "sentence": "The genome of 2019-nCoV shares ~ 80% identity with that of SARS-CoV and ~ 96% identical to a bat coronavirus (2) ."
+        },
+        {
+          "paper_id": "148b47504613ad536de7ad3c642157c4a70d9d9e",
+          "cord_uid": "rlpzejjt",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.antiviral.2020.104742",
+          "publish_time": "2020-04-30",
+          "section": "body",
+          "sentence": "As the priming event is essential for virus entry, the efficacy and extent of this activation step by the proteases of the target cells should regulate cellular tropism and viral pathogenesis."
+        },
+        {
+          "paper_id": "52dfa9fbd6dcf7c51fac5cb85a88fb154506a722",
+          "cord_uid": "ea99j2qn",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7033720/",
+          "publish_time": "2020-02-05",
+          "section": "body",
+          "sentence": "To reveal a more detailed relationship between 2019-nCoV and other CoVs, we reconstructed phylogenies based on nucleotide alignment of key viral genes, including ORF1a/b, S, and N."
+        },
+        {
+          "paper_id": "473fbfa4949e8349434157a9f65687087176e605",
+          "cord_uid": "wi30tue8",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.chom.2015.02.003",
+          "publish_time": "2015-03-11",
+          "section": "body",
+          "sentence": "Our data that dsRNA accumulation and activation of dsRNA-responsive host defenses in VacV-infected cells (i) are controlled by the major cellular mRNA exonuclease and (ii) are dependent upon a viral transcription factor required for the biogenesis of a specific class of mRNAs in Xrn1-depleted cells provide key biological support for the hypothesis that dsRNA comprised of viral mRNA duplexes activates PKR and RNase L."
+        },
+        {
+          "paper_id": "836190d366ba8e34c3a5df8a24d17a36fd503505",
+          "cord_uid": "eecyduzq",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.01.930537",
+          "publish_time": "2020-02-03",
+          "section": "body",
+          "sentence": "This supports that the 2019-nCoV S-protein encoded by its genome has processed human receptor-binding ability close to that of SARS-CoV, and thus this newly emerged virus is likely able to bind to ACE2 and then to drive human-to-human transmission."
+        },
+        {
+          "paper_id": "d99dbae98cc9705d9b5674bb6eb66560b4434305",
+          "cord_uid": "op69dg4q",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7063555/",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "However, it is certain that the binding of the virus to the ACE 2 receptor can induce certain immunoreactions, and the receptor diversity between humans and animal species designated as SARS-CoV-2 reservoirs further increases the complexity of COVID-19 immunopathogenicity (20) ."
+        },
+        {
+          "paper_id": "6d0127f985edbe088bc279865bef25a31f54a066",
+          "cord_uid": "3h1o0oz3",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.27.969006",
+          "publish_time": "2020-03-02",
+          "section": "body",
+          "sentence": "At the whole genome level, the sequence identify of SARS-CoV-2 was 50% to MERS-CoV, 79% to SARS-CoV, 88% to two bat-derived SARS-like coronaviruses, Bat-SL-CoVZC45 and Bat-SL-CoVZXC21 (collected in 2018 in Zhoushan, China) , and 96% to Bat-SARSr-CoV RaTG13 (collected in 2013 in Yunnan, China) (5) ."
+        },
+        {
+          "paper_id": "c8b6f2752a842dd9eb9c50a82112748ef10ba259",
+          "cord_uid": "epy7774j",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.24.963348",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "Here we analyzed the various microarray database of virus infected-or inflammatory stimulated-animals and cells, and clearly show that virus infection including SARS-CoV and MERS-CoV can obviously upregulate ACE2 expression, which suggests that 2019-nCoV may use similar strategies to augment its infection and spread. ."
+        },
+        {
+          "paper_id": "778d0ffdb56752536b6fa67c44f12c0b6320c3bf",
+          "cord_uid": "ldf7uso2",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7081066/",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "However, ACE2 appears to be the key functional receptor for the SARS-CoV (Coutard et al., 2020; Satija and Lal, 2007) and probably for SARS-CoV-2 (Walls et al., 2020) The interaction between the viral protein and its cell membrane receptor is a critical step in the replication cycle."
+        },
+        {
+          "paper_id": "7e8409337e69a72191475029805c6776ad43b60b",
+          "cord_uid": "rxrlbw60",
+          "source": "CZI",
+          "url": "https://doi.org/10.3855/jidc.12425",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Given the rapid increase in case numbers, contact tracing will be vital to understanding the extent of human-to-human transmission and the possibility that 2019-nCoV mutations generate viruses with a greater potential for human-to-human transmission."
+        },
+        {
+          "paper_id": "4bbb0c59babc718f67953fae032dad6ae0d7aeb1",
+          "cord_uid": "st5idleq",
+          "source": "CZI",
+          "url": "https://doi.org/10.1093/bioinformatics/btaa145",
+          "publish_time": "2020",
+          "section": "abstract",
+          "sentence": "The tool also allows tracking of new viral mutations as the outbreak expands globally, which may help to accelerate the development of novel diagnostics, drugs and vaccines to stop the COVID-19 disease."
+        },
+        {
+          "paper_id": "0187705c2a09525d5cb71ec594b82e668255fcaf",
+          "cord_uid": "vbw2g4ry",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1157/13085735",
+          "publish_time": "2006-03-31",
+          "section": "abstract",
+          "sentence": "A better knowledge of the mechanisms involved in the entry process has led to the development of agents, which may inhibit each of the different steps of the viral entry process: attachment of the gp120 to the CD4 cell receptor; binding of the gp120 to CCR5 or CXCR4 coreceptors; and the fusion of viral and cell membranes."
+        },
+        {
+          "paper_id": "b9dbb79c9e06164c3b7fefce67c11c5d6caf1fcd",
+          "cord_uid": "ac00tai9",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.01.29.925354",
+          "publish_time": "2020-01-30",
+          "section": "abstract",
+          "sentence": "Nucleotide-resolution maps of the learned associations between pathogen genomes and the infectious phenotype can be used to detect virulencerelated genes in novel agents, as we show here for the SARS-CoV-2 coronavirus, unknown before it caused a COVID-19 pandemic in 2020."
+        },
+        {
+          "paper_id": "f0ab9648f2d67c98a0ed69a2ffa6fa4e57554973",
+          "cord_uid": "m6akijzn",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30251-8",
+          "publish_time": "2020-02-28",
+          "section": "abstract",
+          "sentence": "Phylogenetic analysis of these 2019-nCoV genomes and those of other coronaviruses was used to determine the evolutionary history of the virus and help infer its likely origin."
+        },
+        {
+          "paper_id": "b7b03c0cfccc9f607bef14d153097bf57ed2ca67",
+          "cord_uid": "3egv50vb",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.dsx.2020.03.012",
+          "publish_time": "2020-03-25",
+          "section": "body",
+          "sentence": "This leads to a conformational change in the S-glycoprotein and allows proteolytic digestion by host cell proteases (TMPRSS2) ultimately leading to internalization of the virion 20 .Viral S-glycoprotein, TMPRSS2 and ACE-2 inhibition are potential targets of therapy and possibly vaccine development."
+        },
+        {
+          "paper_id": "836190d366ba8e34c3a5df8a24d17a36fd503505",
+          "cord_uid": "eecyduzq",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.01.930537",
+          "publish_time": "2020-02-03",
+          "section": "body",
+          "sentence": "Full-length genome analysis of 2019-nCoV patient samples revealed 79.5% and 96% sequence identities to SARS-CoV and a bat SARSr-Cov (severe acute respiratory syndrome-related CoV), respectively; however, sequences of the seven conserved viral replicase domains in ORF1ab show 94.6% identity between 2019-nCoV and SARS-CoV ."
+        },
+        {
+          "paper_id": "b3940a8e9cd829a3346f913119efdb1ffcd8ec77",
+          "cord_uid": "trlni6iq",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.cell.2020.02.058",
+          "publish_time": "2020-03-09",
+          "section": "body",
+          "sentence": "These observations are in line with (1) the fact that some, but not all, of these viruses use ACE2 as entry receptor (Ge et al., 2013; Ren et al., 2008; Yang et al., 2015a) ; and (2) that the S 1 subunit is more exposed at the viral surface than the fusion machinery and is likely to be subject to a more stringent selection pressure from the immune system."
+        },
+        {
+          "paper_id": "601d3c7ae4ebcd2d835e9cf8d7427ebd0b5db83f",
+          "cord_uid": "v38tjof3",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.meegid.2020.104272",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Phylogenetic analysis of these 2019-nCoV genomes and other coronaviruses was performed to determine the evolutionary history of the virus and to explore the origin of 2019-nCoV."
+        },
+        {
+          "paper_id": "df353c05aae43b69987088703edbdefa1382ef4d",
+          "cord_uid": "v38tjof3",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.meegid.2020.104272",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Phylogenetic analysis of these 2019-nCoV genomes and other coronaviruses was performed to determine the evolutionary history of the virus and to explore the origin of 2019-nCoV."
+        },
+        {
+          "paper_id": "b70d27459fd8143edf76721da40cdbca399c9fb1",
+          "cord_uid": "l6rqsqs2",
+          "source": "CZI",
+          "url": "https://doi.org/10.1097/cm9.0000000000000777",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Thus, it is necessary to investigate the biological characteristics and mutation trends of 2019-nCoV to assess viral transmissibility and pathogenesis."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Access to geographic and temporal diverse sample sets to understand geographic distribution and genomic differences, and determine whether there is more than one strain in circulation. Multi-lateral agreements such as the Nagoya Protocol could be leveraged.",
+      "seed_sentences": [
+        "Their data showed that the 2019-nCoV viral genomes have about 79% homology to the genome of severe acute respiratory syndrome (SARS) coronavirus (SARS-CoV), about 52% homology to that of Middle East respiratory syndrome coronavirus (MERS-CoV), and about 87% homology to the genomes of two strains of batderived SARS-like coronavirus identified in Zhoushan in 2015.",
+        "We defined the potential risk and geographic range of 2019-nCoV virus spread across three scenarios: 1) from the primary city (Wuhan) into other cities in mainland China (31 provincial regions), 2) from high-risk secondary cities into other cities across China, and 3) from high-risk cities in mainland China into cities in other countries or regions during the LNY holiday and the following three months."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "b705170c7527f5bc6842d90bf443fa9f9ee00bf9",
+          "cord_uid": "sty7myg4",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.17.951848",
+          "publish_time": "2020-02-18",
+          "section": "body",
+          "sentence": "The genome of 2019-nCoV shares ~ 80% identity with that of SARS-CoV and ~ 96% identical to a bat coronavirus (2) ."
+        },
+        {
+          "paper_id": "6d0127f985edbe088bc279865bef25a31f54a066",
+          "cord_uid": "3h1o0oz3",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.27.969006",
+          "publish_time": "2020-03-02",
+          "section": "body",
+          "sentence": "At the whole genome level, the sequence identify of SARS-CoV-2 was 50% to MERS-CoV, 79% to SARS-CoV, 88% to two bat-derived SARS-like coronaviruses, Bat-SL-CoVZC45 and Bat-SL-CoVZXC21 (collected in 2018 in Zhoushan, China) , and 96% to Bat-SARSr-CoV RaTG13 (collected in 2013 in Yunnan, China) (5) ."
+        },
+        {
+          "paper_id": "a6d2875c8b70a41ea815511417546a0689816964",
+          "cord_uid": "2w3bx6p8",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.17.20024075",
+          "publish_time": "2020-02-20",
+          "section": "body",
+          "sentence": "Next, we propagated the uncertainty in the estimated number of imported COVID-19 cases from Wuhan, and estimated the probability that a local outbreak would occur and sustain for at least three generations (hereinafter referred to as \"local outbreak risk\") for each country or territory outside mainland China."
+        },
+        {
+          "paper_id": "836190d366ba8e34c3a5df8a24d17a36fd503505",
+          "cord_uid": "eecyduzq",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.01.930537",
+          "publish_time": "2020-02-03",
+          "section": "body",
+          "sentence": "Full-length genome analysis of 2019-nCoV patient samples revealed 79.5% and 96% sequence identities to SARS-CoV and a bat SARSr-Cov (severe acute respiratory syndrome-related CoV), respectively; however, sequences of the seven conserved viral replicase domains in ORF1ab show 94.6% identity between 2019-nCoV and SARS-CoV ."
+        },
+        {
+          "paper_id": "7e8409337e69a72191475029805c6776ad43b60b",
+          "cord_uid": "rxrlbw60",
+          "source": "CZI",
+          "url": "https://doi.org/10.3855/jidc.12425",
+          "publish_time": "2020",
+          "section": "abstract",
+          "sentence": "This virus is currently referred to as 2019-nCoV (also Wuhan virus) and is related to Severe Acute Respiratory Syndrome coronavirus (SARS-CoV), although with only approximately 80% similarity at the nucleotide level."
+        },
+        {
+          "paper_id": "6fcf4019b0be24071210f97eda4baba53a6a79de",
+          "cord_uid": "rmia5w3x",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.20.20025601",
+          "publish_time": "2020-02-25",
+          "section": "body",
+          "sentence": "Recent studies analysis showed that the novel coronavirus had 78% nucleotide homology with human SARS-CoV [17, 18] ."
+        },
+        {
+          "paper_id": "418538e40e195b8a0c7669b3a005ebcdb6a325c3",
+          "cord_uid": "4yuw7jo3",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7073332/",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "The 2019-nCoV/SARS-CoV-2 shares the highest nucleotide sequence identity (79.7%) with SARS-CoV among the six other known pathogenic HCoVs, revealing conserved evolutionary relationship between 2019-nCoV/SARS-CoV-2 and SARS-CoV (Fig. 2a) ."
+        },
+        {
+          "paper_id": "d070dc3ef2125fd891f3e023598831e23a145880",
+          "cord_uid": "qebbkr6d",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.11.986836",
+          "publish_time": "2020-03-12",
+          "section": "body",
+          "sentence": "First, the genome of SARS-CoV-2 is phylogenetically close to that of SARS-CoV, with about 79% of sequence identity [76] , and the M (membrane), N (nucleocapsid) and E (envelope) proteins of these two coronaviruses have over 90% sequence similarities [77] ."
+        },
+        {
+          "paper_id": "267729947ca478946d5a4bffb8e13d50c3545120",
+          "cord_uid": "va4t15mb",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.02.20030130",
+          "publish_time": "2020-03-02",
+          "section": "body",
+          "sentence": "It has 84% nucleotide homology with bat SARS-like coronavirus, 78% homology with human SARS virus, and approximately 50% homology with MERS virus (3, 4) ."
+        },
+        {
+          "paper_id": "d5a1fed3fc7baf4e31c897ec639995106e9fae78",
+          "cord_uid": "j5bepvvw",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.983247",
+          "publish_time": "2020-03-12",
+          "section": "body",
+          "sentence": "Shortly thereafter, a novel coronavirus, 2019-nCoV, as denoted by WHO 3 , 62 was identified as the pathogen causing the coronavirus disease COVID-19 4,5 . 63 2019-nCoV with 79.5% and 96% sequence identity to SARS-CoV and a bat 64 coronavirus, SL-CoV-RaTG13, respectively 6 , was renamed SARS-CoV-2 by the which mediates membrane fusion, has 89.8% sequence identity and 96.9% sequence 83 similarity to those of SARS-CoV, and both of them utilize human 84 angiotensin-converting enzyme 2 (hACE2) as the receptor to infect human cells 6 . 85 Most importantly, the ACE2-binding affinity of the receptor-binding domain (RBD) in 86 S1 subunit of S protein of SARS-CoV-2 is 10-to 20-fold higher than that of 87 SARS-CoV 12 , which may contribute to the higher infectivity and transmissibility of 88 SARS-CoV-2 compared to SARS-CoV."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Evidence that livestock could be infected (e.g., field surveillance, genetic sequencing, receptor binding) and serve as a reservoir after the epidemic appears to be over. 1. Evidence of whether farmers are infected, and whether farmers could have played a role in the origin",
+      "seed_sentences": [
+        "2 The new type of coronavirus infection was believed to have been transmitted from animals, and by January 2020 it was suspected that the initially doi: 10 .1136/bmj.m606 | BMJ 2020;368:m606 | the bmj affected patients had been infected with the virus through human to human transmission.",
+        "Their earliest sampling time was 8 December, 2019, and 91-214 days before that day, the viruses infected human or host animals and began to diverge in the evolution process.",
+        "This market, termed a \"wet\" market, sells a variety of seafood, cuts of meat, and both live and dead animals in over one thousand stalls in constant close contact; however, whether this market was the origin of the outbreak remains unknown [9] .",
+        "As animal markets had been implicated in the SARS-CoV outbreak of 2002-2003, and initial 2019-nCoV infections are also related to the seafood market with wildlife trading, it was soon assumed that wild animals were also involved in the emergence of 2019-nCoV. Yet, from [42, 43] .",
+        "Although the origin of SARS-CoV-2 is still being investigated, current evidence suggests it was transmitted to humans through the spread of wild animals illegally sold in Huanan Seafood Wholesale Market [7] .",
+        "Since coronaviruses causing COVID-19, Severe Acute Respiratory Syndrome (SARS), and Middle East Respiratory Syndrome (MERS) are able to suddenly transfer to humans from diverse animal hosts that act as viral reservoirs, there is a pressing need to develop methods to combat other potential coronaviruses that may emerge in the future [1] [2] [3] ."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "18dc6a67045d2687d2b5c11c85797f42824ed243",
+          "cord_uid": "ua6aeg5a",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.01.30.926477",
+          "publish_time": "2020-01-30",
+          "section": "body",
+          "sentence": "Their earliest sampling time was 8 December, 2019, and 91-214 days before that day, the viruses infected human or host animals and began to diverge in the evolution process."
+        },
+        {
+          "paper_id": "1e45cd5feb7928bbc8bcd524d9c6b7adeae08a6b",
+          "cord_uid": "368pz09b",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.19.20025288",
+          "publish_time": "2020-02-23",
+          "section": "body",
+          "sentence": "Although the origin of SARS-CoV-2 is still being investigated, current evidence suggests it was transmitted to humans through the spread of wild animals illegally sold in Huanan Seafood Wholesale Market [7] ."
+        },
+        {
+          "paper_id": "2f547947bf87380c7fab13ba2c663bbbe9e643ec",
+          "cord_uid": "9il7coyk",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.molmed.2020.02.008",
+          "publish_time": "2020-03-21",
+          "section": "body",
+          "sentence": "As animal markets had been implicated in the SARS-CoV outbreak of 2002-2003, and initial 2019-nCoV infections are also related to the seafood market with wildlife trading, it was soon assumed that wild animals were also involved in the emergence of 2019-nCoV."
+        },
+        {
+          "paper_id": "1ddf28f6c2bc0a7db607b0771748e34fb6659f51",
+          "cord_uid": "hq4jb2wy",
+          "source": "CZI",
+          "url": "https://doi.org/10.3389/fmicb.2020.00298",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "With the increasing numbers of 2019-nCoV and MERS-CoV infections and continuous threat of re-emergence of SARS-CoV, as well as the potential of SARS-and MERS-related CoVs to cause human infections, it is critical to develop vaccines with strong efficacy and safety targeting these viruses to prevent their infections in humans."
+        },
+        {
+          "paper_id": "66b67940ae16f657fd93fad230081d20d98c55f7",
+          "cord_uid": "v13k3mm2",
+          "source": "CZI",
+          "url": "https://doi.org/10.1093/pcmedi/pbaa002",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Laboratory findings include lymphopenia, leucopenia, elevated concentrations of procalcitonin, serum amyloid A, D-dimer, and hypersensitive troponin and longer prothrombin times. 7 The 2019-nCoV epidemic is suspected to be highly similar to other highly threatening coronavirus diseases such as SARS and Middle Eastern respiratory syndrome (MERS), both intensely infectious diseases related to animals. 2, 3 Like with other epidemics, health systems need to respond quickly and accurately to control the spread of the virus."
+        },
+        {
+          "paper_id": "f6f1ec12291f743de1504003929ea654217f2af6",
+          "cord_uid": "8p1agcm2",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.12.946087",
+          "publish_time": "2020-02-20",
+          "section": "abstract",
+          "sentence": "Effective countermeasures against the recent emergence and rapid expansion of the 2019-Novel Coronavirus (2019-nCoV) require the development of data and tools to understand and monitor viral spread and immune responses."
+        },
+        {
+          "paper_id": "836190d366ba8e34c3a5df8a24d17a36fd503505",
+          "cord_uid": "eecyduzq",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.01.930537",
+          "publish_time": "2020-02-03",
+          "section": "abstract",
+          "sentence": "The outbreaks of 2002/2003 SARS, 2012/2015 MERS and 2019/2020 Wuhan respiratory syndrome clearly indicate that genome evolution of an animal coronavirus (CoV) may enable it to acquire human transmission ability, and thereby to cause serious threats to global public health."
+        },
+        {
+          "paper_id": "0c2d3b2313ae36f94f856546e7509712da3b6a99",
+          "cord_uid": "ft9l3sur",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30304-4",
+          "publish_time": "2020-02-21",
+          "section": "body",
+          "sentence": "Given the scale and rapid spread of the 2019 novel coronavirus (2019-nCoV) acute respiratory disease, there is an immediate need for medicines that can help before a vaccine can be produced."
+        },
+        {
+          "paper_id": "89795fa23ea23b2636c1c791bff839fb5580af26",
+          "cord_uid": "ap24tmzo",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30184-7",
+          "publish_time": "2020-02-21",
+          "section": "body",
+          "sentence": "The current outbreak of the 2019 novel coronavirus (2019-nCoV) is yet another example of the importance of infections at the animal-human interface, and the concerns that arise from the emergence of a newly identified organism as it spreads through human populations and across national and international borders."
+        },
+        {
+          "paper_id": "da75902f59044ff7ac9ca22af247cf85dde6a603",
+          "cord_uid": "stjxfvou",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.rceng.2020.01.001",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "Coronaviruses have an animal reservoir, usually wild animals, and can be transmitted to humans. 1 Once the virus infects humans it can evolve into strains not previously identified."
+        },
+        {
+          "paper_id": "4faf34d795e5ff74a886528e46268af783fe712b",
+          "cord_uid": "647zcjgu",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.bbrc.2020.02.071",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "The 2019-nCoV outbreak is thought to be initiated from a seafood market that also carried many other wild live animals including snakes, birds, and various mammals."
+        },
+        {
+          "paper_id": "fe69099d9491aa640dd66e8d606651c262755361",
+          "cord_uid": "647zcjgu",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.bbrc.2020.02.071",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "The 2019-nCoV outbreak is thought to be initiated from a seafood market that also carried many other wild live animals including snakes, birds, and various mammals."
+        },
+        {
+          "paper_id": "1ddf28f6c2bc0a7db607b0771748e34fb6659f51",
+          "cord_uid": "hq4jb2wy",
+          "source": "CZI",
+          "url": "https://doi.org/10.3389/fmicb.2020.00298",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "It is prospected that more structureguided novel strategies will be developed to improve the overall immunogenicity and efficacy of subunit vaccines against emerging pathogenic human coronaviruses, including those targeting SARS-CoV and MERS-CoV."
+        },
+        {
+          "paper_id": "05d47dd5b46f86428de058db4ecc8bca76a9ad16",
+          "cord_uid": "xieqswct",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.13.991307",
+          "publish_time": "2020-03-14",
+          "section": "body",
+          "sentence": "As a further advantage, we demonstrate a potential pan-coronavirus strategy to target not only viruses that circulate in humans, but also those that currently are found in animal reservoirs that might transfer to humans to cause disease."
+        },
+        {
+          "paper_id": "0f34f180295196b73c5bf7c4892fb023d388cb15",
+          "cord_uid": "oxs4o9xe",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/s2542-5196(20)30035-8",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "The 2019-nCoV is another virus in the pipeline that originated from contact with animals, in this case a seafood and animal market in Wuhan, China."
+        },
+        {
+          "paper_id": "bb378eca9aac6493c663f2ea0c66a0c912fd8308",
+          "cord_uid": "oxs4o9xe",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/s2542-5196(20)30035-8",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "The 2019-nCoV is another virus in the pipeline that originated from contact with animals, in this case a seafood and animal market in Wuhan, China."
+        },
+        {
+          "paper_id": "47a7579cf81744a0a83b1b64cc9017fb600452cd",
+          "cord_uid": "ddq2q1pg",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.22.20035246",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Although the natural reservoir of SARS-CoV-2 is still unknown, early confirmed cases are strongly associated with exposures to wild animals in the Huanan Seafood Wholesale Market (2) , and sustained human-to-human transmission is observed particularly among close contacts (3, 4) ."
+        },
+        {
+          "paper_id": "aa507fcd3876f8c422993c8dd13847b1b8e77471",
+          "cord_uid": "ao7bkcv5",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.19.950253",
+          "publish_time": "2020-02-20",
+          "section": "abstract",
+          "sentence": "1 To explore potential intermediate host of a novel coronavirus is vital to rapidly control 2 continuous COVID-19 spread."
+        },
+        {
+          "paper_id": "6bb53d6ec1c4fe079a56a40c5cc3747b29ad857c",
+          "cord_uid": "da61tfr9",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijantimicag.2020.105938",
+          "publish_time": "2020-03-12",
+          "section": "body",
+          "sentence": "Because of its broad spectrum of action against viruses, including most coronaviruses and particularly its close relative SARS-CoV-1, and because coronavirus cell entry occurs through the endolysosomal pathway [48] , it made sense in a situation of a public-health emergency and the absence of any known efficient therapy to investigate the possible effect of chloroquine against SARS-CoV-2."
+        },
+        {
+          "paper_id": "cb0831902de1f8a19992ff86bcc7e15fa2d7d687",
+          "cord_uid": "z9dolxky",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/jcm9020488",
+          "publish_time": "2020",
+          "section": "abstract",
+          "sentence": "To support the hypothesis of zoonotic origin of 2019-nCoV stemming from the Huanan seafood market, the index case should have had exposure history related to the market and the virus should have been identified from animals sold at the market."
+        },
+        {
+          "paper_id": "779c1b5cb3afe3d50219aa2af791014a22eb355a",
+          "cord_uid": "iy9vjpuh",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/v12020194",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Additional clinical research on the treatment of SARS, MERS, and the new coronavirus 2019-nCoV is necessary if we are to understand the potential risks and benefits of novel therapies and new vaccines in pregnancy."
+        },
+        {
+          "paper_id": "93d8f1552a81587e2f88e38580cbe4753b9934f1",
+          "cord_uid": "nt5sprdh",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.05.20032011",
+          "publish_time": "2020-03-08",
+          "section": "body",
+          "sentence": "Due to recombination in coronaviruses (e.g. [12, 13] ) current diagnostics may not remain fit for purpose and therefore metagenomic approaches provide independent verification of the presence of viral genomes as well information on the underlying microbiome -which may contribute to severe disease in COVID-19."
+        },
+        {
+          "paper_id": "cd4f5118038ae33283d34a15f8c3888f00e247bc",
+          "cord_uid": "szsb1oan",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jaut.2020.102434",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "The origin of SARS-CoV-2 was thought to be wild animals in the Huanan Seafood Market in Wuhan."
+        },
+        {
+          "paper_id": "d9e4c9b6b809ddc1f9dc8787f77368334e1e538b",
+          "cord_uid": "wzcaugst",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.tmaid.2020.101575",
+          "publish_time": "2020-02-06",
+          "section": "body",
+          "sentence": "After that, with MERS-CoV, and now in 2020 with the outbreak of the 2019nCoV, there is an increasing concern on highly pathogenic coronaviruses, such as these, but also other human and animal coronaviruses, should be highlighted."
+        },
+        {
+          "paper_id": "9484af8bce6df5d0a9912a686e44a1db4a381635",
+          "cord_uid": "7tscp04v",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5583508/",
+          "publish_time": "2017-08-29",
+          "section": "body",
+          "sentence": "Recent outbreaks of emerging infections, caused by viruses such as Ebola, Middle East Respiratory Syndrome (MERS), Coronavirus, and Zika Virus, represent a global threat and emphasize the critical need for new vaccine concepts and vectors and for rapid clinical development."
+        },
+        {
+          "paper_id": "cd4f5118038ae33283d34a15f8c3888f00e247bc",
+          "cord_uid": "szsb1oan",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jaut.2020.102434",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "The emergence of SARS-CoV, MERS-CoV, and now SARS-CoV-2, suggests that coronavirus will pose a lasting threat to human beings."
+        },
+        {
+          "paper_id": "1b4ab28a9391d516e1753874c73d2d244104f825",
+          "cord_uid": "p4q64ksa",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.17.952895",
+          "publish_time": "2020-02-21",
+          "section": "abstract",
+          "sentence": "The spread of the novel coronavirus (SARS-CoV-2) has triggered a global emergency, that demands urgent solutions for detection and therapy to prevent escalating health, social and economic impacts."
+        },
+        {
+          "paper_id": "a31e238ea606104be7767e9be5d639604014734d",
+          "cord_uid": "pfwhfymj",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7037444/",
+          "publish_time": "2020-02-05",
+          "section": "body",
+          "sentence": "The original cases could be due to transmission from animals to human beings, which is highly suspected to have happened in the Huanan wholesale seafood market."
+        },
+        {
+          "paper_id": "cfeda05ff998d6973560c4f55577a5feaeccb59b",
+          "cord_uid": "6vbhgwsi",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.diagmicrobio.2016.07.023",
+          "publish_time": "2016-10-31",
+          "section": "body",
+          "sentence": "Continuous surveillance studies of HPIV-3 are needed to detect novel viral variants that might acquire genetic mutations related to changes of antigenic or tropism features, because they might become a challenge in the development and future use of vaccines."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Evidence that livestock could be infected (e.g., field surveillance, genetic sequencing, receptor binding) and serve as a reservoir after the epidemic appears to be over. 2. Surveillance of mixed wildlife- livestock farms for SARS-CoV-2 and other coronaviruses in Southeast Asia.",
+      "seed_sentences": [
+        "Although the drivers of any convergent evolution are 117 unknown, its possible occurrence, as well as that of recombination, would further highlight Coronaviruses, including those related to 2019-nCoV, are clearly present in many wild 135 mammals in Asia 5,6,7,11 .",
+        "Most of the patients infected with novel 2019-nCoV had a history to the seafood and live animal markets, and the vendor used to sale wild animal species, including marmot, snake, leopard cat, bamboo rat, badger, and hedgehog in Huanan seafood wholesale market (Supplementary Figure S4 ), all of which were susceptible to the novel CoV in nature, indicating that it remains likely there was intermediate hosts in the transmission cascade from bats to humans ( Fig. 2 ) .",
+        "In this paper, results of seroepidemiological studies in horses and other animal species are presented, with the aim of showing the distribution and possible significance of this virus in the domestic and wild animal population."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "e853129ee4083236c642e86118c6eb8336c8f813",
+          "cord_uid": "um2khqhn",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jinf.2020.02.001",
+          "publish_time": "2020-02-22",
+          "section": "body",
+          "sentence": "Most of the patients infected with novel 2019-nCoV had a history to the seafood and live animal markets, and the vendor used to sale wild animal species, including marmot, snake, leopard cat, bamboo rat, badger, and hedgehog in Huanan seafood wholesale market (Supplementary Figure S4 ), all of which were susceptible to the novel CoV in nature, indicating that it remains likely there was intermediate hosts in the transmission cascade from bats to humans ( Fig. 2 ) ."
+        },
+        {
+          "paper_id": "37ff5f4e6ce52e31fefd764ae0da2cf5280c8bbf",
+          "cord_uid": "8xz0ddci",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jinf.2020.02.010",
+          "publish_time": "2020-02-25",
+          "section": "body",
+          "sentence": "On the basis of the initial investigation, the shared history of exposure to the Wuhan Seafood Wholesale Market highly suggested that wild animals sold in the market such as bamboo rats, raccoons, and snakes would be the original source of the novel virus. 16 Soon afterwards, the traceability analysis supported that the 2019-nCoV would be from Rhinolophus."
+        },
+        {
+          "paper_id": "655537fc8cc52bccf43cf7189ab060d3097caa7a",
+          "cord_uid": "6dbt99h0",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/ijerph17051633",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Therefore, when bats carrying SARS-COV-2 virus forage at Huanan Seafood Market, they may pass the virus directly or indirectly to intermediate hosts."
+        },
+        {
+          "paper_id": "f0ab9648f2d67c98a0ed69a2ffa6fa4e57554973",
+          "cord_uid": "m6akijzn",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30251-8",
+          "publish_time": "2020-02-28",
+          "section": "body",
+          "sentence": "Therefore, on the basis of current data, it seems likely that the 2019-nCoV causing the Wuhan outbreak might also be initially hosted by bats, and might have been transmitted to humans via currently unknown wild animal(s) sold at the Huanan seafood market."
+        },
+        {
+          "paper_id": "1cf4faa405e1bd03ac04596491a0261cfdd68449",
+          "cord_uid": "p2rhqdem",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6668225/",
+          "publish_time": "2019-01-29",
+          "section": "body",
+          "sentence": "The template collects information on the characteristics of the wild type virus from which the vector was derived as well as known effects of the proposed vaccine vector in animals and humans, manufacturing features, toxicology and potency, nonclinical studies, and human use, with an overall adverse effect and risk assessment."
+        },
+        {
+          "paper_id": "ca9be3e297299069e973493982e0c93fa9e4e2ee",
+          "cord_uid": "1g2mup0k",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30374-3",
+          "publish_time": "2020-02-28",
+          "section": "body",
+          "sentence": "Finally, continued research is important to understand the source of the outbreak by study of animals and animal handlers in markets to provide evidence necessary for prevention of future coronavirus outbreaks."
+        },
+        {
+          "paper_id": "7bc69471836fbf9cf28e57926d95fc48e6f45964",
+          "cord_uid": "1qkwsh6a",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7054940/",
+          "publish_time": "2020-02-08",
+          "section": "body",
+          "sentence": "The patients exhibited a history of visiting the local nearby Huanan seafood market which deals in the sale of different live animals, where zoonotic (animal-to-human) transmission suspected as the main route of disease origin (Hui et al. 2020 )."
+        },
+        {
+          "paper_id": "8b6f8c93695fbc49950229c48b4ced5abbb7d8dc",
+          "cord_uid": "01a8er2v",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-012374410-4.00706-8",
+          "publish_time": "2008-12-31",
+          "section": "abstract",
+          "sentence": "Current efforts in the production of a commercial EIAV vaccine are focused on the development of a vaccine that can achieve sufficient maturation of immune responses to provide protection from virus infection, but allow the serological differentiation between vaccinated and infected horses."
+        },
+        {
+          "paper_id": "8b6f8c93695fbc49950229c48b4ced5abbb7d8dc",
+          "cord_uid": "01a8er2v",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-012374410-4.00706-8",
+          "publish_time": "2008-12-31",
+          "section": "body",
+          "sentence": "Current efforts in the production of a commercial EIAV vaccine are focused on the development of a vaccine that can achieve sufficient maturation of immune responses to provide protection from virus infection, but allow the serological differentiation between vaccinated and infected horses."
+        },
+        {
+          "paper_id": "a3e8cfc509af101c522d4193c8917d6e8f68b37b",
+          "cord_uid": "61snvddh",
+          "source": "CZI",
+          "url": "https://doi.org/10.1136/bmj.m606",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "In December 2019 a group of patients with pneumonia of unknown cause were confirmed to be infected with a novel coronavirus, known as 2019-nCoV, in Wuhan, Hubei province, China, which had previously not been detected in humans or animals. 1 Epidemiological evidence suggested that most of these patients had visited a local seafood market in Wuhan 2 and that the gene sequence of the virus obtained from these patients was highly similar to that identified in bats. 3 The virus was subsequently renamed SARS-Cov-2 as it is similar to the coronavirus responsible for severe acute respiratory syndrome (SARS-CoV), a member of the subgenus Sarbecovirus (Beta-CoV lineage B), with which it shares more than 79% of its sequence, but it is more distant to the coronavirus responsible for Middle East respiratory syndrome (MERS-CoV), a member of the Merbecovirus subgenus (only 50% homology with SARS-Cov-2)."
+        },
+        {
+          "paper_id": "e3fa5ac28a1cd0b48cccb80d7ab65cdc429b08ac",
+          "cord_uid": "luxgc7st",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075990/",
+          "publish_time": "2020-02-24",
+          "section": "body",
+          "sentence": "A broad surveillance for SARS-CoV-2 among different animals is warranted within Huanan Seafood Market and the vicinities, and should include potential reservoir hosts such as bats (both in the wild and if found in live animal markets) as well as potential intermediate hosts such as pigs, live poultry, fish, reptiles, and wild animals in close proximity to humans, which not only allow virus transmission among them but also lead to the generation of new viral strains."
+        },
+        {
+          "paper_id": "a006cb9a90f0625f548c5775891d395860c81c75",
+          "cord_uid": "0xhho1sh",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijantimicag.2020.105924",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "Based on the findings of genomic investigations and the presence of some bats and live animals in the seafood market in Wuhan, SARS-CoV-2 may have originated from bats or bat droppings associated with contaminated materials in the market or surrounding region [25 , 28] ."
+        },
+        {
+          "paper_id": "e853129ee4083236c642e86118c6eb8336c8f813",
+          "cord_uid": "um2khqhn",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jinf.2020.02.001",
+          "publish_time": "2020-02-22",
+          "section": "body",
+          "sentence": "Recently, the continuous interspecies transmission events of CoV occurred, including the emergence of MERS-CoV from camels to humans and swine acute diarrhea syndrome CoV from bat to swine, posing serious threats to public health. 8 , 9 With the tradition of feeding wild animals for food or use in traditional medicine in China, wild birds, mammals, and reptiles carrying the novel zoonotic viruses flowed frequently in trading center, which had considerable potential to transmit to humans of emerging viruses."
+        },
+        {
+          "paper_id": "1ecd9597ffadd6e8ae5d217bf0f55a514731e2dd",
+          "cord_uid": "1e28zj1d",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jinf.2020.02.025",
+          "publish_time": "2020-03-04",
+          "section": "body",
+          "sentence": "Although humans and bats live in different environments, some wildlife species are susceptible to the novel coronaviruses in nature, highlighting that the need of tracing its origin of 2019 human coronavirus in wild animals."
+        },
+        {
+          "paper_id": "57e5dbed53a99d2c2d0e5cccc22c7689a58c5557",
+          "cord_uid": "b8ofli35",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.cgh.2020.03.020",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "The SARS-CoV-2 virus shares 79.5% of the genetic sequence of SARS and has 96.2% homology to bat coronavirus. 4 The intermediate animal vector between bats and humans for SARS-CoV-2 is currently unknown but has been linked epidemiologically to the Huanan Seafood Wholesale Market. 5 Although initially a zoonotic virus, SARS-CoV-2 is now spread human-to-human with higher infectivity than MERS and SARS but a lower fatality rate. 3 The clinical presentation of COVID-19 can range from mild non-specific respiratory symptoms to severe organ dysfunction such as acute respiratory distress syndrome (ARDS) that can lead to death. 1,6,7 Most cases of COVID-19 appear to be mild with the most common symptoms being fever (83-98%), cough (46-82%), myalgia/fatigue (11-44%) , and shortness of breath (31%). 7 Risk factors for more severe illness requiring hospitalization appear to be older age and having underlying chronic medical conditions such as diabetes, lung disease and cardiovascular disease. 7 Early reports suggest that for more severe cases the median time from first symptom onset to the development of shortness of breath and/or need for hospitalization ranged from 5 to 8 days. 6-8 Among hospitalized COVID-19 patients, it is reported that 5 to 26.1% have required admission to the intensive care unit. 6, 8 The reported fatality rate for hospitalized COVID-19 patients has ranged from 1.4 to 15%."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Evidence that livestock could be infected (e.g., field surveillance, genetic sequencing, receptor binding) and serve as a reservoir after the epidemic appears to be over. 3. Experimental infections to test host range for this pathogen.",
+      "seed_sentences": [
+        "Thus, positive pathogen results (especially virus and atypical pathogens, which is a type of common pathogens detection in unexplained pneumonia) cannot be the exclusive criteria to COVID-2019 during unexplained pneumonia diagnosis.",
+        "To prevent the next epidemic and pandemic related to these interfaces, we call for research and investment in three areas: 1) surveillance among wildlife to identify the high-risk pathogens they carry; 2) surveillance among people who have contact with wildlife to identify early spillover events; and 3) improvement of market biosecurity regarding the wildlife trade.",
+        "Coronavirus host range is 36 determined by its spike glycoprotein (S).",
+        "The specificity of the interaction between virus and receptor determines the host tropism and host range."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "0efa3d98b741783872bbc16745f163a27b39a59e",
+          "cord_uid": "h5sox8bq",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.bsheal.2020.01.003",
+          "publish_time": "2020",
+          "section": "abstract",
+          "sentence": "To prevent the next epidemic and pandemic related to these interfaces, we call for research and investment in three areas: 1) surveillance among wildlife to identify the high-risk pathogens they carry; 2) surveillance among people who have contact with wildlife to identify early spillover events; and 3) improvement of market biosecurity regarding the wildlife trade."
+        },
+        {
+          "paper_id": "2271485cae8757f2abdb1c2d012bb892c5421ba4",
+          "cord_uid": "h5sox8bq",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.bsheal.2020.01.003",
+          "publish_time": "2020",
+          "section": "abstract",
+          "sentence": "To prevent the next epidemic and pandemic related to these interfaces, we call for research and investment in three areas: 1) surveillance among wildlife to identify the high-risk pathogens they carry; 2) surveillance among people who have contact with wildlife to identify early spillover events; and 3) improvement of market biosecurity regarding the wildlife trade."
+        },
+        {
+          "paper_id": "68e509d42a7d3349550512d80eca4e2b2123613f",
+          "cord_uid": "4pgish5x",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.01.26.919985",
+          "publish_time": "2020-01-26",
+          "section": "body",
+          "sentence": "The expression and distribution of the receptor decide the route of virus infection and the route of infection has a major implication for understanding the pathogenesis and designing therapeutic strategies."
+        },
+        {
+          "paper_id": "73c8af41cfdbf52c0dfba37727e3b94cb56b495e",
+          "cord_uid": "7vrm081c",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.05.935072",
+          "publish_time": "2020-02-11",
+          "section": "body",
+          "sentence": "Coronaviruses spike protein are glycoprotein that are embedded over the viral envelope."
+        },
+        {
+          "paper_id": "a39e7b5b0ab86e7610108b88e3a527d8d4ac302b",
+          "cord_uid": "cq11iuek",
+          "source": "PMC",
+          "url": "https://www.pnas.org/content/pnas/117/8/3888.full.pdf",
+          "publish_time": "2020-02-14",
+          "section": "body",
+          "sentence": "Conservation measures that create wildlife corridors to increase habitat connectivity might also increase the risk of disease transmission among disparate wildlife, livestock, and human populations."
+        },
+        {
+          "paper_id": "deb849e250a706bc165ea6daf17350349501b88a",
+          "cord_uid": "cq11iuek",
+          "source": "PMC",
+          "url": "https://www.pnas.org/content/pnas/117/8/3888.full.pdf",
+          "publish_time": "2020-02-14",
+          "section": "body",
+          "sentence": "Conservation measures that create wildlife corridors to increase habitat connectivity might also increase the risk of disease transmission among disparate wildlife, livestock, and human populations."
+        },
+        {
+          "paper_id": "5f6a4c37c7c20e77dc239f09da7b00df8a07ed10",
+          "cord_uid": "tkyngspy",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.bbrc.2020.03.044",
+          "publish_time": "2020-03-19",
+          "section": "body",
+          "sentence": "Hence, the distribution of viral receptors in different cell types of diverse tissues can reveal the viral tropism and potential transmission routes."
+        },
+        {
+          "paper_id": "e9110fa452f2db8694a31a73a7c6651c53547078",
+          "cord_uid": "apy0nc1m",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-1-4557-4801-3.00134-x",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "The interaction between a virus and its host cell begins with attachment of the virus particle to specific receptors on the cell surface."
+        },
+        {
+          "paper_id": "7e8409337e69a72191475029805c6776ad43b60b",
+          "cord_uid": "rxrlbw60",
+          "source": "CZI",
+          "url": "https://doi.org/10.3855/jidc.12425",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "The S1 subunit of spike contains the receptor binding domain, which binds to receptors on host cells and dictates virus tropism."
+        },
+        {
+          "paper_id": "1cf4faa405e1bd03ac04596491a0261cfdd68449",
+          "cord_uid": "p2rhqdem",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6668225/",
+          "publish_time": "2019-01-29",
+          "section": "body",
+          "sentence": "However, a critical virus-cell receptor interaction is intracellular, an important consideration for immune recognition."
+        },
+        {
+          "paper_id": "4b198a136ae3666ddd590299150ad7498d7e0130",
+          "cord_uid": "vov6o1jx",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.respe.2017.08.001",
+          "publish_time": "2018-02-28",
+          "section": "body",
+          "sentence": "Moreover, given the key role of certain animal species in the development of new epidemics, the development of animal health surveillance would allow us to further shorten the time lapse between the introduction of the pathogen and its propagation; however, this poses significant problems of wild animal monitoring particularly in Southern Hemisphere countries."
+        },
+        {
+          "paper_id": "cb3974f33a1d54369d630e62052d603148bb12e7",
+          "cord_uid": "2inlyd0t",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.18.954628",
+          "publish_time": "2020-02-20",
+          "section": "body",
+          "sentence": "The S protein of coronaviruses bind to host receptors via receptor-binding domains (RBDs), and plays an essential role in initiating virus infection and determines host tropism [2] ."
+        },
+        {
+          "paper_id": "d8e9bc80862afe06c9db27ae5b5787fb4c4b4766",
+          "cord_uid": "3wz7k4vy",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-012374410-4.00530-6",
+          "publish_time": "2008-12-31",
+          "section": "body",
+          "sentence": "One or more unique cellular 'receptors' are recognized by each species or strain of virus."
+        },
+        {
+          "paper_id": "e9110fa452f2db8694a31a73a7c6651c53547078",
+          "cord_uid": "apy0nc1m",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-1-4557-4801-3.00134-x",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "For many viruses, tropism is determined by the availability of virus receptors on the surface of a host cell."
+        },
+        {
+          "paper_id": "fa7bce0d963335a8d399d4d706103fb0b85c3976",
+          "cord_uid": "d9v5xtx7",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jinf.2020.02.013",
+          "publish_time": "2020-02-21",
+          "section": "body",
+          "sentence": "Host receptor recognition is a determinant for virus infection."
+        },
+        {
+          "paper_id": "d99fcb854ef8540ba535e65784ec9d9a7fe45159",
+          "cord_uid": "wq5zqzvv",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.meegid.2020.104215",
+          "publish_time": "2020-07-31",
+          "section": "body",
+          "sentence": "It plays an important role in attaching the virus to sialic acidcontaining receptors of the host cells."
+        },
+        {
+          "paper_id": "fea50730d7cdcd7c728f98c31fe20aeb8af5e350",
+          "cord_uid": "13jupb26",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.compbiomed.2020.103670",
+          "publish_time": "2020-02-26",
+          "section": "body",
+          "sentence": "It is responsible for binding to the receptor on the host cell as well as mediating the fusion of host and viral membranes [4] ."
+        },
+        {
+          "paper_id": "c672f5b0d7c0a40f7cc1bdf079066d72eb8f64ec",
+          "cord_uid": "s5w8rf6t",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.12.20022418",
+          "publish_time": "2020-02-13",
+          "section": "body",
+          "sentence": "As the virus enters the cell by binding to cell receptors to complete intracellular replication, virus release, and induce cytotoxicity, the route of virus infection depends on the expression and distribution of the corresponding receptor [10] [11] [12] ."
+        },
+        {
+          "paper_id": "4b36607cdbc54f8006161a9a1839489dd0a51269",
+          "cord_uid": "dqpujzo8",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7017878/",
+          "publish_time": "2020-02-10",
+          "section": "body",
+          "sentence": "This might include changes to the wildlife trade following the temporary ban put in place as a response to the emergence of 2019-nCoV. 9,10 Further research to identify the risk factors among different populations will help develop more locally-relevant and fine-tuned risk mitigation strategies and address the social and ecological bias to identifying recommendations for other community settings."
+        },
+        {
+          "paper_id": "fe69099d9491aa640dd66e8d606651c262755361",
+          "cord_uid": "647zcjgu",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.bbrc.2020.02.071",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "For a virus to enter a host cell, S1 binds to a specific cell surface receptor via its receptorbinding domain (RBD), and S2 fuses the host cell and viral membranes, enabling the entry of viral genomes into host cells."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Animal host(s) and any evidence of continued spill-over to humans",
+      "seed_sentences": [
+        "SARS-CoV-2 is likely a batorigin coronavirus that was transmitted to humans through a spillover from bats or through yet undetermined intermediate animal host (avian, swine, phocine, bovine, canine, other species) or wild animals.",
+        "At the time of writing, the host from which the SARS-CoV-2 entered the human population is unknown although the suspicion is that food markets are likely sources for the original spillover.",
+        "The virus is likely of bat origin, with a possible intermediate animal host, and most of the first documented cases were linked to environmental exposure in the Huanan Seafood Wholesale Market in early December 2019."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "58b5c77c9fb3f68a3ad84a3f15275dc0e4554192",
+          "cord_uid": "luxgc7st",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075990/",
+          "publish_time": "2020-02-24",
+          "section": "body",
+          "sentence": "SARS-CoV-2 is likely a bat-origin coronavirus that was transmitted to humans through a spill over from bats or through an undetermined yet intermediate animal host (avian, swine, phocine, bovine, canine, other species) or wild animals."
+        },
+        {
+          "paper_id": "182fc0c38ce9f98fa70dc7ed3063551d426c4b7a",
+          "cord_uid": "luxgc7st",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075990/",
+          "publish_time": "2020-02-24",
+          "section": "body",
+          "sentence": "SARS-CoV-2 is likely a bat-origin coronavirus that was transmitted to humans through a spill over from bats or through an undetermined yet intermediate animal host (avian, swine, phocine, bovine, canine, other species) or wild animals."
+        },
+        {
+          "paper_id": "00e5a723d44eb9f2698c38b518eff85c00f9753b",
+          "cord_uid": "65b267ic",
+          "source": "CZI",
+          "url": "https://doi.org/10.1097/cm9.0000000000000760",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "It is now hypothesized that one of the reservoir coronavirus species in bats crossed the species barrier to an intermediate mammal host (presumed to be a masked civet) sold at the wet market at the epicenter of the current epidemic, with subsequent mutation and transmission to humans, initiating the present epidemic of COVID-19."
+        },
+        {
+          "paper_id": "df353c05aae43b69987088703edbdefa1382ef4d",
+          "cord_uid": "v38tjof3",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.meegid.2020.104272",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Instead, it has been suggested that there is an animal mediator for virus transmission from bats to humans, similar to the previous cases of SARS-CoV and MERS-CoV, wherein the masked palm civet (Paguma larvata) and dromedary camel (Camelus dromedarius) act as intermediate hosts, respectively (Lu et al., 2020) ."
+        },
+        {
+          "paper_id": "601d3c7ae4ebcd2d835e9cf8d7427ebd0b5db83f",
+          "cord_uid": "v38tjof3",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.meegid.2020.104272",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Instead, it has been suggested that there is an animal mediator for virus transmission from bats to humans, similar to the previous cases of SARS-CoV and MERS-CoV, wherein the masked palm civet (Paguma larvata) and dromedary camel (Camelus dromedarius) act as intermediate hosts, respectively (Lu et al., 2020) ."
+        },
+        {
+          "paper_id": "d99dbae98cc9705d9b5674bb6eb66560b4434305",
+          "cord_uid": "op69dg4q",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7063555/",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "The most likely reservoir was bats, with evidence that the virus was transmitted to a human through an intermediate host, probably a palm civet or raccoon dog (8, 9) ."
+        },
+        {
+          "paper_id": "615548f3e1b4817f7b7a99bebe01e6911d441172",
+          "cord_uid": "971d0sir",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.onehlt.2020.100127",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "Based on the evidence gained from studies of SARS-CoV, and from the genetic identity of SARS-CoV-2, it could be postulated that the virus responsible for the recent outbreak is transmit ted from bats to humans either directly or indirectly through adaptation in an unidentified host [34, 35] ."
+        },
+        {
+          "paper_id": "a3116a1ea2e157c8855023d968cc0f0bd6c9846f",
+          "cord_uid": "u2w2bb2p",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.01.24.915157",
+          "publish_time": "2020-01-24",
+          "section": "abstract",
+          "sentence": "From these results, 2019nCoV could be considered a coronavirus distinct from SARS virus, probably transmitted from bats or another host where mutations conferred upon it the ability to infect humans. author/funder."
+        },
+        {
+          "paper_id": "c097a8a9a543d69c34f10e5c3fd78019e560026a",
+          "cord_uid": "mn0l7nar",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7067204/",
+          "publish_time": "2020-01-28",
+          "section": "body",
+          "sentence": "In both of these epidemics, these viruses have likely originated from bats and then jumped into another amplification mammalian host [the Himalayan palm civet (Paguma larvata) for SARS-CoV and the dromedary camel (Camelus dromedarius) for MERS-CoV] before crossing species barriers to infect humans."
+        },
+        {
+          "paper_id": "bbba5ff9ab9eccef99a0bbc6ea557a373158bbcd",
+          "cord_uid": "8l1vfsbc",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.23.20026690",
+          "publish_time": "2020-02-26",
+          "section": "body",
+          "sentence": "The genome analysis showed that the SARS-CoV-2 is a SARS-CoV like \u03b2-lineage coronavirus [2] and likely originates from bats [3] ."
+        },
+        {
+          "paper_id": "f0ab9648f2d67c98a0ed69a2ffa6fa4e57554973",
+          "cord_uid": "m6akijzn",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30251-8",
+          "publish_time": "2020-02-28",
+          "section": "body",
+          "sentence": "Therefore, on the basis of current data, it seems likely that the 2019-nCoV causing the Wuhan outbreak might also be initially hosted by bats, and might have been transmitted to humans via currently unknown wild animal(s) sold at the Huanan seafood market."
+        },
+        {
+          "paper_id": "b70d27459fd8143edf76721da40cdbca399c9fb1",
+          "cord_uid": "l6rqsqs2",
+          "source": "CZI",
+          "url": "https://doi.org/10.1097/cm9.0000000000000777",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Genomic analyses indicate that 2019-nCoV may have originated from bats, [1, 2] and current knowledge of other coronaviruses that infect humans, e.g., SARS-CoV and MERS-CoV, suggests that there may have been intermediate animal hosts. [6]"
+        },
+        {
+          "paper_id": "1ddf28f6c2bc0a7db607b0771748e34fb6659f51",
+          "cord_uid": "hq4jb2wy",
+          "source": "CZI",
+          "url": "https://doi.org/10.3389/fmicb.2020.00298",
+          "publish_time": "2020",
+          "section": "abstract",
+          "sentence": "Both SARS-CoV and MERS-CoV are zoonotic viruses, using bats as their natural reservoirs, and then transmitting through intermediate hosts, leading to human infections."
+        },
+        {
+          "paper_id": "aa8d35501e36393df4a38d6c5ec187c7b1710a94",
+          "cord_uid": "6p23qxb8",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7033706/",
+          "publish_time": "2020-01-31",
+          "section": "body",
+          "sentence": "Given that there were some bats and live animals in the seafood market, 2019-nCoV may be originated from bats or live animals exposure to the materials contaminated with bat droppings in the seafood market or surrounding area."
+        },
+        {
+          "paper_id": "ca950c8677b72b5c4812be3f7d082029df3c12ea",
+          "cord_uid": "7v5aln90",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.000885",
+          "publish_time": "2020-03-22",
+          "section": "body",
+          "sentence": "We hypothesize that this, and/or other ancestral recombination events between viruses infecting bats and pangolins, may have had a key role in the evolution of the strain that lead to the introduction of SARS-CoV-2 into humans."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Socioeconomic and behavioral risk factors for this spill-over",
+      "seed_sentences": [
+        "The present outbreak of lower respiratory tract infections, including respiratory distress syndrome, is the third spillover, in only two decades, of an animal coronavirus to humans resulting in a major epidemic.",
+        "The reversion of the avian 306 conformation containing the glutamic acid residue, to the mammalian conformation containing 307 offers another angle for interpretation, especially in regards to identifying possible spill-over or 353 re-assortment events and is depicted in Figure 6 ."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "519cc50b5527635a0a05f7efe73b2f30c62d9936",
+          "cord_uid": "vvhhpchm",
+          "source": "CZI",
+          "url": "https://doi.org/10.1038/s41564-020-0695-z",
+          "publish_time": "2020",
+          "section": "abstract",
+          "sentence": "The present outbreak of a coronavirus-associated acute respiratory disease called coronavirus disease 19 (COVID-19) is the third documented spillover of an animal coronavirus to humans in only two decades that has resulted in a major epidemic."
+        },
+        {
+          "paper_id": "1e9cafd54968d935da52bdcae678df1e6ec2b650",
+          "cord_uid": "9595vm0k",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038059",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "In less than two decades, this virus is the third known coronavirus to cross the species barrier and cause severe respiratory infections in humans following SARS-CoV in 2003 and Middle East respiratory syndrome in 2012, yet with unprecedented spread compared to the earlier two."
+        },
+        {
+          "paper_id": "b53d63c0fa9eca044d4edd1e590da8fee4667cfa",
+          "cord_uid": "8sd7aip4",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jaip.2020.03.008",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "The present outbreak of a coronavirus-associated acute respiratory disease called coronavirus disease 19 (COVID-19) is the third documented spillover of an animal coronavirus to humans that is causing a major epidemic in the last 2 decades. 1 Recent outbreaks such as severe acute respiratory syndrome in 2003 and Middle East respiratory syndrome in 2012 were successfully confined to small regions of the planet."
+        },
+        {
+          "paper_id": "f95dff44aae700378dd3746ea194c9a31a7b15b8",
+          "cord_uid": "k9xhphpl",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jhin.2020.01.022",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "Together with Severe Acute Respiratory Syndrome (SARS) coronavirus and Middle East Respiratory Syndrome (MERS) coronavirus [2] , this is the third highly pathogenic human coronavirus that has emerged in the last two decades."
+        },
+        {
+          "paper_id": "50765f980de37a832825bd81ad612e3afc75258b",
+          "cord_uid": "d13bq4ij",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.micinf.2020.02.004",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "Coronaviruses of wild animal origin have caused 3 serious human infectious diseases in less than 20 years."
+        },
+        {
+          "paper_id": "b3e877acb1b2ec719f6e094f7900cc3bf865457c",
+          "cord_uid": "q0yqnlyl",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.21.001933",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "The recent emergence of the novel SARS coronavirus 2 (SARS-CoV-2) marked the third introduction of a highly pathogenic coronavirus into the human population in the twenty-first century, following the severe acute respiratory syndrome coronavirus (SARS-CoV) and the Middle East respiratory syndrome coronavirus (MERS-CoV)."
+        },
+        {
+          "paper_id": "8699664d8100af1e701e25daeb8a4fced18a3daf",
+          "cord_uid": "epcel2ez",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.micinf.2020.02.002",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "And the recently identified novel coronavirus (2019-nCoV), was the third highly pathogenic CoV discovered, with a mortality of 2% which is much lower than that of SARS-CoV (10%) and MERS-CoV (37%) [6] ."
+        },
+        {
+          "paper_id": "9076f32d2687b31e7214fbe72794abf79d910edd",
+          "cord_uid": "m6cub4sx",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.eng.2020.03.006",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Importantly, 2019-nCoV is the third fatal coronavirus that has emerged in the past two decades, following SARS and the Middle East respiratory syndrome (MERS) [2, 3] ."
+        },
+        {
+          "paper_id": "34e2f834075da481cda9ff4d8810fcba05abd96e",
+          "cord_uid": "wl121lg4",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jpha.2020.03.001",
+          "publish_time": "2020-03-05",
+          "section": "body",
+          "sentence": "Just in the past two decades, coronaviruses have caused three epidemic diseases, namely, COVID-19, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS) [2] ."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Sustainable risk reduction strategies",
+      "seed_sentences": [
+        "Interpretation As strong social distancing intervention strategies had the most effect in reducing the epidemic peak, this strategy may be considered when weaker strategies are first tried and found to be less effective.",
+        "The lockdown resulted in a downward trend in national and provincial epidemic curves, however, these measures are not sustainable and eventually there will be a strategy to return to normality.",
+        "Strategies include airport screening, health communication to passengers at risk, reduction or prevention of travel (such as the lock down of Wuhan which occurred on January 23 rd 2020)."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "c8c052d27aaf8015316dcd2644fa5e0b3870cea1",
+          "cord_uid": "e2p46wa8",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.05.20031088",
+          "publish_time": "2020-03-08",
+          "section": "body",
+          "sentence": "If one assumes that most fever causes are affected by social distancing, the declining proportion of SARS-CoV-2 among fever cases may reflect the benefits of interventions aimed specifically at this infection, which is to say case-based interventions like active monitoring, individual quarantine, and isolation."
+        },
+        {
+          "paper_id": "c8df44a3612e85e267351e936ddeb8fc5867afa1",
+          "cord_uid": "zav5gksq",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.02.20030007",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "For the purpose of reducing peak prevalence, the optimal time to introduce the intervention is when the current prevalence matches the peak prevalence that would occur once the disease rebounds."
+        },
+        {
+          "paper_id": "d282b79ca6f7cafe79c135b5d21101eb54312651",
+          "cord_uid": "u1i5onqr",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20036418",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "Social distancing was one of the most effective policies to control past epidemic disease by limitation human to human transmission and reducing mortality and morbidity ( 29 , 30 , 30 ) ."
+        },
+        {
+          "paper_id": "d83f238ec5aeaf6f08d20c4416c1ca9f631f698e",
+          "cord_uid": "4kzv06e6",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20039404",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "School closures are a common measure of pandemic mitigation for many countries, driven by the logic that social distancing reduces transmission."
+        },
+        {
+          "paper_id": "c6d525a29a5c98edfac25678a34e2d91aab461c7",
+          "cord_uid": "7h1wg0oa",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.20039891",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "On the other hand, if the state implement a good preventive policy and set up measures to reduce the effective ."
+        },
+        {
+          "paper_id": "90a3cdd75c275d13fb459749b0e012a5ef877f1d",
+          "cord_uid": "o2t5f4s6",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.cmpb.2013.01.006",
+          "publish_time": "2013-06-30",
+          "section": "body",
+          "sentence": "This result enhanced that the strategy that controlled both the susceptible and the infected yielded a more significant reduction in the number of infected subjects than the other control strategies."
+        },
+        {
+          "paper_id": "90a3cdd75c275d13fb459749b0e012a5ef877f1d",
+          "cord_uid": "o2t5f4s6",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.cmpb.2013.01.006",
+          "publish_time": "2013-06-30",
+          "section": "body",
+          "sentence": "This result enhanced that the strategy that controlled both the susceptible and the infected yielded a more significant reduction in the number of infected subjects than the other control strategies."
+        },
+        {
+          "paper_id": "f40eaec892778166e4f8f8eeb576893e82a591be",
+          "cord_uid": "utlponna",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.04.20031187",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "Some research suggested social distancing is effective, under the condition of early activation and long-lasting implement of combined measures [8] , strict implement [6, 9] , and spontaneously adopted [10] ; some concluded the effectiveness was mild [11] ; some argued that moderate social distancing can worsen the disease outcome, [6, 9] But real-world studies are rare."
+        },
+        {
+          "paper_id": "c200af0e42a9aa8539b208d993015a75a2fe1151",
+          "cord_uid": "32gw2ug3",
+          "source": "CZI",
+          "url": "https://doi.org/10.1017/s0950268820000424",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Closure of certain routes, targeted airport screening, risk communication, public awareness and targeted training and vigilance of health workers associated with the portals of entry of visitors to their countries will help mitigate the force of further spread of 2019-nCoV."
+        },
+        {
+          "paper_id": "cac0c21efacbaeb24987e6cf2da64874455ec3cd",
+          "cord_uid": "32gw2ug3",
+          "source": "CZI",
+          "url": "https://doi.org/10.1017/s0950268820000424",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Closure of certain routes, targeted airport screening, risk communication, public awareness and targeted training and vigilance of health workers associated with the portals of entry of visitors to their countries will help mitigate the force of further spread of 2019-nCoV."
+        },
+        {
+          "paper_id": "f7b069911c90d9deab85becbad3e9a633e0bf57c",
+          "cord_uid": "tvxaxfqv",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.10.20033761",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "In such situations, efforts focusing on social distancing measures such as school closures and self-isolation may be more likely to mitigate epidemic spread. ."
+        },
+        {
+          "paper_id": "90a3cdd75c275d13fb459749b0e012a5ef877f1d",
+          "cord_uid": "o2t5f4s6",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.cmpb.2013.01.006",
+          "publish_time": "2013-06-30",
+          "section": "body",
+          "sentence": "Although the situation seems to be worse adopting the double control strategy, in Fig. 4 one can notice that the number of susceptible subjects strongly decreased at the beginning of the outbreak due to their relocation in the removed class, resulting in an important leak of potential infected people, as can be appreciated in the lower peak of epidemic and in its delay, Fig. 5 ."
+        },
+        {
+          "paper_id": "ab854568981d35b1da78cccdaf67b6cfd7ac0046",
+          "cord_uid": "thu861hj",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.idm.2020.02.001",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Moreover, sensitivity analysis revealed that further enhanced measures can reduce the peak value and hence decrease the predicted cumulative case numbers (( Fig. 2(A and B) )."
+        },
+        {
+          "paper_id": "6b6a3e24c4812ea75232742d0fdd0a4020289ce6",
+          "cord_uid": "thu861hj",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.idm.2020.02.001",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Moreover, sensitivity analysis revealed that further enhanced measures can reduce the peak value and hence decrease the predicted cumulative case numbers (( Fig. 2(A and B) )."
+        },
+        {
+          "paper_id": "0df0d5270a9399cf4e23c0cdd877a80616a9725e",
+          "cord_uid": "thu861hj",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.idm.2020.02.001",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Moreover, sensitivity analysis revealed that further enhanced measures can reduce the peak value and hence decrease the predicted cumulative case numbers (( Fig. 2(A and B) )."
+        }
+      ]
+    }
+  ]
+}

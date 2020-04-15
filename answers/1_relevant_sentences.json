@@ -1,0 +1,1936 @@
+{
+  "taskName": "What is known about transmission, incubation, and environmental stability?",
+  "subTasks": [
+    {
+      "sub_task_description": "Range of incubation periods for the disease in humans (and how this varies across age and health status)",
+      "seed_sentences": [
+        "Specifically, the 483 confirmed patients were with average estimated incubation period D = 7.4 days, the mode was 4 days (50 out of the 483 cases) and the median was 7 days (48 out of the 483 cases).",
+        "The mean incubation was 8.42 (95% confidence interval [CI], 6.55-10.29) days.",
+        "The mean incubation was 9.06 (95% CI, 6.11-12.00) days for patients without pneumonia and 7.54 (95% CI, 5.29-9.79) days for patients with pneumonia.",
+        "SARS-CoV-2 might be present in patients for around 18 days by adding the mean incubation of 8.42 days.",
+        "It suggests that age 40 can be a key age cutoff for the incubation of COVID-19 along with previous statistical analysis.",
+        "The following findings are obtained: 1) COVID-19 patients in Henan show gender (55% vs 45%) and age (81% aged between 21 and 60) preferences, possible causes were explored; 2) Statistical analysis on 483 patients reveals that the estimated average, mode and median incubation periods are 7.4, Incubation periods of 92% patients were no more than 14 days;",
+        "In absence of data on the 2019-nCoV incubation period, the WHO has worked with a broad range of 0 to 14 days, the CDC has taken a range of 2 to 14 days, and several studies have assumed incubation periods of SARS or MERS coronaviruses."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "24e17488d399c436305c819953beae2961214771",
+          "cord_uid": "2vdvswda",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.28.20028068",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "SARS-CoV-2 might be present in patients for around 18 days by adding the mean incubation of 8.42 days."
+        },
+        {
+          "paper_id": "24e17488d399c436305c819953beae2961214771",
+          "cord_uid": "2vdvswda",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.28.20028068",
+          "publish_time": "2020-03-03",
+          "section": "abstract",
+          "sentence": "The mean incubation was 8.42 (95% confidence interval [CI], 6.55-10.29) days."
+        },
+        {
+          "paper_id": "091a8e9a61e19e88caeb039f0e3888d111b20439",
+          "cord_uid": "1mxjklgx",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.21.20026112",
+          "publish_time": "2020-02-23",
+          "section": "body",
+          "sentence": "Specifically, the 483 confirmed patients were with average estimated incubation period\u03c4 D = 7.4 days, the mode was 4 days (50 out of the 483 cases) and the median was 7 days (48 out of the 483 cases)."
+        },
+        {
+          "paper_id": "091a8e9a61e19e88caeb039f0e3888d111b20439",
+          "cord_uid": "1mxjklgx",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.21.20026112",
+          "publish_time": "2020-02-23",
+          "section": "abstract",
+          "sentence": "The following findings are obtained: 1) COVID-19 patients in Henan show gender (55% vs 45%) and age (81% aged between 21 and 60) preferences, possible causes were explored; 2) Statistical analysis on 483 patients reveals that the estimated average, mode and median incubation periods are 7.4, 4 and 7 days; Incubation periods of 92% patients were no more than 14 days; 3) The epidemic of COVID-19 in Henan has undergone three stages and showed high correlations with the numbers of patients that recently return from Wuhan; 4) Network analysis on the aggregate outbreak phenomena of COVID-19 revealed that 208 cases were clustering infected, and various people's Hospital are the main force in treating patients."
+        },
+        {
+          "paper_id": "091a8e9a61e19e88caeb039f0e3888d111b20439",
+          "cord_uid": "1mxjklgx",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.21.20026112",
+          "publish_time": "2020-02-23",
+          "section": "body",
+          "sentence": "Statistical analysis on 483 patients reveals that the average estimated incubation period was 7.4 days, the mode was 4 days."
+        },
+        {
+          "paper_id": "4a077b9696d19b7d7fa3e71560b7fd5f414a4d19",
+          "cord_uid": "jat60k8t",
+          "source": "CZI",
+          "url": "https://doi.org/10.2807/1560-7917.es.2020.25.5.2000062",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "In absence of data on the 2019-nCoV incubation period, these studies have assumed incubation periods of SARS or MERS coronaviruses."
+        },
+        {
+          "paper_id": "dd41a45ccd8c4801ed131a349aa0ec0bc8f3895c",
+          "cord_uid": "jat60k8t",
+          "source": "CZI",
+          "url": "https://doi.org/10.2807/1560-7917.es.2020.25.5.2000062",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "In absence of data on the 2019-nCoV incubation period, these studies have assumed incubation periods of SARS or MERS coronaviruses."
+        },
+        {
+          "paper_id": "3afd5fba7dc182ddfa769c0d766134b525581005",
+          "cord_uid": "ti9b1etu",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.04.20026005",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "We also found the incubation duration of 8 patients ranged from 18 to 32 days, indicating that it may exceed 14 days which reported with the initial infections 3 ."
+        },
+        {
+          "paper_id": "24e17488d399c436305c819953beae2961214771",
+          "cord_uid": "2vdvswda",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.28.20028068",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "As SARS-CoV-2 shares its receptor with SARS-CoV, 6 We revealed that the mean incubation of SARS-CoV-2 infection was 8.42 days."
+        },
+        {
+          "paper_id": "7e9cd4bbf0fba1cc0bcded40041fd01b9dfb683f",
+          "cord_uid": "tne83uu0",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.01.20028944",
+          "publish_time": "2020-03-06",
+          "section": "abstract",
+          "sentence": "With an estimation of 8 days incubation period and 6 days 17 serial interval, our results indicate that there may exist infectiousness during the 18 incubation period for 2019-nCoV."
+        },
+        {
+          "paper_id": "24e17488d399c436305c819953beae2961214771",
+          "cord_uid": "2vdvswda",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.28.20028068",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "This duration was 9.24 (7.10-11.37) days for COVID-19 patients without pneumonia (n=17) and 10.45 (8.10-12.81) days for those with pneumonia (n=11)."
+        },
+        {
+          "paper_id": "6d3b3f4ab80a61c45f82c61c6c756cfc6ddf4bf2",
+          "cord_uid": "it4ka7v0",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.06.20032417",
+          "publish_time": "2020-03-10",
+          "section": "body",
+          "sentence": "The estimated median of incubation period is 8\u00b713 days (95% confidence interval [CI]: 7\u00b737-8\u00b791), the mean is 8\u00b762 days (95% CI: 8\u00b702-9\u00b728), the 90th percentile is 14\u00b765 days (95% CI: 14\u00b700-15\u00b726), and the 99th percentile is 20\u00b759 days (95% CI: 19\u00b747, 21\u00b762)."
+        },
+        {
+          "paper_id": "6d3b3f4ab80a61c45f82c61c6c756cfc6ddf4bf2",
+          "cord_uid": "it4ka7v0",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.06.20032417",
+          "publish_time": "2020-03-10",
+          "section": "body",
+          "sentence": "We find the estimated median of the incubation period is 8\u00b713 days (95% CI: 7\u00b737-8\u00b791), and mean is 8\u00b762 days (95% CI: 8\u00b702-9\u00b728), the 90th percentile is 14\u00b765 days (95% CI: 14\u00b700-15\u00b726), and the 99th percentile is 20\u00b759 ."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "How long individuals are contagious, even after recovery.",
+      "seed_sentences": [
+        "Using the best-fitting model ( To highlight further this impact of contagious, undocumented COVID-19 infections on overall transmission and reported case counts, we generated a set of hypothetical outbreaks using the best-fitting parameter estimates but with = 0, i.e. the undocumented infections are no longer contagious (Figure 2)",
+        "This finding indicates that contagious, undocumented infections facilitated the geographic spread of COVID-19 within China.",
+        "This number is rapidly increasing and most probably is a vast underestimation of the real number of patients worldwide, as infected individuals are contagious even when minimally symptomatic or asymptomatic 2 .",
+        "This leaves a highly restrictive condition for endemic equilibrium to 473 exist: the emergent strain must be able to survive by itself and the original strain must 474 be contagious enough to infect enough people, which is given by Eq 44.",
+        "In this study, infectious period is defined as the time difference between date of infection and date of diagnosis as there is strong evidence showing that a diseased individual remains contagious even during the incubation period, and would be immediately isolated upon positive diagnosis hence losing the transmissibility."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "5bbc428de7fc2f10c24d8439edda26d84b319687",
+          "cord_uid": "juiomzb3",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.08.20021253",
+          "publish_time": "2020-02-11",
+          "section": "body",
+          "sentence": "In this study, infectious period is defined as the time difference between date of infection and date of diagnosis as there is strong evidence showing that a diseased individual remains contagious even during the incubation period, and would be immediately isolated upon positive diagnosis hence losing the transmissibility."
+        },
+        {
+          "paper_id": "3f659542438aaa6eec647cd31b6123c31e8f1c0e",
+          "cord_uid": "lioj0tkn",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20038844",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "This number is rapidly increasing and most probably is a vast underestimation of the real number of patients worldwide, as infected individuals are contagious even when minimally symptomatic or asymptomatic 2 ."
+        },
+        {
+          "paper_id": "0eda8331214ca028350b07e2953702f3078a105e",
+          "cord_uid": "3nipr212",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.14.20023127",
+          "publish_time": "2020-02-17",
+          "section": "body",
+          "sentence": "Using the best-fitting model ( To highlight further this impact of contagious, undocumented COVID-19 infections on overall transmission and reported case counts, we generated a set of hypothetical outbreaks using the best-fitting parameter estimates but with = 0, i.e. the undocumented infections are no longer contagious (Figure 2) ."
+        },
+        {
+          "paper_id": "ee7f56d556c2063d71905df34a589bbf5f1ff051",
+          "cord_uid": "kgkcgpmq",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.10.20033738",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Our analyses showed that rapid diagnosis and isolation of infections based on COVID-19 disease alone cannot control outbreaks of SARS-CoV-2, but that the addition of tracing and isolation of traced cases could in theory be successful (Figure 2 )."
+        },
+        {
+          "paper_id": "882219fd09765ece5b362415882397e78972373e",
+          "cord_uid": "lbcxl6w9",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30567-5",
+          "publish_time": "2020-03-09",
+          "section": "body",
+          "sentence": "What has happened in China shows that quarantine, social distancing, and isolation of infected populations can contain the epidemic. 1 This impact of the COVID-19 response in China is encouraging for the many countries where COVID-19 is beginning to spread."
+        },
+        {
+          "paper_id": "ee7f56d556c2063d71905df34a589bbf5f1ff051",
+          "cord_uid": "kgkcgpmq",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.10.20033738",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "It is known that a high probability of asymptomatic infection, a high proportion of transmission occurring before the onset of symptoms, a long delay between case finding and isolation, and high overall transmissibility all factor in negatively in the likelihood that an outbreak can be contained."
+        },
+        {
+          "paper_id": "995847926bde7c0022c3c2b8ac9f3f84756c221d",
+          "cord_uid": "8caqxfxv",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.eng.2020.03.007",
+          "publish_time": "2020-03-18",
+          "section": "abstract",
+          "sentence": "In this open-label nonrandomized control study, FPV showed significantly better treatment effects on COVID-19 in terms of disease progression and viral clearance; if causal, these results should be important information for establishing standard treatment guidelines to combat the SARS-CoV-2 infection."
+        },
+        {
+          "paper_id": "0eda8331214ca028350b07e2953702f3078a105e",
+          "cord_uid": "3nipr212",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.14.20023127",
+          "publish_time": "2020-02-17",
+          "section": "body",
+          "sentence": "Our findings indicate that a large proportion of COVID-19 infections were undocumented prior to the implementation of travel restrictions and other heightened control measures in China on January 23, and that a large proportion of the total force of infection was mediated through these undocumented infections (Table 1) ."
+        },
+        {
+          "paper_id": "995847926bde7c0022c3c2b8ac9f3f84756c221d",
+          "cord_uid": "8caqxfxv",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.eng.2020.03.007",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "In this pilot study of a non-randomized control trial, we found that FPV showed significantly better treatment effects on COVID-19 in terms of disease progression and viral clearance; if causal, these results should be important information for establishing standard treatment guidelines to combat the SARS-CoV-2 infection."
+        },
+        {
+          "paper_id": "c8c052d27aaf8015316dcd2644fa5e0b3870cea1",
+          "cord_uid": "e2p46wa8",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.05.20031088",
+          "publish_time": "2020-03-08",
+          "section": "body",
+          "sentence": "Recent work on isolation for COVID-19 found a potentially large impact of perfect isolation, if one assumed there was limited presymptomatic transmission and a high probability of tracing contacts to be put under isolation immediately following symptom onset. 7 Our framework enables comparison of active monitoring and individual quarantine and considers parameters such as delays, and imperfect isolation to account for known nosocomial transmission of this respiratory virus. 8 One of the key uncertainties surrounding COVID-19 is the extent of asymptomatic and presymptomatic transmission."
+        },
+        {
+          "paper_id": "67e26529131aa6241f7f15af391c689c34183a4e",
+          "cord_uid": "gttuxtw6",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.14.20036178",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "The discrepancy in reported death rates in combination with favorable population scores in the case of China suggests a large number of unreported COVID-19 infections."
+        },
+        {
+          "paper_id": "b7b03c0cfccc9f607bef14d153097bf57ed2ca67",
+          "cord_uid": "3egv50vb",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.dsx.2020.03.012",
+          "publish_time": "2020-03-25",
+          "section": "body",
+          "sentence": "In view of good tolerability of HCQ and low cost, it could be offered as an off-label treatment to the patients with moderate to severe COVID-19 infection."
+        },
+        {
+          "paper_id": "489040d34aa5dc8e6eba3d4e9d3d48f0bcc6061f",
+          "cord_uid": "2jq626ye",
+          "source": "CZI",
+          "url": "https://doi.org/10.12688/f1000research.22211.2",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "If anything, 2019-nCoV is likely more amenable to this neutralizing therapy given that the respiratory virus will only cause an acute infection, unlike HIV, which causes chronic infection in hosts with different cellular reservoirs."
+        },
+        {
+          "paper_id": "5a17ed3e4abf295f5820c65f56398266c1baae98",
+          "cord_uid": "2jq626ye",
+          "source": "CZI",
+          "url": "https://doi.org/10.12688/f1000research.22211.2",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "If anything, 2019-nCoV is likely more amenable to this neutralizing therapy given that the respiratory virus will only cause an acute infection, unlike HIV, which causes chronic infection in hosts with different cellular reservoirs."
+        },
+        {
+          "paper_id": "21472f7d3dd86085a366b5f487354824b812f12c",
+          "cord_uid": "tuzmu7p5",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.micinf.2020.03.002",
+          "publish_time": "2020-03-17",
+          "section": "abstract",
+          "sentence": "Outside the Hubei province, China, the mild form of infection and the progressive recover of the COVID-19 patients suggest the intervention of \"unconventional\" biological mechanisms worthy of attention."
+        },
+        {
+          "paper_id": "8213acea5f1a592dae49adae07380fea8203910d",
+          "cord_uid": "9zeqigqa",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.21.20040154",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "Our model incorporates the following essential ingredients of COVID-19 epidemics: (1) the number of asymptomatic infectious individuals (with very mild or no symptoms), (2) the number of symptomatic reported infectious individuals (with severe symptoms) and (3) the number of symptomatic unreported infectious individuals (with mild symptoms)."
+        },
+        {
+          "paper_id": "894c28b651801cb22b3895d2816f83cb8e631c81",
+          "cord_uid": "8bmzmxo8",
+          "source": "CZI",
+          "url": "https://doi.org/10.2807/1560-7917.es.2020.25.8.2000097",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Therefore, while one cannot exclude the possibility that asymptomatic cases in their incubation period would be missed and become infectious later, screening of incoming travellers from an affected area proved successful at least in these two instances, when COVID-19 cases were detected, isolated, observed and only discharged once they tested negative for SARS-CoV-2."
+        },
+        {
+          "paper_id": "ac37ba61c91bb6939a507dbf4efe2119ddafeb9c",
+          "cord_uid": "8bmzmxo8",
+          "source": "CZI",
+          "url": "https://doi.org/10.2807/1560-7917.es.2020.25.8.2000097",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Therefore, while one cannot exclude the possibility that asymptomatic cases in their incubation period would be missed and become infectious later, screening of incoming travellers from an affected area proved successful at least in these two instances, when COVID-19 cases were detected, isolated, observed and only discharged once they tested negative for SARS-CoV-2."
+        },
+        {
+          "paper_id": "0a27cb2cd52229472fcfc3e49d3a3cb7179867e4",
+          "cord_uid": "y8o5j2be",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20039107",
+          "publish_time": "2020-03-20",
+          "section": "abstract",
+          "sentence": "A transmission model calibrated against these data indicates that social distancing alone, as implemented in China during the outbreak, is sufficient to control COVID-19."
+        },
+        {
+          "paper_id": "43064e9a5b81ad1ac0743c818cda48383c246c95",
+          "cord_uid": "ueb7mjnv",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/s2214-109x(20)30074-7",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "We determined conditions in which case isolation, contact tracing, and preventing transmission by contacts who are infected would be sufficient to control a new COVID-19 outbreak in the absence of other control measures."
+        },
+        {
+          "paper_id": "a14b5655cb13ed64cb8cff7c806a7b58c858b8b7",
+          "cord_uid": "ueb7mjnv",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/s2214-109x(20)30074-7",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "We determined conditions in which case isolation, contact tracing, and preventing transmission by contacts who are infected would be sufficient to control a new COVID-19 outbreak in the absence of other control measures."
+        },
+        {
+          "paper_id": "7af7848a33dc0c6599e902e9c155ab68fa72ffad",
+          "cord_uid": "6zlxqhuq",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/jcm9020580",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "To understand the severity of infection, i.e., the virulence of the causative agent of COVID-19, the common epidemiological practice is to estimate the case fatality risk (CFR) as the risk of death among cases (for the sake of practical interpretation, we refer to it as the case fatality risk rather than the case fatality rate [2] )."
+        },
+        {
+          "paper_id": "b6b8a2c0c3b83decefa4174ba17271c7cad45c5b",
+          "cord_uid": "auu02ibd",
+          "source": "CZI",
+          "url": "https://doi.org/10.4081/idr.2020.8516",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Nonetheless, a decreasing trend of infections emerges by the analysis of the epidemic curves provided by the authors, which may indicate the effectiveness of the control measure adopted to date. 15 In conclusion, the basic reproductive number of COVID-19, although is a precious variable to forecast the spreading potential of an infectious disease, is not the only factor to consider when estimating the burden of the epidemic."
+        },
+        {
+          "paper_id": "0a27cb2cd52229472fcfc3e49d3a3cb7179867e4",
+          "cord_uid": "y8o5j2be",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20039107",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "If we apply these interventions to a COVID-19 scenario, assuming a baseline R0 of 2 -3.5, we can achieve a noticeable decrease in infection attack rate and peak incidence, and a delay in the epidemic, but transmission is not interrupted (Fig. 2D )."
+        },
+        {
+          "paper_id": "f287c07856102ae004f4a2c24f2766200d6678da",
+          "cord_uid": "cqbzpmkl",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s2214-109x(20)30112-1",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "We also identified the short-duration burst of contaminated air from the wastewater plumbing system that caused the cross-contamination. 5 The implications of our work are far-reaching given the rate of spread of COVID-19."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Prevalence of asymptomatic shedding and transmission (e.g., particularly children).",
+      "seed_sentences": [
+        "5 The prevalence of colonisation in children, which appears to be higher than that in adults, is considered clinically relevant since colonised children are postulated to be a reservoir for Pneumocystis.",
+        "52 CAP of mixed etiology has been characterized less in adults than in children, and prevalence is estimated at less than 5%.",
+        "Variation in transmission and migration rates can result in substantial variation in prevalence between regions.",
+        "2 Bayham et al. show that schools are likely places for transmission among US children.",
+        "While schools may be a hub of contact and virus transmission, school closings may inadvertently bring grandparents and children into closer contact if they become the default carers."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "1e574c1272c82d322baf7a2b3a539ebbd66f1697",
+          "cord_uid": "gv8wlo06",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20036293",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "While schools may be a hub of contact and virus transmission, school closings may inadvertently bring grandparents and children into closer contact if they become the default carers."
+        },
+        {
+          "paper_id": "1218f278a4f8d83dac14b23c8f698062812ef9d5",
+          "cord_uid": "3p2dl8yf",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.13.20022806",
+          "publish_time": "2020-02-17",
+          "section": "abstract",
+          "sentence": "Variation in transmission and migration rates can result in substantial variation in prevalence between regions."
+        },
+        {
+          "paper_id": "9fd2239242b746ab3f15711edc80d4b119844c02",
+          "cord_uid": "ta9khr6z",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1097/pat.0000000000000283",
+          "publish_time": "2015-08-31",
+          "section": "body",
+          "sentence": "The association or causal link between P. jirovecii and sudden unexpected infant death is controversial. 1,2 Serological studies have indicated that exposure to Pneumocystis occurs at an early age. 3, 4 Such colonisation in healthy children may lead to later reactivation and overt disease, although de novo infection also occurs. 5 The prevalence of colonisation in children, which appears to be higher than that in adults, is considered clinically relevant since colonised children are postulated to be a reservoir for Pneumocystis. 3 Studies in Chile, the US, Zambia and Europe have examined for the presence of Pneumocystis using direct detection methods (immunohistochemistry or polymerase chain reaction, PCR) in children and reported prevalence rates ranging between 29% and 100%. 1,3,6 -9 However, there are no data on the prevalence of colonisation in Australian infants."
+        },
+        {
+          "paper_id": "11edcc84add7b4bfe1f7cc84068a06ff9b7398b2",
+          "cord_uid": "j181i5pr",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.10.20033852",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "Within a province, there was also spatial variation in the amount of transmission."
+        },
+        {
+          "paper_id": "14220553c9160c06bb99f59d59e6a8ecf3595226",
+          "cord_uid": "98jz8tox",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033415",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "However, there is substantial variation across the country."
+        },
+        {
+          "paper_id": "8bd8158e4a47c65b12a462b49b4b8b4af1488dc3",
+          "cord_uid": "ndnkhj42",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.16.20023606",
+          "publish_time": "2020-02-18",
+          "section": "body",
+          "sentence": "Thus, the discrepancy is less than 0.5%."
+        },
+        {
+          "paper_id": "e172b0d49bd083dca5cd1021900477dd97774b84",
+          "cord_uid": "czpz3yh2",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.13.20034892",
+          "publish_time": "2020-03-17",
+          "section": "body",
+          "sentence": "It is however important to point out that school closures have secondary effects on contact patterns, e.g. requiring adults to stay home and thus changing their infection risk, or having grandparents care for their grand-children so that the parents can go to work."
+        },
+        {
+          "paper_id": "1c7db6e51155dadaaffd563ef1e560011b25ae92",
+          "cord_uid": "bim76jna",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/jcm9020498",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "One example might be to consider spatial variation in host population densities and surveillance levels, leading to spatially inhomogeneous outbreak risks."
+        },
+        {
+          "paper_id": "c12a11fa9c5fdff0bf85a9f0111c64d6dffe8d26",
+          "cord_uid": "cgcvfftf",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1470-9465.2006.12_4_1426.x",
+          "publish_time": "2006-12-31",
+          "section": "body",
+          "sentence": "There is considerable variability in the cut-off values used."
+        },
+        {
+          "paper_id": "c12a11fa9c5fdff0bf85a9f0111c64d6dffe8d26",
+          "cord_uid": "cgcvfftf",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1470-9465.2006.12_4_1426.x",
+          "publish_time": "2006-12-31",
+          "section": "body",
+          "sentence": "The growing use of specialised diagnostic techniques has allowed a considerable amount of new information to be obtained concerning the role of Mycoplasma pneumoniae and Chlamydia pneumoniae: they seem to play a more significant role in causing respiratory tract infections than previously thought; they have been associated with tonsillitis and they are also frequent in children aged less than five years."
+        },
+        {
+          "paper_id": "9b5988df3808813c14e5898f7642f5c32cbc148d",
+          "cord_uid": "0cvoeiy0",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.diagmicrobio.2013.02.011",
+          "publish_time": "2013-06-30",
+          "section": "body",
+          "sentence": "MP detection rarely occurred in the group \u22655 year of age."
+        },
+        {
+          "paper_id": "14220553c9160c06bb99f59d59e6a8ecf3595226",
+          "cord_uid": "98jz8tox",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033415",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "School closure could spread out cases so as not to overwhelm the healthcare system."
+        },
+        {
+          "paper_id": "1218f278a4f8d83dac14b23c8f698062812ef9d5",
+          "cord_uid": "3p2dl8yf",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.13.20022806",
+          "publish_time": "2020-02-17",
+          "section": "abstract",
+          "sentence": "The model allows for many subpopulations of different size with variable parameters."
+        },
+        {
+          "paper_id": "a6d2875c8b70a41ea815511417546a0689816964",
+          "cord_uid": "2w3bx6p8",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.17.20024075",
+          "publish_time": "2020-02-20",
+          "section": "body",
+          "sentence": "We assumed this was due to inter-country variation in case detection and reporting rates."
+        },
+        {
+          "paper_id": "fd05a8fff57b7100589390bcd74f1752cbf5ddcd",
+          "cord_uid": "m6479wyv",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.chaos.2020.109761",
+          "publish_time": "2020-05-31",
+          "section": "body",
+          "sentence": "Moreover, it can be surmised that many cultural factors could influence the infection rate, thus leading to a larger variability from one country to another."
+        },
+        {
+          "paper_id": "6d0127f985edbe088bc279865bef25a31f54a066",
+          "cord_uid": "3h1o0oz3",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.27.969006",
+          "publish_time": "2020-03-02",
+          "section": "body",
+          "sentence": "However, this ratio detected in the comparisons of other human coronaviruses with their similar animal coronaviruses was less than 5.0."
+        },
+        {
+          "paper_id": "81c77f6ea4ad20908978c014fea0abb7d5c557aa",
+          "cord_uid": "0xltztfg",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.dsx.2020.03.002",
+          "publish_time": "2020-06-30",
+          "section": "body",
+          "sentence": "There are regional variations in the mortality rates and these estimates are rapidly changing as more data are becoming available."
+        },
+        {
+          "paper_id": "f19e2df932f90f387fe71533f3802875d9042160",
+          "cord_uid": "hhsfq8bz",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.01.20029074",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "LYM% at TLM-2 in 6 cases was less than 5%, indicating a poor prognosis."
+        },
+        {
+          "paper_id": "f19e2df932f90f387fe71533f3802875d9042160",
+          "cord_uid": "hhsfq8bz",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.01.20029074",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "LYM% at TLM-2 in 6 cases was less than 5%, indicating a poor prognosis."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "seasonality of transition",
+      "seed_sentences": [
+        "A 50% reduction in transmission results in a smaller epidemic before the summer, followed by a resurgence in cases in the following winter.",
+        "This variation in transmission strength may be driven by a variety of factors, including increased indoor crowding in the winter, the onset of the school term in the autumn, and climate factors (5) .",
+        "Even though there are many uncertainties relating to seasonality and this novel coronavirus [33] , it seems prudent to assume some seasonal fluctuation so we increased the average by 25% in winter and reduced it by 25% in summer (with a sinusoidal variation throughout the simulated year), using a mid-winter peak for Europe of 15 January (i.e., day 334 of the simulation).",
+        "1 They estimated that a 50% reduction in transmission during summer months would result in a smaller epidemic before the summer, followed by a resurgence in cases in the following winter.",
+        "As the southern hemisphere moves from summer to autumn and swiftly into winter, the transmission of all respiratory viruses will increase, including SARS-CoV-2 if introduced into that country."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "8d07b32de2cd946099966ca7e46c3e9ee9659069",
+          "cord_uid": "rxv5lgq8",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.20039776",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Even though there are many uncertainties relating to seasonality and this novel coronavirus [33] , it seems prudent to assume some seasonal fluctuation so we increased the average by 25% in winter and reduced it by 25% in summer (with a sinusoidal variation throughout the simulated year), using a mid-winter peak for Europe of 15 January (i.e., day 334 of the simulation)."
+        },
+        {
+          "paper_id": "05d99c07db59b6948e39bfa62c2cbbf62944059a",
+          "cord_uid": "x4qdiln9",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.12.20022566",
+          "publish_time": "2020-02-14",
+          "section": "body",
+          "sentence": "A 50% reduction in transmission results in a smaller epidemic before the summer, followed by a resurgence in cases in the following winter."
+        },
+        {
+          "paper_id": "e1200121af466e437f3cf17aa10654b7725edb07",
+          "cord_uid": "i46n70gb",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.16.20036939",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Danon and colleagues modeled seasonal transmission by introducing a time-varying transmission rate. 21 They estimated that a 50% reduction in transmission during summer months would result in a smaller epidemic before the summer, followed by a resurgence in cases in the following winter."
+        },
+        {
+          "paper_id": "882219fd09765ece5b362415882397e78972373e",
+          "cord_uid": "lbcxl6w9",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30567-5",
+          "publish_time": "2020-03-09",
+          "section": "body",
+          "sentence": "With an early epidemic value of R 0 of 2\u00b75, social distancing would have to reduce transmission by about 60% or less, if the intrinsic transmission potential declines in the warm summer months in the northern hemisphere."
+        },
+        {
+          "paper_id": "a99b24730ab1768a968a582caa998ab84b96f007",
+          "cord_uid": "32v44sw9",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30260-9",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "A 50% reduction in transmissibility would push the viral reproductive number to about 1\u00b73, in which case the epidemic would grow slowly without peaking during the first half of 2020."
+        },
+        {
+          "paper_id": "11f96d05db6854ef95312aa3a4736724ce1f02d6",
+          "cord_uid": "y7d3ux28",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.12.20022426",
+          "publish_time": "2020-02-13",
+          "section": "body",
+          "sentence": "If the number of secondary infections is substantially less disperse, e.g. influenza-like, outbreak delays decrease by about 50%, as the outbreak becomes less reliant on occasional super-spreading events ( Figure S1 )."
+        },
+        {
+          "paper_id": "11f96d05db6854ef95312aa3a4736724ce1f02d6",
+          "cord_uid": "y7d3ux28",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.12.20022426",
+          "publish_time": "2020-02-13",
+          "section": "body",
+          "sentence": "As a base case, in line with Hellewell et al (7) we assume that these measures to accelerate self-isolation and reporting in the early stages of the SARS-CoV-2 pandemic can reduce the average number of onward transmitting secondary infections by about 50%."
+        },
+        {
+          "paper_id": "493aa8aa2e9122620b1dcaf102ab62e643ad5632",
+          "cord_uid": "6ymuovl2",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20037770",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "A 50% reduction in transmissibility ( 0 reduced to 1.34) will contain the spread of COVID-19 (with the national epidemic peak postponed to winter 2020 and the peak magnitude reduced to 1%)."
+        },
+        {
+          "paper_id": "05d99c07db59b6948e39bfa62c2cbbf62944059a",
+          "cord_uid": "x4qdiln9",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.12.20022566",
+          "publish_time": "2020-02-14",
+          "section": "body",
+          "sentence": "With a 25% reduction in transmission the epidemic is smaller and peaks later, reducing the overall attack rate by 20%."
+        },
+        {
+          "paper_id": "349104eb16d3c08e212c6ee78230d8778621c40f",
+          "cord_uid": "yuppix3r",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.ijid.2020.02.033",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "If the R0 value is reduced by 50%, the infected cases will be reduced by about half."
+        },
+        {
+          "paper_id": "4af62711ee4cca0c90baf73be3e83ea95e68c045",
+          "cord_uid": "yuppix3r",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.ijid.2020.02.033",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "If the R0 value is reduced by 50%, the infected cases will be reduced by about half."
+        },
+        {
+          "paper_id": "22616110b79baaf4c9d23f130a9ee35c64d991f7",
+          "cord_uid": "poamqquy",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1469-0691.2011.03559.x",
+          "publish_time": "2011-05-31",
+          "section": "body",
+          "sentence": "Our strategy reduced the rate of antifungal use by 50%."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Physical science of the coronavirus (e.g., charge distribution, adhesion to hydrophilic/phobic surfaces, environmental survival to inform decontamination efforts for affected areas and provide information about viral shedding).",
+      "seed_sentences": [
+        "Although the viral load of coronaviruses on inanimate surfaces is not known during an outbreak situation it seems plausible to reduce the viral load on surfaces by disinfection, especially on frequent touch surfaces in the immediate patient surrounding where the highest viral load can be expected.",
+        "For the disinfection of small surfaces ethanol (62%e71%; carrier tests) revealed a similar efficacy against coronavirus [7] .",
+        "Although the viral load of coronaviruses on inanimate surfaces is not known during an outbreak situation it seems plausible to reduce the viral load on surfaces by disinfection, especially on frequent touch surfaces in the immediate patient surrounding where the highest viral load can be expected.",
+        "b. Because prion infectivity is retained after drying and the dried material is harder to clean from surfaces, reusable instruments should be kept wet between time of use and disinfection.",
+        "The process of decontamination of the virus-contaminated surfaces by the appropriate disinfectants or virucidal agents was successful in case of other respiratory viruses such as SARS-CoV and avian influenza [59] "
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "4ecbacf61daab591e76f7471eb6e7fc1a4e0ed70",
+          "cord_uid": "80dfqjql",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.infpip.2020.100044",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "For the disinfection of small surfaces ethanol (62%e71%; carrier tests) revealed a similar efficacy against coronavirus [7] ."
+        },
+        {
+          "paper_id": "b31ac58e913e3456eaca63b33272d58ac3818a48",
+          "cord_uid": "80dfqjql",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.infpip.2020.100044",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "For the disinfection of small surfaces ethanol (62%e71%; carrier tests) revealed a similar efficacy against coronavirus [7] ."
+        },
+        {
+          "paper_id": "615548f3e1b4817f7b7a99bebe01e6911d441172",
+          "cord_uid": "971d0sir",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.onehlt.2020.100127",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "The process of decontamination of the virus-contaminated surfaces by the appropriate disinfectants or virucidal agents was successful in case of other respiratory viruses such as SARS-CoV and avian influenza [59] ."
+        },
+        {
+          "paper_id": "42d5ece2affbe08915b4816282bf613d90345049",
+          "cord_uid": "4hwceo7j",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-323-28780-7.00003-2",
+          "publish_time": "2016-12-31",
+          "section": "body",
+          "sentence": "Because prion infectivity is retained after drying and the dried material is harder to clean from surfaces, reusable instruments should be kept wet between time of use and disinfection."
+        },
+        {
+          "paper_id": "f95dff44aae700378dd3746ea194c9a31a7b15b8",
+          "cord_uid": "k9xhphpl",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jhin.2020.01.022",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "Although the viral load of coronaviruses on inanimate surfaces is not known during an outbreak situation it seem plausible to reduce the viral load on surfaces by disinfection, especially of frequently touched surfaces in the immediate patient surrounding where the highest viral load can be expected."
+        },
+        {
+          "paper_id": "f95dff44aae700378dd3746ea194c9a31a7b15b8",
+          "cord_uid": "k9xhphpl",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jhin.2020.01.022",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "For the disinfection of small surfaces ethanol (62e71%; carrier tests) revealed a similar efficacy against coronavirus."
+        },
+        {
+          "paper_id": "c8c052d27aaf8015316dcd2644fa5e0b3870cea1",
+          "cord_uid": "e2p46wa8",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.05.20031088",
+          "publish_time": "2020-03-08",
+          "section": "body",
+          "sentence": "The incremental benefit of individual quarantine over active monitoring was minimal in this scenario, requiring hundreds or thousands of suspected contacts to be quarantined to avert one infection beyond active monitoring alone."
+        },
+        {
+          "paper_id": "f4716a579e28eeb0550a0c53ceda0ee315b08616",
+          "cord_uid": "l4frxzji",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.chom.2016.01.007",
+          "publish_time": "2016-02-10",
+          "section": "body",
+          "sentence": "Further, in addition to reducing initial viral load through anti-viral interventions, therapeutic approaches that moderate immunopathology may help reduce the high case fatality rates associated with emerging coronaviruses and perhaps other high pathogenic virus infections."
+        },
+        {
+          "paper_id": "2f8a485f1acf987c6fe46621216f436b0e351af6",
+          "cord_uid": "l5ogbl5p",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1473-3099(20)30129-8",
+          "publish_time": "2020-03-05",
+          "section": "body",
+          "sentence": "Even if our public health measures are not able to fully contain the spread of COVID19 because of the virus characteristics, they will still be effective in delaying the onset of widespread community trans mission, reducing peak incidence and its impact on public services, and decreasing the overall attack rate."
+        },
+        {
+          "paper_id": "17e72ee178b183ee417e8827681663db38f08d4c",
+          "cord_uid": "fb832hlp",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-804543-5.00003-8",
+          "publish_time": "2016-12-31",
+          "section": "body",
+          "sentence": "This thereby provides a plausible explanation for the vaccine-exacerbated lung eosinophilic pathology observed in recipients of alum-adjuvanted or unadjuvanted inactivated whole virus and recombinant S protein vaccines."
+        },
+        {
+          "paper_id": "8c2be2520e96c24ee28eadf60bfef46d256a58f2",
+          "cord_uid": "quu6b0b4",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jhin.2020.03.017",
+          "publish_time": "2020-03-19",
+          "section": "body",
+          "sentence": "By denaturing proteins, alcohol inactivates enveloped viruses, including coronaviruses, and thus ABHR formulations with at least 60% ethanol have been proven effective for hand hygiene (7) ."
+        },
+        {
+          "paper_id": "4ffa132eb846df71be74a6c1ce6e9d08c3458bb9",
+          "cord_uid": "bpukqctg",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.gie.2020.03.019",
+          "publish_time": "2020-03-14",
+          "section": "body",
+          "sentence": "Endoscopy procedures demand short physical distance from patients to personnel, and according to studies performed during the global SARS outbreak of 2003, droplets from infected patients could reach persons located 6 feet (approximately 1.83 meters) or more from the source. 12 Finally, we do believe the risk of exposure of endoscopy personnel is not limited to upper endoscopy procedures considering the recent detection of SARS-CoV in biopsy specimens and stools, suggesting a possible fecal-oral transmission. 13 This could be even more relevant given that virus transmission can occur during the incubation period in asymptomatic patients."
+        },
+        {
+          "paper_id": "655537fc8cc52bccf43cf7189ab060d3097caa7a",
+          "cord_uid": "6dbt99h0",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/ijerph17051633",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Quarantine of patients (both confirmed and suspected), isolation of susceptible population, and protection of high-risk professions are necessary measures for reducing exposure to the viruses and eliminating the risk of getting infected by the viruses."
+        },
+        {
+          "paper_id": "06c89f69aa7b5f9648d2c1543b8246fe9c3610cf",
+          "cord_uid": "8vtz7owc",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.micinf.2020.01.004",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Although it remains unclear whether those without symptoms have high enough viral titers for spreading the virus, great attention should be paid to minimize related risks."
+        },
+        {
+          "paper_id": "984eadbbf4721358284d04dac03f26a28cbe0a8c",
+          "cord_uid": "8vtz7owc",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.micinf.2020.01.004",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Although it remains unclear whether those without symptoms have high enough viral titers for spreading the virus, great attention should be paid to minimize related risks."
+        },
+        {
+          "paper_id": "f4f4b045dce8ff5ff1f5aaa48a6bdbaaa7b05179",
+          "cord_uid": "4ah705nc",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.14.20022939",
+          "publish_time": "2020-02-18",
+          "section": "body",
+          "sentence": "A secondary propagation route Due to the versatility of the virus, in addition to interfering with the immune response, contagion may involve a variety of causes, such as environments contaminated with virus carrier secretions, dirty water effluents, besides the expected direct contamination via aerosols."
+        },
+        {
+          "paper_id": "615548f3e1b4817f7b7a99bebe01e6911d441172",
+          "cord_uid": "971d0sir",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.onehlt.2020.100127",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "Similar approaches were also successful in containing some of the highly pathogenic avian influenza viruses [37] ."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Persistence and stability on a multitude of substrates and sources (e.g., nasal discharge, sputum, urine, fecal matter, blood).",
+      "seed_sentences": [
+        "Currently, the standard of reference for the COVID-19 pneumonia diagnosis is a positive result in nucleic acid detection assay for the upper and lower respiratory tract specimens and blood, respiratory tract specimens were including nasal and pharyngeal swab specimens, sputum, and bronchoalveolar lavage fluid."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "e046a06f262d74d025272ad697d358c4afb5d9bd",
+          "cord_uid": "65plab8b",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.25.20027755",
+          "publish_time": "2020-02-27",
+          "section": "abstract",
+          "sentence": "Currently, the standard of reference for the COVID-19 pneumonia diagnosis is a positive result in nucleic acid detection assay for the upper and lower respiratory tract specimens and blood, respiratory tract specimens were including nasal and pharyngeal swab specimens, sputum, and bronchoalveolar lavage fluid."
+        },
+        {
+          "paper_id": "4af62711ee4cca0c90baf73be3e83ea95e68c045",
+          "cord_uid": "yuppix3r",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.ijid.2020.02.033",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "A confirmed case of COVID-19 infection was defined as a case with a positive result for viral nucleic acid testing in respiratory specimens."
+        },
+        {
+          "paper_id": "349104eb16d3c08e212c6ee78230d8778621c40f",
+          "cord_uid": "yuppix3r",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.ijid.2020.02.033",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "A confirmed case of COVID-19 infection was defined as a case with a positive result for viral nucleic acid testing in respiratory specimens."
+        },
+        {
+          "paper_id": "4e2bc97a6164191ba3d53abfa49ccd973aa80326",
+          "cord_uid": "j0ufth5d",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.19.20025296",
+          "publish_time": "2020-02-23",
+          "section": "body",
+          "sentence": "The diagnosis of COVID-19 infection was established based on the World Health Organization (WHO) interim guidance, and a confirmed case was defined as a positive result to high-throughput sequencing or real-time reverse transcription-polymerase chain reaction (RT-PCR) assay for nasal and pharyngeal swab specimens."
+        },
+        {
+          "paper_id": "97e0efc17b5a10c75f7c83b08423d27585a31df5",
+          "cord_uid": "68193u0a",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.12.20035048",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "The confirmed diagnosis of COVID-19 was defined as a positive result by using real-time reverse-transcriptase polymerase-chain-reaction (RT-PCR) detection for routine nasal and pharyngeal swab specimens or anti-SARS-CoV-2 antibody assay."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Persistence of virus on surfaces of different materials (e,g., copper, stainless steel, plastic).",
+      "seed_sentences": [
+        "HCoV-19 was most stable on plastic and stainless steel and viable virus could be detected up to 33 72 hours post application ( Figure 1A ), though the virus titer was greatly reduced (plastic from 10 3.7 to 34 10 0.6 TCID 50 /mL after 72 hours, stainless steel from 10 3.7 to 10 0.6 TCID 50 /mL after 48 hours)."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "a48bc1745fa15021b49890385022bbe7c4b1076b",
+          "cord_uid": "hiw576og",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033217",
+          "publish_time": "2020-03-10",
+          "section": "body",
+          "sentence": "HCoV-19 was most stable on plastic and stainless steel and viable virus could be detected up to 33 72 hours post application ( Figure 1A ), though the virus titer was greatly reduced (plastic from 10 3.7 to 34 10 0.6 TCID 50 /mL after 72 hours, stainless steel from 10 3.7 to 10 0.6 TCID 50 /mL after 48 hours)."
+        },
+        {
+          "paper_id": "6e818fd2341af1e16caf6411c7fbb4200a17646d",
+          "cord_uid": "aa7slcnc",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.14.20036129",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "This indicates dPCR is more sensitive and suitable for low virus load specimens from the patients under isolation and observation without clinical symptoms, which is in agreement with the very recent online report (19)."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Natural history of the virus and shedding of it from an infected person",
+      "seed_sentences": [
+        "Although the direct association with the disease is yet to be confirmed with more experimental data, our results provide several lines of evidence that the virus is most likely associated with this disease: (i) the viral titre is very high, with the abundance level reaching 1.5% and 0.62% of total reads sequenced, surpassing the highest expressed host genes to be one of the most dominant RNA molecules in the host transcriptome, an important sign that the virus is then under active replication [9] ; (ii) since our RNA mNGS approach targets the total infectome (except for prion) [10] , the fact that no other pathogens were identified from the infected sample underlines the unique role played by 2019-nCoV; (iii) the virus is grouped within the notorious CoV clade (i.e. SARSlike) with history of cross-virus transmission to humans [11] and has been demonstrated to have strong zoonotic potential [12] ; and while this manuscript was under preparation, we noticed another case report from Wuhan which identified a same virus as the one found in this study [13] .",
+        "The initial symptoms of recently infected patients seem more insidious, indicating that the new coronavirus may gradually evolve into a virus similar to influenza and latent in asymptomatic carriers for a long time."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "facbfdfa7189ca9ff83dc30e5d241ab22e962dbf",
+          "cord_uid": "ky4xlih3",
+          "source": "CZI",
+          "url": "https://doi.org/10.1002/cti2.1115",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "One case in point is the CRISPR/Cas antiviral immune system of prokaryotes, which is now repurposed as a revolutionary gene-editing biotechnology in plants and animals. 11 Another is the ancient lineage of nucleocytosolic large DNA viruses (NCLDVs), which are emerging human pathogens that possess enormous genomes of up to several megabases in size encoding hundreds of proteins with unique and unknown functions. 12 Moreover, hundreds of human-and avian-infective viruses such as IAV strain H5N1 are known, but recent efforts indicate the true number may be in the millions and many harbour zoonotic potential. 13 It is increasingly clear that host-virus interactions have generated truly vast yet poorly understood and untapped biodiversity."
+        },
+        {
+          "paper_id": "0ab795fc615df6457551a8e231dce1f268eef9d2",
+          "cord_uid": "zhdjtv4j",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.03.20030833",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "The presence of asymptomatic infection also suggests that SARS-CoV-2 may gradually evolve into a virus similar to influenza, 17 or it may be latent in humans for a long time."
+        },
+        {
+          "paper_id": "473fbfa4949e8349434157a9f65687087176e605",
+          "cord_uid": "wi30tue8",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.chom.2015.02.003",
+          "publish_time": "2015-03-11",
+          "section": "body",
+          "sentence": "Although factors important for RNA metabolism and translation, including Xrn1, were identified in a high-throughput format, genome-wide, RNAi screen for host proteins affecting GFP-expressing VacV spread in an established, transformed cell line, the reliance of the virus on host mRNA decay pathways for infectious virus production was not further investigated (Sivan et al., 2013) ."
+        },
+        {
+          "paper_id": "27a5d6d48e98ba411758f7516e567d601acf362a",
+          "cord_uid": "19z4ej76",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/0378-1135(95)92531-f",
+          "publish_time": "1995-02-28",
+          "section": "body",
+          "sentence": "By examining viruses recombinant between CPV and FPV it has been shown that the capsid protein determines the host range of both viruses in vitro and in vivo (Parrish, 1991 , Chang et al., 1992 , Truyen et al., 1994 ."
+        },
+        {
+          "paper_id": "7698ec48a89a682cb52c066e293567fa3e83b7dd",
+          "cord_uid": "y12cq60a",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.10.986109",
+          "publish_time": "2020-03-11",
+          "section": "body",
+          "sentence": "Having the largest RNA viral genomes, Coronaviruses can produce over 25% recombinant progeny with their high rates of recombination [11, 15] . ssRNA(-) viruses are not known to recombine with high frequency, so their genetic variation relies on high mutation 8 ."
+        },
+        {
+          "paper_id": "473fbfa4949e8349434157a9f65687087176e605",
+          "cord_uid": "wi30tue8",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.chom.2015.02.003",
+          "publish_time": "2015-03-11",
+          "section": "body",
+          "sentence": "While some RNA viruses circumvent Xrn1 action to preserve their genomic integrity (Chapman et al., 2014; Dougherty et al., 2011; Silva et al., 2010) , others that produce m 7 GTP-capped mRNAs harness the mRNA exonucleolytic powers of Xrn1 to accelerate host and viral mRNA decay (Gaglia et al., 2012) ."
+        },
+        {
+          "paper_id": "b9dbb79c9e06164c3b7fefce67c11c5d6caf1fcd",
+          "cord_uid": "ac00tai9",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.01.29.925354",
+          "publish_time": "2020-01-30",
+          "section": "body",
+          "sentence": "This is especially important, as most of known bacteriophages are DNA viruses, while many important human (and animal) viruses are RNA viruses."
+        },
+        {
+          "paper_id": "ac45d1c2865c21a16912e73a857060bacce4c95a",
+          "cord_uid": "0hxan9rw",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.12.988246",
+          "publish_time": "2020-03-14",
+          "section": "body",
+          "sentence": "Similar to a recently described metagenomic approach for SARS-CoV-2 identification 43 , we also establish a user-friendly multiplex-PCRbased metagenomic method that is not only able to detect SARS-CoV-2, but could also be applied for the identification of significant sequence mutations within known viruses and to uncover novel pathogens with a limited sequencing depth of approximately 1 million reads."
+        },
+        {
+          "paper_id": "2ea102f58147dab02e4dea90eb90dbc67149f678",
+          "cord_uid": "jmrg4oeb",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.29.971101",
+          "publish_time": "2020-03-02",
+          "section": "body",
+          "sentence": "Although the exact mechanisms responsible for such a high infection rates remains 15 to be further investigated, our data on both recombination in the RBD and the unique furin or TMPRSS2 cleavage site insertion between the S1 and S2 domains of the spike protein may explain why the transmission of this newly emerged virus is significantly increased compared to the related beta-coronaviruses, including SARS and MERS."
+        },
+        {
+          "paper_id": "d99fcb854ef8540ba535e65784ec9d9a7fe45159",
+          "cord_uid": "wq5zqzvv",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.meegid.2020.104215",
+          "publish_time": "2020-07-31",
+          "section": "body",
+          "sentence": "In addition, in developing PCR-based assays for detection of pathogenic viruses, it is also of very important to take into account the high genetic diversity, especially among the RNA viruses -such as those from the Flaviviridae and Bunyaviridae families -and the potential of cross-reactivity among viruses with a close relative."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Implementation of diagnostics and products to improve clinical processes",
+      "seed_sentences": [
+        "To simulate the process of applying the proposed DeCoVNet for clinical computeraided diagnosis (i.e., prospective clinical trials), we used the 499 CT scans collected from Dec 13, 2019 to Jan 23, 2020 for training and used the rest 131 CT volumes collected from Jan 24, 2020 to Feb. 06, 6 .",
+        "Effective teamwork can increase the efficiency of the work, in the process of care, while buy and use the new improved care products, not only more convenient and effective; the current hospital has been promoted to the implementation of the respiratory care ward, To share the unit to promote the implementation of experience, in order to achieve the purpose of maintaining patient safety and improve the quality of medical services.",
+        "Mobile phone apps implementing algorithmic contact tracing can speed up the process of tracing newly diagnosed individuals, spreading information instantaneously back through a past contact network to inform them that they are at risk of being infected, and thus allow them to take appropriate social distancing and testing measures."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "0e38333bff68345492526fd39b70d1b18969cb83",
+          "cord_uid": "ll4rxd9p",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.12.20027185",
+          "publish_time": "2020-03-17",
+          "section": "body",
+          "sentence": "To simulate the process of applying the proposed DeCoVNet for clinical computeraided diagnosis (i.e., prospective clinical trials), we used the 499 CT scans collected from Dec 13, 2019 to Jan 23, 2020 for training and used the rest 131 CT volumes collected from Jan 24, 2020 to Feb. 06, 6 ."
+        },
+        {
+          "paper_id": "c91b581d38243c502118d93fc6f71ee02ec395e4",
+          "cord_uid": "bc9retcq",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.08.20032946",
+          "publish_time": "2020-03-12",
+          "section": "abstract",
+          "sentence": "Mobile phone apps implementing algorithmic contact tracing can speed up the process of tracing newly diagnosed individuals, spreading information instantaneously back through a past contact network to inform them that they are at risk of being infected, and thus allow them to take appropriate social distancing and testing measures."
+        },
+        {
+          "paper_id": "867ebb2be2d466bcb35e5a7319708eaff39c4799",
+          "cord_uid": "ojmhkt5o",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0924-8579(17)30423-5",
+          "publish_time": "2017-11-30",
+          "section": "body",
+          "sentence": "Effective teamwork can increase the efficiency of the work, in the process of care, while buy and use the new improved care products, not only more convenient and effective; the current hospital has been promoted to the implementation of the respiratory care ward, To share the unit to promote the implementation of experience, in order to achieve the purpose of maintaining patient safety and improve the quality of medical services."
+        },
+        {
+          "paper_id": "c954675ee859e2f7b8f352a398a67469b50f05de",
+          "cord_uid": "011k6mm0",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.26.20028084",
+          "publish_time": "2020-02-29",
+          "section": "body",
+          "sentence": "Our strategy not only helps relief the problem of scarce medical resources and reduce unnecessary cross-infection in hospitals, but it also increases people's self-management ability and cooperation and encourages them to participate in health monitoring."
+        },
+        {
+          "paper_id": "867ebb2be2d466bcb35e5a7319708eaff39c4799",
+          "cord_uid": "ojmhkt5o",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0924-8579(17)30423-5",
+          "publish_time": "2017-11-30",
+          "section": "body",
+          "sentence": "Conclusion: The bundle care information system not only improved the comprehensiveness of the bundle care that patients received, but also reminded medical team members or helped them to keep track of its tasks and the quality of care provided."
+        },
+        {
+          "paper_id": "867ebb2be2d466bcb35e5a7319708eaff39c4799",
+          "cord_uid": "ojmhkt5o",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0924-8579(17)30423-5",
+          "publish_time": "2017-11-30",
+          "section": "body",
+          "sentence": "The changes in institute, management and staff's behavior not only improve quality of health care but also assure patient safety, and benefits of hospitals, health workers and government."
+        },
+        {
+          "paper_id": "18718a50df53a9c27fbdf34bbe30a90bcfd151ad",
+          "cord_uid": "s2q6g91b",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s2173-5727(11)70030-3",
+          "publish_time": "2011-12-31",
+          "section": "body",
+          "sentence": "They likewise underscored the importance of clinical management: how improvements in the care processes, based on quality programs, and concern over safety, can be as important for improving the patient prognosis as the use of certain treatment interventions."
+        },
+        {
+          "paper_id": "18718a50df53a9c27fbdf34bbe30a90bcfd151ad",
+          "cord_uid": "s2q6g91b",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s2173-5727(11)70030-3",
+          "publish_time": "2011-12-31",
+          "section": "body",
+          "sentence": "Positioning of Intensive Care Medicine as a cost-effective discipline capable of offering useful survival and of restoring health, wellbeing and wealth to society, with efficient and prioritized management of the available resources."
+        },
+        {
+          "paper_id": "867ebb2be2d466bcb35e5a7319708eaff39c4799",
+          "cord_uid": "ojmhkt5o",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0924-8579(17)30423-5",
+          "publish_time": "2017-11-30",
+          "section": "body",
+          "sentence": "In the process of improving efficiency, was also manage to strengthen the quality of medical care as well as patient safety."
+        },
+        {
+          "paper_id": "867ebb2be2d466bcb35e5a7319708eaff39c4799",
+          "cord_uid": "ojmhkt5o",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0924-8579(17)30423-5",
+          "publish_time": "2017-11-30",
+          "section": "body",
+          "sentence": "So the aim of this project was to upgrade knowledge, improve the compliance rate and the correctness of bundle care, and reduce the infection rate for the patients in our unit."
+        },
+        {
+          "paper_id": "867ebb2be2d466bcb35e5a7319708eaff39c4799",
+          "cord_uid": "ojmhkt5o",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0924-8579(17)30423-5",
+          "publish_time": "2017-11-30",
+          "section": "body",
+          "sentence": "Conclusion: Improving recognition of clinical staffs can enhance compliance rates of bundle care, leading to reduced healthcare related infection."
+        },
+        {
+          "paper_id": "179df1e769292dd113cef1b54b0b43213e6b5c97",
+          "cord_uid": "vof63qat",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20035360",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "This can lead to practical changes in management, which can improve allocative efficiency as well as clinical outcomes, through the consideration of more intensive environments of care All rights reserved."
+        },
+        {
+          "paper_id": "859c10c77baaa53343b29e1fd05065eb25981bb0",
+          "cord_uid": "q2chksx9",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1479-666x(04)80030-1",
+          "publish_time": "2004-12-31",
+          "section": "body",
+          "sentence": "The overall purpose of clinical pathways is to improve outcome by providing a mechanism to coordinate care and to reduce fragmentation, and ultimately cost."
+        },
+        {
+          "paper_id": "6df921e2952489efe8a19462f542a917d57d6f7a",
+          "cord_uid": "6h358si5",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(96)01034-3",
+          "publish_time": "1996-08-10",
+          "section": "body",
+          "sentence": "Efforts to assist patients to follow treatments might improve the efficiency of care and substantially enhance benefits."
+        },
+        {
+          "paper_id": "9759372186923259321dfef84e484242523242aa",
+          "cord_uid": "7a3szj8x",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-811228-1.00018-2",
+          "publish_time": "2018-12-31",
+          "section": "body",
+          "sentence": "Customers now demand better quality care and more attention to maintain or improve their overall health."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Disease models, including animal models for infection, disease and transmission",
+      "seed_sentences": [
+        "Based on those findings, we develop a mathematical transmission model to disentangle how transmission is affected by age differences in the biology of COVID-19 infection and disease, and altered mixing patterns due to social distancing.",
+        "The model generates an ensemble of possible epidemic scenarios described by the number of newly generated infections, times of disease arrival in each subpopulation, and the number of traveling infection carriers.",
+        "In our model formulation, the transmission probability is denoted by \u03b2 and the contact rate is denoted by c. By enforcing contact tracing, a proportion, , of individuals exposed is quarantined, and can either move to the compartment or with rate of (or -), depending on whether they are effectively infected or not 18, 19 , while the other proportion, 1q, consists of individuals exposed to the virus who are missed from contact tracing and move to the exposed  The effective reproduction number is given by In epidemiology, the basic reproduction number (R 0 ), used to measure the transmission potential of a disease, is the average number of secondary infections produced by a typical case of an infection in a population where everyone is susceptible."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "5c31897d01f3edc7f58a0f03fceec2373fcfdc3d",
+          "cord_uid": "f87h5qh6",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.09.20021261",
+          "publish_time": "2020-02-11",
+          "section": "body",
+          "sentence": "The model generates an ensemble of possible epidemic scenarios described by the number of newly generated infections, times of disease arrival in each subpopulation, and the number of traveling infection carriers."
+        },
+        {
+          "paper_id": "ac3e33b6ed12e43208d76bf455f3b81067e6ac6d",
+          "cord_uid": "z7r45291",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033464",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "By enforcing contact tracing, a proportion, , of individuals exposed is quarantined, and can either move to the compartment or with rate of (or -), depending on whether they are effectively infected or not 18, 19 , while the other proportion, 1q, consists of individuals exposed to the virus who are missed from contact tracing and move to the exposed  The effective reproduction number is given by In epidemiology, the basic reproduction number (R 0 ), used to measure the transmission potential of a disease, is the average number of secondary infections produced by a typical case of an infection in a population where everyone is susceptible."
+        },
+        {
+          "paper_id": "160ecaaa5a766c289fc2f6b5499f0dfe7aab971c",
+          "cord_uid": "aoqyx8mk",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.25.20027615",
+          "publish_time": "2020-02-29",
+          "section": "body",
+          "sentence": "With contact tracing, we assume a proportion, q, of individuals exposed to the virus is quarantined, and can either move to the compartment B or S q at a rate of \u03b2cq or (1 -\u03b2)cq), depending on whether they are infected or not, while the other proportion, 1 -q, consists of individuals exposed to the virus who are missed from contact tracing and move to the exposed compartment E at a rate of \u03b2c(1 \u2212 q) once infected or stay in compartment S otherwise."
+        },
+        {
+          "paper_id": "ee7f56d556c2063d71905df34a589bbf5f1ff051",
+          "cord_uid": "kgkcgpmq",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.10.20033738",
+          "publish_time": "2020-03-13",
+          "section": "abstract",
+          "sentence": "We used a stochastic transmission model in which every person generates novel infections according to a probability distribution that is affected by the incubation period distribution (time from infection to symptoms), distribution of the latent period (time from infection to a person becoming infectious), and overall transmissibility."
+        },
+        {
+          "paper_id": "81f08d610ed4c61197c816bdbe5f23b14670dd47",
+          "cord_uid": "fn9b7adi",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033050",
+          "publish_time": "2020-03-12",
+          "section": "body",
+          "sentence": "Mathematical models can help us understand how SARS-CoV-2 would spread across the population and inform control measures that may mitigate future transmission. 24, 25 Here, we simulated the trajectory of the ongoing outbreak of COVID-19 in Wuhan, using an age-structured SEIR model. 17, 18 Because individuals' mixing patterns are non-random, they influence the transmission dynamics of the disease. 11 Models assessing the effectiveness of social distancing interventions, such as school closure, need to account for social structures and heterogeneities in mixing of individuals."
+        },
+        {
+          "paper_id": "b3fefaf12333cd48df7fc035419d5322978eb326",
+          "cord_uid": "3d3sjegp",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.cmpb.2011.02.002",
+          "publish_time": "2011-11-30",
+          "section": "body",
+          "sentence": "It states that the number of new infections per time period (transmission rate) is proportional to the number of susceptible individuals times the number of existing infectious cases."
+        },
+        {
+          "paper_id": "734779fad93249a2f6fede6afd10eeff7b37919b",
+          "cord_uid": "f4hj35dr",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.04.20031112",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "To quantify the relative contribution of immunity versus seasonal forcing on the transmission dynamics of the betacoronaviruses, we adopted a regression model (22) that expressed the effective reproduction number for each strain (HKU1 and OC43) as the product of a baseline transmissibility constant (related to the basic reproduction number and the proportion of the population susceptible at the start of the season), the depletion of susceptibles due to infection with the same strain, the depletion of susceptibles due to infection with the other strain, and a spline to capture further unexplained seasonal variation in transmission strength (seasonal forcing)."
+        },
+        {
+          "paper_id": "7a2dfc11fe9a6143562c74deb043bbea3973aadb",
+          "cord_uid": "hfoni1zo",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-141602613-6.10003-5",
+          "publish_time": "2008-12-31",
+          "section": "abstract",
+          "sentence": "Emerging infectious diseases are those with increasing incidence at local, regional, or international scales, and are spreading from epicenters to new geographic areas."
+        },
+        {
+          "paper_id": "6445688d3f59cb7e02f2a8b28450cdf118a8a373",
+          "cord_uid": "fugb778l",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.16.20023754",
+          "publish_time": "2020-02-19",
+          "section": "body",
+          "sentence": "The next generation matrix N captures how the infection spreads when pathogen is first introduced in a population, and its (i, j) entry gives the expected number of new infections in compartment i produced by in infected individual introduced into compartment j."
+        },
+        {
+          "paper_id": "3da1a03cb675f463b0d8e30744aa33512241dd29",
+          "cord_uid": "c800ynvc",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.16.20023655",
+          "publish_time": "2020-02-20",
+          "section": "body",
+          "sentence": "Modified SEIR propagation dynamics model It is assumed that the quarantine ratio is q, the probability of transmission is \uf062 , and the contact rate is c.  where \uf071 is the ratio of the transmission ability of the exposed to the infected."
+        },
+        {
+          "paper_id": "1c7db6e51155dadaaffd563ef1e560011b25ae92",
+          "cord_uid": "bim76jna",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/jcm9020498",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "This provides an estimate of the risk that imported cases generate sustained outbreaks in new locations under different surveillance levels."
+        },
+        {
+          "paper_id": "43064e9a5b81ad1ac0743c818cda48383c246c95",
+          "cord_uid": "ueb7mjnv",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/s2214-109x(20)30074-7",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "We calculated the effective reproduction number (R eff ) of the simulation as the average number of secondary cases produced by each infected person in the presence of isolation and contact tracing."
+        },
+        {
+          "paper_id": "a14b5655cb13ed64cb8cff7c806a7b58c858b8b7",
+          "cord_uid": "ueb7mjnv",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/s2214-109x(20)30074-7",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "We calculated the effective reproduction number (R eff ) of the simulation as the average number of secondary cases produced by each infected person in the presence of isolation and contact tracing."
+        },
+        {
+          "paper_id": "d8e9bc80862afe06c9db27ae5b5787fb4c4b4766",
+          "cord_uid": "3wz7k4vy",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-012374410-4.00530-6",
+          "publish_time": "2008-12-31",
+          "section": "body",
+          "sentence": "Included within the scope of pathogenesis are the stepwise progression of infection from virus entry through dissemination to shedding, the defensive responses of the host, and the mechanisms of virus clearance or persistence."
+        },
+        {
+          "paper_id": "bb53a02a8468fa9b33b082328580378680aa0838",
+          "cord_uid": "2v5wkjrq",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.13.20034082",
+          "publish_time": "2020-03-17",
+          "section": "body",
+          "sentence": "Wherein, the infection rate \u03b2 controls the rate of spread, the incubation rate \u03c3 is the rate of latent individual becoming infectious, and the recovery rate \u03b3 is determined by the average duration of infection."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Tools and studies to monitor phenotypic change and potential adaptation of the virus",
+      "seed_sentences": [
+        "Here, we analyzed the potential mutations that may have evolved after the virus became epidemic among humans and also the mutations resulting in the human adaptation.",
+        "Based on the evidence gained from studies of SARS-CoV, and from the genetic identity of SARS-CoV-2, it could be postulated that the virus responsible for the recent outbreak is transmit ted from bats to humans either directly or indirectly through adaptation in an unidentified host [34, 35] .",
+        "We commenced by translating the reference sequence of SARS-CoV-2 ( ACCESSION MN908947, VERSION MN908947.3) to protein-coding sequence and predicted potential epitopes in a sliding window of 9 using netMHC tools (netMHC/II and \"-pan\" versions, when allotype was not available)."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "ca950c8677b72b5c4812be3f7d082029df3c12ea",
+          "cord_uid": "7v5aln90",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.000885",
+          "publish_time": "2020-03-22",
+          "section": "body",
+          "sentence": "We hypothesize that this, and/or other ancestral recombination events between viruses infecting bats and pangolins, may have had a key role in the evolution of the strain that lead to the introduction of SARS-CoV-2 into humans."
+        },
+        {
+          "paper_id": "d202a1d1765204bdba9fa46aa07293a30e9d2188",
+          "cord_uid": "bc3108hi",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.chom.2020.03.002",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "Such knowledge is of immediate relevance and would assist vaccine design and facilitate the evaluation of vaccine candidate immunogenicity, as well as monitoring of the potential consequences of mutational events and epitope escape as the virus is transmitted through human populations."
+        },
+        {
+          "paper_id": "c7f56ac99072a397fddf17d3f1d2e34d4146edbe",
+          "cord_uid": "fw4pmaoc",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.16.993816",
+          "publish_time": "2020-03-17",
+          "section": "body",
+          "sentence": "This indicates that bats CoVs particularly Bat/Yunnan/RaTG13 are the source of SARS-CoV-2, and they are emerged and transmitted from bats to humans through some recombination and transformation events in intermediate host."
+        },
+        {
+          "paper_id": "d99fcb854ef8540ba535e65784ec9d9a7fe45159",
+          "cord_uid": "wq5zqzvv",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.meegid.2020.104215",
+          "publish_time": "2020-07-31",
+          "section": "body",
+          "sentence": "Virus and host genomic data may contribute to rapid identification of critical mutations that enable viruses to spread efficiently, interact with different receptors and cause disease in different hosts."
+        },
+        {
+          "paper_id": "8c210df7072bc88fa7d2da72b25c84430c16f5e8",
+          "cord_uid": "bgdcm1i1",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.10.942748",
+          "publish_time": "2020-02-18",
+          "section": "abstract",
+          "sentence": "In sum, we propose a two-hit scenario in the emergence of the SARS-CoV-2 virus whereby the SARS-CoV-2 ancestors in bats first acquired genetic characteristics of SARS-CoV by incorporation of a SARS-like RBD through recombination before 2009, and subsequently, the lineage that led to SARS-CoV-2 accumulated further, unique changes specifically in the RBD."
+        },
+        {
+          "paper_id": "8b6f8c93695fbc49950229c48b4ced5abbb7d8dc",
+          "cord_uid": "01a8er2v",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-012374410-4.00706-8",
+          "publish_time": "2008-12-31",
+          "section": "body",
+          "sentence": "The initial study of virus evolution sought to explain how virus variation affects viral and host survival and to understand viral disease."
+        },
+        {
+          "paper_id": "e3fa5ac28a1cd0b48cccb80d7ab65cdc429b08ac",
+          "cord_uid": "luxgc7st",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075990/",
+          "publish_time": "2020-02-24",
+          "section": "body",
+          "sentence": "SARS-CoV-2 is likely a batorigin coronavirus that was transmitted to humans through a spillover from bats or through yet undetermined intermediate animal host (avian, swine, phocine, bovine, canine, other species) or wild animals."
+        },
+        {
+          "paper_id": "c12ad8b411c24fe215be91d1f990645743e55ab5",
+          "cord_uid": "m9icky9z",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.29.20029421",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "In addition, the virus itself may mutate to evolve, so to increase the potential rate of false negative in the disease diagnosis."
+        },
+        {
+          "paper_id": "c7f56ac99072a397fddf17d3f1d2e34d4146edbe",
+          "cord_uid": "fw4pmaoc",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.16.993816",
+          "publish_time": "2020-03-17",
+          "section": "abstract",
+          "sentence": "These results from our analysis suggest that SARS-CoV-2 is a recombinant virus of bat and pangolin CoVs."
+        },
+        {
+          "paper_id": "cd4f5118038ae33283d34a15f8c3888f00e247bc",
+          "cord_uid": "szsb1oan",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jaut.2020.102434",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "The various CoVs of animal origin undergo evolution and genetic recombination, thereby resulting in mutated CoVs that may be highly pathogenic and potentially be more deadly to humans [3, 27] ."
+        },
+        {
+          "paper_id": "f2f114ba9f0b618a8b2396ab87f2d861ba9fd483",
+          "cord_uid": "suhqgmlo",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.10.20033944",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Besides, the establishment of a novel SARS-CoV-2 categorization system may facilitate our understanding of virus evolution and its influence on disease severity and progression."
+        },
+        {
+          "paper_id": "17307ab6eda64e1538da204c02114dd36a9b7fd6",
+          "cord_uid": "xetzg7gp",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.02.08.939553",
+          "publish_time": "2020-02-12",
+          "section": "body",
+          "sentence": "Genetic variations can modify the immunogenicity landscape of the virus, and impact its survival fitness."
+        },
+        {
+          "paper_id": "74f3d71d215bc46a4e051895aec6a005552638fd",
+          "cord_uid": "rwt8kbjp",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075978/",
+          "publish_time": "2020-03-02",
+          "section": "body",
+          "sentence": "As IRF3 deleted cell lines from other bat species become available, it will be interesting to identify species-specific adaptations and the role of S185 in antiviral responses against emerging bat-borne RNA viruses, such as filoviruses, paramyxoviruses, and coronaviruses, including the recently emerged SARS-CoV-2."
+        },
+        {
+          "paper_id": "8b6f8c93695fbc49950229c48b4ced5abbb7d8dc",
+          "cord_uid": "01a8er2v",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-012374410-4.00706-8",
+          "publish_time": "2008-12-31",
+          "section": "body",
+          "sentence": "Principles of virus evolution provide an integrating framework for understanding the diversity of viruses and the relationships with host as well as providing explanations for the emergence of new viral disease."
+        },
+        {
+          "paper_id": "4b198a136ae3666ddd590299150ad7498d7e0130",
+          "cord_uid": "vov6o1jx",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.respe.2017.08.001",
+          "publish_time": "2018-02-28",
+          "section": "body",
+          "sentence": "Were we to carry out biodiscovery research on these viruses, one could catalogue them, classify them in relation to already-known viruses, in particular those known to be pathogenic to humans, and through comparative genome studies assess their pathogenic potential."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Immune response and immunity",
+      "seed_sentences": [
+        "It is currently considered that the lung injury is not only associated with direct virus-induced injury, but also COVID-19 invasion triggers the immune responses that lead to the activation of immune cells(monocyte, macrophage, T and B-lymphocyte) to release a large number of pro-and anti-inflammatory cytokines including TNF, IL-1\u03b2, IL-6 and so on.",
+        "Here, vaccination-induced inflammation, although necessary for effective immunity, also generated strong counter-regulatory immune responses that were mediated primarily by inflammatory monocytes through suppression of T cell responses.",
+        "16 It is unlikely that sufficient mite allergen can be absorbed and cross the placenta when the quantity inhaled per day is only 10 to 100 ng, and it is not conceivable that the fetus makes an immune response when the mother is exposed to a quantity of antigen that is not associated with immune responses in children."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "18d8539db21ca5295042773ffd6621ea61a04fbe",
+          "cord_uid": "4aux2mxa",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0091-6749(00)90051-4",
+          "publish_time": "2000-02-29",
+          "section": "body",
+          "sentence": "Studies with the Aim V medium that used other antigens showed very marked inhibition of both proliferation and cytokine production. 15 A further problem with interpreting the data on responses in infants comes from the report that similar responses are found with the chord blood of infants whose mothers were not exposed to significant mite allergen during pregnancy. 16 It is unlikely that sufficient mite allergen can be absorbed and cross the placenta when the quantity inhaled per day is only 10 to 100 ng, and it is not conceivable that the fetus makes an immune response when the mother is exposed to a quantity of antigen that is not associated with immune responses in children."
+        },
+        {
+          "paper_id": "d1c0a1bfbc2785ecfaac415612d354f2ffc3bfc5",
+          "cord_uid": "6g34qwer",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.21.20040691",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "CD147 is a receptor for ligand CyPA, and its interaction with CD147 was key to the inflammation and chemotaxis. 21 CyPA is secreted to extracellular in response to inflammatory stimuli (e.g. virus infection), activates and attracts leukocytes via its receptor CD147 to the stimulus site. 15 We demonstrated that anti-CD147 antibody could attenuate the chemotactic index of T cells induced by CyPA. 17 Multiple cytokines and chemokines increased significantly in patients with COVID-19, which was significantly correlated with pulmonary inflammation index of chest CT imaging. 4.22 These results suggest that the excess immune cells migrating into lung tissue may cause uncontrolled immune response, leading to the inflammation storm, and aggravated disease."
+        },
+        {
+          "paper_id": "f4716a579e28eeb0550a0c53ceda0ee315b08616",
+          "cord_uid": "l4frxzji",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.chom.2016.01.007",
+          "publish_time": "2016-02-10",
+          "section": "body",
+          "sentence": "Since T cells dampen cytokine storms by suppressing the innate response (Kim et al., 2007) , suboptimal T cell responses may result in unchecked innate immune responses, causing prolonged production of pro-inflammatory mediators and subsequent immunopathology."
+        },
+        {
+          "paper_id": "17643a57b92abf0d6635d308949e78de2ecc7f66",
+          "cord_uid": "dptgg05n",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20036640",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Clinically, several papers showed that most COVID-19 patients developed lymphopenia as well as pneumonia with higher plasma levels of pro-inflammatory cytokines in severe cases [6] [7] [8] , suggesting that the host immune system is involved in the pathogenesis 9, 10 ."
+        },
+        {
+          "paper_id": "9ea1002a17ada9616294ad293210211a35787fce",
+          "cord_uid": "imqmyqhz",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jhep.2017.04.020",
+          "publish_time": "2017-09-30",
+          "section": "abstract",
+          "sentence": "Background & Aims: Besides secreting pro-inflammatory cytokines, chemokines and effector molecules, effector CD8 + T cells that arise upon acute infection with certain viruses have been shown to produce the regulatory cytokine interleukin (IL)-10 and, therefore, contain immunopathology."
+        },
+        {
+          "paper_id": "a625e5d6fc8956c231c500a40e887e248a69de61",
+          "cord_uid": "fcmzdcuh",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.26.20028191",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "Considering the pandemic potential and moderate threaten of COVID-19 for population with multiple underlying diseases, further studies are required to focus on pathology and pathophysiology of tissue injury caused by SARS-CoV-2 infection, especially on the activation process of immune response and cytokines storm."
+        },
+        {
+          "paper_id": "c12a11fa9c5fdff0bf85a9f0111c64d6dffe8d26",
+          "cord_uid": "cgcvfftf",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1470-9465.2006.12_4_1426.x",
+          "publish_time": "2006-12-31",
+          "section": "body",
+          "sentence": "Thus, whereas excessive production of pro-inflammatory cytokines at the systemic level causes organ failure and death in animal models of fulminant sepsis, the local production of proinflammatory cytokines importantly contributes to host defence during pulmonary infection."
+        },
+        {
+          "paper_id": "6c7c93c25caa6d94c70c891e2446a4a12e729365",
+          "cord_uid": "ksbha7kz",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.16.20035105",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "We believed that overactive inflammation response and immune damage occurred in COVID-19 for the high level of C-reactive protein, SAA, IL-6 and ferritin in the patient."
+        },
+        {
+          "paper_id": "d1c0a1bfbc2785ecfaac415612d354f2ffc3bfc5",
+          "cord_uid": "6g34qwer",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.21.20040691",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "The latest report indicates the infection of SARS-CoV-2 increases the expression levels of multiple proinflammatory cytokines, including IFN-\u03b3, TNF-\u03b1, MCP1, and IL-6 in the serum, which suggests the inflammation storm may involve in the progression of COVID-19. 4 Therefore, inhibiting virus replication and limiting excessive inflammation are of equal importance in COVID-19 therapy."
+        },
+        {
+          "paper_id": "fea50730d7cdcd7c728f98c31fe20aeb8af5e350",
+          "cord_uid": "13jupb26",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.compbiomed.2020.103670",
+          "publish_time": "2020-02-26",
+          "section": "body",
+          "sentence": "It is known from studies on the SARS coronavirus that activation by a trypsin-like protease naturally present in the lung appears essential to activate the virus for cell binding and entry by cleaving S at two sites [5, 6] ."
+        },
+        {
+          "paper_id": "1c4200a8fa3fc2e851aed0f43b17b32187dc9034",
+          "cord_uid": "n2jer8en",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.2353/ajpath.2007.060469",
+          "publish_time": "2007-02-28",
+          "section": "body",
+          "sentence": "Injured epithelial cells, infiltrating inflammatory cells, and elevated cytokines all have an important role in the process of activation of fibroblasts and collagen synthesis. 19 Our findings of direct SARS-CoV infection of fibroblasts suggest that SARS-CoV and its proteins may interact with host cells, thus further contributing to the activation of fibroblasts and excessive production of collagen."
+        },
+        {
+          "paper_id": "be880458506754a2f6c7d83c6d65e890fb243963",
+          "cord_uid": "penb65x7",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s2468-1253(20)30057-1",
+          "publish_time": "2020-03-04",
+          "section": "body",
+          "sentence": "Both SARS-CoV-2 and SARS-CoV bind to the angiotensin-converting enzyme 2 (ACE2) receptor to enter the target cell, 7 where the virus replicates and subsequently infects other cells in the upper respiratory tract and lung tissue; patients then begin to have clinical symptoms and manifestations."
+        },
+        {
+          "paper_id": "e9110fa452f2db8694a31a73a7c6651c53547078",
+          "cord_uid": "apy0nc1m",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-1-4557-4801-3.00134-x",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "In addition to mediating an intracellular antiviral state, IFN-\u03b1/\u03b2 also stimulates the antigenindependent destruction of virus-infected cells by a specialized population of lymphocytes known as natural killer (NK) cells. 237 Importantly, IFNs bridge innate and adaptive antiviral immune responses through multiple modes of action, which include enhancing viral antigen presentation by class I MHC proteins, 238 promoting the proliferation of MHC class I-restricted CD8 + CTLs, 239 and facilitating the functional maturation of dendritic cells. 240 Proinflammatory mediators IL-1\u03b2 and IL-18 pleiotropically stimulate and amplify the innate immune response through induction of other inflammatory mediators, immune cell activation, and migration of inflammatory cells into sites of infection. 241 These molecules perform essential functions in host antiviral defense. 242 The adaptive immune response confers systemic and enduring pathogen-selective immunity through expansion and functional differentiation of viral antigen-specific T and B lymphocytes."
+        },
+        {
+          "paper_id": "f08249cbb9bdfc3b7f103470537a52190c81b974",
+          "cord_uid": "2okcuviq",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20033472",
+          "publish_time": "2020-03-17",
+          "section": "body",
+          "sentence": "Among these pathways, the interferon-MAPK signaling pathway was the major blood immune response for COVID-19 infection. 7 7 The activation of the MAPK signaling pathway by interferon involves a set of defense mechanisms evolved by human beings to fight against viral infections (19) (20) (21) ."
+        },
+        {
+          "paper_id": "d1c0a1bfbc2785ecfaac415612d354f2ffc3bfc5",
+          "cord_uid": "6g34qwer",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.21.20040691",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "These data demonstrated a novel entry of virus infection mediated by CD147 receptor. 13 CD147 is also presented in activated inflammatory cells and participates the regulation of cytokine secretion and leukocytes chemotaxis by binding with cyclophilin A (CyPA). 14, 15 CyPA is a proinflammatory cytokine that is up-regulated in response to virus infection. 16 Our previous studies demonstrated that antibody targeting CD147 inhibited CyPA-induced T cell chemotaxis thus attenuating the local inflammation. 17 Based on these evidences, we assess the clinical outcomes using meplazumab as add-on therapy in patients with COVID-19 pneumonia."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Effectiveness of movement control strategies to prevent secondary transmission in health care and community settings",
+      "seed_sentences": [
+        "Our findings show that NPIs, inter-city travel restrictions, social distancing and contact reductions, as well as early case detection and isolations, have substantially reduced COVID-19 transmission across China, with the effectiveness of different interventions varying.",
+        "Since COVID-19 emerged in early December, 2019 in Wuhan and swept across China Mainland, a series of large-scale public health interventions, especially Wuhan lock-down combined with nationwide traffic restrictions and Stay At Home Movement, have been taken by the government to control the epidemic.",
+        "In particular, we provided an alternative explanation for the result of Eaton and Hallett (2014) who used detailed mathematical modeling of HIV transmission to show that the amount of early transmission does not affect the effectiveness of the ART: we can control an outbreak if we can identify infected individuals and enroll them on ART faster than the observed rate at which new cases are generated, which does not depend on the estimates of the amount of early transmission.",
+        "doi: medRxiv preprint -7 -substantial proportion of secondary transmission occurring before illness onset 1 indicates that many transmissions cannot be prevented solely through isolation of 2 symptomatic cases, as by the time contacts are traced they may have already 3 become infectious themselves and generated secondary cases [7] ."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "0bd443591b5e10934beef050b516afeca6b668fe",
+          "cord_uid": "3kp3ptbn",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.29.20029561",
+          "publish_time": "2020-03-03",
+          "section": "abstract",
+          "sentence": "Since COVID-19 emerged in early December, 2019 in Wuhan and swept across China Mainland, a series of large-scale public health interventions, especially Wuhan lock-down combined with nationwide traffic restrictions and Stay At Home Movement, have been taken by the government to control the epidemic."
+        },
+        {
+          "paper_id": "1d2947d5c0addcbbcfa71d87ea074a8b6ff2a973",
+          "cord_uid": "fhqbw32a",
+          "source": "biorxiv",
+          "url": "https://doi.org/10.1101/2020.03.02.974048",
+          "publish_time": "2020-03-03",
+          "section": "body",
+          "sentence": "In particular, we provided an alternative explanation for the result of Eaton and Hallett (2014) who used detailed mathematical modeling of HIV transmission to show that the amount of early transmission does not affect the effectiveness of the ART: we can control an outbreak if we can identify infected individuals and enroll them on ART faster than the observed rate at which new cases are generated, which does not depend on the estimates of the amount of early transmission."
+        },
+        {
+          "paper_id": "a6ce4ce12c7af1cfb4d71764b963285b687e6b51",
+          "cord_uid": "imexhlwn",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/jcm9020601",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "We considered the impact of reduced travel volumes on COVID-19 transmission dynamics outside China."
+        },
+        {
+          "paper_id": "f4d76fb8161f4cee6987d7d412798e1276348858",
+          "cord_uid": "j1yqn9xg",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.14.20022897",
+          "publish_time": "2020-02-17",
+          "section": "body",
+          "sentence": "We considered the impact of reduced travel volumes on COVID-19 transmission dynamics outside China."
+        },
+        {
+          "paper_id": "0a27cb2cd52229472fcfc3e49d3a3cb7179867e4",
+          "cord_uid": "y8o5j2be",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20039107",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Our study provides evidence that the interventions put in place in Wuhan and Shanghai, and the resulting changes in human behavior, drastically decreased daily contacts, essentially reducing them to household interactions."
+        },
+        {
+          "paper_id": "87b89b038b28d2ba0bcfd2203845bf15f922c1b5",
+          "cord_uid": "ragcpbl6",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.21.20026328",
+          "publish_time": "2020-02-23",
+          "section": "body",
+          "sentence": "Since the outbreak of atypical pneumonia cases was detected in Wuhan at the end of December 2019, the Chinese Center for Disease Control and Prevention (China CDC) has launched a new surveillance system, first in Wuhan, then extended to the entire country, to record information on COVID-19 cases."
+        },
+        {
+          "paper_id": "f294f0df7468a8ac9e27776cc15fa20297a9f040",
+          "cord_uid": "73a7uvyz",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/v12020244",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "As a large number of people have left Wuhan, the control of the epidemic situation is extremely urgent, and the treatments of COVID-19 are imminent."
+        },
+        {
+          "paper_id": "c8df44a3612e85e267351e936ddeb8fc5867afa1",
+          "cord_uid": "zav5gksq",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.02.20030007",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "In the ongoing COVID-19 epidemic, China has introduced drastic control measures."
+        },
+        {
+          "paper_id": "7adf41d2120f3398e13817367c2120ebac6b99b6",
+          "cord_uid": "qpt5dj8p",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038117",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "The COVID-19 outbreak has been declared as a pandemic and is expected to cause one of the most serious global public health problems in recent years 1 In this study, based on the public data of COVID-19 cases, we predicted the epidemic trend of COVID-19 in China and across the world."
+        },
+        {
+          "paper_id": "0f8261c63cdeeb5c2bf9294eba2954e1ca71b244",
+          "cord_uid": "jtwb17u8",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.03.20029843",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "Although we have shown that the apparent fall in incidence of COVID-19 since CNY's day in China is likely to be attributed to the interventions taken, we cannot rule out the possibility that the decrease was caused by varying timings and intensities of various NPIs taken in different areas as well as some other unknown seasonal factors, e.g. temperature and absolute humidity. 43  We declare no competing interests. 1 8 The data of COVID-19 cases reported by county, city, and province across China are availalable from data sources detailed in the Supplementary, and the average days from illness onset to report of the first case by each county used in the modelling are detailed in appendix Tabel S2."
+        },
+        {
+          "paper_id": "10138816c67a562b55bc9c2b882b62c81fc4b062",
+          "cord_uid": "m87tapjp",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.16.20023465",
+          "publish_time": "2020-02-18",
+          "section": "body",
+          "sentence": "In this study, we propose a generalized SEIR model to analyze the epidemic of COVID-19, which was firstly reported in Wuhan last December and then quickly spread out nationwide in China."
+        },
+        {
+          "paper_id": "10138816c67a562b55bc9c2b882b62c81fc4b062",
+          "cord_uid": "m87tapjp",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.16.20023465",
+          "publish_time": "2020-02-18",
+          "section": "body",
+          "sentence": "The central government of China as well as all local governments, including Hubei, has tightened preventive measures to curb the spreading of COVID-19 since Jan. 2020."
+        },
+        {
+          "paper_id": "0eda8331214ca028350b07e2953702f3078a105e",
+          "cord_uid": "3nipr212",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.14.20023127",
+          "publish_time": "2020-02-17",
+          "section": "body",
+          "sentence": "Here, to assess the full potential of COVID-19, we use a modelinference framework to estimate the contagiousness and proportion of undocumented infections in China during the weeks before and after the shutdown of travel in and out of Wuhan."
+        },
+        {
+          "paper_id": "9e4b67ef6613c31882bb561d28770203da19771b",
+          "cord_uid": "odl1nv4i",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.10.20032755",
+          "publish_time": "2020-03-12",
+          "section": "body",
+          "sentence": "To control the diffusion and deterioration of the epidemic of COVID-19 in China, the Chinese government implemented series of strict and unprecedented intervention strategies [5, 6] ."
+        },
+        {
+          "paper_id": "a1f9e6d1c2717f4555275f25d6169063b7f8bb23",
+          "cord_uid": "hb2aaa29",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7069035/",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "They suggested that in most modeled scenarios contact tracing and case isolation alone might be insufficient to control a new outbreak of COVID-19 within 3 months, especially when longer delays from symptom onset to isolation, fewer cases ascertained by contact tracing, and increased transmission before symptoms exist."
+        },
+        {
+          "paper_id": "a1622a3e3f1bb679a942d66bed2330882534227e",
+          "cord_uid": "rpkyycru",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.annemergmed.2020.02.006",
+          "publish_time": "2020-04-30",
+          "section": "body",
+          "sentence": "To the Editor: Since the emergence of a cluster of patients with pneumonia caused by a novel coronavirus (COVID-19) in Wuhan, Hubei, China, in December 2019, emergency departments (EDs) in China have instituted special measures to manage patients with potential exposure to the virus."
+        },
+        {
+          "paper_id": "aa5475eb5aa3a1091fa01df00aca2f3def543f70",
+          "cord_uid": "3rrry27f",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.13.20034496",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "Affected regions are growing globally by the day, and COVID-19 is no longer confined to China. 10, 18 To contain COVID-19 transimission, 19 policymakers in other countries are considering implementing restrictive measures. 20 We present this early evidence of disruptions one month into the outbreak to provide evidence on the health of the general community living and working under restrictive measures."
+        },
+        {
+          "paper_id": "f3fc7d60f1f9511e741dd8b74d179d12365a3fb1",
+          "cord_uid": "b5fdwhl6",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jhin.2020.03.002",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "In order to contain the outbreak of COVID-19 in Mainland China, National Health Commission of the People's Republic of China (NHCPRC) have so far dispatched medical support teams (41,600 healthcare workers from 30 provinces and municipalities) to support the medical treatment in Wuhan and Hubei province [5] ."
+        },
+        {
+          "paper_id": "c001abc2e59264f76e44ce7512222c8b007de359",
+          "cord_uid": "dasx8j5v",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7080931/",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "Since the outbreak of COVID-19, Jiangsu takes effective measures to curb the spread of the virus and gives normative treatments for infected patients, which shows significant disease control and treatment effects."
+        },
+        {
+          "paper_id": "622580ea34c3acc011faa7573bc549e34078edde",
+          "cord_uid": "5zrywg58",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.12.20034678",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "Several infected cases 2, 3 presented firstly with conjunctivitis before the onset of pneumonia, implying that the ocular route might be the potential transmission route of SARS-CoV-2 virus under certain conditions."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Effectiveness of personal protective equipment (PPE) and its usefulness to reduce risk of transmission in health care and community settings",
+      "seed_sentences": [
+        "Since COVID19 would not be suspected in these patients, healthcare workers interacting with them typically would not use the level of personal protective equipment (PPE) or precautions necessary to prevent COVID19 transmission, especially if there were also restrictions due to PPE shortages within the clinical institution."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "9b1e1c869a26b53973683d284250c2f4a8a339f6",
+          "cord_uid": "11hi1jel",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.22.20040287",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "The concern is that with COVID-19 pressures these practical actions for clinicians now will not be addressed, and chronic disease management care might even deteriorate."
+        },
+        {
+          "paper_id": "7ba04e4cbbdfdb584fc2d10a2dcc8155f19c2a5f",
+          "cord_uid": "r79doruj",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s2215-0366(20)30078-x",
+          "publish_time": "2020-02-19",
+          "section": "body",
+          "sentence": "Third, staff did not know how to deal with patients when they were unwilling to be quarantined at the hospital or did not cooperate with medical measures because of panic or a lack of knowledge about the disease."
+        },
+        {
+          "paper_id": "20350465cd9ddc856fd9aa9dfde4c343993e239e",
+          "cord_uid": "s741v0bd",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jacr.2020.03.013",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "These micro-practices are not advocated as prescriptions for treating burnout and they will not extinguish the stress and anxiety of COVID-19."
+        },
+        {
+          "paper_id": "7a33f2d7e0c46cac008acb577b7c69235c6fae6d",
+          "cord_uid": "gjb6zo81",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.cmi.2020.02.005",
+          "publish_time": "2020-02-11",
+          "section": "body",
+          "sentence": "However, failure to provide admitted patients with protection measures such as goggles and suits, the shortage of medicines and the lack of isolated rooms are negatively affecting the recovery of patients."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Role of the environment in transmission",
+      "seed_sentences": [
+        "A 50% reduction in transmission results in a smaller epidemic before the summer, followed by a resurgence in cases in the following winter.",
+        "Even though there are many uncertainties relating to seasonality and this novel coronavirus [33] , it seems prudent to assume some seasonal fluctuation so we increased the average by 25% in winter and reduced it by 25% in summer (with a sinusoidal variation throughout the simulated year), using a mid-winter peak for Europe of 15 January (i.e., day 334 of the simulation).",
+        "21 They estimated that a 50% reduction in transmission during summer months would result in a smaller epidemic before the summer, followed by a resurgence in cases in the following winter.",
+        "If SARS-CoV-2 demonstrates seasonality like influenza and other respiratory tract viruses, a decline in cases during summer would provide time to prepare for the following transmission season.",
+        "We captured seasonal transmission by replacing the constant transmission rate with a time-varying transmission rate given by: is the magnitude of the seasonal difference in transmission, ranging from (maximum seasonality with no transmission at the peak of the summer)."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "8d07b32de2cd946099966ca7e46c3e9ee9659069",
+          "cord_uid": "rxv5lgq8",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.20039776",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Even though there are many uncertainties relating to seasonality and this novel coronavirus [33] , it seems prudent to assume some seasonal fluctuation so we increased the average by 25% in winter and reduced it by 25% in summer (with a sinusoidal variation throughout the simulated year), using a mid-winter peak for Europe of 15 January (i.e., day 334 of the simulation)."
+        },
+        {
+          "paper_id": "c118f8139e55632ad0f4d7267c40b0419126e874",
+          "cord_uid": "3bqd2oih",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7068161/",
+          "publish_time": "2020-03-05",
+          "section": "body",
+          "sentence": "\u2022 If SARS-CoV-2 demonstrates seasonality like influenza and other respiratory tract viruses, a decline in cases during summer would provide time to prepare for the following transmission season."
+        },
+        {
+          "paper_id": "e1200121af466e437f3cf17aa10654b7725edb07",
+          "cord_uid": "i46n70gb",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.16.20036939",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Danon and colleagues modeled seasonal transmission by introducing a time-varying transmission rate. 21 They estimated that a 50% reduction in transmission during summer months would result in a smaller epidemic before the summer, followed by a resurgence in cases in the following winter."
+        },
+        {
+          "paper_id": "05d99c07db59b6948e39bfa62c2cbbf62944059a",
+          "cord_uid": "x4qdiln9",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.12.20022566",
+          "publish_time": "2020-02-14",
+          "section": "body",
+          "sentence": "A 50% reduction in transmission results in a smaller epidemic before the summer, followed by a resurgence in cases in the following winter."
+        },
+        {
+          "paper_id": "05d99c07db59b6948e39bfa62c2cbbf62944059a",
+          "cord_uid": "x4qdiln9",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.12.20022566",
+          "publish_time": "2020-02-14",
+          "section": "body",
+          "sentence": "With a 25% reduction in transmission the epidemic is smaller and peaks later, reducing the overall attack rate by 20%."
+        },
+        {
+          "paper_id": "05d99c07db59b6948e39bfa62c2cbbf62944059a",
+          "cord_uid": "x4qdiln9",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.12.20022566",
+          "publish_time": "2020-02-14",
+          "section": "body",
+          "sentence": "We investigated the impact of a seasonally affected transmission rate, to capture potential decreased transmission during the summer months."
+        },
+        {
+          "paper_id": "493aa8aa2e9122620b1dcaf102ab62e643ad5632",
+          "cord_uid": "6ymuovl2",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20037770",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "A 50% reduction in transmissibility ( 0 reduced to 1.34) will contain the spread of COVID-19 (with the national epidemic peak postponed to winter 2020 and the peak magnitude reduced to 1%)."
+        },
+        {
+          "paper_id": "a99b24730ab1768a968a582caa998ab84b96f007",
+          "cord_uid": "32v44sw9",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30260-9",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "A 50% reduction in transmissibility would push the viral reproductive number to about 1\u00b73, in which case the epidemic would grow slowly without peaking during the first half of 2020."
+        },
+        {
+          "paper_id": "11f96d05db6854ef95312aa3a4736724ce1f02d6",
+          "cord_uid": "y7d3ux28",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.12.20022426",
+          "publish_time": "2020-02-13",
+          "section": "body",
+          "sentence": "If the number of secondary infections is substantially less disperse, e.g. influenza-like, outbreak delays decrease by about 50%, as the outbreak becomes less reliant on occasional super-spreading events ( Figure S1 )."
+        },
+        {
+          "paper_id": "79622641e002b2574af9dc7f99d4fbbe192606e6",
+          "cord_uid": "nzat41wu",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.22.20041079",
+          "publish_time": "2020-03-24",
+          "section": "abstract",
+          "sentence": "Seasonal variation in transmission will facilitate epidemic control during the summer months but could lead to an intense resurgence in the autumn."
+        }
+      ]
+    }
+  ]
+}

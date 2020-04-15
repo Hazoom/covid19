@@ -1,0 +1,1156 @@
+{
+  "taskName": "What do we know about non-pharmaceutical interventions?",
+  "subTasks": [
+    {
+      "sub_task_description": "Guidance on ways to scale up NPIs in a more coordinated way (e.g., establish funding, infrastructure and authorities to support real time, authoritative (qualified participants)",
+      "seed_sentences": [
+        "Nevertheless, by taking drastic social distancing measures and policies of controlling the source of infection, with the tremendous joint efforts from the government, healthcare workers, and the people (Fig. 1) , R t was substantially reduced to 0.32 in Wuhan after February 2, which was encouraging for the global efforts fighting against the Covid-19 outbreak using traditional non-pharmaceutical measures. 31 Some limitations of this study need to be noted.",
+        "The containment strategy of integrated nonpharmaceutical interventions (NPIs) including travel bans and restrictions, contact reductions and social distancing, early case identification and isolation have been rapidly deloyed across China to contain the outbreak, and the combination of these interventions appears to be effective."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "9701a8c529cd8c18124da4cd61c1165a64b50281",
+          "cord_uid": "944pn0k9",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.03.20030593",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "Nevertheless, by taking drastic social distancing measures and policies of controlling the source of infection, with the tremendous joint efforts from the government, healthcare workers, and the people (Fig. 1) , R t was substantially reduced to 0.32 in Wuhan after February 2, which was encouraging for the global efforts fighting against the Covid-19 outbreak using traditional non-pharmaceutical measures. 31 Some limitations of this study need to be noted."
+        },
+        {
+          "paper_id": "d069dfb7f0aefcdc2c890a1bbe773ebd26b01a55",
+          "cord_uid": "oknxic4q",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.16.20023614",
+          "publish_time": "2020-02-19",
+          "section": "body",
+          "sentence": "In order to finally overcome the disease, Hubei Province adopted plenty of even severe measures to restrict population movements, and adopted various strategies, such as prohibiting assembly, delaying school and resumption of work, or working from home, to significantly reduce the internal population contact rate."
+        },
+        {
+          "paper_id": "53326420d7eb607538a248c0da27d3b092f651e2",
+          "cord_uid": "ad3tct5b",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.24.20027326",
+          "publish_time": "2020-02-25",
+          "section": "body",
+          "sentence": "Such difference is likely an outcome of the implementation of containment measures in China 3,20,21 , and of the increased awareness at different phases of the outbreak 22-26 (i.e. before and after containment measures) leading to self-isolation and quarantine. ."
+        },
+        {
+          "paper_id": "ac3e33b6ed12e43208d76bf455f3b81067e6ac6d",
+          "cord_uid": "z7r45291",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033464",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Therefore the outcome in the mainland China, both in terms of the infections avoided and the timing when the outbreak begins to be under control, is the consequence of a systematic package of social distancing (self-isolation and self-protection), contacting tracing, and detection/diagnosis."
+        },
+        {
+          "paper_id": "2309dc999803317771dca7201f28e8632b8bf773",
+          "cord_uid": "8avkjc84",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jinf.2020.02.014",
+          "publish_time": "2020-02-27",
+          "section": "body",
+          "sentence": "The strategies to reduce human exposure taken in China, such as limitation on population mobility and interpersonal contact rates, strict quarantine on migrants, have already had good impacts on control of the epidemic."
+        },
+        {
+          "paper_id": "ac3e33b6ed12e43208d76bf455f3b81067e6ac6d",
+          "cord_uid": "z7r45291",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033464",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Case importation before the January 23 rd lock-down also resulted in outbreaks in all Chinese provinces, but the systematic package of interventions implemented across the country led to effective containment."
+        },
+        {
+          "paper_id": "ac3e33b6ed12e43208d76bf455f3b81067e6ac6d",
+          "cord_uid": "z7r45291",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033464",
+          "publish_time": "2020-03-13",
+          "section": "abstract",
+          "sentence": "We show that a coherent and integrated approach with stringent public health interventions is the key to the success of containing the epidemic in China and specially its provinces outside its epicenter, and we show that this approach can also be effective to mitigate the burden of the COVID-19 epidemic in South Korea."
+        },
+        {
+          "paper_id": "0f8261c63cdeeb5c2bf9294eba2954e1ca71b244",
+          "cord_uid": "jtwb17u8",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.03.20029843",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "The NPIs deployed in China appear to be effectively containing the COVID-19 outbreak, but the efficacy of the different interventions varied, with the early case detection and contact reduction being the most effective."
+        },
+        {
+          "paper_id": "5aa0306fa361d31085f6df03d7e71307534b34c6",
+          "cord_uid": "9zs68dnn",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.10.20032995",
+          "publish_time": "2020-03-12",
+          "section": "body",
+          "sentence": "According to our modeling study, we believe that the most effective public health policies for SARS-CoV-2 epidemic prevention are provided as follows: 1) reduce the local circulation intensity of people, 2) prepare enough medical resources, especially available beds in hospitals, 3) try to prohibit large public gathering events."
+        },
+        {
+          "paper_id": "36a5f6d55d7c5f67d4344e36da0a72856ad3dda0",
+          "cord_uid": "45g12waw",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.07.20021154",
+          "publish_time": "2020-02-11",
+          "section": "body",
+          "sentence": "If the value of R0 is as high in other countries, our results suggest that active and strong population-wide social distancing efforts, such as closing down transportation system, schools, discouraging travel, etc., might be needed to reduce the overall contacts to contain the spread of the virus. , between hospitalization to discharge (E) and between hospitalization to death (F)."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "collaboration with all states to gain consensus on consistent guidance",
+      "seed_sentences": [
+        "China best exemplified this largescale quarantine by declaring epidemic zones and placing people under collective quarantine in villages, cities, or institutions. 21 In April 2003, the Chinese authorities gained full control of all activities to combat SARS, with guidelines and control measures that were national, unambiguous, rational, and widely followed, under central guidance.",
+        "A confirmed case should meet the criteria of notification for COVID-19 in Taiwan and be tested positive by real-time reverse transcriptase-polymerase chain reaction (RT-PCR) test. 12 Detailed information including demographic and clinical data was reported to the National Notifiable Disease Surveillance System. 13 The investigation team determined the clinical severity of the confirmed patients following the World Health Organization (WHO) interim guidance. 14 When the patient was laboratory-confirmed to have SARS-CoV-2 infection, a thorough epidemiological investigation including contact tracing was implemented by the outbreak investigation team of Taiwan CDC and local health authorities.",
+        "Based on the National Guidelines in Diagnosis and Treatment Scheme for COVID-19 (9), the seriousness of clinical presentations of COVID-19 cases was categorized as mild, moderate, severe, and critical."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "2f8a485f1acf987c6fe46621216f436b0e351af6",
+          "cord_uid": "l5ogbl5p",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1473-3099(20)30129-8",
+          "publish_time": "2020-03-05",
+          "section": "body",
+          "sentence": "China best exemplified this largescale quarantine by declaring epidemic zones and placing people under collective quarantine in villages, cities, or institutions. 21 In April 2003, the Chinese authorities gained full control of all activities to combat SARS, with guidelines and control measures that were national, unambiguous, rational, and widely followed, under central guidance."
+        },
+        {
+          "paper_id": "9ec258353291e981ef7eeb36111794c40b15c752",
+          "cord_uid": "c4u0gxp5",
+          "source": "CZI",
+          "url": "https://doi.org/10.1097/jcma.0000000000000270",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "In Taiwan, COVID-19 is a fifth-category notifiable communicable disease and should be reported to Taiwan Confirmatory laboratory diagnosis usually rely on a real-time RT-PCR assay to detect viral RNA by targeting a consensus E region of pan beta-CoV or other more specific regions (such as RdRp or N region) 1,13,15 Chest x-ray and computer tomography (CT) usually revealed bilateral pneumonia (75-98%) with multiple mottling and ground-grass opacity. 1, 15 Routine laboratory data in the early stage of COVID-19 epidemic are similar to common viral infection: lymphopenia, prolonged prothrombin time, elevated D-dimer, liver enzymes (alanine aminotransferase), total bilirubin, and lactate dehydrogenase, with worsening data in ICU cases. 1 Leukocytosis may occur if complicated with secondary bacterial infection."
+        },
+        {
+          "paper_id": "f3fa89e819a64d2d6c74f6d590661ca435878c26",
+          "cord_uid": "c4u0gxp5",
+          "source": "CZI",
+          "url": "https://doi.org/10.1097/jcma.0000000000000270",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "In Taiwan, COVID-19 is a fifth-category notifiable communicable disease and should be reported to Taiwan Confirmatory laboratory diagnosis usually rely on a real-time RT-PCR assay to detect viral RNA by targeting a consensus E region of pan beta-CoV or other more specific regions (such as RdRp or N region) 1,13,15 Chest x-ray and computer tomography (CT) usually revealed bilateral pneumonia (75-98%) with multiple mottling and ground-grass opacity. 1, 15 Routine laboratory data in the early stage of COVID-19 epidemic are similar to common viral infection: lymphopenia, prolonged prothrombin time, elevated D-dimer, liver enzymes (alanine aminotransferase), total bilirubin, and lactate dehydrogenase, with worsening data in ICU cases. 1 Leukocytosis may occur if complicated with secondary bacterial infection."
+        },
+        {
+          "paper_id": "9701a8c529cd8c18124da4cd61c1165a64b50281",
+          "cord_uid": "944pn0k9",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.03.20030593",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "Cases were diagnosed and the severity status was categorized as mild, moderate, severe, and critical according to the Diagnosis and Treatment Scheme for Covid-19 released by the National Health Commission of China. 20 A laboratory-confirmed case was defined if the patient had a positive test of SARS-CoV-2 virus by the real-time reverse-transcription-polymerase-chain-reaction (RT-PCR) assay or high-throughput sequencing of nasal and pharyngeal swab specimens."
+        },
+        {
+          "paper_id": "5572e04afa1d4a6ddfb4d89f6e545a0bc7932736",
+          "cord_uid": "6l1fyl93",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jfma.2020.03.007",
+          "publish_time": "2020-03-25",
+          "section": "body",
+          "sentence": "From lessons learned in responding to other emerging diseases such as SARS and avian influenza, we believe that laboratory capacity for rapid diagnosis is pivotal to outbreak response. 6 After China released the whole genome sequence of SARS-CoV-2 on January 10, Taiwan CDC's national reference laboratory immediately set up the real-time reverse transcription-polymerase chain reaction (RT-PCR) test for the virus. 7, 8 The laboratory protocol and reagents, including primers, probes, and positive control, were then distributed to designated laboratories."
+        },
+        {
+          "paper_id": "49ac69f362c27acbc6de0c5cbb640267e7a1e797",
+          "cord_uid": "jir7n19b",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.02.20030452",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "The presence of SARS-CoV-2 in pharyngeal swab specimens was detected by real-time RT-PCR using ORF1ab/N gene PCR kit (Biogerm, Cat# SJ-HX-226-1,2, Shanghai, China) according to the protocol described previously. 11 The diagnostic criteria for RT-PCR results were based on the recommendation by the National Institute for Viral Disease Control and Prevention (China) (http://ivdc.chinacdc.cn/kyjz/202001/t20200121_211337.html)."
+        },
+        {
+          "paper_id": "b23e58f5cbd3d23d149f64e909fa7e7caae72b6f",
+          "cord_uid": "wyz5jyjh",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ceh.2020.03.001",
+          "publish_time": "2020-12-31",
+          "section": "body",
+          "sentence": "When meeting the criteria of suspected diagnosis in the ''Novel Coronavirus Pneumonia Diagnosis and Treatment Program (Interim Version 6),\" nCapp automatically generates a prompt ''suspected diagnosis\". 12 The patient needs to be isolated and observed, and a doctor should collect specimens for the detection of new coronavirus nucleic acid to establish a clear diagnosis as soon as possible."
+        },
+        {
+          "paper_id": "867ebb2be2d466bcb35e5a7319708eaff39c4799",
+          "cord_uid": "ojmhkt5o",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0924-8579(17)30423-5",
+          "publish_time": "2017-11-30",
+          "section": "body",
+          "sentence": "The purpose of our study was to assess the performance to detection of drug resistant MTB of the GeneXpert Test compared to conventional culture methods when implemented into the normal clinical workflow of a regional hospital in south Taiwan."
+        },
+        {
+          "paper_id": "52ec6a1ad0637e4d77c83fe06766faccbc6dcbee",
+          "cord_uid": "lsrqko6p",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ijantimicag.2020.105946",
+          "publish_time": "2020-03-19",
+          "section": "body",
+          "sentence": "Overall, this preliminary report shows us the initial epidemiological findings of COVID-19, but continuous monitor of patients with this disease is still warranted. implementation of primary control measures in Taiwan from January 21 to February 29, 2020."
+        },
+        {
+          "paper_id": "3fb67d663ace1f95a9228d83bf11ff675d0fbff2",
+          "cord_uid": "wx0nhx8i",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.18.20038513",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "We retrospectively analyzed patients according to WHO interim guidance. 13 Laboratory confirmation of SARS-CoV-2 infection was performed as previously described. 14  A confirmed case of COVID-19 is defined as a positive result on high throughput sequencing or real-time reverse-transcriptase-polymerase-chain-reaction (RT-PCR) assay of pharyngeal swab specimens."
+        },
+        {
+          "paper_id": "1cf06efb631fff1394f207cd3ad09376ed85f8cb",
+          "cord_uid": "uwj62cuv",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.jmii.2020.02.009",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Nasopharyngeal swab was positive for severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) by real-time reverse-transcriptase polymerase chain reaction (rRT-PCR) assay performed by the Centers for Diseases Control in Taiwan (Taiwan CDC)."
+        },
+        {
+          "paper_id": "57c47ce2ae13578c7611519312f09871bc0c6eda",
+          "cord_uid": "uwj62cuv",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.jmii.2020.02.009",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Nasopharyngeal swab was positive for severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) by real-time reverse-transcriptase polymerase chain reaction (rRT-PCR) assay performed by the Centers for Diseases Control in Taiwan (Taiwan CDC)."
+        },
+        {
+          "paper_id": "045bff414afcee22d7f2f6667cae10b10ba99571",
+          "cord_uid": "0zkc5w74",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jinf.2020.03.016",
+          "publish_time": "2020-03-19",
+          "section": "body",
+          "sentence": "Dear Editor: We read with interest the recent papers in this Journal by Hao who described clinical features of atypical 2019 novel coronavirus pneumonia with an initially negative RT-PCR assay. 1 We would like to share our opinions for diagnostic approach of COVID-19 infection, the diagnostic approach for COVID-19 infection should be made comprehensive analysis."
+        },
+        {
+          "paper_id": "1cf06efb631fff1394f207cd3ad09376ed85f8cb",
+          "cord_uid": "uwj62cuv",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.jmii.2020.02.009",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Among these cases, the percentages of co-infections were associated with the severity and geographic regions. 11 Clinical guideline for the treatment of community-acquired pneumonia in Taiwan shall be considered for these cases. 12 In conclusion, we reported the clinical features of two patients with COVID-19 in Taiwan, and highlight the nonspecific nature of clinical presentations of COVID-19 and the importance of laboratory-based diagnosis."
+        },
+        {
+          "paper_id": "57c47ce2ae13578c7611519312f09871bc0c6eda",
+          "cord_uid": "uwj62cuv",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/j.jmii.2020.02.009",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Among these cases, the percentages of co-infections were associated with the severity and geographic regions. 11 Clinical guideline for the treatment of community-acquired pneumonia in Taiwan shall be considered for these cases. 12 In conclusion, we reported the clinical features of two patients with COVID-19 in Taiwan, and highlight the nonspecific nature of clinical presentations of COVID-19 and the importance of laboratory-based diagnosis."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "mobilize resources to geographic areas where critical shortfalls are identified)",
+      "seed_sentences": [
+        "During the 2009 influenza A(H1N1) pandemic, inadequate surge capacity highlighted the need for intensive-care reserves and improved health-care resource planning at all levels. 17, 18 In an effort to improve ECMO preparedness 19 for an outbreak of an emerging infectious disease, we highlight the ten key components of an ECMO action plan (panel) based on these four categories, with practical recommendations for health centres to ensure appropriate training, capacity, and planning, depending on local priorities and resources.",
+        "The analysis at the micro-level may further specify the proposed measures and prescribe actions for: l the digital modernization of the system and the introduction of e-health, l the improvement of skills and competencies of human resources, l the development of modern procurement systems, analytical cost accounting, compensation methods, methods for preparing and monitoring the budget of hospitals, and l the introduction of internal control systems, quality management systems, one-day surgery, home health-care, distant care."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "23a62c1bffd5b46d2123bf6b4c16164afccf6f75",
+          "cord_uid": "aoviner2",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s2213-2600(20)30121-1",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "During the 2009 influenza A(H1N1) pandemic, inadequate surge capacity highlighted the need for intensive-care reserves and improved health-care resource planning at all levels. 17, 18 In an effort to improve ECMO preparedness 19 for an outbreak of an emerging infectious disease, we highlight the ten key components of an ECMO action plan (panel) based on these four categories, with practical recommendations for health centres to ensure appropriate training, capacity, and planning, depending on local priorities and resources."
+        },
+        {
+          "paper_id": "f107ae357b97e66f3fb9c0efb80858dc5f257272",
+          "cord_uid": "8h3twtbe",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-407785-0.00025-6",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "The analysis at the micro-level may further specify the proposed measures and prescribe actions for: l the digital modernization of the system and the introduction of e-health, l the improvement of skills and competencies of human resources, l the development of modern procurement systems, analytical cost accounting, compensation methods, methods for preparing and monitoring the budget of hospitals, and l the introduction of internal control systems, quality management systems, one-day surgery, home health-care, distant care."
+        },
+        {
+          "paper_id": "f107ae357b97e66f3fb9c0efb80858dc5f257272",
+          "cord_uid": "8h3twtbe",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-407785-0.00025-6",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "Now, however, within the context of curtailing expenditure, the need emerges for investigating the impact of a rational use of health services and especially the flexible forms such as one-day surgeries and to this end, corresponding indicators are being developed."
+        },
+        {
+          "paper_id": "ec2fc4695722180950530be15c2de896ff404564",
+          "cord_uid": "evz55mue",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6234170/",
+          "publish_time": "2016-08-12",
+          "section": "body",
+          "sentence": "[8] [9] [10] [11] [12] [13] [14] [15] [16] Recent outbreaks of pandemic infectious diseases such as MERS-CoV in the Middle East and Asia, and Ebola in West Africa highlighted the need for equipped emergency care facilities, staffed with trained personnel to stem the tide of such outbreaks and to form the front lines in the treatment of more common but increasingly important conditions such as non-communicable disease (NCDs) and injuries in LMICs. 17 Despite the compelling need for more data on emergency care in LMICs, research in this area has been largely neglected."
+        },
+        {
+          "paper_id": "f107ae357b97e66f3fb9c0efb80858dc5f257272",
+          "cord_uid": "8h3twtbe",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-407785-0.00025-6",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "Implement integrated management and administration systems for: (1) the economic efficiency of medical technologies; (2) decision-making processes; (3) organizational-economic management; (4) the performance of health-care units based on measurable quantitative and qualitative targets; (5) the utilization of ICT; (6) the restructuring of resources in the smaller scale within health-care units; and (7) the coordinated and interconnected operations of health services and general or specialized medical departments/clinics within each health district."
+        },
+        {
+          "paper_id": "aabcc4f3bba09dbdcea873644356dff1115c7570",
+          "cord_uid": "55snzm9h",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1473-3099(19)30674-7",
+          "publish_time": "2020-01-31",
+          "section": "body",
+          "sentence": "The Lancet Infectious Diseases Commission will discuss disruptive factors and how preparedness planning must consider this new ecology by exploring current preparedness platforms and their vulnerability to disruptive factors; by addressing key disruptions, iden tifying possible solutions, and providing recommendations for countries to strengthen preparedness; by developing a multidisciplinary approach including National governments; international agencies; non-governmental organisations and charities; corporate entities; academic institutions Weakness in behavioural change guidance from national and international organisations; scarcity of sustainable leadership and financing in failed states leading to neglected or uncoordinated health systems; increasing duration and frequency of insecurity or conflict zones hindering efforts to recognise and respond to health threats; failure of countries to report disease outbreaks because of fear of economic consequences Social Travel patterns, migration, and interconnectivity; trade; technology and digital revolution, including those that affect human interaction; expansion and control of information; patterns of communication including social media; expectations and definition of expertise; social conflict and privacy Failure of host countries to protect the health of refugees and migrants; epidemic of devastating rumours and fake news on social media due to increased digital connectivity; emergence of social influencers exerting influence on politicians and institutions; increased resistance and hesitancy within communities to health interventions because of opposition by local experts Environment Geography affecting biological diversity; planned and unplanned urbanisation; climate change; interaction between humans, animals, and vectors; human development; state of the economy; state of health systems Climate change resulting in increased flooding with failed sanitation and safe water; altered distribution of zoonotic disease reservoirs and vectors; emerging zoonosis with increased agricultural production and human encroachment into animal environments; changing national priorities resulting in sharply reduced investment in health systems Pathogenesis Changing disease biomes; relationship between hosts and pathogens; pathogen evolution and changes; technologies such as synthetic biology, and the risks of manufacturing pathogens and their accidental or deliberate release; characteristics of a population such as underlying disease condition Increased opportunities for mutation or reassortment of infectious agents; increasingly reduced effectiveness of conventional vaccines and therapeutics for prevention and treatment of diseases; failure of conventional control measures to break the chain of transmission of infectious agents To tackle the wide-ranging issues, the Commission has brought together experts from academic, public health, policy making, international, non-governmental, and corporate institutions."
+        },
+        {
+          "paper_id": "aabcc4f3bba09dbdcea873644356dff1115c7570",
+          "cord_uid": "55snzm9h",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1473-3099(19)30674-7",
+          "publish_time": "2020-01-31",
+          "section": "body",
+          "sentence": "These outbreaks show that countries are at various stages of preparedness, and many have underdeveloped preparedness plans and response capabilities with weak or non-existent strategies to mitigate disruptive factors. 6, 7 Many countries face severe difficulties in providing universal health coverage, for example, and might overlook timely investments for threats that demand greater health-care facility or workforce requirements. 8, 9 Other challenges include shifts in within-country and between-country cooperation, the evolving need for transdisciplinary, cross-sectoral approaches and social participation, 2, 3, 8, 9 and effective leadership, coordination, and financing of local national and international partners. 10 Against this backdrop, the Lancet Infectious Diseases Commission on Preparedness for Emerging Epidemic Threats was formed in mid-2019 to examine the importance of this new ecology and its disruptive factors that have resulted in an underprepared world, whether current planning assumptions still hold, and what mitigation measures need to be introduced."
+        },
+        {
+          "paper_id": "200917c95e6477ab725eacda21ebdc3548c3fd95",
+          "cord_uid": "sn72mkzq",
+          "source": "PMC",
+          "url": "https://www.rcpjournals.org/content/clinmedicine/20/2/124.full.pdf",
+          "publish_time": "2020-03-01",
+          "section": "body",
+          "sentence": "An action plan should be developed in healthcare areas where assessments are likely to occur."
+        },
+        {
+          "paper_id": "1e52ac0c6b430ef4f178747cd49b32e8bd502bd9",
+          "cord_uid": "wypttkea",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ajem.2020.03.033",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Currently, one of the federal government's strategies to deal with a J o u r n a l P r e -p r o o f potentially overwhelming catastrophic disaster that outstrips resources is to engage in -crisis standards of care.\u2016 8, 9 That is, if overwhelmed, the federal government has advised states to create guidelines for hospitals to allocate scarce resources to save the greatest number of lives. 8, 9 Such strategies are to be utilized in only the most dire of situations (e.g., severe pandemic, catastrophic event) in which medical resources are completely outstripped."
+        },
+        {
+          "paper_id": "f107ae357b97e66f3fb9c0efb80858dc5f257272",
+          "cord_uid": "8h3twtbe",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-407785-0.00025-6",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "The directions of the OMC for social protection and the basic indicators of an ongoing pan-European research should be expanded and revised regularly as for example, the indicators of material deprivation (digital exclusion), of affluent households, life expectancy, and the transition from work to retirement. 18 The directions of the OMC as an intergovernmental cooperation method on accessible, quality and sustainable health-care, and long-term care, focus on the following: l Access for all to adequate health-care and long-term care, ensuring that the need for care does not lead to poverty and financial dependency while at the same time addressing inequalities related to access to care and the results of health services. l Quality in health-care and long-term health care and adjustment, including preventive care, to the changing needs and preferences of society and individuals, primarily through the development of quality standards that meet international best practices and through the development of a higher sense of responsibility among health professionals and patients and recipients of care. l Sustainability of adequate and quality health-care and long-term care through the rational use of resources and mainly through appropriate incentives for users and providers, good governance and coordination between care systems and public and private entities."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Rapid design and execution of experiments to examine and compare NPIs currently being implemented.",
+      "seed_sentences": [
+        "To facilitate rapid determination of outbreak risk, we propose a reformulation of a classic result from random network theory that relies on contact tracing data to simultaneously determine the first moment (R 0 ) and the higher moments (representing the heterogeneity) in the distribution of secondary infections.",
+        "Other effective measures include One health approach, implementation of effective prevention and control strategies, rapid communication and networking, and exploring advances in science and technology for developing rapid and confirmatory diagnostics, enhancing disease surveillance and monitoring, implementation of strict biosecurity measures, and timely efforts toward designing appropriate and effective vaccines and therapeutics (Cheng et al. 2020; Cohen 2020; Cyranoski 2020; Lu 2020; Munjal et al. 2017; Singh et al. 2017) .",
+        "Progress has been facilitated by: 1) application of principles of reliability science (in which failures to adhere to best practice are regarded as 'defects' in care); 2) development of concise 'bundles' of evidence-based practices (culled from exhaustive and somewhat cumbersome guidelines); 3) application of an 'execution framework' (including clear aims supported by leadership, multi-disciplinary teams employing quality improvement methods at the bedside in clinical microsystems, clear measures of outcomes and success, and a parsimonious set of 'drivers' required to achieve these outcomes); and 4) advances in technology."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "8f07d14b2b470c80d8f88f54fb5cb0c72e5e7ecd",
+          "cord_uid": "39vjafky",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1469-0691.2008.02006.x",
+          "publish_time": "2008-05-31",
+          "section": "body",
+          "sentence": "Progress has been facilitated by: 1) application of principles of reliability science (in which failures to adhere to best practice are regarded as \"defects\" in care); 2) development of concise \"bundles\" of evidence-based practices (culled from exhaustive and somewhat cumbersome guidelines); 3) application of an \"execution framework\" (including clear aims supported by leadership, multi-disciplinary teams employing quality improvement methods at the bedside in clinical microsystems, clear measures of outcomes and success, and a parsimonious set of \"drivers\" required to achieve these outcomes); and 4) advances in technology."
+        },
+        {
+          "paper_id": "8b6f8c93695fbc49950229c48b4ced5abbb7d8dc",
+          "cord_uid": "01a8er2v",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-012374410-4.00706-8",
+          "publish_time": "2008-12-31",
+          "section": "abstract",
+          "sentence": "Evaluation of other candidate EIAV vaccines (live-attenuated, inactivated whole virus, subunit vaccines, synthetic peptides, etc.) under experimental conditions has revealed a spectrum of vaccine efficacy that ranges from 'sterile protection' (prevention of infection upon inoculation with EIAV) to severe elevation of EIAVreplication, and exacerbation of disease."
+        },
+        {
+          "paper_id": "8b6f8c93695fbc49950229c48b4ced5abbb7d8dc",
+          "cord_uid": "01a8er2v",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-012374410-4.00706-8",
+          "publish_time": "2008-12-31",
+          "section": "body",
+          "sentence": "Evaluation of other candidate EIAV vaccines (live-attenuated, inactivated whole virus, subunit vaccines, synthetic peptides, etc.) under experimental conditions has revealed a spectrum of vaccine efficacy that ranges from 'sterile protection' (prevention of infection upon inoculation with EIAV) to severe elevation of EIAVreplication, and exacerbation of disease."
+        },
+        {
+          "paper_id": "c40321fcc587dbd862f1b7587412f81675ac5cff",
+          "cord_uid": "y0l943xg",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-323-35761-6.00079-1",
+          "publish_time": "2018-12-31",
+          "section": "body",
+          "sentence": "The general considerations for clinical studies to support licensure of a vaccine include demonstration of safety, efficacy (immunogenicity may be sufficient in some cases), and evaluation of simultaneous administration with other licensed vaccines."
+        },
+        {
+          "paper_id": "1ddf28f6c2bc0a7db607b0771748e34fb6659f51",
+          "cord_uid": "hq4jb2wy",
+          "source": "CZI",
+          "url": "https://doi.org/10.3389/fmicb.2020.00298",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "It is prospected that more structureguided novel strategies will be developed to improve the overall immunogenicity and efficacy of subunit vaccines against emerging pathogenic human coronaviruses, including those targeting SARS-CoV and MERS-CoV."
+        },
+        {
+          "paper_id": "0ca37bab69a36bb3e75f030e6063b1b38a3cf3ab",
+          "cord_uid": "4bt6hq3x",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.hlpt.2020.02.003",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "Expected further and new therapeutic approaches -many with ethical challenges -include biosimilars, more precision medicines with companion diagnostics [12] , regenerative medicine, gene editing, more advanced microsurgery and robotics, therapeutic radiology and new devices for managing diabetes mellitus, pain control, heart disease and many other conditions."
+        },
+        {
+          "paper_id": "ead6fda7cdb2bb2469ff48365833bd63d0b7dd1a",
+          "cord_uid": "lgphvgar",
+          "source": "CZI",
+          "url": "https://doi.org/10.3390/jcm9020462",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "To examine the possible impact of enhanced interventions on disease infections, we plotted the number of infected individuals (I(t)) and the predicted cumulative number of reported cases with varying quarantine rate q and contact rate c."
+        },
+        {
+          "paper_id": "1ddf28f6c2bc0a7db607b0771748e34fb6659f51",
+          "cord_uid": "hq4jb2wy",
+          "source": "CZI",
+          "url": "https://doi.org/10.3389/fmicb.2020.00298",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Taken together, the approaches and strategies in the development of subunit vaccines against SARS and MERS described in this review will provide important information for the rapid design and development of safe and effective subunit vaccines against 2019-nCoV infection."
+        },
+        {
+          "paper_id": "4e2bc97a6164191ba3d53abfa49ccd973aa80326",
+          "cord_uid": "j0ufth5d",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.19.20025296",
+          "publish_time": "2020-02-23",
+          "section": "body",
+          "sentence": "Multivariate logistic regression with forward stepwise selection based on likelihood ratio was used to identify the risk factors for development of severe NCP, and sensitivity analysis was performed according to the source of infection."
+        },
+        {
+          "paper_id": "9484af8bce6df5d0a9912a686e44a1db4a381635",
+          "cord_uid": "7tscp04v",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5583508/",
+          "publish_time": "2017-08-29",
+          "section": "body",
+          "sentence": "Together with studies confirming the immune correlates of protection from Ebola virus disease, this could ultimately lead to future studies testing IP-10 as an adjuvant for prophylactic vaccines."
+        },
+        {
+          "paper_id": "1cf4faa405e1bd03ac04596491a0261cfdd68449",
+          "cord_uid": "p2rhqdem",
+          "source": "PMC",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6668225/",
+          "publish_time": "2019-01-29",
+          "section": "body",
+          "sentence": "The published literature has been supplemented by multiple additional studies, largely aimed at determining the immune correlate(s) of protection which may then be bridged to human immune responses elicited by the rVSVDG-ZEBOV-GP vaccine."
+        },
+        {
+          "paper_id": "c40321fcc587dbd862f1b7587412f81675ac5cff",
+          "cord_uid": "y0l943xg",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-323-35761-6.00079-1",
+          "publish_time": "2018-12-31",
+          "section": "body",
+          "sentence": "In parallel to these efforts, NIH and vaccine manufacturers initiated clinical trials to determine the optimal vaccine dosage and number of doses needed to induce a protective immune response against pandemic 2009 H1N1 virus."
+        },
+        {
+          "paper_id": "18718a50df53a9c27fbdf34bbe30a90bcfd151ad",
+          "cord_uid": "s2q6g91b",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s2173-5727(11)70030-3",
+          "publish_time": "2011-12-31",
+          "section": "body",
+          "sentence": "They likewise underscored the importance of clinical management: how improvements in the care processes, based on quality programs, and concern over safety, can be as important for improving the patient prognosis as the use of certain treatment interventions."
+        },
+        {
+          "paper_id": "a0327c89dd46ce06ec8e979ddbad8c7b9c32660b",
+          "cord_uid": "scc9wee0",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1473-3099(20)30196-1",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "Our findings showing correlation between antibody level detected by EIA and virus neutralisation titre are especially important for design of vaccine studies, and use of convalescent plasma or therapeutic monoclonal antibodies, which could improve clinical outcome or paradoxically cause immuno pathological damage to the recipient."
+        },
+        {
+          "paper_id": "1ddf28f6c2bc0a7db607b0771748e34fb6659f51",
+          "cord_uid": "hq4jb2wy",
+          "source": "CZI",
+          "url": "https://doi.org/10.3389/fmicb.2020.00298",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "Therefore, more studies are needed to elucidate the potential for the development of MERS-CoV full-length S-based subunit vaccines, including understanding their protective efficacy and identifying possible harmful immune responses."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Rapid assessment of the likely efficacy of school closures, travel bans, bans on mass gatherings of various sizes, and other social distancing approaches.",
+      "seed_sentences": [
+        "Incorporating social mixing patterns in different contexts and at different times of the week (weekend vs weekday) into mathematical models, it is possible to evaluate the potential effectiveness of a range of control measures targeting respiratory infections, including school closures [4, 14] and social distancing [11] .",
+        "Mathematical models can help us understand how SARS-CoV-2 would spread across the population and inform control measures that may mitigate future transmission. 24, 25 Here, we simulated the trajectory of the ongoing outbreak of COVID-19 in Wuhan, using an age-structured SEIR model. 17, 18 Because individuals' mixing patterns are non-random, they influence the transmission dynamics of the disease. 11 Models assessing the effectiveness of social distancing interventions, such as school closure, need to account for social structures and heterogeneities in mixing of individuals.",
+        "In a systematic review, focused on influenza and school closures, Jackson et al. find some evidence that school closures are effective, but that the empirical evidence does not resolve how or when to close schools. 4 Furthermore, they find school closure mostly reduces infection in school children."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "6445688d3f59cb7e02f2a8b28450cdf118a8a373",
+          "cord_uid": "fugb778l",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.16.20023754",
+          "publish_time": "2020-02-19",
+          "section": "body",
+          "sentence": "Incorporating social mixing patterns in different contexts and at different times of the week (weekend vs weekday) into mathematical models, it is possible to evaluate the potential effectiveness of a range of control measures targeting respiratory infections, including school closures [4, 14] and social distancing [11] ."
+        },
+        {
+          "paper_id": "14220553c9160c06bb99f59d59e6a8ecf3595226",
+          "cord_uid": "98jz8tox",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033415",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "In a systematic review, focused on influenza and school closures, Jackson et al. find some evidence that school closures are effective, but that the empirical evidence does not resolve how or when to close schools. 4 Furthermore, they find school closure mostly reduces infection in school children."
+        },
+        {
+          "paper_id": "0a27cb2cd52229472fcfc3e49d3a3cb7179867e4",
+          "cord_uid": "y8o5j2be",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20039107",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Based on those findings, we develop a mathematical transmission model to disentangle how transmission is affected by age differences in the biology of COVID-19 infection and disease, and altered mixing patterns due to social distancing."
+        },
+        {
+          "paper_id": "14220553c9160c06bb99f59d59e6a8ecf3595226",
+          "cord_uid": "98jz8tox",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033415",
+          "publish_time": "2020-03-13",
+          "section": "abstract",
+          "sentence": "The evidence that mandatory school closures reduce cases and ultimately mortality mostly comes from experience with influenza or from models that do not include the impact of school closure on the healthcare labor supply or the role of the healthcare labor force in reducing the per infection mortality from the pathogen."
+        },
+        {
+          "paper_id": "d83f238ec5aeaf6f08d20c4416c1ca9f631f698e",
+          "cord_uid": "4kzv06e6",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.19.20039404",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "[1] [2] [3] Although school closures are known to reduce transmission, previous works have suggested that school closures could have downstream consequences on the healthcare system such as healthcare worker absenteeism. 4, 5 However, lack of granular, high-resolution data has restrained previous studies to providing estimates based on national data with strong assumptions, underscoring the need for more detailed analysis. 3 Newly available demographic and occupational data from the American Community Survey permits county-level scenario analyses of school closures with respect to healthcare worker absenteeism across the United States for the first time."
+        },
+        {
+          "paper_id": "43064e9a5b81ad1ac0743c818cda48383c246c95",
+          "cord_uid": "ueb7mjnv",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/s2214-109x(20)30074-7",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "We assessed the ability of isolation and contact tracing to control disease outbreaks in areas without widespread transmission using a mathematical model. 6, [15] [16] [17] By varying the efficacy of contact-tracing efforts, the size of the outbreak when detected, and the promptness of isolation after symptom onset, we show how viable it is for countries at risk of imported cases to use contact tracing and isolation as a containment strategy."
+        },
+        {
+          "paper_id": "a14b5655cb13ed64cb8cff7c806a7b58c858b8b7",
+          "cord_uid": "ueb7mjnv",
+          "source": "CZI",
+          "url": "https://doi.org/10.1016/s2214-109x(20)30074-7",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "We assessed the ability of isolation and contact tracing to control disease outbreaks in areas without widespread transmission using a mathematical model. 6, [15] [16] [17] By varying the efficacy of contact-tracing efforts, the size of the outbreak when detected, and the promptness of isolation after symptom onset, we show how viable it is for countries at risk of imported cases to use contact tracing and isolation as a containment strategy."
+        },
+        {
+          "paper_id": "871a4524f272de0abe395fbf5788eaf31068783c",
+          "cord_uid": "706bf8qr",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ypmed.2012.04.009",
+          "publish_time": "2012-06-30",
+          "section": "body",
+          "sentence": "These studies suggest, but not conclusively, that information results in a reduction both in school absence and cases of influenza."
+        },
+        {
+          "paper_id": "14220553c9160c06bb99f59d59e6a8ecf3595226",
+          "cord_uid": "98jz8tox",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033415",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "However, the evidence that the potential transmission reduction benefits of mandatory school closures exceed the costs of potentially imposing greater child care obligations on healthcare workers, thereby reducing the healthcare workforce, is not overwhelming."
+        },
+        {
+          "paper_id": "81f08d610ed4c61197c816bdbe5f23b14670dd47",
+          "cord_uid": "fn9b7adi",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033050",
+          "publish_time": "2020-03-12",
+          "section": "body",
+          "sentence": "Mathematical models can help us understand how SARS-CoV-2 would spread across the population and inform control measures that may mitigate future transmission. 24, 25 Here, we simulated the trajectory of the ongoing outbreak of COVID-19 in Wuhan, using an age-structured SEIR model. 17, 18 Because individuals' mixing patterns are non-random, they influence the transmission dynamics of the disease. 11 Models assessing the effectiveness of social distancing interventions, such as school closure, need to account for social structures and heterogeneities in mixing of individuals."
+        },
+        {
+          "paper_id": "90a3cdd75c275d13fb459749b0e012a5ef877f1d",
+          "cord_uid": "o2t5f4s6",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.cmpb.2013.01.006",
+          "publish_time": "2013-06-30",
+          "section": "abstract",
+          "sentence": "The study of mathematical models for epidemics allows the evaluation of the effects of different control strategies: the scheduling of a proper vaccination campaign [3, 4] , the screening and educational campaigns [5], isolation policy [6], the resource allocation [5, 7] ."
+        },
+        {
+          "paper_id": "9c33486a49de4aea64ce61c0a2c21a88c316b6a8",
+          "cord_uid": "d4dnz2lk",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.03.20030627",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "By considering mixing patterns at different locations including or excluding the contribution of some of these locations, social distancing measures can be mimicked and their impact on disease spread can be investigated to potentially guide policy makers."
+        },
+        {
+          "paper_id": "9231e9d6dd98dca26e67eaf02eea8c0ad0bcce3b",
+          "cord_uid": "us7d19p5",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20037457",
+          "publish_time": "2020-03-20",
+          "section": "abstract",
+          "sentence": "Emergency school closures are often used as public health interventions during infectious disease outbreaks in an attempt to minimise the spread of infection."
+        },
+        {
+          "paper_id": "d71e87ca58f191863eb830b026910c9f4eeaa290",
+          "cord_uid": "qqsefagq",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.20040055",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "A series of modelling experiments were conducted with alternative social distancing strategies activated, giving the infection dynamics of the modelled community with a specific mitigation strategy in place."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Methods to control the spread in communities, barriers to compliance and how these vary among different populations.",
+      "seed_sentences": [
+        "Since the outbreak of COVID-19, some countries have suspended flights to and from China, and prevented Chinese people from travelling to their countries; both of these actions violate WHO International Health Regulations. 6 Similarly, in community prevention and control of the disease, the measures taken by individual villages and communities to seal off roads are of no value. 7 Such measures could result in civil unrest and reduce compliance with infection prevention and control advice.",
+        "The WHO's initial focus was on managing droplet and contact transmission, but it has since recognized the role fomites play as well. 2 Fomites are important because while populations generally protect themselves from clearly observable droplet transmissions (coughing, sneezing), being invisible, fomite transmission is regularly overlooked both in hospitals and communities. 3e5 Consequently, during the community saturation phase, fomite transmission may play a larger role than droplet transmission as a mechanism in emergent infectious diseases. 3e6 In this paper we argue that by implementing enhanced Traffic Control Bundling (eTCB), 6 an extension of the TCB deployed by Taiwan during the 2003 SARS outbreak, countries can interrupt the community-hospital-community transmission cycle, thereby limiting COVID-19's impact.",
+        "Therefore, the next stage of SARS-CoV-2 prevention and control needs to focus on the screening of asymptomatic patients in the community with a history of contact with the imported population, especially for children and the elderly."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "77efa10bbf0d22795315f61ace2dc95804d269fb",
+          "cord_uid": "gjfd1jhb",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.22.20040899",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "But as a result of the new virus infectivity, mainly for the droplet and contact transmission in close communication, the traditional face-to-face psychological crisis intervention, on the one hand, easy to cause disease is on the other hand also increases medical supplies such as isolation of a large number of consumption, are more likely to cause cross infection, and telephone psychological crisis intervention is effective to avoid the spread of the virus, but also has better timeliness."
+        },
+        {
+          "paper_id": "2cfe7a4cc1fceed0ad7ffbd6244a61e0b2c3ac8b",
+          "cord_uid": "6r6zwfoy",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.11.20020735",
+          "publish_time": "2020-02-12",
+          "section": "body",
+          "sentence": "In light of the COVID-19 outbreak in China, a shortage of facemasks and other medical resources can considerably compromise the efficacy of public health measures."
+        },
+        {
+          "paper_id": "2cfe7a4cc1fceed0ad7ffbd6244a61e0b2c3ac8b",
+          "cord_uid": "6r6zwfoy",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.11.20020735",
+          "publish_time": "2020-02-12",
+          "section": "body",
+          "sentence": "In light of the COVID-19 outbreak in China, a shortage of facemasks and other medical resources can considerably compromise the efficacy of public health measures."
+        },
+        {
+          "paper_id": "79622641e002b2574af9dc7f99d4fbbe192606e6",
+          "cord_uid": "nzat41wu",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.22.20041079",
+          "publish_time": "2020-03-24",
+          "section": "body",
+          "sentence": "Our findings agree with observational and modelling studies (2,7) that find that early implementation of strong social distancing is essential for controlling the spread of SARS-CoV-2 and that, in the absence of the development of new therapies or preventative measures, such as aggressive case finding and quarantining (13) , intermittent distancing measures may be the only way to avoid overwhelming critical care capacity while building population immunity."
+        },
+        {
+          "paper_id": "d46f697fd11f243bcc22b9a0109d6ca6e2c7503a",
+          "cord_uid": "4so0jlrx",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30553-5",
+          "publish_time": "2020-03-18",
+          "section": "body",
+          "sentence": "Another limitation is related to the method being based on a deterministic approach; therefore, proportionate or inverse interactions among variables could not be shown. 24 An effective way of managing airborne infections is applying evidence-based public health prevention strategies. 16, 17, 22 This method includes scaling up public awareness of behaviours such as hand hygiene and respiratory etiquette, communicating and engaging with local communities about the risks of the outbreak, and putting in place effective public health response measures. 17, 25, 26 National points of entry should also have the capacity to prevent, detect, and respond to potential threats in line with the IHR."
+        },
+        {
+          "paper_id": "2f8a485f1acf987c6fe46621216f436b0e351af6",
+          "cord_uid": "l5ogbl5p",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1473-3099(20)30129-8",
+          "publish_time": "2020-03-05",
+          "section": "body",
+          "sentence": "Even if our public health measures are not able to fully contain the spread of COVID19 because of the virus characteristics, they will still be effective in delaying the onset of widespread community trans mission, reducing peak incidence and its impact on public services, and decreasing the overall attack rate."
+        },
+        {
+          "paper_id": "75e68869f9b65bca661e768402395d9dede6de2c",
+          "cord_uid": "ry3m6x8c",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.27.20028639",
+          "publish_time": "2020-02-29",
+          "section": "body",
+          "sentence": "The dramatic difference between predictions from stage \u2160 and stage \u2161 data indicates the preventing measures and quarantines, such as travel restrict, are very efficient in controlling the outburst of the epidemic."
+        },
+        {
+          "paper_id": "e046a06f262d74d025272ad697d358c4afb5d9bd",
+          "cord_uid": "65plab8b",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.25.20027755",
+          "publish_time": "2020-02-27",
+          "section": "abstract",
+          "sentence": "This study shed light for optimizing scheme of screening and monitoring of SARS-CoV-2 infection. : medRxiv preprint person-to-person transmission of SARS-CoV-2 in hospital and family settings 2,6,7 ."
+        },
+        {
+          "paper_id": "a273f191de7543777eb8895b823d56ebef1d5581",
+          "cord_uid": "chln5r8w",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.ejrad.2020.108961",
+          "publish_time": "2020-03-25",
+          "section": "body",
+          "sentence": "This may be related to sample collection as pharyngeal oral and nasal sampling are easier collection methods, whereas lower respiratory tract sampling is relatively difficult to perform, with medical staff susceptible to get infected [16] ."
+        },
+        {
+          "paper_id": "ffbd51670f3a5dcf4a02696788726a3531da449b",
+          "cord_uid": "si7csqr2",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jmii.2020.03.011",
+          "publish_time": "2020-03-14",
+          "section": "abstract",
+          "sentence": "We argue that enhanced Traffic Control Bundling (eTCB) can interrupt the community-hospital-community transmission cycle, thereby limiting COVID-19's impact."
+        },
+        {
+          "paper_id": "fb5c1465c1ef8643b98a3029afa0cbb3785db454",
+          "cord_uid": "w8ch013c",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30373-1",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "Travel restrictions for these kinds of viruses have been challenged by public health researchers, [4] [5] [6] and WHO has advised against travel restrictions, arguing they cause more harm than good. 7, 8 Second, under Article 43.1 any additional health measures implemented by countries \"shall not be more restrictive of international traffic and not more invasive or intrusive to persons than reasonably available alternatives\". 1 In this case, even if travel restrictions did work, there are so many other more effective measures that countries can take to protect their citizens."
+        },
+        {
+          "paper_id": "e08ff7855eaa0c9d0bb785dcffc24e65910b7184",
+          "cord_uid": "imvbkt69",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1473-3099(04)01173-9",
+          "publish_time": "2004-11-30",
+          "section": "body",
+          "sentence": "Contingency plans developed on the basis of the experience of the SARS epidemics have rightly placed a high priority on both surveillance and contact tracing. 129, 130 Epidemiological modelling has clarified the types of diseases that can be controlled with the straightforward public measures of isolation and contact tracing. 103 More detailed modelling will be required to further clarify the potential impact of further measures, including restrictions on both short-range and long-range movements of people."
+        },
+        {
+          "paper_id": "f40eaec892778166e4f8f8eeb576893e82a591be",
+          "cord_uid": "utlponna",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.04.20031187",
+          "publish_time": "2020-03-06",
+          "section": "body",
+          "sentence": "For those regions with little people flow from the epicenter and with a population of low density, it could be possible that reinforced quarantine management without stringent social distancing could be effective enough to interrupt local transmission."
+        },
+        {
+          "paper_id": "e32a6e93ada54e9c2fc770540b077009a20228c6",
+          "cord_uid": "zi6rt49b",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s1473-3099(20)30190-0",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "However, the scale and disruptive impact of these interventions were small compared with the measures that have been implemented in China in response to COVID-19, including closure of schools, workplaces, roads, and transit systems; cancellation of public gatherings; mandatory quarantine of uninfected people without known exposure to SARS-CoV-2; and largescale electronic surveillance. 5, 6 Although these actions have been praised by WHO, 5 the possibility of imposing similar measures in other countries raises important questions."
+        },
+        {
+          "paper_id": "37e17a2bab698f8850dc89f7689eda93502821fb",
+          "cord_uid": "jdlt0xcj",
+          "source": "CZI",
+          "url": "https://doi.org/10.2807/1560-7917.es.2020.25.6.2000094",
+          "publish_time": "2020",
+          "section": "body",
+          "sentence": "The objective of the surveillance is to identify imported cases early and to prevent secondary transmission whether in the community or among healthcare workers (HCW)."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Models of potential interventions to predict costs and benefits that take account of such factors as race, income, disability, age, geographic location, immigration status, housing status, employment status, and health insurance status.",
+      "seed_sentences": [
+        "Ratio from aggregate case data Assuming homogeneous attack rates across the different age groups, the demographic distribution of cases by age across each location should broadly match the demography of the populations in Wuhan and across the rest of China.",
+        "The model was developed using detailed census, workplace and mobility data using a model development methodology applied previously.11 Such models create realistic representations of the respective communities at an individual-byindividual level using the best available data sources, including from the Australian Bureau of Statistics (ABS).16 The Newcastle model represents 272,409 people in an urban area with a population which is representative of the Australian population as a whole, in terms of age distribution.",
+        "Demographic data included gender, age, hospital classification, years of working, departments, professional titles, undertaking management work or not, educational background, marriage status, single child or not, and fertile or not."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "4cc91ce442f6fd13456d4e51508605fbcf891ecd",
+          "cord_uid": "10n2u1b1",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033357",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Ratio from aggregate case data Assuming homogeneous attack rates across the different age groups, the demographic distribution of cases by age across each location should broadly match the demography of the populations in Wuhan and across the rest of China."
+        },
+        {
+          "paper_id": "4eca1f55ea6141d3be5280fd504dbd3585d097ab",
+          "cord_uid": "v2u96kmc",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.bbi.2020.03.007",
+          "publish_time": "2020-03-10",
+          "section": "body",
+          "sentence": "Demographic data included gender, age, hospital classification, years of working, departments, professional titles, undertaking management work or not, educational background, marriage status, and single child or not."
+        },
+        {
+          "paper_id": "4cc91ce442f6fd13456d4e51508605fbcf891ecd",
+          "cord_uid": "10n2u1b1",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033357",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "Observed cases are adjusted assuming homogeneous attack rates across age groups and a demographic agedistribution representative of China, assuming perfect case ascertainment in the 50-59 year old age group outside of Wuhan where there were the highest levels of case reporting relative to population size (see above)."
+        },
+        {
+          "paper_id": "4cc91ce442f6fd13456d4e51508605fbcf891ecd",
+          "cord_uid": "10n2u1b1",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033357",
+          "publish_time": "2020-03-13",
+          "section": "abstract",
+          "sentence": "We next obtained age-stratified estimates of the CFR by relating the aggregate distribution of cases by dates of onset to the observed cumulative deaths in China, assuming a constant attack rate by age and adjusting for the demography of the population, and age-and location-based underascertainment."
+        },
+        {
+          "paper_id": "4cc91ce442f6fd13456d4e51508605fbcf891ecd",
+          "cord_uid": "10n2u1b1",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033357",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "In order to account for these disparities, we adjust the observed cases across both locations (inside Wuhan and outside Wuhan) to produce age-distributions of cases that matches China's demography."
+        },
+        {
+          "paper_id": "4cc91ce442f6fd13456d4e51508605fbcf891ecd",
+          "cord_uid": "10n2u1b1",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.09.20033357",
+          "publish_time": "2020-03-13",
+          "section": "body",
+          "sentence": "We then adjust cases in the other age-groups to produce identical attack rates, so that for Outside Wuhan: ."
+        },
+        {
+          "paper_id": "c12a11fa9c5fdff0bf85a9f0111c64d6dffe8d26",
+          "cord_uid": "cgcvfftf",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1470-9465.2006.12_4_1426.x",
+          "publish_time": "2006-12-31",
+          "section": "body",
+          "sentence": "Data collected included gender, age, ward type, duration of hospitalization, number of hospital days before infection, infection site, invasive procedures, underlying diseases and outcome."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Policy changes necessary to enable the compliance of individuals with limited resources and the underserved with NPIs.",
+      "seed_sentences": [
+        "Social distancing policies may themselves influence the background mortality risks, as people may be less likely to access health and social care, and because social isolation has in many previous studies been shown to be associated with the onset and progression of cardiovascular and other diseases (34) .",
+        "A key measurable goal for the success of health policy is assessing Universal Health Coverage, including access to effective and safe medicines and other health targets within the UN's Sustainable Development Goals."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "0ca37bab69a36bb3e75f030e6063b1b38a3cf3ab",
+          "cord_uid": "4bt6hq3x",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.hlpt.2020.02.003",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "A key measurable goal for the success of health policy is assessing Universal Health Coverage, including access to effective and safe medicines and other health targets within the UN's Sustainable Development Goals."
+        },
+        {
+          "paper_id": "f107ae357b97e66f3fb9c0efb80858dc5f257272",
+          "cord_uid": "8h3twtbe",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-407785-0.00025-6",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "The transition from innovation in the health system to the promotion of health is a prerequisite for ensuring the long-term supply of health services on an equal basis and with equal distribution of all produced results."
+        },
+        {
+          "paper_id": "f107ae357b97e66f3fb9c0efb80858dc5f257272",
+          "cord_uid": "8h3twtbe",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-407785-0.00025-6",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "It is therefore an obvious necessity to provide health-care services, a necessity that creates the principle of universal coverage of the population in an inclusive society that makes sure it is covered."
+        },
+        {
+          "paper_id": "f107ae357b97e66f3fb9c0efb80858dc5f257272",
+          "cord_uid": "8h3twtbe",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-407785-0.00025-6",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "The fundamental principle of health policies lies in the documented argument that the principal objective of health policies is not solely to improve a health system but primarily to improve the state of health of the population. 1 The success of the guidelines of health policies is an essential prerequisite for the control of health-care spending, for the improvement of satisfaction of health services consumers, and for greater work output due to an increase in productivity from the application of innovation and planning at all operating levels of the health system."
+        },
+        {
+          "paper_id": "0ca37bab69a36bb3e75f030e6063b1b38a3cf3ab",
+          "cord_uid": "4bt6hq3x",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.hlpt.2020.02.003",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "These considerations are vital to ensure effective and sustainable development and delivery of health policy and technology over the next decade and beyond."
+        },
+        {
+          "paper_id": "f107ae357b97e66f3fb9c0efb80858dc5f257272",
+          "cord_uid": "8h3twtbe",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-407785-0.00025-6",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "Accessibility: The health system should be accessible to all citizens, should offer and distribute in an equitable way health-care services and goods to ensure the basic human rights such as the fundamental right to life, and at the same time prevent the external adverse effects such as the spread of diseases."
+        },
+        {
+          "paper_id": "f107ae357b97e66f3fb9c0efb80858dc5f257272",
+          "cord_uid": "8h3twtbe",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-407785-0.00025-6",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "It has been found that the way by which we cover health needs, the speed of the offered services, the specialized scientific skills, and organizational-administrative innovation in the health system receives considerable contribution from health education, from primary care all the way to tertiary therapeutic intervention aiming at preventing the disease or at achieving full therapeutic rehabilitation."
+        },
+        {
+          "paper_id": "0ca37bab69a36bb3e75f030e6063b1b38a3cf3ab",
+          "cord_uid": "4bt6hq3x",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.hlpt.2020.02.003",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "Ensuring that all countries have sustainable and widely accessible health resources is vital to achieving Universal Health Coverage: ie provision of health services for all when needed without suffering undue financial hardship [8] ."
+        },
+        {
+          "paper_id": "0ca37bab69a36bb3e75f030e6063b1b38a3cf3ab",
+          "cord_uid": "4bt6hq3x",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.hlpt.2020.02.003",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "The United Nations Sustainable Development Goals [3] aim for fair and sustainable health at every level globally: from protecting the planet to achieving long-term health, peace and prosperity in local communities."
+        },
+        {
+          "paper_id": "0ca37bab69a36bb3e75f030e6063b1b38a3cf3ab",
+          "cord_uid": "4bt6hq3x",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.hlpt.2020.02.003",
+          "publish_time": "2020-03-31",
+          "section": "body",
+          "sentence": "These goals have important public health implications and require coordinated national and international action on economic, environmental and social development."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Research on why people fail to comply with public health advice, even if they want to do so (e.g., social or financial costs may be too high).",
+      "seed_sentences": [
+        "Socio-economic differences may well be the reason for this: Ushuaia has one of the lowest poverty rates in the country, whereas Jujuy has one of the highest.",
+        "Individuals of lower socioeconomic status are more likely to find themselves in a dilemma between the need to work in high-risk locations and the lack of protective equipment.",
+        "The negative socio-economic impacts dictate that the community-level interventions can only last a finite amount of time."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "9231e9d6dd98dca26e67eaf02eea8c0ad0bcce3b",
+          "cord_uid": "us7d19p5",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.17.20037457",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "Socio-economic differences may well be the reason for this: Ushuaia has one of the lowest poverty rates in the country, whereas Jujuy has one of the highest."
+        },
+        {
+          "paper_id": "2cfe7a4cc1fceed0ad7ffbd6244a61e0b2c3ac8b",
+          "cord_uid": "6r6zwfoy",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.02.11.20020735",
+          "publish_time": "2020-02-12",
+          "section": "body",
+          "sentence": "Individuals of lower socioeconomic status are more likely to find themselves in a dilemma between the need to work in high-risk locations and the lack of protective equipment."
+        },
+        {
+          "paper_id": "daf921c99706615ed471003c6f859fa602f3771f",
+          "cord_uid": "xg2cmug7",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-802396-9.00002-5",
+          "publish_time": "2016-12-31",
+          "section": "body",
+          "sentence": "For example, employees may be unwilling to work certain shifts because they feel unsafe at or near the workplace."
+        },
+        {
+          "paper_id": "7ba04e4cbbdfdb584fc2d10a2dcc8155f19c2a5f",
+          "cord_uid": "r79doruj",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s2215-0366(20)30078-x",
+          "publish_time": "2020-02-19",
+          "section": "body",
+          "sentence": "Additionally, staff worried about the shortage of protective equipment and feelings of incapability when faced with critically ill patients."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "Research on the economic impact of this or any pandemic.",
+      "seed_sentences": [
+        "It had allocated \u20ac2800 million to all regions for health services and created a new fund with \u20ac1000 million for priority health interventions. 4 However, these amounts need to be seen against the background of almost a decade of austerity from which the health system has yet to recover. 5 Third, in service delivery, the national Ministry of Health has developed a set of clinical protocols, published on its website.",
+        "In addition to the thousands of lives lost, the economic costs of these outbreaks are estimated as $671 million, $40 billion, and $2.2 billion, respectively (5) (6) (7) (8) .",
+        "In 2006, Dr. Larry Brilliant stated that 90% of the epidemiologists in his confidence agreed that there would be a large influenza pandemic within two generations, in which 1 billion people would sicken, 165 million would die, and the global economy would lose $1 to $3 trillion (11) (see Supplementary Materials for further discussion)."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "4919d5781ff33b7e946a7b24bb0068c340709b7b",
+          "cord_uid": "ptgpxpad",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.20.20039966",
+          "publish_time": "2020-03-23",
+          "section": "body",
+          "sentence": "In 2006, Dr. Larry Brilliant stated that 90% of the epidemiologists in his confidence agreed that there would be a large influenza pandemic within two generations, in which 1 billion people would sicken, 165 million would die, and the global economy would lose $1 to $3 trillion (11) (see Supplementary Materials for further discussion)."
+        }
+      ]
+    },
+    {
+      "sub_task_description": "This would include identifying policy and programmatic alternatives that lessen/mitigate risks to critical government services, food distribution and supplies, access to critical household supplies, and access to health diagnoses, treatment, and needed care, regardless of ability to pay.",
+      "seed_sentences": [
+        "There are also significant resource implications not just in terms of PPE use but predominantly in terms of the time required to don and doff PPE for every care interaction from bringing food to routine observations to clinical review.",
+        "Social planning and health policy explore, on the one hand, the type and quantity of health services and goods needed by the population and on the other, the human, material, and financial resources, i.e., the necessary inputs for the system to operate as well as the outputs and outcomes.",
+        "It is necessary to implement a community-based comprehensive intervention, which requires support from national polices, to ensure the availability of medical resources, such as essential drugs, equipment, and human resources, and to improve the affordability of COPD therapy for patients."
+      ],
+      "relevant_sentences": [
+        {
+          "paper_id": "f107ae357b97e66f3fb9c0efb80858dc5f257272",
+          "cord_uid": "8h3twtbe",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-407785-0.00025-6",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "Social planning and health policy explore, on the one hand, the type and quantity of health services and goods needed by the population and on the other, the human, material, and financial resources, i.e., the necessary inputs for the system to operate as well as the outputs and outcomes."
+        },
+        {
+          "paper_id": "9cd6628012c0dcc7ea502d846e138d3bf8170b55",
+          "cord_uid": "j13lhuoy",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1378/chest.12-1854",
+          "publish_time": "2013-06-30",
+          "section": "body",
+          "sentence": "Community-based comprehensive intervention should be implemented to ensure the availability of medical resources, such as essential drugs, equipment, and human resources."
+        },
+        {
+          "paper_id": "f107ae357b97e66f3fb9c0efb80858dc5f257272",
+          "cord_uid": "8h3twtbe",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-407785-0.00025-6",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "Health planning and policy seek to create a group of mutually interacting bodies to produce goods and services to meet the health needs of a population."
+        },
+        {
+          "paper_id": "f107ae357b97e66f3fb9c0efb80858dc5f257272",
+          "cord_uid": "8h3twtbe",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-407785-0.00025-6",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "The common condition of coverage of health needs under the restriction of the scarcity of financial resources brings forth the theoretical interest regarding the classification of priorities and choices, both for the design of a system for the prevention, preservation, and promotion of health and for other fiscal intervention policies in various areas of socioeconomic activity of individuals."
+        },
+        {
+          "paper_id": "f280533ae44db01953e035d6703b24083343b5d5",
+          "cord_uid": "0be4wta5",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.jhin.2020.02.023",
+          "publish_time": "2020-03-05",
+          "section": "body",
+          "sentence": "Health system capacity factors include the availability of treatment or vaccine, and the level of resources (both human, material, and financial) available for allocation."
+        },
+        {
+          "paper_id": "4b198a136ae3666ddd590299150ad7498d7e0130",
+          "cord_uid": "vov6o1jx",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/j.respe.2017.08.001",
+          "publish_time": "2018-02-28",
+          "section": "body",
+          "sentence": "Establishing health policies to optimize the case reporting system is thus critical."
+        },
+        {
+          "paper_id": "f107ae357b97e66f3fb9c0efb80858dc5f257272",
+          "cord_uid": "8h3twtbe",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-407785-0.00025-6",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "The actual numbers regarding health-care needs, the severity of diseases, the degree of external adverse effects, and the financial resources available determine the hierarchy of options in combination with the analysis of the factors as mentioned above."
+        },
+        {
+          "paper_id": "f107ae357b97e66f3fb9c0efb80858dc5f257272",
+          "cord_uid": "8h3twtbe",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-407785-0.00025-6",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "Actions and measures to achieve the objectives of health policy: Readiness-early warning, coordination of services-public health centers of response to emergencies, development of a specialized information system for collecting and analyzing data."
+        },
+        {
+          "paper_id": "f107ae357b97e66f3fb9c0efb80858dc5f257272",
+          "cord_uid": "8h3twtbe",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-407785-0.00025-6",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "Then it must integrate within the framework of analysis all developments in technology and medical science, to investigate and determine the resulting health needs of the population taking into account socioeconomic, cultural, and environmental factors and health determinants."
+        },
+        {
+          "paper_id": "0f07a76e45660e547af8810c54b34767cba86a16",
+          "cord_uid": "7hvbbq15",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/s0140-6736(20)30411-6",
+          "publish_time": "2020-03-20",
+          "section": "body",
+          "sentence": "These measures include heightened surveillance and rapid identification of suspected cases, followed by patient transfer and isolation, rapid diagnosis, tracing, and follow-up of potential contacts. 1 The application of such a vast technical and operational set of interventions depends on each country's public health and laboratory infrastructures and resources."
+        },
+        {
+          "paper_id": "f107ae357b97e66f3fb9c0efb80858dc5f257272",
+          "cord_uid": "8h3twtbe",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-407785-0.00025-6",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "The investigation of the state of health of citizens often coincides with the field of health planning and policy because it tries to determine the qualitative and quantitative characteristics of the output of these goods and services."
+        },
+        {
+          "paper_id": "33a6aa86bb6fe30251d7f2c1f64c5b7a94c391a0",
+          "cord_uid": "ffm5fww3",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.10.20033795",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "Ideally, this vulnerable group should be monitored regularly at community-based medical centers in situations when resources are available."
+        },
+        {
+          "paper_id": "8f07d14b2b470c80d8f88f54fb5cb0c72e5e7ecd",
+          "cord_uid": "39vjafky",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1111/j.1469-0691.2008.02006.x",
+          "publish_time": "2008-05-31",
+          "section": "body",
+          "sentence": "Overall and class-specific rates of consumption were described by the Health Service Delivery Area geography."
+        },
+        {
+          "paper_id": "f107ae357b97e66f3fb9c0efb80858dc5f257272",
+          "cord_uid": "8h3twtbe",
+          "source": "Elsevier",
+          "url": "https://doi.org/10.1016/b978-0-12-407785-0.00025-6",
+          "publish_time": "2015-12-31",
+          "section": "body",
+          "sentence": "Because health is presented in modern economic relationships of markets both as a public and as a private consumer good, access to it sometimes depends on: (1) the level of income of citizens; (2) the magnitude of the risk and the nature and the severity of the disease, i.e., the size of the resulting expense; (3) the availability of health services in some areas; (4) the nature of human mobility due to age or disability in conjunction with formal or informal social or family structures; and (5) the type of insurance coverage."
+        },
+        {
+          "paper_id": "179df1e769292dd113cef1b54b0b43213e6b5c97",
+          "cord_uid": "vof63qat",
+          "source": "medrxiv",
+          "url": "https://doi.org/10.1101/2020.03.15.20035360",
+          "publish_time": "2020-03-16",
+          "section": "body",
+          "sentence": "This will aid clinical assessment, risk stratification, and resource allocation, and allow public health interventions to be targeted at the most vulnerable."
+        }
+      ]
+    }
+  ]
+}
