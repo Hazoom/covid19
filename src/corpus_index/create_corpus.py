@@ -5,7 +5,6 @@ import time
 import numpy as np
 import pandas as pd
 
-from config import data_dir
 from corpus_index.nmslib_index import NMSLibCorpusIndex
 from encoders import get_encoder
 from utils.data_utils import svd_components
@@ -70,7 +69,7 @@ def parse_arguments():
 
     parser.add_argument('--encoder',
                         default='simple_encoder',
-                        choices=['simple_encoder', 'use_encoder'],
+                        choices=['simple_encoder', 'bert_encoder'],
                         help="Sentence encoder.")
 
     parser.add_argument('--remove-components',
@@ -87,7 +86,6 @@ def parse_arguments():
                         help="Path to a file with sentence ids.")
 
     parser.add_argument('--output-dir',
-                        default=data_dir,
                         help="Path to a directory where model will be saved.")
 
     options = parser.parse_args()
@@ -104,7 +102,10 @@ if __name__ == '__main__':
 
     print('-I- Loading sentences from CSV files')
 
-    cleaned_sentences = pd.read_csv(args.corpus_file, index_col=0)['cleaned_sentence'].values
+    if args.encoder == "bert_encoder":
+        cleaned_sentences = pd.read_csv(args.corpus_file, index_col=0)['sentence'].values
+    else:
+        cleaned_sentences = pd.read_csv(args.corpus_file, index_col=0)['cleaned_sentence'].values
 
     print(f'-I- Encoding {cleaned_sentences.shape[0]} sentences')
     embed_sentences(cleaned_sentences, args)

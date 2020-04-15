@@ -290,6 +290,9 @@ def build_csv(metadata: str,
 
     all_df.fillna("", inplace=True)
 
+    # filter out short sentences
+    all_df = all_df[all_df['cleaned_sentence'].apply(lambda sent: len(sent.split()) >= 5)]
+
     print(f'All files DataFrame shape: {all_df.shape}')
 
     print(f'Writing CSV file to: {output}')

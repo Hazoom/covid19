@@ -19,6 +19,7 @@ networkx = "*"
 falcon = "*"
 s3fs = "*"
 sqlalchemy = "*"
+sentence-transformers = "*"
 
 [requires]
 python_version = "3.6"

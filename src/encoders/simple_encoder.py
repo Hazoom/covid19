@@ -150,6 +150,24 @@ class SimpleEncoder:
         return encoder
 
     @classmethod
+    def load(cls, w2v_path, word_count_path, principal_components_path=None):
+        """Initialize an instance of `cls`.
+
+        Returns:
+            SimpleEncoder
+        """
+        encoder = cls.from_w2v(w2v_path,
+                               tokenizer=lambda s: s.split(),
+                               preprocessor=lambda s: s)
+
+        encoder.load_word_counts(word_count_path)
+
+        if principal_components_path:
+            encoder.load_components(principal_components_path)
+
+        return encoder
+
+    @classmethod
     def from_w2v(cls, w2v_path, **init_kwargs):
         """Create a sentence encoder from word embeddings saved to disk.
 
